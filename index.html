@@ -206,7 +206,8 @@
   /* ===== TEAM ===== */
   .team-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 28px; }
   .team-card { background: var(--white); box-shadow: 0 2px 10px rgba(0,0,0,0.06); overflow: hidden; }
-  .team-photo { height: 180px; background: linear-gradient(135deg, var(--navy-light), var(--navy)); display: flex; align-items: center; justify-content: center; }
+  .team-photo { height: 220px; background: linear-gradient(135deg, var(--navy-light), var(--navy)); overflow: hidden; position: relative; }
+  .team-photo img { width: 100%; height: 100%; object-fit: cover; object-position: center 15%; display: block; }
   .team-photo-placeholder { width: 80px; height: 80px; border-radius: 50%; background: rgba(42,157,143,0.3); display: flex; align-items: center; justify-content: center; color: var(--accent); font-size: 1.8rem; }
   .team-info { padding: 20px; }
   .team-info h3 { font-size: 0.95rem; color: var(--navy); margin-bottom: 4px; }
@@ -451,7 +452,7 @@
       <h3>The core enabling technology</h3>
       <p>We investigate open-source computational frameworks that fuse reduced-order models with high-fidelity data streams using Hierarchical Bayesian Inference. The approach integrates component mode synthesis, Kriging, and Principal Component Analysis to handle heterogeneous data from simulations and experiments.</p>
       <p>Target applications include fracture mechanics in architected materials, multiphysics problems in piezoelectric systems, and nonlinear dynamic analysis of assembled structures.</p>
-      <img src="https://elguaraira-ui.github.io/lab-website/images/pillar1.jpg" alt="Multi-fidelity modeling framework" style="width:100%;margin-top:20px;border-radius:4px;border:1px solid #e8e8e8;">
+      <img src="https://elguaraira-ui.github.io/lab-website/images/pillar1.jpg" alt="Multi-fidelity modeling framework" style="display:block;width:40%;margin:20px auto;border-radius:4px;border:1px solid #e8e8e8;background:#fff;">
       <div class="industry-note"><strong>Industry relevance:</strong> When your simulation takes days to run, surrogate models let you explore thousands of design variants in minutes — without sacrificing accuracy.</div>
     </div>
   </div>
@@ -466,7 +467,7 @@
       <h3>Predicting failure before it happens</h3>
       <p>Multilayered composite ceramics power both thermal protection systems for hypersonic vehicles and high-performance piezoelectric devices. Predicting their failure under cyclic loads is challenging because of stochastic microstructural defects — voids, micro-cracks, manufacturing variability.</p>
       <p>We study multiscale UQ frameworks that integrate Digital Image Correlation (DIC) data with damage mechanics models to derive macroscale degradation laws from microscopic observations.</p>
-      <img src="https://elguaraira-ui.github.io/lab-website/images/pillar2.jpg" alt="DIC fracture mechanics analysis" style="width:100%;margin-top:20px;border-radius:4px;">
+      <img src="https://elguaraira-ui.github.io/lab-website/images/pillar2.jpg" alt="DIC fracture mechanics analysis" style="display:block;width:40%;margin:20px auto;border-radius:4px;">
       <div class="industry-note"><strong>Industry relevance:</strong> Know when your components will fail — not after they do. Our models give you probabilistic life estimates, not just safety factors.</div>
     </div>
   </div>
@@ -481,9 +482,9 @@
       <h3>Designing structures that control vibration</h3>
       <p>Mechanical metamaterials are periodic structures with dynamic properties that no conventional material possesses — they can block specific frequency bands, redirect waves, or harvest energy from vibration. We explore how to design these structures under parametric uncertainty and scale them toward real-world applications.</p>
       <p>A parallel track investigates interlocking interfaces in assembled structures — exploring how modular joints can be engineered for vibration attenuation in full-scale civil and mechanical systems.</p>
-      <div style="display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:20px;">
-        <img src="https://elguaraira-ui.github.io/lab-website/images/pillar3a.jpg" alt="Metamaterial 3D structure" style="width:100%;border-radius:4px;">
-        <img src="https://elguaraira-ui.github.io/lab-website/images/pillar3b.jpg" alt="Metamaterial unit cells and interlocking assembly" style="width:100%;border-radius:4px;">
+      <div style="display:flex;gap:16px;margin-top:20px;justify-content:center;">
+        <img src="https://elguaraira-ui.github.io/lab-website/images/pillar3a.jpg" alt="Metamaterial 3D structure" style="width:38%;border-radius:4px;background:#fff;">
+        <img src="https://elguaraira-ui.github.io/lab-website/images/pillar3b.jpg" alt="Metamaterial unit cells and interlocking assembly" style="width:38%;border-radius:4px;background:#fff;border:1px solid #e8e8e8;">
       </div>
       <div class="industry-note"><strong>Industry relevance:</strong> If you have a vibration problem in rotating machinery, aerospace structures, or civil infrastructure — metamaterial-inspired solutions can be tuned to your specific frequency range.</div>
     </div>
@@ -534,7 +535,7 @@
     <div class="section-tag">Principal Investigator</div>
     <div class="team-grid" style="grid-template-columns: repeat(1,320px);">
       <div class="team-card">
-        <div class="team-photo"><img src="https://elguaraira-ui.github.io/lab-website/images/rafa.jpg" style="width:100%;height:100%;object-fit:cover;object-position:top;" alt="Rafael O. Ruiz"></div>
+        <div class="team-photo"><img src="https://elguaraira-ui.github.io/lab-website/images/rafa.jpg" alt="Rafael O. Ruiz"></div>
         <div class="team-info">
           <h3>Rafael O. Ruiz, Ph.D.</h3>
           <div class="role">Principal Investigator</div>
@@ -547,7 +548,7 @@
     <div class="section-tag">Graduate Students</div>
     <div class="team-grid" style="grid-template-columns: repeat(3,1fr);">
       <div class="team-card">
-        <div class="team-photo"><img src="https://elguaraira-ui.github.io/lab-website/images/jesus.jpg" style="width:100%;height:100%;object-fit:cover;object-position:top;" alt="Jesus Pereira"></div>
+        <div class="team-photo"><img src="https://elguaraira-ui.github.io/lab-website/images/jesus.jpg" alt="Jesus Pereira" style="object-position: center 10%;"></div>
         <div class="team-info">
           <h3>Jesus Pereira</h3>
           <div class="role">PhD Student</div>
