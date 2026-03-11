@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rafael O. Ruiz — Computational Mechanics Lab</title>
+<meta name="description" content="Research lab in uncertainty quantification, computational dynamics, metamaterials, and structural mechanics at University of Michigan-Dearborn.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  :root {
+    --navy: #0d1b2a;
+    --navy-light: #1b2d42;
+    --accent: #2a9d8f;
+    --accent2: #e9c46a;
+    --text: #2d3436;
+    --text-light: #636e72;
+    --bg: #f8f9fa;
+    --white: #ffffff;
+  }
+  body { font-family: 'Inter', sans-serif; color: var(--text); background: var(--bg); }
+  h1, h2, h3 { font-family: 'Playfair Display', serif; }
+
+  /* MOBILE NAV */
+  .hamburger { display: none; flex-direction: column; gap: 5px; cursor: pointer; padding: 4px; }
+  .hamburger span { display: block; width: 24px; height: 2px; background: white; transition: 0.3s; }
+  .nav-mobile-open .nav-links { display: flex !important; }
+
+  @media (max-width: 768px) {
+    nav { padding: 0 20px; position: relative; flex-wrap: wrap; height: auto; min-height: 64px; }
+    .hamburger { display: flex; }
+    .nav-links {
+      display: none !important;
+      flex-direction: column !important;
+      position: absolute; top: 64px; left: 0; right: 0;
+      background: var(--navy); padding: 16px 20px 24px;
+      gap: 16px !important; z-index: 200;
+      box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+    }
+    .nav-links.open { display: flex !important; }
+    .hero { padding: 60px 24px; min-height: auto; }
+    .hero h1 { font-size: 1.9rem; }
+    .hero-btns { flex-direction: column; gap: 12px; }
+    .btn-primary, .btn-outline { text-align: center; }
+    .stats-bar { flex-wrap: wrap; gap: 32px; padding: 32px 24px; justify-content: space-around; }
+    section { padding: 52px 24px; }
+    .pillars { grid-template-columns: 1fr; }
+    .services { grid-template-columns: 1fr; }
+    .how-grid { grid-template-columns: 1fr; }
+    .industry-hero { flex-direction: column; padding: 52px 24px; gap: 32px; }
+    .industry-hero-box { flex: none; width: 100%; }
+    .pillar-full { grid-template-columns: 1fr; padding: 48px 24px; gap: 24px; }
+    .team-grid { grid-template-columns: 1fr 1fr; }
+    .contact-strip { flex-direction: column; gap: 24px; padding: 40px 24px; text-align: center; }
+    footer { padding: 32px 24px; }
+    .research-hero { padding: 52px 24px; }
+    .research-hero h1 { font-size: 1.7rem; }
+  }
+  @media (max-width: 480px) {
+    .team-grid { grid-template-columns: 1fr; }
+    .hero h1 { font-size: 1.6rem; }
+  }
+
+  /* NAV */
+  nav {
+    background: var(--navy);
+    position: sticky; top: 0; z-index: 100;
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0 60px; height: 64px;
+  }
+  .nav-logo { color: var(--white); font-size: 1rem; font-weight: 600; letter-spacing: 0.5px; }
+  .nav-logo span { color: var(--accent); }
+  .nav-links { display: flex; gap: 32px; list-style: none; }
+  .nav-links a { color: rgba(255,255,255,0.75); text-decoration: none; font-size: 0.82rem; letter-spacing: 0.5px; text-transform: uppercase; transition: color 0.2s; font-weight: 500; }
+  .nav-links a:hover, .nav-links a.active-link { color: var(--accent); }
+
+  /* PAGE SECTIONS */
+  .page { display: none; }
+  .page.active { display: block; }
+
+  /* ===== HOME ===== */
+  .hero {
+    background: var(--navy);
+    background-image: linear-gradient(135deg, #0d1b2a 0%, #1a3a5c 100%);
+    color: var(--white);
+    padding: 100px 60px;
+    min-height: 520px;
+    display: flex; align-items: center;
+    position: relative; overflow: hidden;
+  }
+  .hero::before {
+    content: '';
+    position: absolute; right: -100px; top: -100px;
+    width: 600px; height: 600px;
+    background: radial-gradient(circle, rgba(42,157,143,0.15) 0%, transparent 70%);
+    border-radius: 50%;
+  }
+  .hero-content { max-width: 680px; position: relative; z-index: 1; }
+  .hero-tag { color: var(--accent); font-family: 'Arial', sans-serif; font-size: 0.8rem; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 20px; }
+  .hero h1 { font-size: 2.8rem; line-height: 1.2; margin-bottom: 24px; font-weight: normal; }
+  .hero h1 em { color: var(--accent); font-style: normal; }
+  .hero p { font-size: 1.05rem; color: rgba(255,255,255,0.75); line-height: 1.7; margin-bottom: 40px; }
+  .hero-btns { display: flex; gap: 16px; }
+  .btn-primary { background: var(--accent); color: white; padding: 14px 28px; border: none; cursor: pointer; font-family: 'Arial', sans-serif; font-size: 0.9rem; letter-spacing: 0.5px; text-decoration: none; }
+  .btn-outline { border: 1px solid rgba(255,255,255,0.4); color: white; padding: 14px 28px; cursor: pointer; font-family: 'Arial', sans-serif; font-size: 0.9rem; letter-spacing: 0.5px; text-decoration: none; background: transparent; }
+  .btn-primary:hover { background: #238a7d; }
+  .btn-outline:hover { border-color: white; }
+
+  /* STATS BAR */
+  .stats-bar {
+    background: var(--white);
+    border-bottom: 1px solid #e0e0e0;
+    display: flex; justify-content: center; gap: 80px;
+    padding: 32px 60px;
+  }
+  .stat { text-align: center; }
+  .stat-num { font-size: 2rem; font-weight: bold; color: var(--navy); display: block; }
+  .stat-label { font-family: 'Arial', sans-serif; font-size: 0.8rem; color: var(--text-light); text-transform: uppercase; letter-spacing: 1px; }
+
+  /* SECTIONS */
+  section { padding: 80px 60px; }
+  section.alt { background: var(--white); }
+  .section-tag { color: var(--accent); font-family: 'Arial', sans-serif; font-size: 0.75rem; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 12px; }
+  .section-title { font-size: 1.9rem; color: var(--navy); margin-bottom: 16px; font-weight: normal; }
+  .section-sub { font-family: 'Arial', sans-serif; color: var(--text-light); font-size: 0.95rem; line-height: 1.6; max-width: 600px; margin-bottom: 48px; }
+
+  /* PILLAR CARDS */
+  .pillars { display: grid; grid-template-columns: repeat(3, 1fr); gap: 28px; }
+  .pillar-card {
+    background: var(--white);
+    border-top: 3px solid var(--accent);
+    padding: 32px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  }
+  .pillar-num { color: var(--accent); font-family: 'Arial', sans-serif; font-size: 0.75rem; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 12px; }
+  .pillar-card h3 { font-size: 1.05rem; color: var(--navy); margin-bottom: 12px; }
+  .pillar-card p { font-family: 'Arial', sans-serif; font-size: 0.875rem; color: var(--text-light); line-height: 1.6; }
+
+  /* PUB LIST */
+  .pub-list { display: flex; flex-direction: column; gap: 16px; max-width: 860px; }
+  .pub-item { padding: 20px 24px; background: var(--white); border-left: 3px solid var(--accent); box-shadow: 0 1px 6px rgba(0,0,0,0.05); }
+  .pub-title { font-size: 0.95rem; color: var(--navy); margin-bottom: 6px; }
+  .pub-meta { font-family: 'Arial', sans-serif; font-size: 0.8rem; color: var(--text-light); }
+  .pub-meta span { color: var(--accent); margin-right: 12px; }
+
+  /* ===== FOR INDUSTRY ===== */
+  .industry-hero {
+    background: linear-gradient(135deg, #1a3a5c, #0d1b2a);
+    color: white; padding: 80px 60px;
+    display: flex; gap: 60px; align-items: center;
+  }
+  .industry-hero-text { flex: 1; }
+  .industry-hero h1 { font-size: 2.2rem; font-weight: normal; margin-bottom: 20px; line-height: 1.3; }
+  .industry-hero p { font-family: 'Arial', sans-serif; color: rgba(255,255,255,0.75); font-size: 0.95rem; line-height: 1.7; margin-bottom: 28px; }
+  .industry-hero-box {
+    flex: 0 0 280px; background: rgba(42,157,143,0.15);
+    border: 1px solid rgba(42,157,143,0.4);
+    padding: 32px; color: white;
+    font-family: 'Arial', sans-serif; font-size: 0.875rem; line-height: 1.7;
+  }
+  .industry-hero-box strong { display: block; color: var(--accent); margin-bottom: 8px; font-size: 0.8rem; letter-spacing: 1px; text-transform: uppercase; }
+
+  .services { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+  .service-card { background: var(--white); padding: 28px; box-shadow: 0 2px 10px rgba(0,0,0,0.06); }
+  .service-icon { font-size: 1.8rem; margin-bottom: 12px; }
+  .service-card h3 { font-size: 0.95rem; color: var(--navy); margin-bottom: 10px; }
+  .service-card p { font-family: 'Arial', sans-serif; font-size: 0.83rem; color: var(--text-light); line-height: 1.6; }
+
+  .industries { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 32px; }
+  .ind-tag { background: var(--navy); color: white; padding: 8px 18px; font-family: 'Arial', sans-serif; font-size: 0.8rem; letter-spacing: 0.5px; }
+
+  .how-section { background: var(--navy); color: white; padding: 80px 60px; }
+  .how-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 40px; margin-top: 40px; }
+  .how-step { }
+  .how-num { color: var(--accent); font-size: 2rem; font-weight: bold; margin-bottom: 12px; font-family: 'Arial', sans-serif; }
+  .how-step h3 { font-size: 1rem; margin-bottom: 10px; }
+  .how-step p { font-family: 'Arial', sans-serif; font-size: 0.85rem; color: rgba(255,255,255,0.65); line-height: 1.6; }
+
+  /* CONTACT STRIP */
+  .contact-strip {
+    background: var(--accent);
+    color: white; padding: 48px 60px;
+    display: flex; justify-content: space-between; align-items: center;
+  }
+  .contact-strip h2 { font-size: 1.5rem; font-weight: normal; }
+  .contact-strip p { font-family: 'Arial', sans-serif; font-size: 0.9rem; opacity: 0.85; margin-top: 4px; }
+  .btn-white { background: white; color: var(--accent); padding: 14px 32px; font-family: 'Arial', sans-serif; font-size: 0.9rem; cursor: pointer; text-decoration: none; font-weight: bold; }
+
+  /* ===== RESEARCH ===== */
+  .research-hero { background: var(--navy); color: white; padding: 64px 60px; }
+  .research-hero h1 { font-size: 2rem; font-weight: normal; margin-bottom: 16px; }
+  .research-hero p { font-family: 'Arial', sans-serif; color: rgba(255,255,255,0.7); font-size: 0.95rem; max-width: 600px; line-height: 1.7; }
+
+  .pillar-full { display: grid; grid-template-columns: 1fr 2fr; gap: 48px; padding: 64px 60px; border-bottom: 1px solid #e8e8e8; }
+  .pillar-full.alt { background: var(--white); }
+  .pillar-label { }
+  .pillar-label .num { font-size: 3rem; color: rgba(0,0,0,0.06); font-family: 'Arial', sans-serif; font-weight: bold; line-height: 1; margin-bottom: 8px; }
+  .pillar-label h2 { font-size: 1.1rem; color: var(--navy); }
+  .pillar-label .tag { background: var(--accent); color: white; display: inline-block; padding: 4px 10px; font-family: 'Arial', sans-serif; font-size: 0.7rem; letter-spacing: 1px; text-transform: uppercase; margin-top: 12px; }
+  .pillar-body h3 { font-size: 1rem; color: var(--navy); margin-bottom: 12px; }
+  .pillar-body p { font-family: 'Arial', sans-serif; font-size: 0.875rem; color: var(--text-light); line-height: 1.7; margin-bottom: 16px; }
+  .pillar-body .industry-note { background: #f0faf9; border-left: 3px solid var(--accent); padding: 12px 16px; font-family: 'Arial', sans-serif; font-size: 0.83rem; color: var(--text); margin-top: 16px; }
+  .pillar-body .industry-note strong { color: var(--accent); }
+
+  /* ===== TEAM ===== */
+  .team-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 28px; }
+  .team-card { background: var(--white); box-shadow: 0 2px 10px rgba(0,0,0,0.06); overflow: hidden; }
+  .team-photo { height: 180px; background: linear-gradient(135deg, var(--navy-light), var(--navy)); display: flex; align-items: center; justify-content: center; }
+  .team-photo-placeholder { width: 80px; height: 80px; border-radius: 50%; background: rgba(42,157,143,0.3); display: flex; align-items: center; justify-content: center; color: var(--accent); font-size: 1.8rem; }
+  .team-info { padding: 20px; }
+  .team-info h3 { font-size: 0.95rem; color: var(--navy); margin-bottom: 4px; }
+  .team-info .role { font-family: 'Arial', sans-serif; font-size: 0.78rem; color: var(--accent); text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 10px; }
+  .team-info p { font-family: 'Arial', sans-serif; font-size: 0.8rem; color: var(--text-light); line-height: 1.5; }
+
+  /* FOOTER */
+  footer { background: var(--navy); color: rgba(255,255,255,0.5); padding: 40px 60px; text-align: center; font-family: 'Arial', sans-serif; font-size: 0.8rem; }
+  footer strong { color: var(--accent); }
+
+  /* PROTOTYPE BANNER */
+  .prototype-banner {
+    background: #e9c46a; color: var(--navy);
+    text-align: center; padding: 10px;
+    font-family: 'Arial', sans-serif; font-size: 0.8rem; font-weight: bold;
+    letter-spacing: 0.5px;
+  }
+</style>
+</head>
+<body>
+
+<div class="prototype-banner">⚠ PROTOTYPE — Click the nav links to explore all 6 pages. Lab name TBD.</div>
+
+<nav id="main-nav">
+  <div class="nav-logo">RAFAEL <span>RUIZ</span> LAB</div>
+  <div class="hamburger" onclick="toggleMenu()" id="hamburger">
+    <span></span><span></span><span></span>
+  </div>
+  <ul class="nav-links" id="nav-links">
+    <li><a href="#" onclick="show('home')" id="nav-home" class="active-link">Home</a></li>
+    <li><a href="#" onclick="show('research')" id="nav-research">Research</a></li>
+    <li><a href="#" onclick="show('publications')" id="nav-publications">Publications</a></li>
+    <li><a href="#" onclick="show('team')" id="nav-team">Team</a></li>
+    <li><a href="#" onclick="show('industry')" id="nav-industry">For Industry</a></li>
+    <li><a href="#" onclick="show('blog')" id="nav-blog">Blog</a></li>
+  </ul>
+</nav>
+
+<!-- ============ HOME ============ -->
+<div id="home" class="page active">
+
+  <div class="hero">
+    <div class="hero-content">
+      <div class="hero-tag">University of Michigan — Dearborn</div>
+      <h1>Engineering <em>reliability</em> into complex mechanical systems</h1>
+      <p>We develop computational frameworks that predict how structures behave under real-world uncertainty — from metamaterials and energy harvesters to aerospace components.</p>
+      <div class="hero-btns">
+        <a href="#" class="btn-primary" onclick="show('industry')">Work With Us</a>
+        <a href="#" class="btn-outline" onclick="show('research')">Our Research</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="stats-bar">
+    <div class="stat"><span class="stat-num">30+</span><span class="stat-label">Peer-Reviewed Publications</span></div>
+    <div class="stat"><span class="stat-num">1,000+</span><span class="stat-label">Lecture Hours</span></div>
+    <div class="stat"><span class="stat-num">3</span><span class="stat-label">Research Pillars</span></div>
+    <div class="stat"><span class="stat-num">10+</span><span class="stat-label">Years in UQ Research</span></div>
+  </div>
+
+  <section>
+    <div class="section-tag">Research Focus</div>
+    <div class="section-title">Three pillars, one mission</div>
+    <div class="section-sub">Building predictive models that account for real-world uncertainty — across materials, structures, and dynamic systems.</div>
+    <div class="pillars">
+      <div class="pillar-card">
+        <div class="pillar-num">Pillar 01</div>
+        <h3>Predictive Modeling & Machine Learning</h3>
+        <p>Multi-fidelity computational platforms that fuse reduced-order models with high-fidelity data using Bayesian inference. Built for fracture mechanics, nonlinear dynamics, and multiphysics problems.</p>
+      </div>
+      <div class="pillar-card">
+        <div class="pillar-num">Pillar 02</div>
+        <h3>Degradation & Fracture Mechanics</h3>
+        <p>Predicting how microscopic defects evolve into macroscopic failure in composite ceramics, piezoelectric devices, and advanced manufacturing structures.</p>
+      </div>
+      <div class="pillar-card">
+        <div class="pillar-num">Pillar 03</div>
+        <h3>Dynamics, Vibration & Metamaterials</h3>
+        <p>Designing structures that control vibration — not just tolerate it. From mechanical metamaterials with tunable band gaps to interlocking assemblies for full-scale applications.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="alt">
+    <div class="section-tag">Recent Publications</div>
+    <div class="section-title">Latest from the lab</div>
+    <div class="pub-list">
+      <div class="pub-item">
+        <div class="pub-title">Vibration Attenuation Performance Prediction in Metamaterials: An Efficient Computational Approach Addressing Parametric Uncertainties</div>
+        <div class="pub-meta"><span>Journal of Sound and Vibration</span> Pereira J., Romero J., Ruiz R. — 2025</div>
+      </div>
+      <div class="pub-item">
+        <div class="pub-title">Multi-objective Functions for the Optimization of Piezoelectric Metamaterials Under Pre-Established Bandwidth Excitations</div>
+        <div class="pub-meta"><span>Mechanical Systems and Signal Processing</span> Pereira J., Ruiz R. — 2025</div>
+      </div>
+      <div class="pub-item">
+        <div class="pub-title">Uncertainty Quantification in Mechanical Properties for Cu-based SMA Wires and Strands Based on Bayesian Inference</div>
+        <div class="pub-meta"><span>Engineering Structures</span> Medina C.D., Ruiz R.O. — 2024 · <em>Featured Article</em></div>
+      </div>
+    </div>
+    <br>
+    <a href="#" class="btn-primary" onclick="show('publications')" style="display:inline-block; margin-top:8px;">View All Publications</a>
+  </section>
+
+  <section style="background: var(--navy); color: white; text-align:center;">
+    <div class="section-tag" style="color: var(--accent);">About</div>
+    <div class="section-title" style="color: white;">Rafael O. Ruiz, Ph.D.</div>
+    <p style="font-family: Arial, sans-serif; font-size: 0.95rem; color: rgba(255,255,255,0.7); max-width: 620px; margin: 0 auto 32px; line-height: 1.7;">
+      Assistant Professor of Mechanical Engineering at the University of Michigan–Dearborn. Double PhD from the University of Notre Dame and Pontificia Universidad Católica de Chile. Former head of the Machine Dynamics Laboratory at Universidad Simón Bolívar, Venezuela.
+    </p>
+    <a href="#" class="btn-primary" onclick="show('team')">Meet the Team</a>
+  </section>
+
+  <footer>
+    <strong>TheFerpectLab</strong> · University of Michigan–Dearborn · Department of Mechanical Engineering<br>
+    rafaruiz@umich.edu
+  </footer>
+</div>
+
+<!-- ============ FOR INDUSTRY ============ -->
+<div id="industry" class="page">
+
+  <div class="industry-hero">
+    <div class="industry-hero-text">
+      <div class="hero-tag">For Industry</div>
+      <h1>Your structures behave differently in the real world.<br>We help you predict how.</h1>
+      <p>We bring academic-grade computational methods to engineering problems that matter — vibration control, structural reliability, material degradation, and uncertainty-aware design.</p>
+      <a href="mailto:rafaruiz@umich.edu" class="btn-primary">Start a Conversation</a>
+    </div>
+    <div class="industry-hero-box">
+      <strong>We work with</strong>
+      Aerospace & Defense<br>
+      Automotive & Mobility<br>
+      Civil & Structural Engineering<br>
+      Energy & Power Systems<br>
+      Biomedical Devices<br>
+      Advanced Manufacturing
+    </div>
+  </div>
+
+  <section class="alt">
+    <div class="section-tag">What We Offer</div>
+    <div class="section-title">Technical services</div>
+    <div class="section-sub">Whether you need a one-time analysis or an ongoing research partnership, we work with industry at multiple levels.</div>
+    <div class="services">
+      <div class="service-card">
+        <div class="service-icon">📊</div>
+        <h3>Uncertainty Quantification</h3>
+        <p>Quantify variability in material properties, loads, and geometry. Get confidence bounds on your design performance — not just a single deterministic answer.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">〰️</div>
+        <h3>Vibration & Dynamics Analysis</h3>
+        <p>Modal analysis, frequency response, vibration isolation design. From rotating machinery to structural assemblies — we identify the dynamics before they become problems.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🔬</div>
+        <h3>Predictive Degradation Modeling</h3>
+        <p>Multi-scale models that predict how microscopic damage (cracks, voids, delamination) evolves into structural failure. Critical for ceramics, composites, and harsh-environment components.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">⚙️</div>
+        <h3>Metamaterial & Structural Design</h3>
+        <p>Design of periodic structures and mechanical metamaterials with tailored dynamic behavior — vibration attenuation, wave filtering, energy harvesting.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">🤖</div>
+        <h3>Surrogate & Reduced-Order Models</h3>
+        <p>Replace expensive simulations with fast, accurate surrogate models built on ML and Bayesian methods. Dramatically reduce computational cost in design optimization loops.</p>
+      </div>
+      <div class="service-card">
+        <div class="service-icon">📋</div>
+        <h3>Sponsored Research</h3>
+        <p>Formal university-industry partnerships through sponsored research agreements. Access to students, facilities (3D Scanning Laser Vibrometer), and publishable results.</p>
+      </div>
+    </div>
+  </section>
+
+  <div class="how-section">
+    <div class="section-tag" style="color: var(--accent);">How It Works</div>
+    <div class="section-title" style="color: white;">Three ways to engage</div>
+    <div class="how-grid">
+      <div class="how-step">
+        <div class="how-num">01</div>
+        <h3>Technical Consulting</h3>
+        <p>Short-term engagement for a specific problem. We analyze your system, run simulations, and deliver a report with findings and recommendations.</p>
+      </div>
+      <div class="how-step">
+        <div class="how-num">02</div>
+        <h3>Sponsored Research</h3>
+        <p>Longer-term collaboration through a formal university agreement. You fund the research, we bring expertise and students. Results can be IP-protected or published.</p>
+      </div>
+      <div class="how-step">
+        <div class="how-num">03</div>
+        <h3>Grant Collaboration</h3>
+        <p>Joint applications to NSF, DOD, or SBIR programs. Industry partners strengthen federal grant proposals while sharing in the research outcomes.</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="contact-strip">
+    <div>
+      <h2>Ready to talk about your problem?</h2>
+      <p>No commitment — just a conversation about whether we can help.</p>
+    </div>
+    <a href="mailto:rafaruiz@umich.edu" class="btn-white">rafaruiz@umich.edu</a>
+  </div>
+
+  <footer>
+    <strong>TheFerpectLab</strong> · University of Michigan–Dearborn · Department of Mechanical Engineering<br>
+    rafaruiz@umich.edu
+  </footer>
+</div>
+
+<!-- ============ RESEARCH ============ -->
+<div id="research" class="page">
+
+  <div class="research-hero">
+    <div class="hero-tag">Research</div>
+    <h1>Uncertainty is not an obstacle — it's a design parameter</h1>
+    <p>Our work integrates computational mechanics, machine learning, and experimental validation to build predictive models that work in the real world, not just on paper.</p>
+  </div>
+
+  <div class="pillar-full">
+    <div class="pillar-label">
+      <div class="num">01</div>
+      <h2>Multi-Fidelity Modeling & Machine Learning</h2>
+      <span class="tag">NSF CSSI Target</span>
+    </div>
+    <div class="pillar-body">
+      <h3>The core enabling technology</h3>
+      <p>We are developing an open-source computational platform that fuses reduced-order models with high-fidelity data streams using Hierarchical Bayesian Inference. The framework integrates component mode synthesis, Kriging, and Principal Component Analysis to efficiently handle heterogeneous data from simulations and experiments.</p>
+      <p>Applications include fracture mechanics in architected materials, multiphysics problems in piezoelectric systems, and nonlinear dynamic analysis of assembled structures.</p>
+      <div class="industry-note"><strong>Industry relevance:</strong> When your simulation takes days to run, surrogate models let you explore thousands of design variants in minutes — without sacrificing accuracy.</div>
+    </div>
+  </div>
+
+  <div class="pillar-full alt">
+    <div class="pillar-label">
+      <div class="num">02</div>
+      <h2>Degradation & Fracture Mechanics</h2>
+      <span class="tag">NSF CAREER (Under Review)</span>
+    </div>
+    <div class="pillar-body">
+      <h3>Predicting failure before it happens</h3>
+      <p>Multilayered composite ceramics power both thermal protection systems for hypersonic vehicles and high-performance piezoelectric devices. Predicting their failure under cyclic loads is challenging because of stochastic microstructural defects — voids, micro-cracks, manufacturing variability.</p>
+      <p>We develop multiscale UQ frameworks that integrate Digital Image Correlation (DIC) data with damage mechanics models to derive macroscale degradation laws from microscopic observations.</p>
+      <div class="industry-note"><strong>Industry relevance:</strong> Know when your components will fail — not after they do. Our models give you probabilistic life estimates, not just safety factors.</div>
+    </div>
+  </div>
+
+  <div class="pillar-full">
+    <div class="pillar-label">
+      <div class="num">03</div>
+      <h2>Dynamics, Vibration & Metamaterials</h2>
+      <span class="tag">Active</span>
+    </div>
+    <div class="pillar-body">
+      <h3>Designing structures that control vibration</h3>
+      <p>Mechanical metamaterials are periodic structures with dynamic properties that no conventional material possesses — they can block specific frequency bands, redirect waves, or harvest energy from vibration. We study how to design these structures under parametric uncertainty and scale them to real-world applications.</p>
+      <p>A parallel track investigates interlocking interfaces in assembled structures — exploring how modular joints can be engineered for vibration attenuation in full-scale civil and mechanical systems.</p>
+      <div class="industry-note"><strong>Industry relevance:</strong> If you have a vibration problem in rotating machinery, aerospace structures, or civil infrastructure — metamaterial-inspired solutions can be tuned to your specific frequency range.</div>
+    </div>
+  </div>
+
+  <footer>
+    <strong>TheFerpectLab</strong> · University of Michigan–Dearborn · Department of Mechanical Engineering<br>
+    rafaruiz@umich.edu
+  </footer>
+</div>
+
+<!-- ============ PUBLICATIONS ============ -->
+<div id="publications" class="page">
+  <div class="research-hero">
+    <div class="hero-tag">Publications</div>
+    <h1>30+ peer-reviewed papers</h1>
+    <p>Journal articles, conference proceedings, and book chapters in dynamics, uncertainty quantification, metamaterials, and advanced materials.</p>
+  </div>
+  <section>
+    <div class="section-tag">Journal Articles</div>
+    <div class="section-title">Selected publications</div>
+    <div class="pub-list">
+      <div class="pub-item"><div class="pub-title">Vibration Attenuation Performance Prediction in Metamaterials: An Efficient Computational Approach Addressing Parametric Uncertainties</div><div class="pub-meta"><span>Journal of Sound and Vibration, 618 · 2025</span> Pereira J., Romero J., Ruiz R., Beltran J.</div></div>
+      <div class="pub-item"><div class="pub-title">Multi-objective Functions for the Optimization of Piezoelectric Metamaterials Under Pre-Established Bandwidth Excitations</div><div class="pub-meta"><span>Mechanical Systems and Signal Processing, 235 · 2025</span> Pereira J., Ruiz R.</div></div>
+      <div class="pub-item"><div class="pub-title">Uncertainty Quantification in Mechanical Properties for Cu-based SMA Wires and Strands Based on Bayesian Inference</div><div class="pub-meta"><span>Engineering Structures, 318 · 2024</span> Medina C.D., Ruiz R.O. et al. — <em>Featured Article</em></div></div>
+      <div class="pub-item"><div class="pub-title">Bayesian Model Class Selection of Nonlinear Constitutive Relationships for Piezoelectric Energy Harvesters</div><div class="pub-meta"><span>Energy · 2024</span> Poblete A., Ruiz RO, Jia G.</div></div>
+      <div class="pub-item"><div class="pub-title">Optimal Design of Piezoelectric Energy Harvesters for Bridge Infrastructure</div><div class="pub-meta"><span>Applied Energy, 355 · 2024</span> Yao S., Peralta-Braz P., Makki M., Ruiz RO.</div></div>
+      <div class="pub-item"><div class="pub-title">Shape Optimization of Piezoelectric Energy Harvesters of Variable Thickness</div><div class="pub-meta"><span>Journal of Sound and Vibration, 517 · 2022</span> Calderon A., Peralta P., Ruiz RO.</div></div>
+      <div class="pub-item"><div class="pub-title">Electromechanical Properties Identification for Groups of Piezoelectric Energy Harvesters Based on Bayesian Inference</div><div class="pub-meta"><span>Mechanical Systems and Signal Processing, 162 · 2022</span> Ruiz RO., Peralta P., Rappel H., Bordas SPA.</div></div>
+      <div class="pub-item"><div class="pub-title">Risk-Informed Optimization of the Tuned Mass-Damper-Inerter (TMDI) for the Seismic Protection of Multi-Storey Building Structures</div><div class="pub-meta"><span>Engineering Structures, 177 · 2018</span> Ruiz RO, Giaralis A., Taflanidis AA, Lopez-Garcia D.</div></div>
+    </div>
+    <p style="font-family: Arial, sans-serif; font-size: 0.82rem; color: var(--text-light); margin-top: 24px;">Full list available on <a href="https://scholar.google.com/citations?user=bmYPRn4AAAAJ&hl=en" style="color: var(--accent);">Google Scholar</a> · ORCID: 0000-0002-5721-9674</p>
+  </section>
+  <footer>
+    <strong>TheFerpectLab</strong> · University of Michigan–Dearborn · Department of Mechanical Engineering<br>
+    rafaruiz@umich.edu
+  </footer>
+</div>
+
+<!-- ============ TEAM ============ -->
+<div id="team" class="page">
+  <div class="research-hero">
+    <div class="hero-tag">Team</div>
+    <h1>The people behind the research</h1>
+    <p>We're looking for motivated students interested in computational mechanics, uncertainty quantification, and metamaterial design. <a href="mailto:rafaruiz@umich.edu" style="color: var(--accent);">Get in touch.</a></p>
+  </div>
+  <section>
+    <div class="section-tag">Principal Investigator</div>
+    <div class="team-grid" style="grid-template-columns: repeat(1,320px);">
+      <div class="team-card">
+        <div class="team-photo"><div class="team-photo-placeholder">R</div></div>
+        <div class="team-info">
+          <h3>Rafael O. Ruiz, Ph.D.</h3>
+          <div class="role">Principal Investigator</div>
+          <p>Assistant Professor, Dept. of Mechanical Engineering, University of Michigan–Dearborn. Double PhD from University of Notre Dame and Pontificia Universidad Católica de Chile.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="alt">
+    <div class="section-tag">Graduate Students</div>
+    <div class="team-grid" style="grid-template-columns: repeat(3,1fr);">
+      <div class="team-card">
+        <div class="team-photo"><div class="team-photo-placeholder">J</div></div>
+        <div class="team-info">
+          <h3>Jesus Pereira</h3>
+          <div class="role">PhD Student</div>
+          <p>Efficient Reduced Order Models and Data-Driven Techniques for Modeling Mechanical Metamaterials. Expected completion 2027.</p>
+        </div>
+      </div>
+      <div class="team-card" style="opacity:0.4; border: 2px dashed #ccc;">
+        <div class="team-photo" style="background: #f0f0f0;"><div class="team-photo-placeholder" style="background: #e0e0e0; color: #aaa;">+</div></div>
+        <div class="team-info">
+          <h3 style="color:#aaa;">Open Position</h3>
+          <div class="role">PhD Student</div>
+          <p style="color:#aaa;">Interested in computational mechanics and UQ? We're recruiting.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <footer>
+    <strong>TheFerpectLab</strong> · University of Michigan–Dearborn · Department of Mechanical Engineering<br>
+    rafaruiz@umich.edu
+  </footer>
+</div>
+
+<!-- ============ BLOG ============ -->
+<div id="blog" class="page">
+  <div class="research-hero">
+    <div class="hero-tag">Blog & Insights</div>
+    <h1>Thoughts on mechanics, uncertainty, and engineering practice</h1>
+    <p>Long-form pieces on research, teaching, and the intersection of computation and physical intuition.</p>
+  </div>
+  <section>
+    <div class="pub-list">
+      <div class="pub-item" style="border-left-color: var(--accent2);">
+        <div class="pub-title" style="font-size: 1.05rem;">How Not to Write Emails Asking for Potential PhD Advisors</div>
+        <div class="pub-meta"><span>October 2024</span> 3 min read · Rafael Ruiz</div>
+      </div>
+      <div class="pub-item" style="opacity: 0.45; border: 2px dashed #ccc; border-left: none;">
+        <div class="pub-title" style="color: #aaa;">Coming soon: What is Uncertainty Quantification and why should your company care?</div>
+        <div class="pub-meta">Draft in progress</div>
+      </div>
+      <div class="pub-item" style="opacity: 0.45; border: 2px dashed #ccc; border-left: none;">
+        <div class="pub-title" style="color: #aaa;">Coming soon: Why metamaterials will change how we design for vibration</div>
+        <div class="pub-meta">Draft in progress</div>
+      </div>
+    </div>
+  </section>
+  <footer>
+    <strong>TheFerpectLab</strong> · University of Michigan–Dearborn · Department of Mechanical Engineering<br>
+    rafaruiz@umich.edu
+  </footer>
+</div>
+
+<script>
+  const pages = ['home','research','publications','team','industry','blog'];
+
+  function show(page) {
+    pages.forEach(p => {
+      document.getElementById(p).classList.remove('active');
+      const link = document.getElementById('nav-' + p);
+      if (link) link.classList.remove('active-link');
+    });
+    document.getElementById(page).classList.add('active');
+    const activeLink = document.getElementById('nav-' + page);
+    if (activeLink) activeLink.classList.add('active-link');
+    // close mobile menu
+    document.getElementById('nav-links').classList.remove('open');
+    window.scrollTo({top: 0, behavior: 'smooth'});
+    return false;
+  }
+
+  function toggleMenu() {
+    document.getElementById('nav-links').classList.toggle('open');
+  }
+
+  // Close menu when clicking outside
+  document.addEventListener('click', function(e) {
+    const nav = document.getElementById('main-nav');
+    if (!nav.contains(e.target)) {
+      document.getElementById('nav-links').classList.remove('open');
+    }
+  });
+</script>
+</body>
+</html>
