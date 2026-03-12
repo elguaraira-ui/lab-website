@@ -582,33 +582,7 @@
       <p>Long-form pieces on research, teaching, and the intersection of computation and physical intuition.</p>
     </div>
     <section>
-      <div class="pub-list">
-        <div class="pub-item" style="border-left-color: var(--accent2); cursor:pointer;" onclick="showPost(0)">
-          <div class="pub-title" style="font-size: 1.05rem;">How not to write emails asking for potential PhD Advisors</div>
-          <div class="pub-meta"><span>October 30, 2024</span> · 3 min read · Rafael Ruiz</div>
-          <div style="font-family: Arial, sans-serif; font-size: 0.85rem; color: var(--text-light); margin-top: 8px; line-height: 1.6;">As an assistant professor at the University of Michigan-Dearborn, I receive numerous emails from prospective students eager to join my......</div>
-        </div>
-        <div class="pub-item" style="border-left-color: var(--accent2); cursor:pointer;" onclick="showPost(1)">
-          <div class="pub-title" style="font-size: 1.05rem;">Improve your presentations before the first slide</div>
-          <div class="pub-meta"><span>February 19, 2024</span> · 2 min read · Rafael Ruiz</div>
-          <div style="font-family: Arial, sans-serif; font-size: 0.85rem; color: var(--text-light); margin-top: 8px; line-height: 1.6;">- Talk with the person who is inviting you to give the presentation. You need to know the purpose of your presentation, what they expect,......</div>
-        </div>
-        <div class="pub-item" style="border-left-color: var(--accent2); cursor:pointer;" onclick="showPost(2)">
-          <div class="pub-title" style="font-size: 1.05rem;">Fear that your technical skills are not competitive?</div>
-          <div class="pub-meta"><span>February 19, 2024</span> · 1 min read · Rafael Ruiz</div>
-          <div style="font-family: Arial, sans-serif; font-size: 0.85rem; color: var(--text-light); margin-top: 8px; line-height: 1.6;">Yes, you will not get that job or promotion because of it... unless... 1- Ask yourself what is more valuable than Money. Are you having......</div>
-        </div>
-        <div class="pub-item" style="border-left-color: var(--accent2); cursor:pointer;" onclick="showPost(3)">
-          <div class="pub-title" style="font-size: 1.05rem;">Developing personal identities in courses like Design of Machine Elements</div>
-          <div class="pub-meta"><span>February 19, 2024</span> · 1 min read · Rafael Ruiz</div>
-          <div style="font-family: Arial, sans-serif; font-size: 0.85rem; color: var(--text-light); margin-top: 8px; line-height: 1.6;">Are you a student? Do the following... are you a professor? Put this as an assignment. - Make a list of things you love the most (dogs,......</div>
-        </div>
-        <div class="pub-item" style="border-left-color: var(--accent2); cursor:pointer;" onclick="showPost(4)">
-          <div class="pub-title" style="font-size: 1.05rem;">Three tips to decrease the tension of teaching the first class of any course</div>
-          <div class="pub-meta"><span>February 19, 2024</span> · 1 min read · Rafael Ruiz</div>
-          <div style="font-family: Arial, sans-serif; font-size: 0.85rem; color: var(--text-light); margin-top: 8px; line-height: 1.6;">Intriguing? Keep reading... Yes, the first class is maybe the most exciting one, it is like a first date, and you don’t want to mess it......</div>
-        </div>
-      </div>
+      <div class="pub-list" id="blog-card-list"></div>
     </section>
   </div>
 
@@ -652,6 +626,21 @@
     document.getElementById('blog-list-view').style.display = 'block';
     window.scrollTo({top: 0, behavior: 'smooth'});
   }
+
+  function renderBlogList() {
+    const container = document.getElementById('blog-card-list');
+    container.innerHTML = blogPosts.map((post, i) => {
+      const tmp = document.createElement('div');
+      tmp.innerHTML = post.content;
+      const preview = tmp.textContent.trim().substring(0, 160) + '...';
+      return `<div class="pub-item" style="border-left-color: var(--accent2); cursor:pointer;" onclick="showPost(${i})">
+        <div class="pub-title" style="font-size: 1.05rem;">${post.title}</div>
+        <div class="pub-meta"><span>${post.date}</span> · ${post.minutes} min read · Rafael Ruiz</div>
+        <div style="font-family: Arial, sans-serif; font-size: 0.85rem; color: var(--text-light); margin-top: 8px; line-height: 1.6;">${preview}</div>
+      </div>`;
+    }).join('');
+  }
+  renderBlogList();
 
   const pages = ['home','research','publications','team','industry','blog'];
 
