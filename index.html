@@ -40,6 +40,7 @@
     }
     .nav-links.open { display: flex !important; }
     .hero { padding: 60px 24px; min-height: auto; }
+    .hero-logo { display: none; }
     .hero h1 { font-size: 1.9rem; }
     .hero-btns { flex-direction: column; gap: 12px; }
     .btn-primary, .btn-outline { text-align: center; }
@@ -86,9 +87,11 @@
     color: var(--white);
     padding: 100px 60px;
     min-height: 520px;
-    display: flex; align-items: center;
+    display: flex; align-items: center; justify-content: space-between; gap: 40px;
     position: relative; overflow: hidden;
   }
+  .hero-logo { flex-shrink: 0; z-index: 1; }
+  .hero-logo img { width: 200px; height: auto; opacity: 0.92; }
   .hero::before {
     content: '';
     position: absolute; right: -100px; top: -100px;
@@ -270,6 +273,9 @@
         <a href="#" class="btn-primary" onclick="show('industry')">Work With Us</a>
         <a href="#" class="btn-outline" onclick="show('research')">Our Research</a>
       </div>
+    </div>
+    <div class="hero-logo">
+      <img src="https://elguaraira-ui.github.io/lab-website/images/logo.png" alt="The Mechanist Lab">
     </div>
   </div>
 
