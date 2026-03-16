@@ -742,11 +742,21 @@
     document.getElementById(page).classList.add('active');
     const activeLink = document.getElementById('nav-' + page);
     if (activeLink) activeLink.classList.add('active-link');
+    // update URL hash for direct linking
+    history.replaceState(null, '', '#' + page);
     // close mobile menu
     document.getElementById('nav-links').classList.remove('open');
     window.scrollTo({top: 0, behavior: 'smooth'});
     return false;
   }
+
+  // on load, check for hash and navigate to that tab
+  window.addEventListener('DOMContentLoaded', function() {
+    const hash = window.location.hash.replace('#', '');
+    if (hash && pages.includes(hash)) {
+      show(hash);
+    }
+  });
 
   function toggleMenu() {
     document.getElementById('nav-links').classList.toggle('open');
