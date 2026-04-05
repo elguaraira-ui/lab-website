@@ -1,6 +1,7 @@
 """
 fetch_news.py — Fetches RSS feeds and generates news.json for mechanistlab.com
-Run manually or via GitHub Actions (daily at 8am UTC).
+Run manually or via GitHub Actions (daily).
+Produces up to 20 articles per source (60 total max), sorted by date.
 """
 import feedparser
 import json
@@ -50,12 +51,14 @@ def parse_date(entry):
     return ''
 
 
+PER_SOURCE_CAP = 20
+
 items = []
 for cfg in FEEDS:
     try:
         feed = feedparser.parse(cfg['url'])
-        count = 0
-        for entry in feed.entries[:30]:
+        source_items = []
+        for entry in feed.entries[:50]:  # fetch more, then cap after filtering
             title = strip_html(entry.get('title', ''))
             link = entry.get('link', '')
             pub_date = parse_date(entry)
@@ -69,7 +72,7 @@ for cfg in FEEDS:
             if not title or len(title) < 10:
                 continue
 
-            items.append({
+            source_items.append({
                 'title': title,
                 'link': link,
                 'pubDate': pub_date,
@@ -78,12 +81,16 @@ for cfg in FEEDS:
                 'category': cfg['category'],
                 'color': cfg['color']
             })
-            count += 1
-        print(f"{cfg['source']}: {count} items")
+
+        # Sort by date and cap at PER_SOURCE_CAP
+        source_items.sort(key=lambda x: x['pubDate'], reverse=True)
+        source_items = source_items[:PER_SOURCE_CAP]
+        items.extend(source_items)
+        print(f"{cfg['source']}: {len(source_items)} items")
     except Exception as e:
         print(f"ERROR {cfg['source']}: {e}")
 
-# Sort by date descending
+# Merge and sort all sources by date
 items.sort(key=lambda x: x['pubDate'], reverse=True)
 
 # Deduplicate by title prefix
@@ -98,7 +105,7 @@ for item in items:
 output = {
     'updated': datetime.utcnow().isoformat() + 'Z',
     'count': len(deduped),
-    'items': deduped[:60]
+    'items': deduped
 }
 
 with open('news.json', 'w') as f:
