@@ -825,148 +825,66 @@
   const pages = ['home','research','publications','team','industry','blog','news'];
 
   // ===== NEWS =====
-  const NEWS_FEEDS = [
-    {
-      url: 'https://spacenews.com/feed/',
-      source: 'SpaceNews',
-      category: 'aerospace',
-      color: '#1a6da8',
-      filterKeywords: null
-    },
-    {
-      url: 'https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml',
-      source: 'Defense News',
-      category: 'defense',
-      color: '#8b1a1a',
-      filterKeywords: ['technology','system','aircraft','satellite','drone','UAV','missile','sensor','radar','propulsion','material','structure','hypersonic','research','program','development','test','space','cyber','weapon','contract','budget','Pentagon','defense']
-    },
-    {
-      url: 'https://www.sciencedaily.com/rss/matter_energy/mechanical_engineering.xml',
-      source: 'ScienceDaily',
-      category: 'engineering',
-      color: '#2a9d8f',
-      filterKeywords: null
-    }
-  ];
-
   let allNewsItems = [];
   let currentNewsFilter = 'all';
   let newsLoaded = false;
 
-  function newsStripHtml(html) {
-    const tmp = document.createElement('div');
-    tmp.innerHTML = html;
-    return (tmp.textContent || tmp.innerText || '').replace(/\s+/g, ' ').trim();
-  }
-
   function newsFormatDate(dateStr) {
     try {
       const d = new Date(dateStr);
-      if (isNaN(d.getTime())) return dateStr;
+      if (isNaN(d.getTime())) return '';
       return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
-    } catch(e) { return dateStr; }
-  }
-
-  async function fetchOneFeed(feed) {
-    const apiUrl = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(feed.url) + '&count=25';
-    try {
-      const resp = await fetch(apiUrl);
-      if (!resp.ok) throw new Error('HTTP ' + resp.status);
-      const json = await resp.json();
-      if (json.status !== 'ok') throw new Error(json.message || 'Feed error');
-      const results = [];
-      (json.items || []).forEach(function(item) {
-        const title = newsStripHtml(item.title || '');
-        const link = item.link || item.guid || '#';
-        const pubDate = item.pubDate || '';
-        const descText = newsStripHtml(item.description || item.content || '');
-        const snippet = descText.length > 200 ? descText.substring(0, 200) + '...' : descText;
-
-        if (feed.filterKeywords) {
-          const haystack = (title + ' ' + descText).toLowerCase();
-          const matches = feed.filterKeywords.some(function(kw) { return haystack.includes(kw.toLowerCase()); });
-          if (!matches) return;
-        }
-        if (!title || title.length < 10) return;
-
-        results.push({
-          title: title,
-          link: link,
-          pubDate: pubDate,
-          snippet: snippet,
-          source: feed.source,
-          category: feed.category,
-          color: feed.color,
-          dateObj: pubDate ? new Date(pubDate) : new Date(0)
-        });
-      });
-      return { items: results, error: null };
-    } catch(e) {
-      return { items: [], error: feed.source + ' feed unavailable.' };
-    }
+    } catch(e) { return ''; }
   }
 
   async function loadAllNews() {
     const grid = document.getElementById('news-grid');
     grid.innerHTML = '<div class="news-loading">Loading news from the field...</div>';
-    allNewsItems = [];
-    const errors = [];
-
-    const results = await Promise.all(NEWS_FEEDS.map(fetchOneFeed));
-    results.forEach(function(r) {
-      if (r.error) errors.push(r.error);
-      allNewsItems = allNewsItems.concat(r.items);
-    });
-
-    allNewsItems.sort(function(a, b) { return b.dateObj - a.dateObj; });
-
-    const seen = new Set();
-    allNewsItems = allNewsItems.filter(function(item) {
-      const key = item.title.toLowerCase().substring(0, 60);
-      if (seen.has(key)) return false;
-      seen.add(key);
-      return true;
-    });
-
-    newsLoaded = true;
-    renderNews(errors);
+    try {
+      const resp = await fetch('/news.json?t=' + Date.now());
+      if (!resp.ok) throw new Error('HTTP ' + resp.status);
+      const data = await resp.json();
+      allNewsItems = (data.items || []).map(function(item) {
+        return Object.assign({}, item, { dateObj: item.pubDate ? new Date(item.pubDate) : new Date(0) });
+      });
+      newsLoaded = true;
+      renderNews(null, data.updated);
+    } catch(e) {
+      grid.innerHTML = '<div class="news-error">Could not load news. Try refreshing the page.</div>';
+    }
   }
 
   function filterNews(category, btn) {
     currentNewsFilter = category;
     document.querySelectorAll('.news-filter-btn').forEach(function(b) { b.classList.remove('active'); });
     btn.classList.add('active');
-    renderNews([]);
+    renderNews(null, null);
   }
 
-  function renderNews(errors) {
+  function renderNews(err, updated) {
     const grid = document.getElementById('news-grid');
     const filtered = currentNewsFilter === 'all'
       ? allNewsItems
       : allNewsItems.filter(function(item) { return item.category === currentNewsFilter; });
 
     let html = '';
-
-    if (errors && errors.length > 0) {
-      errors.forEach(function(e) {
-        html += '<div class="news-error">' + e + '</div>';
-      });
-    }
-
     if (filtered.length === 0) {
-      html += '<div class="news-loading">No articles found for this filter.</div>';
+      html = '<div class="news-loading">No articles found for this filter.</div>';
     } else {
       filtered.forEach(function(item) {
         html += '<div class="news-card" style="border-left: 3px solid ' + item.color + ';">'
           + '<span class="news-source-badge" style="background:' + item.color + ';">' + item.source + '</span>'
           + '<div class="news-card-title"><a href="' + item.link + '" target="_blank" rel="noopener">' + item.title + '</a></div>'
-          + '<div class="news-card-meta">' + newsFormatDate(item.pubDate) + '</div>'
+          + (item.pubDate ? '<div class="news-card-meta">' + newsFormatDate(item.pubDate) + '</div>' : '')
           + (item.snippet ? '<div class="news-card-snippet">' + item.snippet + '</div>' : '')
           + '</div>';
       });
-      html += '<div class="news-source-note">Sources: SpaceNews, Defense News, ScienceDaily. Updates on page load.</div>';
+      if (updated) {
+        const updatedStr = newsFormatDate(updated);
+        html += '<div class="news-source-note">Sources: SpaceNews &middot; Defense News &middot; ScienceDaily'
+          + (updatedStr ? ' &nbsp;&bull;&nbsp; Last updated: ' + updatedStr : '') + '</div>';
+      }
     }
-
     grid.innerHTML = html;
   }
 
