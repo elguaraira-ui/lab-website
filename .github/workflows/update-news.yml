@@ -1,0 +1,35 @@
+name: Update News Feed
+
+on:
+  schedule:
+    - cron: '30 15 * * 1-5'   # Mon-Fri at 3:30pm UTC = ~11:30am ET
+  workflow_dispatch:            # Manual trigger from GitHub Actions tab
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser
+
+      - name: Fetch news
+        run: python fetch_news.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@mechanistlab.com"
+          git add news.json
+          git diff --staged --quiet || git commit -m "Update news feed [automated $(date -u +%Y-%m-%d)]"
+          git push
