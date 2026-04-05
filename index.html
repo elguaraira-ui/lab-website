@@ -868,27 +868,18 @@
   }
 
   async function fetchOneFeed(feed) {
-    const proxy = 'https://api.allorigins.win/get?url=' + encodeURIComponent(feed.url);
+    const apiUrl = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(feed.url) + '&count=25';
     try {
-      const resp = await fetch(proxy, { cache: 'no-store' });
+      const resp = await fetch(apiUrl);
       if (!resp.ok) throw new Error('HTTP ' + resp.status);
       const json = await resp.json();
-      const parser = new DOMParser();
-      const doc = parser.parseFromString(json.contents, 'text/xml');
-      const items = Array.from(doc.querySelectorAll('item'));
+      if (json.status !== 'ok') throw new Error(json.message || 'Feed error');
       const results = [];
-      items.forEach(function(item) {
-        const title = newsStripHtml(item.querySelector('title')?.innerHTML || '');
-        let link = '';
-        const linkEl = item.querySelector('link');
-        if (linkEl) {
-          link = linkEl.textContent.trim();
-          if (!link && linkEl.nextSibling) link = linkEl.nextSibling.textContent.trim();
-        }
-        if (!link) link = item.querySelector('guid')?.textContent.trim() || '#';
-        const pubDate = item.querySelector('pubDate')?.textContent.trim() || '';
-        const descRaw = item.querySelector('description')?.innerHTML || item.querySelector('description')?.textContent || '';
-        const descText = newsStripHtml(descRaw);
+      (json.items || []).forEach(function(item) {
+        const title = newsStripHtml(item.title || '');
+        const link = item.link || item.guid || '#';
+        const pubDate = item.pubDate || '';
+        const descText = newsStripHtml(item.description || item.content || '');
         const snippet = descText.length > 200 ? descText.substring(0, 200) + '...' : descText;
 
         if (feed.filterKeywords) {
