@@ -1,7 +1,79 @@
 {
-  "updated": "2026-04-05T16:59:36.250275Z",
-  "count": 68,
+  "updated": "2026-04-06T16:43:27.931951Z",
+  "count": 56,
   "items": [
+    {
+      "title": "Ukraine missile maker targets \u2018game changer\u2019 air defense system by 2027",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/04/06/ukraine-missile-maker-targets-game-changer-air-defense-system-by-2027/",
+      "pubDate": "2026-04-06T13:55:57Z",
+      "snippet": "Fire Point, maker of Ukraine\u2019s Flamingo cruise missile, is in talks with European companies to launch a new air defense system by next year.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Army wants new grenade launcher, ammunition to be able to destroy drones",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/04/06/us-army-wants-new-grenade-launcher-ammunition-to-be-able-to-destroy-drones/",
+      "pubDate": "2026-04-06T13:38:21Z",
+      "snippet": "The Army is calling for prototype submissions that include 16 weapons, fire controls systems and around 25,000 rounds of ammunition.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "The\u00a0moon\u00a0base\u00a0has\u00a0a\u00a0hardware\u00a0plan. It\u00a0needs\u00a0a\u00a0software\u00a0strategy,\u00a0too.",
+      "link": "https://spacenews.com/the-moon-base-has-a-hardware-plan-it-needs-a-software-strategy-too/",
+      "pubDate": "2026-04-06T13:00:00Z",
+      "snippet": "Early in my career at SpaceX, I was the only person dedicated to training the mission control team for Dragon. For three years, I built the training for the operations team. The documentation came sec...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Seagate Space Signs MOU with Firefly Aerospace to Collaborate on Offshore Launch Infrastructure for Alpha",
+      "link": "https://spacenews.com/seagate-space-signs-mou-with-firefly-aerospace-to-collaborate-on-offshore-launch-infrastructure-for-alpha/",
+      "pubDate": "2026-04-06T12:15:00Z",
+      "snippet": "St. Petersburg, FL \u2014 April 6, 2026&#160;\u2014 Seagate Space Corporation announced today a Memorandum of Understanding (MOU) with Firefly Aerospace to collaborate on the development of an offshore launch p...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Military space programs confront hidden supply constraints",
+      "link": "https://spacenews.com/military-space-confronts-hidden-supplier-constraints/",
+      "pubDate": "2026-04-06T11:30:00Z",
+      "snippet": "Industry report warns components \u2013 from optical links to valves \u2013 may become chokepoints\nThe post Military space programs confront hidden supply constraints appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Artemis 2 ready to fly around the moon",
+      "link": "https://spacenews.com/artemis-2-ready-to-fly-around-the-moon/",
+      "pubDate": "2026-04-06T11:21:26Z",
+      "snippet": "The Artemis 2 mission will swing around the moon April 6, setting a distance record as astronauts study part of the lunar farside.\nThe post Artemis 2 ready to fly around the moon appeared first on Spa...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Isaacman defends NASA budget proposal despite steep cuts",
+      "link": "https://spacenews.com/isaacman-defends-nasa-budget-proposal-despite-steep-cuts/",
+      "pubDate": "2026-04-05T22:20:09Z",
+      "snippet": "NASA Administrator Jared Isaacman defended a fiscal year 2027 budget proposal that would cut the agency\u2019s budget by nearly 25%.\nThe post Isaacman defends NASA budget proposal despite steep cuts appear...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NASA stops work on SLS Mobile Launcher 2",
+      "link": "https://spacenews.com/nasa-stops-work-on-sls-mobile-launcher-2/",
+      "pubDate": "2026-04-05T20:29:48Z",
+      "snippet": "NASA has stopped work on a second mobile launch platform intended for an upgraded version of the Space Launch System the agency no longer plans to develop.\nThe post NASA stops work on SLS Mobile Launc...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "US special forces rescue second F-15 airman from Iran",
       "link": "https://www.defensenews.com/news/your-military/2026/04/05/us-special-forces-rescue-f-15-airman-from-iran/",
@@ -55,6 +127,15 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
+    },
+    {
+      "title": "Trump seeks to double number of ship requests with 2027 defense budget",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/03/trump-seeks-to-double-number-of-ship-requests-with-2027-defense-budget/",
+      "pubDate": "2026-04-03T17:06:37Z",
+      "snippet": "The proposed $1.5 trillion fiscal 2027 defense budget would allocate $65.8 billion for shipbuilding, the White House said Friday.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
     },
     {
       "title": "Trump\u2019s budget proposes massive defense spending with 10% cut to other programs",
@@ -183,42 +264,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Moog Technology Successfully Steers Artemis II Launch",
-      "link": "https://spacenews.com/moog-technology-successfully-steers-artemis-ii-launch/",
-      "pubDate": "2026-04-02T14:55:23Z",
-      "snippet": "East Aurora, NY &#8212; Moog Inc. (NYSE: MOG.A and MOG.B), a worldwide designer, manufacturer, and systems integrator of high-performance precision motion and fluid controls and control systems, provi...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Carmel Ortiz on the evolving landscape of satellite communications",
-      "link": "https://spacenews.com/carmel-ortiz-on-the-evolving-landscape-of-satellite-communications/",
-      "pubDate": "2026-04-02T14:42:23Z",
-      "snippet": "In this week&#8217;s episode of Space Minds, host Mike Gruss interviews Carmel Ortiz, senior vice president of medium-Earth-orbit constellation programs at SES. They discuss new technology to help sat...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Phantom Space buys thermal specialist to support orbital data center push",
-      "link": "https://spacenews.com/phantom-space-buys-thermal-specialist-to-support-orbital-data-center-push/",
-      "pubDate": "2026-04-02T13:06:18Z",
-      "snippet": "Phantom Space has acquired satellite thermal hardware provider Thermal Management Technologies to bolster development of its planned Phantom Cloud orbital data center constellation.\nThe post Phantom S...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Relativity, Hermeus, Astrion and Divergent executives join Fortastra C-suite",
-      "link": "https://spacenews.com/relativity-hermeus-astrion-and-divergent-executives-join-fortastra-c-suite/",
-      "pubDate": "2026-04-02T13:00:00Z",
-      "snippet": "SAN FRANCISCO \u2013 Los Angeles startup Fortastra\u00a0has hired veterans from Relativity Space, Hermeus, Astrion and Divergent Technologies to design and operate maneuverable spacecraft for on-orbit security....",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Swedish arms maker to set up major ammunition plant in Estonia",
       "link": "https://www.defensenews.com/global/europe/2026/04/02/swedish-arms-maker-to-set-up-major-ammunition-plant-in-estonia/",
       "pubDate": "2026-04-02T11:40:17Z",
@@ -226,24 +271,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Artemis 2 launches on first human mission to the moon in more than 50 years",
-      "link": "https://spacenews.com/artemis-2-launches-on-first-mission-to-the-moon-in-more-than-50-years/",
-      "pubDate": "2026-04-01T22:50:15Z",
-      "snippet": "The first human mission beyond Earth orbit in more than 50 years is underway with an April 1 launch of four astronauts on a flight around the moon.\nThe post Artemis 2 launches on first human mission t...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "SpaceX quietly files for big bang IPO",
-      "link": "https://spacenews.com/spacex-quietly-files-for-big-bang-ipo/",
-      "pubDate": "2026-04-01T20:04:32Z",
-      "snippet": "SpaceX has taken a key step toward going public after confidentially filing for a potentially record-breaking initial public offering, according to multiple reports citing people familiar with the mat...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Is the US running out of Tomahawk missiles? Here\u2019s what the experts say",
@@ -264,33 +291,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Teledyne forms dedicated space unit to capture rising demand",
-      "link": "https://spacenews.com/teledyne-forms-dedicated-space-unit-to-capture-rising-demand/",
-      "pubDate": "2026-04-01T17:29:14Z",
-      "snippet": "The aerospace supplier is combining imaging, electronics and component lines under Teledyne Space\nThe post Teledyne forms dedicated space unit to capture rising demand appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Artemis 2\u2019s (nearly) 10-day flight around the moon",
-      "link": "https://spacenews.com/artemis-2s-nearly-10-day-flight-around-the-moon/",
-      "pubDate": "2026-04-01T16:25:57Z",
-      "snippet": "The Artemis 2 mission will send humans to the vicinity of the moon for the first time in more than 50 years on a mission lasting almost 10 days.\nThe post Artemis 2\u2019s (nearly) 10-day flight around the ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Saltzman: Space \u2018baked into\u2019 modern combat operations",
-      "link": "https://spacenews.com/saltzman-space-baked-into-modern-combat-operations/",
-      "pubDate": "2026-04-01T15:49:47Z",
-      "snippet": "Space Force personnel supporting operations under U.S. Central Command are positioned in the Middle East, at headquarters in Tampa, Florida, and at Shaw Air Force Base in South Carolina\nThe post Saltz...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Pentagon, Boeing agree to triple PAC-3 seeker production",
       "link": "https://www.defensenews.com/industry/techwatch/2026/04/01/pentagon-boeing-agree-to-triple-pac-3-seeker-production/",
       "pubDate": "2026-04-01T15:23:48Z",
@@ -298,15 +298,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Aspect Aerospace secures early funding to advance swarm-deployable VLEO satellites",
-      "link": "https://spacenews.com/aspect-aerospace-secures-early-funding-to-advance-swarm-deployable-vleo-satellites/",
-      "pubDate": "2026-04-01T14:45:13Z",
-      "snippet": "Aspect Aerospace, a University of South Alabama spin-off, has secured $2.4 million to develop circuit-board-sized spacecraft that could be deployed from space into very low Earth orbit in swarms to mo...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "\u2018Infrastructure is the weapon\u2019: Inside the race to build portable interceptor factories",
@@ -331,15 +322,6 @@
       "link": "https://www.defensenews.com/global/europe/2026/03/31/italy-turns-away-middle-east-bound-us-military-aircraft-from-sicily-stopover/",
       "pubDate": "2026-03-31T14:47:13Z",
       "snippet": "Use of the Sigonella air base for the U.S.-Israeli war against Iran falls outside of the scope of agreements, requiring parliamentary approval in Rome.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "The US Navy brought a \u2018one-of-a-kind\u2019 laser weapon back from the dead",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/03/31/the-us-navy-brought-a-one-of-a-kind-laser-weapon-back-from-the-dead/",
-      "pubDate": "2026-03-31T12:09:01Z",
-      "snippet": "The U.S. Navy's lone 150 kW laser weapon is back in action \u2013 sort of.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -520,24 +502,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/01/260121034140.htm",
       "pubDate": "2026-01-22T07:27:26Z",
       "snippet": "A long-standing law of thermodynamics turns out to have a loophole at the smallest scales. Researchers have shown that quantum engines made of correlated particles can exceed the traditional efficienc...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "This new building material pulls carbon out of the air",
-      "link": "https://www.sciencedaily.com/releases/2026/01/260121034148.htm",
-      "pubDate": "2026-01-21T08:41:48Z",
-      "snippet": "A new building material developed by engineers at Worcester Polytechnic Institute could change how the world builds. Made using an enzyme that turns carbon dioxide into solid minerals, the material cu...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "This tiny power module could change how the world uses energy",
-      "link": "https://www.sciencedaily.com/releases/2026/01/260118233604.htm",
-      "pubDate": "2026-01-19T12:05:39Z",
-      "snippet": "As global energy demand surges\u2014driven by AI-hungry data centers, advanced manufacturing, and electrified transportation\u2014researchers at the National Renewable Energy Laboratory have unveiled a breakthr...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
