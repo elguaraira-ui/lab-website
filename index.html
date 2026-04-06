@@ -315,12 +315,7 @@
     cursor: pointer; color: var(--text-light); transition: all 0.2s;
   }
   .news-filter-btn.active, .news-filter-btn:hover { background: var(--navy); color: white; border-color: var(--navy); }
-  .news-refresh-btn {
-    margin-left: auto; font-family: 'Arial', sans-serif; font-size: 0.75rem;
-    background: transparent; border: 1px solid var(--accent); color: var(--accent);
-    padding: 7px 16px; cursor: pointer; letter-spacing: 0.5px; transition: all 0.2s;
-  }
-  .news-refresh-btn:hover { background: var(--accent); color: white; }
+  .news-updated-label { font-family: 'Arial', sans-serif; font-size: 0.75rem; color: var(--text-light); margin-left: auto; padding-left: 16px; white-space: nowrap; }
 
   .news-grid { padding: 40px 60px; max-width: 1000px; }
   .news-card {
@@ -346,7 +341,7 @@
     .news-filters { padding: 16px 20px; }
     .news-hero { padding: 52px 24px; }
     .news-hero h1 { font-size: 1.7rem; }
-    .news-refresh-btn { margin-left: 0; margin-top: 8px; }
+    .news-updated-label { margin-left: 0; margin-top: 4px; padding-left: 0; }
   }
 </style>
 </head>
@@ -757,7 +752,7 @@
     <button class="news-filter-btn" onclick="filterNews('aerospace', this)">Aerospace &amp; Space</button>
     <button class="news-filter-btn" onclick="filterNews('defense', this)">Defense</button>
     <button class="news-filter-btn" onclick="filterNews('engineering', this)">Mechanical Engineering</button>
-    <button class="news-refresh-btn" onclick="loadAllNews()">&#8635; Refresh</button>
+    <span class="news-updated-label" id="news-updated"></span>
   </div>
 
   <div class="news-grid" id="news-grid">
@@ -882,10 +877,11 @@
           + (item.snippet ? '<div class="news-card-snippet">' + item.snippet + '</div>' : '')
           + '</div>';
       });
+      html += '<div class="news-source-note">Sources: SpaceNews &middot; Defense News &middot; ScienceDaily</div>';
       if (updated) {
         const updatedStr = newsFormatDate(updated);
-        html += '<div class="news-source-note">Sources: SpaceNews &middot; Defense News &middot; ScienceDaily'
-          + (updatedStr ? ' &nbsp;&bull;&nbsp; Last updated: ' + updatedStr : '') + '</div>';
+        const label = document.getElementById('news-updated');
+        if (label && updatedStr) label.textContent = 'Updated ' + updatedStr;
       }
     }
     grid.innerHTML = html;
