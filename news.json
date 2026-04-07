@@ -1,7 +1,88 @@
 {
-  "updated": "2026-04-06T18:08:22.745614Z",
+  "updated": "2026-04-07T15:35:26.612567Z",
   "count": 56,
   "items": [
+    {
+      "title": "Starfish Space raises more than $100 million",
+      "link": "https://spacenews.com/starfish-space-raises-more-than-100-million/",
+      "pubDate": "2026-04-07T13:00:00Z",
+      "snippet": "Starfish Space has raised more than $100 million to scale up production of its satellite servicing spacecraft.\nThe post Starfish Space raises more than $100 million appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NASA\u2019s new moon base project requires operational technology systems in space, but they are vulnerable.",
+      "link": "https://spacenews.com/nasas-new-moon-base-project-requires-operational-technology-systems-in-space-but-they-are-vulnerable/",
+      "pubDate": "2026-04-07T13:00:00Z",
+      "snippet": "Newly anointed NASA Administrator Jared Isaacman made a $20 billion announcement on March 24, 2026. To the delight of space enthusiasts everywhere, Isaacman said NASA was cancelling its project to dep...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Nominate space industry leaders for the 2026 SpaceNews Icon Awards",
+      "link": "https://spacenews.com/nominate-space-industry-leaders-for-the-2026-spacenews-icon-awards/",
+      "pubDate": "2026-04-07T12:30:00Z",
+      "snippet": "Tell us about the innovators, collaborators and change-makers whose contributions have left a lasting mark on the sector\nThe post Nominate space industry leaders for the 2026 SpaceNews Icon Awards app...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Earth observation operators push to deliver satellite images within minutes",
+      "link": "https://spacenews.com/earth-observation-operators-push-to-deliver-satellite-images-within-minutes/",
+      "pubDate": "2026-04-07T11:00:00Z",
+      "snippet": "Vantor employees were gathered for a sales kickoff in January, when an executive announced that a WorldView Legion satellite passing overhead would snap a photo of the California venue. Later, a buzze...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Outpaced by the US, China\u2019s military places selective bets on artificial intelligence",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/04/07/outpaced-by-the-us-chinas-military-places-selective-bets-on-artificial-intelligence/",
+      "pubDate": "2026-04-07T09:57:38Z",
+      "snippet": "China may have surpassed the United States in AI for drone swarms, one Taiwan-based analyst said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Artemis 2 swings around the moon",
+      "link": "https://spacenews.com/artemis-2-swings-around-the-moon/",
+      "pubDate": "2026-04-07T01:51:44Z",
+      "snippet": "Four astronauts from the United States and Canada became the humans to travel the furthest from the Earth April 6 as they went around the moon on the Artemis 2 mission.\nThe post Artemis 2 swings aroun...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Israel to sell PULS systems to Greece for $750 million",
+      "link": "https://www.defensenews.com/global/mideast-africa/2026/04/06/israel-to-sell-puls-systems-to-greece-for-750-million/",
+      "pubDate": "2026-04-06T21:21:55Z",
+      "snippet": "The deal between the two countries includes dozens of launchers and rockets.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Moog Highlights Growing Satellite Bus Capabilities with Full\u2011Scale METEOR Reveal at Space Symposium",
+      "link": "https://spacenews.com/moog-highlights-growing-satellite-bus-capabilities-with-full-scale-meteor-reveal-at-space-symposium/",
+      "pubDate": "2026-04-06T19:19:49Z",
+      "snippet": "East Aurora, NY &#8212; Moog Inc. (NYSE: MOG.A and MOG.B), a worldwide designer, manufacturer and systems integrator of high-performance precision motion and fluid controls and control systems will hi...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "FOSSA targets Japan\u2019s defense market as larger smallsats expand capabilities",
+      "link": "https://spacenews.com/fossa-targets-japans-defense-market-as-larger-smallsats-expand-capabilities/",
+      "pubDate": "2026-04-06T18:57:46Z",
+      "snippet": "Spanish startup FOSSA Systems is pushing into Japan\u2019s defense market after securing a local partner to expand its reach, building on a shift beyond tiny picosatellites used to connect low-power monito...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Ukraine missile maker targets \u2018game changer\u2019 air defense system by 2027",
       "link": "https://www.defensenews.com/industry/techwatch/2026/04/06/ukraine-missile-maker-targets-game-changer-air-defense-system-by-2027/",
@@ -174,42 +255,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Europe\u2019s strategic autonomy in space will define its role in the \u2018second space age\u2019",
-      "link": "https://spacenews.com/europes-strategic-autonomy-in-space-will-define-its-role-in-the-second-space-age/",
-      "pubDate": "2026-04-03T11:00:00Z",
-      "snippet": "Europe\u2019s future in space really boils down to one question: can it stay ahead without relying on technology made somewhere else? As we step into what experts call the \u201csecond space age,\u201d strategic aut...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "China\u2019s commercial Tianlong-3 rocket fails on debut launch",
-      "link": "https://spacenews.com/chinas-commercial-tianlong-3-rocket-fails-on-debut-launch/",
-      "pubDate": "2026-04-03T09:55:37Z",
-      "snippet": "The first launch of the Tianlong-3 rocket from Chinese commercial firm Space Pioneer failed Friday after suffering an anomaly in its ascent phase.\nThe post China\u2019s commercial Tianlong-3 rocket fails o...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Artemis 2 heads to the moon",
-      "link": "https://spacenews.com/artemis-2-heads-to-the-moon/",
-      "pubDate": "2026-04-03T02:30:13Z",
-      "snippet": "NASA\u2019s Artemis 2 mission is on its way to the moon after a successful maneuver April 2.\nThe post Artemis 2 heads to the moon appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Swift spacecraft reorientation buys time for reboost mission",
-      "link": "https://spacenews.com/swift-spacecraft-reorientation-buys-time-for-reboost-mission/",
-      "pubDate": "2026-04-02T23:35:06Z",
-      "snippet": "NASA modified operations of an astrophysics spacecraft in a decaying orbit to buy more time for a mission later this year that will attempt to raise its orbit.\nThe post Swift spacecraft reorientation ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Hegseth asks Army\u2019s top general to retire, fires two others as Iran war rages",
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/02/hegseth-asks-armys-top-general-to-retire-immediately-as-iran-war-rages/",
       "pubDate": "2026-04-02T22:25:12Z",
@@ -219,24 +264,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Former Sierra Space CEO Tom Vice to lead Astrion",
-      "link": "https://spacenews.com/former-sierra-space-ceo-tom-vice-to-lead-astrion/",
-      "pubDate": "2026-04-02T20:44:39Z",
-      "snippet": "Huntsville-based defense contractor focuses on systems engineering and integration, and space mission assurance\nThe post Former Sierra Space CEO Tom Vice to lead Astrion\u00a0 appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Optical terminals still a bottleneck in Pentagon\u2019s proliferated constellation",
-      "link": "https://spacenews.com/optical-terminals-still-a-bottleneck-in-pentagons-proliferated-constellation/",
-      "pubDate": "2026-04-02T19:39:49Z",
-      "snippet": "GP Sandhoo: \u2018From an optical communications terminal perspective, we\u2019re not there yet on how many we need\u2019\nThe post Optical terminals still a bottleneck in Pentagon\u2019s proliferated constellation appear...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Golden Dome, ships and missiles top Trump\u2019s $1.5 trillion defense wish list",
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/02/golden-dome-ships-and-missiles-top-trumps-15-trillion-defense-wish-list/",
       "pubDate": "2026-04-02T19:09:10Z",
@@ -244,15 +271,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon awards Raytheon $45 million for GPS ground system as program future is reassessed",
-      "link": "https://spacenews.com/pentagon-awards-raytheon-45-million-for-gps-ground-system-as-program-future-is-reassessed/",
-      "pubDate": "2026-04-02T17:17:43Z",
-      "snippet": "The \u2018unpriced change order\u2019 supports satellite launches while officials reassess long-delayed ground system\nThe post Pentagon awards Raytheon $45 million for GPS ground system as program future is rea...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Money starts flowing for new GCAP fighter, as Britain sorts out finances",
@@ -304,24 +322,6 @@
       "link": "https://www.defensenews.com/news/your-military/2026/04/01/infrastructure-is-the-weapon-inside-the-race-to-build-portable-interceptor-factories/",
       "pubDate": "2026-04-01T13:50:03Z",
       "snippet": "As the Iran war drives global demand for interceptor drones, defense startups are betting they can fit a production line into a shipping container.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "\u2018Ukrainian housewives\u2019 and Skyranger delays \u2013 German defense poster child Rheinmetall is in hot water",
-      "link": "https://www.defensenews.com/global/europe/2026/04/01/ukrainian-housewives-and-skyranger-delays-german-defense-poster-child-rheinmetall-is-in-hot-water/",
-      "pubDate": "2026-04-01T10:03:47Z",
-      "snippet": "In October, company CEO Armin Papperger had already called into question the importance of drones in the war in Ukraine.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Italy turns away Middle East-bound US military aircraft from Sicily stopover",
-      "link": "https://www.defensenews.com/global/europe/2026/03/31/italy-turns-away-middle-east-bound-us-military-aircraft-from-sicily-stopover/",
-      "pubDate": "2026-03-31T14:47:13Z",
-      "snippet": "Use of the Sigonella air base for the U.S.-Israeli war against Iran falls outside of the scope of agreements, requiring parliamentary approval in Rome.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
