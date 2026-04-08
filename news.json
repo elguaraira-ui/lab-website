@@ -1,7 +1,160 @@
 {
-  "updated": "2026-04-07T15:35:26.612567Z",
-  "count": 56,
+  "updated": "2026-04-08T14:59:54.590724Z",
+  "count": 55,
   "items": [
+    {
+      "title": "April 30: Opportunities for On-Orbit Computing",
+      "link": "https://spacenews.com/opportunities-for-on-orbit-computing-event/",
+      "pubDate": "2026-04-08T14:31:45Z",
+      "snippet": "Join us in Washington, D.C., for the next event in our orbital data centers series\nThe post April 30: Opportunities for On-Orbit Computing appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Polish firm teams with Northrop, ST Engineering to tap Poland\u2019s massive ammo spending",
+      "link": "https://www.defensenews.com/global/europe/2026/04/08/polish-firm-teams-with-northrop-st-engineering-to-tap-polands-massive-ammo-spending/",
+      "pubDate": "2026-04-08T14:12:29Z",
+      "snippet": "Global defense firms are flocking to eastern and central Europe in hopes of capturing a multibillion-dollar market for equipping local ground forces.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Tracking the next SDA challenge",
+      "link": "https://spacenews.com/tracking-the-next-sda-challenge/",
+      "pubDate": "2026-04-08T14:00:00Z",
+      "snippet": "A flurry of commercial innovation has left the U.S. government with no shortage of sensors and AI-driven insights to monitor the increasingly packed and contested space environment. The challenge is [...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Preparing for the next NASA budget battle",
+      "link": "https://spacenews.com/preparing-for-the-next-nasa-budget-battle/",
+      "pubDate": "2026-04-08T14:00:00Z",
+      "snippet": "When Congress passed a fiscal year 2026 \u201cminibus\u201d appropriations bill in January, much of the space community breathed a sigh of relief. Congress had rejected the steep cuts proposed by the Trump admi...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "A lunar base or a lunar economy?",
+      "link": "https://spacenews.com/a-lunar-base-or-a-lunar-economy/",
+      "pubDate": "2026-04-08T13:00:00Z",
+      "snippet": "We applaud the lunar base vision laid out by NASA Administrator Jared Isaacman on March 24. Placing this stake in the lunar regolith is long overdue. What is missing from the mission architecture, how...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "LeoLabs debuts space monitoring tool for military users",
+      "link": "https://spacenews.com/leolabs-debuts-space-monitoring-tool-for-military-users/",
+      "pubDate": "2026-04-08T13:00:00Z",
+      "snippet": "LeoLabs \u2018Delta\u2019 moves beyond collision warnings to identify potential adversarial activity\nThe post LeoLabs debuts space monitoring tool for military users appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Industry navigates NASA\u2019s start-and-stop approach to commercial space stations",
+      "link": "https://spacenews.com/industry-navigates-nasas-start-and-stop-approach-to-commercial-space-stations/",
+      "pubDate": "2026-04-08T11:00:00Z",
+      "snippet": "(Note: This article went to press for the April issue of SpaceNews Magazine before NASA announced potential changes to the CLD program.) NASA signaled last summer it planned to accelerate efforts to r...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Artemis 2 science gets underway as Orion begins its return trip",
+      "link": "https://spacenews.com/artemis-2-science-gets-underway-as-orion-begins-its-return-trip/",
+      "pubDate": "2026-04-08T10:23:16Z",
+      "snippet": "As Artemis 2 begins its return to Earth, scientists are just starting to review the images and observations taken by the crew as they flew around the moon.\nThe post Artemis 2 science gets underway as ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Capella Space wins $49 million contract for military communications satellite demo",
+      "link": "https://spacenews.com/capella-space-wins-49-million-contract-for-military-communications-satellite-demo/",
+      "pubDate": "2026-04-08T10:21:52Z",
+      "snippet": "The contract was awarded by the Space Development Agency for 2027 demonstrations\nThe post Capella Space wins $49 million contract for military communications satellite demo appeared first on SpaceNews...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Space security moves to forefront as threats to satellites spread",
+      "link": "https://spacenews.com/space-security-moves-to-forefront-as-threats-to-satellites-spread/",
+      "pubDate": "2026-04-08T10:00:00Z",
+      "snippet": "Secure World Foundation report highlights growing reliance on orbiting systems and spread of interference technologies\nThe post Space security moves to forefront as threats to satellites spread appear...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Inspection cubesat demo planned as first step toward orbital defense mothership",
+      "link": "https://spacenews.com/inspection-cubesat-demo-planned-as-first-step-toward-orbital-defense-mothership/",
+      "pubDate": "2026-04-08T08:00:00Z",
+      "snippet": "Bulgarian satellite maker EnduroSat and British defense tech startup Shield Space aim to deploy a cubesat next year capable of maneuvering near other satellites for inspection, ahead of plans to devel...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Astroscale passes key design milestone for UK military space-tracking cubesats",
+      "link": "https://spacenews.com/astroscale-passes-key-design-milestone-for-uk-military-space-tracking-cubesats/",
+      "pubDate": "2026-04-08T07:00:00Z",
+      "snippet": "Astroscale has completed the critical design review for two cubesats slated to launch next year to help the British military monitor space weather and track objects in LEO.\nThe post Astroscale passes ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Russia supplies Iran with cyber support, spy imagery to hone attacks, Ukraine says",
+      "link": "https://www.defensenews.com/flashpoints/middle-east/2026/04/07/russia-supplies-iran-with-cyber-support-spy-imagery-to-hone-attacks-ukraine-says/",
+      "pubDate": "2026-04-07T21:12:52Z",
+      "snippet": "Russian satellites have made detailed imagery surveys of military facilities to help Iran strike U.S. forces, according to a Ukrainian intel assessment.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Hungary taps Northrop Grumman for first national geostationary communications satellite",
+      "link": "https://spacenews.com/hungary-taps-northrop-grumman-for-first-national-geostationary-communications-satellite/",
+      "pubDate": "2026-04-07T19:48:42Z",
+      "snippet": "Hungary\u2019s defense and space tech contractor 4iG also announced deals with L3Harris and Apex for defense systems and satellite manufacturing\nThe post Hungary taps Northrop Grumman for first national ge...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Navy seeks 1,200% increase in Tomahawk missile procurement for 2027",
+      "link": "https://www.defensenews.com/news/your-navy/2026/04/07/us-navy-seeks-1200-increase-in-tomahawk-missile-procurement-for-2027/",
+      "pubDate": "2026-04-07T19:38:51Z",
+      "snippet": "The U.S. Navy is requesting $3 billion to replenish its stockpile of Tomahawk missiles that have been depleted over the course of the Iran war.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Trump\u2019s VA budget request tops $488 billion for fiscal 2027",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/07/trumps-va-budget-request-tops-488-billion-for-fiscal-2027/",
+      "pubDate": "2026-04-07T19:37:03Z",
+      "snippet": "The Department of Veterans Affairs would see its budget increase by 7.7% in fiscal 2027 under the White House\u2019s proposed $2.2 trillion budget.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Iran\u2019s other would-be WMD program lies in ruins following strikes by Israel and the US",
+      "link": "https://www.defensenews.com/global/mideast-africa/2026/04/07/irans-other-would-be-wmd-program-lies-in-ruins-following-strikes-by-israel-and-the-us/",
+      "pubDate": "2026-04-07T15:51:32Z",
+      "snippet": "\u201cIt almost seems like an afterthought and lower priority to the war planners,\u201d said Jim Lamson, a former Iran analyst for the CIA of 23 years.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Starfish Space raises more than $100 million",
       "link": "https://spacenews.com/starfish-space-raises-more-than-100-million/",
@@ -111,51 +264,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Seagate Space Signs MOU with Firefly Aerospace to Collaborate on Offshore Launch Infrastructure for Alpha",
-      "link": "https://spacenews.com/seagate-space-signs-mou-with-firefly-aerospace-to-collaborate-on-offshore-launch-infrastructure-for-alpha/",
-      "pubDate": "2026-04-06T12:15:00Z",
-      "snippet": "St. Petersburg, FL \u2014 April 6, 2026&#160;\u2014 Seagate Space Corporation announced today a Memorandum of Understanding (MOU) with Firefly Aerospace to collaborate on the development of an offshore launch p...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Military space programs confront hidden supply constraints",
-      "link": "https://spacenews.com/military-space-confronts-hidden-supplier-constraints/",
-      "pubDate": "2026-04-06T11:30:00Z",
-      "snippet": "Industry report warns components \u2013 from optical links to valves \u2013 may become chokepoints\nThe post Military space programs confront hidden supply constraints appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Artemis 2 ready to fly around the moon",
-      "link": "https://spacenews.com/artemis-2-ready-to-fly-around-the-moon/",
-      "pubDate": "2026-04-06T11:21:26Z",
-      "snippet": "The Artemis 2 mission will swing around the moon April 6, setting a distance record as astronauts study part of the lunar farside.\nThe post Artemis 2 ready to fly around the moon appeared first on Spa...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Isaacman defends NASA budget proposal despite steep cuts",
-      "link": "https://spacenews.com/isaacman-defends-nasa-budget-proposal-despite-steep-cuts/",
-      "pubDate": "2026-04-05T22:20:09Z",
-      "snippet": "NASA Administrator Jared Isaacman defended a fiscal year 2027 budget proposal that would cut the agency\u2019s budget by nearly 25%.\nThe post Isaacman defends NASA budget proposal despite steep cuts appear...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NASA stops work on SLS Mobile Launcher 2",
-      "link": "https://spacenews.com/nasa-stops-work-on-sls-mobile-launcher-2/",
-      "pubDate": "2026-04-05T20:29:48Z",
-      "snippet": "NASA has stopped work on a second mobile launch platform intended for an upgraded version of the Space Launch System the agency no longer plans to develop.\nThe post NASA stops work on SLS Mobile Launc...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "US special forces rescue second F-15 airman from Iran",
       "link": "https://www.defensenews.com/news/your-military/2026/04/05/us-special-forces-rescue-f-15-airman-from-iran/",
       "pubDate": "2026-04-05T13:40:03Z",
@@ -163,51 +271,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "NASA finalizes science plans for Artemis 2 lunar flyby",
-      "link": "https://spacenews.com/nasa-finalizes-science-plans-for-artemis-2-lunar-flyby/",
-      "pubDate": "2026-04-05T03:29:58Z",
-      "snippet": "As Artemis 2 approaches the moon, a NASA science team is finalizing plans for the observations they want the astronauts to perform during their flyby.\nThe post NASA finalizes science plans for Artemis...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Atlas 5 launches Amazon Leo satellites",
-      "link": "https://spacenews.com/atlas-5-launches-amazon-leo-satellites/",
-      "pubDate": "2026-04-04T20:27:36Z",
-      "snippet": "An Atlas 5 launched the latest set of satellites for Amazon\u2019s broadband constellation April 4 as the company seeks to accelerate deployment of its spacecraft.\nThe post Atlas 5 launches Amazon Leo sate...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Space Force budget would more than double in Trump\u2019s $1.5 trillion defense plan",
-      "link": "https://spacenews.com/space-force-budget-would-more-than-double-in-trumps-1-5-trillion-defense-plan/",
-      "pubDate": "2026-04-04T16:30:36Z",
-      "snippet": "$71 billion request for the U.S. Space Force for fiscal year 2027 includes more than $60 billion for procurement, research and development\nThe post Space Force budget would more than double in Trump\u2019s...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Artemis 2 in good shape cruising towards the moon",
-      "link": "https://spacenews.com/artemis-2-in-good-shape-cruising-towards-the-moon/",
-      "pubDate": "2026-04-04T01:18:26Z",
-      "snippet": "A day after lighting its engine to head to the moon, the Artemis 2 Orion spacecraft is performing well with only minor issues.\nThe post Artemis 2 in good shape cruising towards the moon appeared first...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Italy\u2019s Argotec plans to scale Florida satellite facility to meet rising US demand",
-      "link": "https://spacenews.com/italys-argotec-plans-to-scale-florida-satellite-facility-to-meet-rising-us-demand/",
-      "pubDate": "2026-04-03T17:33:12Z",
-      "snippet": "Italy\u2019s Argotec has officially opened its first U.S. satellite production facility, cementing a foothold near Kennedy Space Center in Florida to join other foreign space firms pursuing growing demand ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Trump seeks to double number of ship requests with 2027 defense budget",
@@ -237,24 +300,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "White House again proposes steep NASA budget cuts",
-      "link": "https://spacenews.com/white-house-again-proposes-steep-nasa-budget-cuts/",
-      "pubDate": "2026-04-03T15:15:01Z",
-      "snippet": "For the second consecutive year, the White House is proposing a major budget cut for NASA that would significantly impact the agency\u2019s science programs and the International Space Station.\nThe post Wh...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "SpaceX and Amazon spar over satellite deployments",
-      "link": "https://spacenews.com/spacex-and-amazon-spar-over-satellite-deployments/",
-      "pubDate": "2026-04-03T11:41:46Z",
-      "snippet": "Amazon says it will revise deployment plans for its broadband satellite constellation while denying claims from SpaceX that its current approach represents a space safety risk.\nThe post SpaceX and Ama...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Hegseth asks Army\u2019s top general to retire, fires two others as Iran war rages",
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/02/hegseth-asks-armys-top-general-to-retire-immediately-as-iran-war-rages/",
       "pubDate": "2026-04-02T22:25:12Z",
@@ -268,60 +313,6 @@
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/02/golden-dome-ships-and-missiles-top-trumps-15-trillion-defense-wish-list/",
       "pubDate": "2026-04-02T19:09:10Z",
       "snippet": "Trump is set to unveil the fiscal 2027 defense budget request on Friday.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Money starts flowing for new GCAP fighter, as Britain sorts out finances",
-      "link": "https://www.defensenews.com/global/europe/2026/04/02/money-starts-flowing-for-new-gcap-fighter-as-britain-sorts-out-finances/",
-      "pubDate": "2026-04-02T14:56:15Z",
-      "snippet": "A source on the program told Defense News the new contract is a \u201cbridge\u201d allowing work to continue until the end of June.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Swedish arms maker to set up major ammunition plant in Estonia",
-      "link": "https://www.defensenews.com/global/europe/2026/04/02/swedish-arms-maker-to-set-up-major-ammunition-plant-in-estonia/",
-      "pubDate": "2026-04-02T11:40:17Z",
-      "snippet": "Estonian Defense Minister Hanno Pevkur said the company had been promised confidentiality until contracts are signed, local broadcaster ERR reported.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Is the US running out of Tomahawk missiles? Here\u2019s what the experts say",
-      "link": "https://www.defensenews.com/news/your-military/2026/04/01/is-the-us-running-out-of-tomahawk-missiles-heres-what-the-experts-say/",
-      "pubDate": "2026-04-01T19:46:25Z",
-      "snippet": "The United States has purportedly launched at least 850 Tomahawk long-range cruise missiles just over one month into Operation Epic Fury.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Iranian strikes target the infrastructure behind US airpower",
-      "link": "https://www.defensenews.com/global/mideast-africa/2026/04/01/iranian-strikes-target-the-infrastructure-behind-us-airpower/",
-      "pubDate": "2026-04-01T18:51:05Z",
-      "snippet": "Iran has struck radar systems, satellite communications and mission-critical aircraft at US bases across Bahrain, Qatar, Kuwait, Saudi Arabia and the UAE.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon, Boeing agree to triple PAC-3 seeker production",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/04/01/pentagon-boeing-agree-to-triple-pac-3-seeker-production/",
-      "pubDate": "2026-04-01T15:23:48Z",
-      "snippet": "The contract framework, which will be spread across seven years, will match Lockheed Martin\u2019s push to surge production on the PAC-3 MSE all-up round.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "\u2018Infrastructure is the weapon\u2019: Inside the race to build portable interceptor factories",
-      "link": "https://www.defensenews.com/news/your-military/2026/04/01/infrastructure-is-the-weapon-inside-the-race-to-build-portable-interceptor-factories/",
-      "pubDate": "2026-04-01T13:50:03Z",
-      "snippet": "As the Iran war drives global demand for interceptor drones, defense startups are betting they can fit a production line into a shipping container.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
