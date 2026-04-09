@@ -1,7 +1,151 @@
 {
-  "updated": "2026-04-08T14:59:54.590724Z",
-  "count": 55,
+  "updated": "2026-04-09T16:07:04.100302Z",
+  "count": 57,
   "items": [
+    {
+      "title": "Heather Pringle on the upcoming Space Symposium and future international collaboration in space",
+      "link": "https://spacenews.com/heather-pringle-on-the-upcoming-space-symposium-and-future-international-collaboration-in-space/",
+      "pubDate": "2026-04-09T14:59:11Z",
+      "snippet": "In this episode of the Space Minds podcast, SpaceNews\u2019 Mike Gruss interviews Heather Pringle, a retired Major General of the US Air Force who is now the CEO of the [&#8230;]\nThe post Heather Pringle o...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "UK says it deployed military to deter Russian submarines from attack on undersea cables",
+      "link": "https://www.defensenews.com/global/europe/2026/04/09/uk-says-it-deployed-military-to-deter-russian-submarines-from-attack-on-undersea-cables/",
+      "pubDate": "2026-04-09T14:55:55Z",
+      "snippet": "Norway\u2019s defense ministry said its armed forces had also deployed a P-8 maritime patrol aircraft and a frigate.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "China conducts pair of Long March launches for Thousand Sails and Guowang megaconstellations",
+      "link": "https://spacenews.com/china-conducts-pair-of-long-march-launches-for-thousand-sails-and-guowang-megaconstellations/",
+      "pubDate": "2026-04-09T14:23:45Z",
+      "snippet": "China carried out separate Long March 8 and Long March 6A launches this week, adding new batches of satellites to the country\u2019s megaconstellation projects.\nThe post China conducts pair of Long March l...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "A new kind of arsenal: commercial satellites",
+      "link": "https://spacenews.com/a-new-kind-of-arsenal-commercial-satellites/",
+      "pubDate": "2026-04-09T14:00:00Z",
+      "snippet": "he Pentagon is no longer asking whether commercial space will matter in future conflicts. It is building a strategy around the assumption that it will.\nThe post A new kind of arsenal: commercial satel...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Pentagon\u2019s ouster of Anthropic opens\u00a0doors for small AI rivals",
+      "link": "https://www.defensenews.com/pentagon/2026/04/09/pentagons-ouster-of-anthropic-opens-doors-for-small-ai-rivals/",
+      "pubDate": "2026-04-09T13:38:25Z",
+      "snippet": "Small defense industry artificial intelligence startups are suddenly fielding calls from generals, combatant commanders and deep-pocketed investors.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "What returning to lunar space means for human health",
+      "link": "https://spacenews.com/what-returning-to-lunar-space-means-for-human-health/",
+      "pubDate": "2026-04-09T13:00:00Z",
+      "snippet": "Preparing to send astronauts back to the moon is no small feat. Spaceflight exposes the body to both known and unknown risks, some of which are subtle, cumulative, and difficult to predict. When human...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Portal Space Systems raises $50 million to accelerate spacecraft development",
+      "link": "https://spacenews.com/portal-space-systems-raises-50-million-to-accelerate-spacecraft-development/",
+      "pubDate": "2026-04-09T13:00:00Z",
+      "snippet": "Space mobility company Portal Space Systems has raised $50 million to scale up development of its highly maneuverable spacecraft.\nThe post Portal Space Systems raises $50 million to accelerate spacecr...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Researchers propose \u2018rewilding\u2019 Europe\u2019s borderlands to repel enemies",
+      "link": "https://www.defensenews.com/global/europe/2026/04/09/researchers-propose-rewilding-europes-borderlands-to-repel-enemies/",
+      "pubDate": "2026-04-09T12:26:55Z",
+      "snippet": "Restored wetlands and peat bogs can create natural barriers for invading forces while contributing to climate resilience, according to a new report.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Space Force taps 14 firms for $1.8 billion GEO surveillance program",
+      "link": "https://spacenews.com/space-force-taps-14-firms-for-1-8-billion-geo-surveillance-program/",
+      "pubDate": "2026-04-09T11:26:24Z",
+      "snippet": "The companies will compete for contracts to build \u2018neighborhood watch\u2019 satellites\nThe post Space Force taps 14 firms for $1.8 billion GEO surveillance program appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Albedo prepares second VLEO mission for 2027 launch",
+      "link": "https://spacenews.com/albedo-prepares-second-vleo-mission-for-2027-launch/",
+      "pubDate": "2026-04-09T11:00:00Z",
+      "snippet": "SAN FRANCISCO \u2013 Albedo, the former Earth-observation startup now focused on satellite manufacturing, announced plans April 9 to send its second spacecraft into very low-Earth orbit (VLEO). Vicinity, s...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Lockheed Martin wins $105 million contract for GPS ground control system as OCX winds down",
+      "link": "https://spacenews.com/lockheed-martin-wins-105-million-contract-for-gps-ground-control-system-as-ocx-winds-down/",
+      "pubDate": "2026-04-09T10:26:44Z",
+      "snippet": "The contract supports next-generation GPS IIIF satellites through 2030\nThe post Lockheed Martin wins $105 million contract for GPS ground control system as OCX winds down appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Vantor to expand imaging satellite fleet, adding smallsats to increase revisit rates",
+      "link": "https://spacenews.com/vantor-to-expand-imaging-satellite-fleet-adding-smallsats-to-increase-revisit-rates/",
+      "pubDate": "2026-04-09T10:00:00Z",
+      "snippet": "The new architecture combines high resolution with rapid revisit\nThe post Vantor to expand imaging satellite fleet, adding smallsats to increase revisit rates appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "France mulls fallback tank for delayed MGCS program in defense update",
+      "link": "https://www.defensenews.com/global/europe/2026/04/09/france-mulls-fallback-tank-for-delayed-mgcs-program-in-defense-update/",
+      "pubDate": "2026-04-09T09:32:18Z",
+      "snippet": "The delay for the MGCS project is due to Germany deciding to start a program for new Leopard 3 tanks, according to Vautrin.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Apex to develop larger satellites for missile defense, space-based computing",
+      "link": "https://spacenews.com/apex-to-develop-larger-satellites-for-missile-defense-space-based-computing/",
+      "pubDate": "2026-04-09T09:00:00Z",
+      "snippet": "\u2018Comet Mini\u2019 and \u2018Comet XL\u2019 target energy-intensive missions \nThe post Apex to develop larger satellites for missile defense, space-based computing appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Improved thresholds and SSA accuracy can reduce most satellite collision risk",
+      "link": "https://spacenews.com/improved-thresholds-and-ssa-accuracy-can-reduce-most-satellite-collision-risk/",
+      "pubDate": "2026-04-08T20:15:46Z",
+      "snippet": "Improving the accuracy of space situational awareness data and using tighter thresholds for potential conjunctions can help retire most satellite collision risk in LEO, a new study concludes.\nThe post...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Space Sovereignty Is No Longer Optional",
+      "link": "https://spacenews.com/space-sovereignty-is-no-longer-optional/",
+      "pubDate": "2026-04-08T17:50:50Z",
+      "snippet": "A Critical Infrastructure Under Strain Space has quietly become the infrastructure beneath modern life. From financial transactions synchronised by satellite timing to military operations reliant on s...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "April 30: Opportunities for On-Orbit Computing",
       "link": "https://spacenews.com/opportunities-for-on-orbit-computing-event/",
@@ -84,33 +228,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Space security moves to forefront as threats to satellites spread",
-      "link": "https://spacenews.com/space-security-moves-to-forefront-as-threats-to-satellites-spread/",
-      "pubDate": "2026-04-08T10:00:00Z",
-      "snippet": "Secure World Foundation report highlights growing reliance on orbiting systems and spread of interference technologies\nThe post Space security moves to forefront as threats to satellites spread appear...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Inspection cubesat demo planned as first step toward orbital defense mothership",
-      "link": "https://spacenews.com/inspection-cubesat-demo-planned-as-first-step-toward-orbital-defense-mothership/",
-      "pubDate": "2026-04-08T08:00:00Z",
-      "snippet": "Bulgarian satellite maker EnduroSat and British defense tech startup Shield Space aim to deploy a cubesat next year capable of maneuvering near other satellites for inspection, ahead of plans to devel...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Astroscale passes key design milestone for UK military space-tracking cubesats",
-      "link": "https://spacenews.com/astroscale-passes-key-design-milestone-for-uk-military-space-tracking-cubesats/",
-      "pubDate": "2026-04-08T07:00:00Z",
-      "snippet": "Astroscale has completed the critical design review for two cubesats slated to launch next year to help the British military monitor space weather and track objects in LEO.\nThe post Astroscale passes ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Russia supplies Iran with cyber support, spy imagery to hone attacks, Ukraine says",
       "link": "https://www.defensenews.com/flashpoints/middle-east/2026/04/07/russia-supplies-iran-with-cyber-support-spy-imagery-to-hone-attacks-ukraine-says/",
       "pubDate": "2026-04-07T21:12:52Z",
@@ -118,15 +235,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Hungary taps Northrop Grumman for first national geostationary communications satellite",
-      "link": "https://spacenews.com/hungary-taps-northrop-grumman-for-first-national-geostationary-communications-satellite/",
-      "pubDate": "2026-04-07T19:48:42Z",
-      "snippet": "Hungary\u2019s defense and space tech contractor 4iG also announced deals with L3Harris and Apex for defense systems and satellite manufacturing\nThe post Hungary taps Northrop Grumman for first national ge...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "US Navy seeks 1,200% increase in Tomahawk missile procurement for 2027",
@@ -156,42 +264,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Starfish Space raises more than $100 million",
-      "link": "https://spacenews.com/starfish-space-raises-more-than-100-million/",
-      "pubDate": "2026-04-07T13:00:00Z",
-      "snippet": "Starfish Space has raised more than $100 million to scale up production of its satellite servicing spacecraft.\nThe post Starfish Space raises more than $100 million appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NASA\u2019s new moon base project requires operational technology systems in space, but they are vulnerable.",
-      "link": "https://spacenews.com/nasas-new-moon-base-project-requires-operational-technology-systems-in-space-but-they-are-vulnerable/",
-      "pubDate": "2026-04-07T13:00:00Z",
-      "snippet": "Newly anointed NASA Administrator Jared Isaacman made a $20 billion announcement on March 24, 2026. To the delight of space enthusiasts everywhere, Isaacman said NASA was cancelling its project to dep...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Nominate space industry leaders for the 2026 SpaceNews Icon Awards",
-      "link": "https://spacenews.com/nominate-space-industry-leaders-for-the-2026-spacenews-icon-awards/",
-      "pubDate": "2026-04-07T12:30:00Z",
-      "snippet": "Tell us about the innovators, collaborators and change-makers whose contributions have left a lasting mark on the sector\nThe post Nominate space industry leaders for the 2026 SpaceNews Icon Awards app...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Earth observation operators push to deliver satellite images within minutes",
-      "link": "https://spacenews.com/earth-observation-operators-push-to-deliver-satellite-images-within-minutes/",
-      "pubDate": "2026-04-07T11:00:00Z",
-      "snippet": "Vantor employees were gathered for a sales kickoff in January, when an executive announced that a WorldView Legion satellite passing overhead would snap a photo of the California venue. Later, a buzze...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Outpaced by the US, China\u2019s military places selective bets on artificial intelligence",
       "link": "https://www.defensenews.com/global/asia-pacific/2026/04/07/outpaced-by-the-us-chinas-military-places-selective-bets-on-artificial-intelligence/",
       "pubDate": "2026-04-07T09:57:38Z",
@@ -201,15 +273,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Artemis 2 swings around the moon",
-      "link": "https://spacenews.com/artemis-2-swings-around-the-moon/",
-      "pubDate": "2026-04-07T01:51:44Z",
-      "snippet": "Four astronauts from the United States and Canada became the humans to travel the furthest from the Earth April 6 as they went around the moon on the Artemis 2 mission.\nThe post Artemis 2 swings aroun...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Israel to sell PULS systems to Greece for $750 million",
       "link": "https://www.defensenews.com/global/mideast-africa/2026/04/06/israel-to-sell-puls-systems-to-greece-for-750-million/",
       "pubDate": "2026-04-06T21:21:55Z",
@@ -217,24 +280,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Moog Highlights Growing Satellite Bus Capabilities with Full\u2011Scale METEOR Reveal at Space Symposium",
-      "link": "https://spacenews.com/moog-highlights-growing-satellite-bus-capabilities-with-full-scale-meteor-reveal-at-space-symposium/",
-      "pubDate": "2026-04-06T19:19:49Z",
-      "snippet": "East Aurora, NY &#8212; Moog Inc. (NYSE: MOG.A and MOG.B), a worldwide designer, manufacturer and systems integrator of high-performance precision motion and fluid controls and control systems will hi...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "FOSSA targets Japan\u2019s defense market as larger smallsats expand capabilities",
-      "link": "https://spacenews.com/fossa-targets-japans-defense-market-as-larger-smallsats-expand-capabilities/",
-      "pubDate": "2026-04-06T18:57:46Z",
-      "snippet": "Spanish startup FOSSA Systems is pushing into Japan\u2019s defense market after securing a local partner to expand its reach, building on a shift beyond tiny picosatellites used to connect low-power monito...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Ukraine missile maker targets \u2018game changer\u2019 air defense system by 2027",
@@ -253,15 +298,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "The\u00a0moon\u00a0base\u00a0has\u00a0a\u00a0hardware\u00a0plan. It\u00a0needs\u00a0a\u00a0software\u00a0strategy,\u00a0too.",
-      "link": "https://spacenews.com/the-moon-base-has-a-hardware-plan-it-needs-a-software-strategy-too/",
-      "pubDate": "2026-04-06T13:00:00Z",
-      "snippet": "Early in my career at SpaceX, I was the only person dedicated to training the mission control team for Dragon. For three years, I built the training for the operations team. The documentation came sec...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "US special forces rescue second F-15 airman from Iran",
@@ -295,24 +331,6 @@
       "link": "https://www.defensenews.com/global/asia-pacific/2026/04/03/india-to-acquire-more-air-defense-systems-and-drones-for-modern-warfare/",
       "pubDate": "2026-04-03T15:43:12Z",
       "snippet": "India will boost its inventory of Russian S-400 air defense systems, which were deemed effective during last year's brief war with Pakistan.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Hegseth asks Army\u2019s top general to retire, fires two others as Iran war rages",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/02/hegseth-asks-armys-top-general-to-retire-immediately-as-iran-war-rages/",
-      "pubDate": "2026-04-02T22:25:12Z",
-      "snippet": "The Pentagon intends to replace him with a leader aligned with Hegseth and President Donald Trump\u2019s vision for the Army, an official told Military Times.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Golden Dome, ships and missiles top Trump\u2019s $1.5 trillion defense wish list",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/02/golden-dome-ships-and-missiles-top-trumps-15-trillion-defense-wish-list/",
-      "pubDate": "2026-04-02T19:09:10Z",
-      "snippet": "Trump is set to unveil the fiscal 2027 defense budget request on Friday.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
