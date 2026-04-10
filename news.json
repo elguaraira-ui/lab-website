@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-09T16:07:04.100302Z",
-  "count": 57,
+  "updated": "2026-04-10T14:35:23.205054Z",
+  "count": 54,
   "items": [
+    {
+      "title": "Gravitational waves may be hidden in the light atoms emit",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260409101109.htm",
+      "pubDate": "2026-04-10T13:43:52Z",
+      "snippet": "Scientists have proposed a surprising new way to detect gravitational waves\u2014by observing how they change the light emitted by atoms. These waves can subtly shift photon frequencies in different direct...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "These cheap solar cells work better because they\u2019re flawed",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260409101104.htm",
+      "pubDate": "2026-04-10T13:03:47Z",
+      "snippet": "Perovskite solar cells shouldn\u2019t work as well as they do\u2014but they do. Scientists have now discovered that defects inside the material actually help, creating networks that separate and guide electric ...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Commerce Department budget proposal revives concerns about TraCSS",
+      "link": "https://spacenews.com/commerce-department-budget-proposal-revives-concerns-about-tracss/",
+      "pubDate": "2026-04-10T12:10:21Z",
+      "snippet": "A budget proposal for the Department of Commerce raises new doubts about the future of a civil space traffic management system under development there.\nThe post Commerce Department budget proposal rev...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "China\u2019s Chang\u2019e-7 arrives at spaceport for lunar south pole exploration mission",
+      "link": "https://spacenews.com/chinas-change-7-arrives-at-spaceport-for-lunar-south-pole-exploration-mission/",
+      "pubDate": "2026-04-10T11:52:13Z",
+      "snippet": "China\u2019s multi-element Chang\u2019e-7 lunar spacecraft has arrived at Wenchang spaceport for launch preparations ahead of a planned liftoff in the second half of 2026.\nThe post China\u2019s Chang\u2019e-7 arrives at ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NASA prepares for Artemis 2 return",
+      "link": "https://spacenews.com/nasa-prepares-for-artemis-2-return/",
+      "pubDate": "2026-04-10T11:31:26Z",
+      "snippet": "The Artemis 2 mission is set for a final, fiery test when the spacecraft reenters April 10 ahead of a splashdown off the California coast.\nThe post NASA prepares for Artemis 2 return appeared first on...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "PLD Space secures $35 million European Investment Bank loan for MIURA 5 launcher",
+      "link": "https://spacenews.com/pld-space-secures-35-million-european-investment-bank-loan-for-miura-5-launcher/",
+      "pubDate": "2026-04-09T18:34:17Z",
+      "snippet": "MILAN \u2013 PLD Space signed a 30 million euro ($35 million) venture debt loan with the European Investment Bank (EIB) on April 7, a move to support the final development stage of MIURA 5, PLD\u2019s lightweig...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Heather Pringle on the upcoming Space Symposium and future international collaboration in space",
       "link": "https://spacenews.com/heather-pringle-on-the-upcoming-space-symposium-and-future-international-collaboration-in-space/",
@@ -192,42 +246,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "LeoLabs debuts space monitoring tool for military users",
-      "link": "https://spacenews.com/leolabs-debuts-space-monitoring-tool-for-military-users/",
-      "pubDate": "2026-04-08T13:00:00Z",
-      "snippet": "LeoLabs \u2018Delta\u2019 moves beyond collision warnings to identify potential adversarial activity\nThe post LeoLabs debuts space monitoring tool for military users appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Industry navigates NASA\u2019s start-and-stop approach to commercial space stations",
-      "link": "https://spacenews.com/industry-navigates-nasas-start-and-stop-approach-to-commercial-space-stations/",
-      "pubDate": "2026-04-08T11:00:00Z",
-      "snippet": "(Note: This article went to press for the April issue of SpaceNews Magazine before NASA announced potential changes to the CLD program.) NASA signaled last summer it planned to accelerate efforts to r...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Artemis 2 science gets underway as Orion begins its return trip",
-      "link": "https://spacenews.com/artemis-2-science-gets-underway-as-orion-begins-its-return-trip/",
-      "pubDate": "2026-04-08T10:23:16Z",
-      "snippet": "As Artemis 2 begins its return to Earth, scientists are just starting to review the images and observations taken by the crew as they flew around the moon.\nThe post Artemis 2 science gets underway as ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Capella Space wins $49 million contract for military communications satellite demo",
-      "link": "https://spacenews.com/capella-space-wins-49-million-contract-for-military-communications-satellite-demo/",
-      "pubDate": "2026-04-08T10:21:52Z",
-      "snippet": "The contract was awarded by the Space Development Agency for 2027 demonstrations\nThe post Capella Space wins $49 million contract for military communications satellite demo appeared first on SpaceNews...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Russia supplies Iran with cyber support, spy imagery to hone attacks, Ukraine says",
       "link": "https://www.defensenews.com/flashpoints/middle-east/2026/04/07/russia-supplies-iran-with-cyber-support-spy-imagery-to-hone-attacks-ukraine-says/",
       "pubDate": "2026-04-07T21:12:52Z",
@@ -304,33 +322,6 @@
       "link": "https://www.defensenews.com/news/your-military/2026/04/05/us-special-forces-rescue-f-15-airman-from-iran/",
       "pubDate": "2026-04-05T13:40:03Z",
       "snippet": "The airman, the weapons officer of an F-15 jet shot down on Friday, was wounded but \u201cwill be just fine,\u201d President Trump announced.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Trump seeks to double number of ship requests with 2027 defense budget",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/03/trump-seeks-to-double-number-of-ship-requests-with-2027-defense-budget/",
-      "pubDate": "2026-04-03T17:06:37Z",
-      "snippet": "The proposed $1.5 trillion fiscal 2027 defense budget would allocate $65.8 billion for shipbuilding, the White House said Friday.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Trump\u2019s budget proposes massive defense spending with 10% cut to other programs",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/03/trumps-budget-proposes-massive-defense-spending-with-10-cut-to-other-programs/",
-      "pubDate": "2026-04-03T16:01:01Z",
-      "snippet": "The proposed surge in defense spending includes a 5-7% pay raise for military personnel.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "India to acquire more air defense systems and drones for modern warfare",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/04/03/india-to-acquire-more-air-defense-systems-and-drones-for-modern-warfare/",
-      "pubDate": "2026-04-03T15:43:12Z",
-      "snippet": "India will boost its inventory of Russian S-400 air defense systems, which were deemed effective during last year's brief war with Pakistan.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -493,24 +484,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/01/260126075842.htm",
       "pubDate": "2026-01-26T13:26:09Z",
       "snippet": "Researchers have demonstrated that quantum entanglement can link atoms across space to improve measurement accuracy. By splitting an entangled group of atoms into separate clouds, they were able to me...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Scientists twist tiny crystals to control electricity",
-      "link": "https://www.sciencedaily.com/releases/2026/01/260125081138.htm",
-      "pubDate": "2026-01-25T13:48:10Z",
-      "snippet": "Researchers have developed a technique that allows them to carve complex three dimensional nanodevices directly from single crystals. To demonstrate its power, they sculpted microscopic helices from a...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Physicists challenge a 200-year-old law of thermodynamics at the atomic scale",
-      "link": "https://www.sciencedaily.com/releases/2026/01/260121034140.htm",
-      "pubDate": "2026-01-22T07:27:26Z",
-      "snippet": "A long-standing law of thermodynamics turns out to have a loophole at the smallest scales. Researchers have shown that quantum engines made of correlated particles can exceed the traditional efficienc...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
