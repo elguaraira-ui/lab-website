@@ -1,7 +1,187 @@
 {
-  "updated": "2026-04-10T14:35:23.205054Z",
-  "count": 54,
+  "updated": "2026-04-13T16:00:25.219205Z",
+  "count": 49,
   "items": [
+    {
+      "title": "Fueling test suggests imminent debut of China\u2019s reusable Long March 10B rocket",
+      "link": "https://spacenews.com/fueling-test-suggests-imminent-debut-of-chinas-reusable-long-march-10b-rocket/",
+      "pubDate": "2026-04-13T15:35:23Z",
+      "snippet": "China has conducted what appears to be a wet dress rehearsal for its Long March 10B, paving the way for a potential launch within weeks.\nThe post Fueling test suggests imminent debut of China\u2019s reusab...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Gravitics targets 2027 flight test for \u2018orbital carrier\u2019 architecture",
+      "link": "https://spacenews.com/gravitics-targets-2027-flight-test-for-orbital-carrier-architecture/",
+      "pubDate": "2026-04-13T15:00:00Z",
+      "snippet": "Seattle startup aims to pre-position spacecraft in orbit for rapid deployment\nThe post Gravitics targets 2027 flight test for \u2018orbital carrier\u2019 architecture appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Near Real-Time Payload Data Delivery with SSC Space Go",
+      "link": "https://spacenews.com/near-real-time-payload-data-delivery-with-ssc-space-go/",
+      "pubDate": "2026-04-13T14:00:00Z",
+      "snippet": "Easy access to space depends as much on ground communications as on launch availability or satellite design. In a quickly growing commercial space market, an increasing number of operational services ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Citra Space raises $15 million Series A to expand platform for identifying objects in orbit",
+      "link": "https://spacenews.com/citra-space-raises-15-million-series-a-to-expand-platform-for-identifying-objects-in-orbit/",
+      "pubDate": "2026-04-13T13:30:00Z",
+      "snippet": "Washington Harbour Partners leads round, with participation from other investment firms\nThe post Citra Space raises $15 million Series A to expand platform for identifying objects in orbit appeared fi...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Atomic-6 unveils online marketplace for orbital data centers",
+      "link": "https://spacenews.com/atomic-6-unveils-online-marketplace-for-orbital-data-centers/",
+      "pubDate": "2026-04-13T13:00:00Z",
+      "snippet": "ODC.space aims to streamline procurement of satellites for on-orbit computing\nThe post Atomic-6 unveils online marketplace for orbital data centers appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Orbit is filling up fast. Now comes the awkward bit: pre-empting and handling a crisis.",
+      "link": "https://spacenews.com/orbit-is-filling-up-fast-now-comes-the-awkward-bit-pre-empting-and-handling-a-crisis/",
+      "pubDate": "2026-04-13T13:00:00Z",
+      "snippet": "Earth\u2019s orbit is \u201con track for a catastrophe.\u201d That was the rather alarming prediction of the authors of a recent piece published in The Conversation. As the argument goes, orbit is filling up fast, a...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "\u201cGiant superatoms\u201d could finally solve quantum computing\u2019s biggest problem",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
+      "pubDate": "2026-04-13T12:38:46Z",
+      "snippet": "In the pursuit of powerful and stable quantum computers, researchers at Chalmers University of Technology, Sweden, have developed the theory for an entirely new quantum system \u2013 based on the novel con...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Key Senate appropriator rejects proposed NASA budget cuts",
+      "link": "https://spacenews.com/key-senate-appropriator-rejects-proposed-nasa-budget-cuts/",
+      "pubDate": "2026-04-13T11:09:34Z",
+      "snippet": "The chairman of the Senate appropriations subcommittee that funds NASA says he opposes proposed cuts to part of NASA\u2019s budget and will seek to fund the agency at 2026 levels.\nThe post Key Senate appro...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Q&A: Building a broadband constellation for a contested space era",
+      "link": "https://spacenews.com/qa-building-a-broadband-constellation-for-a-contested-space-era/",
+      "pubDate": "2026-04-13T11:00:00Z",
+      "snippet": "As a wave of plans for low Earth orbit (LEO) broadband constellations enters the market, a 63-year-old former NASA Branch Chief and Google executive is betting on narrow beams, higher [&#8230;]\nThe po...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Sophia and Kepler to marry orbital compute with optical links",
+      "link": "https://spacenews.com/sophia-and-kepler-to-marry-orbital-compute-with-optical-links/",
+      "pubDate": "2026-04-13T04:01:00Z",
+      "snippet": "COLORADO SPRINGS \u2013 Sophia Space will begin deploying edge compute nodes on Kepler Communications satellites in late 2026, under a strategic pact announced April 13. Through the partnership, Sophia Spa...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Rocket Lab wins contract for three more iQPS launches",
+      "link": "https://spacenews.com/rocket-lab-wins-contract-for-three-more-iqps-launches/",
+      "pubDate": "2026-04-12T11:43:00Z",
+      "snippet": "Rocket Lab has won a contract from Japanese radar satellite company iQPS for three additional Electron launches.\nThe post Rocket Lab wins contract for three more iQPS launches appeared first on SpaceN...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Falcon 9 launches Cygnus cargo spacecraft to the ISS",
+      "link": "https://spacenews.com/falcon-9-launches-cygnus-cargo-spacecraft-to-the-iss/",
+      "pubDate": "2026-04-11T16:28:21Z",
+      "snippet": "A Falcon 9 launched a Cygnus cargo spacecraft April 11 as Northrop Grumman continues its dependence on a competitor to fly resupply missions to the International Space Station.\nThe post Falcon 9 launc...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Moog Technology Keeps Artemis II Astronauts Safe During Historic Lunar Mission",
+      "link": "https://spacenews.com/moog-technology-keeps-artemis-ii-astronauts-safe-during-historic-lunar-mission/",
+      "pubDate": "2026-04-11T00:41:38Z",
+      "snippet": "East Aurora, NY &#8211; Moog Inc. (NYSE: MOG.A and MOG.B), a worldwide designer, manufacturer, and systems integrator of high-performance precision motion and fluid controls and control systems, highl...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Orion splashes down to successfully end Artemis 2 mission",
+      "link": "https://spacenews.com/orion-splashes-down-to-successfully-end-artemis-2-mission/",
+      "pubDate": "2026-04-11T00:16:13Z",
+      "snippet": "The first human mission beyond Earth orbit in more than 50 years successfully concluded with a splashdown in the Pacific Ocean April 10.\nThe post Orion splashes down to successfully end Artemis 2 miss...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Pentagon, FAA sign agreement on deploying anti-drone laser system near Mexico",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/10/pentagon-faa-sign-agreement-on-deploying-anti-drone-laser-system-near-mexico/",
+      "pubDate": "2026-04-10T22:14:38Z",
+      "snippet": "The agreement came after the FAA conducted testing in New Mexico on the laser system used by the Pentagon and Homeland Security Department.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon, Lockheed Martin agree to $4.7 billion PAC-3 interceptor deal",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/04/10/pentagon-lockheed-martin-agree-to-47-billion-pac-3-interceptor-deal/",
+      "pubDate": "2026-04-10T19:02:09Z",
+      "snippet": "Lockheed in January\u00a0discussed a target of increasing annual PAC-3 interceptor production from approximately 600 to 2,000 over a span of seven years.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "HawkEye 360 files to go public",
+      "link": "https://spacenews.com/hawkeye-360-files-to-go-public/",
+      "pubDate": "2026-04-10T17:36:54Z",
+      "snippet": "Based in Herndon, Virginia, the company specializes in space-based radio-frequency signals intelligence for government agencies\nThe post HawkEye 360 files to go public appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Spacety raises $190 million to scale satellite manufacturing, plans IPO",
+      "link": "https://spacenews.com/spacety-raises-190-million-to-scale-satellite-manufacturing-plans-ipo/",
+      "pubDate": "2026-04-10T16:59:12Z",
+      "snippet": "Chinese satellite maker Spacety has completed multiple rounds of equity financing worth $190 million to scale its vertically integrated satellite manufacturing and data services model.\nThe post Spacet...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "GSOA and Novaspace Launch the Space Industry Forum (SIF) 2026 in Singapore",
+      "link": "https://spacenews.com/gsoa-and-novaspace-launch-the-space-industry-forum-sif-2026-in-singapore/",
+      "pubDate": "2026-04-10T14:48:10Z",
+      "snippet": "Paris,&#160;April&#160;2026&#160;\u2013&#160;GSOA and Novaspace announce the inaugural edition of the&#160;Space Industry Forum&#160;(SIF),&#160;a new flagship event co-organized by both organizations, tak...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Ukrainian drone makers visit Paris looking for co-production deals",
+      "link": "https://www.defensenews.com/global/europe/2026/04/10/ukrainian-drone-makers-visit-paris-looking-for-co-production-deals/",
+      "pubDate": "2026-04-10T14:44:17Z",
+      "snippet": "\u201cWe come with our lessons learned,\u201d Kamyshin said. \u201cWe offer a model which is definitely beneficial for your country, for your industry, for your economy.\"",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Gravitational waves may be hidden in the light atoms emit",
       "link": "https://www.sciencedaily.com/releases/2026/04/260409101109.htm",
@@ -57,15 +237,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Heather Pringle on the upcoming Space Symposium and future international collaboration in space",
-      "link": "https://spacenews.com/heather-pringle-on-the-upcoming-space-symposium-and-future-international-collaboration-in-space/",
-      "pubDate": "2026-04-09T14:59:11Z",
-      "snippet": "In this episode of the Space Minds podcast, SpaceNews\u2019 Mike Gruss interviews Heather Pringle, a retired Major General of the US Air Force who is now the CEO of the [&#8230;]\nThe post Heather Pringle o...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "UK says it deployed military to deter Russian submarines from attack on undersea cables",
       "link": "https://www.defensenews.com/global/europe/2026/04/09/uk-says-it-deployed-military-to-deter-russian-submarines-from-attack-on-undersea-cables/",
       "pubDate": "2026-04-09T14:55:55Z",
@@ -73,24 +244,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "China conducts pair of Long March launches for Thousand Sails and Guowang megaconstellations",
-      "link": "https://spacenews.com/china-conducts-pair-of-long-march-launches-for-thousand-sails-and-guowang-megaconstellations/",
-      "pubDate": "2026-04-09T14:23:45Z",
-      "snippet": "China carried out separate Long March 8 and Long March 6A launches this week, adding new batches of satellites to the country\u2019s megaconstellation projects.\nThe post China conducts pair of Long March l...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "A new kind of arsenal: commercial satellites",
-      "link": "https://spacenews.com/a-new-kind-of-arsenal-commercial-satellites/",
-      "pubDate": "2026-04-09T14:00:00Z",
-      "snippet": "he Pentagon is no longer asking whether commercial space will matter in future conflicts. It is building a strategy around the assumption that it will.\nThe post A new kind of arsenal: commercial satel...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Pentagon\u2019s ouster of Anthropic opens\u00a0doors for small AI rivals",
@@ -102,24 +255,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "What returning to lunar space means for human health",
-      "link": "https://spacenews.com/what-returning-to-lunar-space-means-for-human-health/",
-      "pubDate": "2026-04-09T13:00:00Z",
-      "snippet": "Preparing to send astronauts back to the moon is no small feat. Spaceflight exposes the body to both known and unknown risks, some of which are subtle, cumulative, and difficult to predict. When human...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Portal Space Systems raises $50 million to accelerate spacecraft development",
-      "link": "https://spacenews.com/portal-space-systems-raises-50-million-to-accelerate-spacecraft-development/",
-      "pubDate": "2026-04-09T13:00:00Z",
-      "snippet": "Space mobility company Portal Space Systems has raised $50 million to scale up development of its highly maneuverable spacecraft.\nThe post Portal Space Systems raises $50 million to accelerate spacecr...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Researchers propose \u2018rewilding\u2019 Europe\u2019s borderlands to repel enemies",
       "link": "https://www.defensenews.com/global/europe/2026/04/09/researchers-propose-rewilding-europes-borderlands-to-repel-enemies/",
       "pubDate": "2026-04-09T12:26:55Z",
@@ -127,42 +262,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Space Force taps 14 firms for $1.8 billion GEO surveillance program",
-      "link": "https://spacenews.com/space-force-taps-14-firms-for-1-8-billion-geo-surveillance-program/",
-      "pubDate": "2026-04-09T11:26:24Z",
-      "snippet": "The companies will compete for contracts to build \u2018neighborhood watch\u2019 satellites\nThe post Space Force taps 14 firms for $1.8 billion GEO surveillance program appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Albedo prepares second VLEO mission for 2027 launch",
-      "link": "https://spacenews.com/albedo-prepares-second-vleo-mission-for-2027-launch/",
-      "pubDate": "2026-04-09T11:00:00Z",
-      "snippet": "SAN FRANCISCO \u2013 Albedo, the former Earth-observation startup now focused on satellite manufacturing, announced plans April 9 to send its second spacecraft into very low-Earth orbit (VLEO). Vicinity, s...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Lockheed Martin wins $105 million contract for GPS ground control system as OCX winds down",
-      "link": "https://spacenews.com/lockheed-martin-wins-105-million-contract-for-gps-ground-control-system-as-ocx-winds-down/",
-      "pubDate": "2026-04-09T10:26:44Z",
-      "snippet": "The contract supports next-generation GPS IIIF satellites through 2030\nThe post Lockheed Martin wins $105 million contract for GPS ground control system as OCX winds down appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Vantor to expand imaging satellite fleet, adding smallsats to increase revisit rates",
-      "link": "https://spacenews.com/vantor-to-expand-imaging-satellite-fleet-adding-smallsats-to-increase-revisit-rates/",
-      "pubDate": "2026-04-09T10:00:00Z",
-      "snippet": "The new architecture combines high resolution with rapid revisit\nThe post Vantor to expand imaging satellite fleet, adding smallsats to increase revisit rates appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "France mulls fallback tank for delayed MGCS program in defense update",
@@ -174,42 +273,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Apex to develop larger satellites for missile defense, space-based computing",
-      "link": "https://spacenews.com/apex-to-develop-larger-satellites-for-missile-defense-space-based-computing/",
-      "pubDate": "2026-04-09T09:00:00Z",
-      "snippet": "\u2018Comet Mini\u2019 and \u2018Comet XL\u2019 target energy-intensive missions \nThe post Apex to develop larger satellites for missile defense, space-based computing appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Improved thresholds and SSA accuracy can reduce most satellite collision risk",
-      "link": "https://spacenews.com/improved-thresholds-and-ssa-accuracy-can-reduce-most-satellite-collision-risk/",
-      "pubDate": "2026-04-08T20:15:46Z",
-      "snippet": "Improving the accuracy of space situational awareness data and using tighter thresholds for potential conjunctions can help retire most satellite collision risk in LEO, a new study concludes.\nThe post...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Space Sovereignty Is No Longer Optional",
-      "link": "https://spacenews.com/space-sovereignty-is-no-longer-optional/",
-      "pubDate": "2026-04-08T17:50:50Z",
-      "snippet": "A Critical Infrastructure Under Strain Space has quietly become the infrastructure beneath modern life. From financial transactions synchronised by satellite timing to military operations reliant on s...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "April 30: Opportunities for On-Orbit Computing",
-      "link": "https://spacenews.com/opportunities-for-on-orbit-computing-event/",
-      "pubDate": "2026-04-08T14:31:45Z",
-      "snippet": "Join us in Washington, D.C., for the next event in our orbital data centers series\nThe post April 30: Opportunities for On-Orbit Computing appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Polish firm teams with Northrop, ST Engineering to tap Poland\u2019s massive ammo spending",
       "link": "https://www.defensenews.com/global/europe/2026/04/08/polish-firm-teams-with-northrop-st-engineering-to-tap-polands-massive-ammo-spending/",
       "pubDate": "2026-04-08T14:12:29Z",
@@ -219,109 +282,10 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Tracking the next SDA challenge",
-      "link": "https://spacenews.com/tracking-the-next-sda-challenge/",
-      "pubDate": "2026-04-08T14:00:00Z",
-      "snippet": "A flurry of commercial innovation has left the U.S. government with no shortage of sensors and AI-driven insights to monitor the increasingly packed and contested space environment. The challenge is [...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Preparing for the next NASA budget battle",
-      "link": "https://spacenews.com/preparing-for-the-next-nasa-budget-battle/",
-      "pubDate": "2026-04-08T14:00:00Z",
-      "snippet": "When Congress passed a fiscal year 2026 \u201cminibus\u201d appropriations bill in January, much of the space community breathed a sigh of relief. Congress had rejected the steep cuts proposed by the Trump admi...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "A lunar base or a lunar economy?",
-      "link": "https://spacenews.com/a-lunar-base-or-a-lunar-economy/",
-      "pubDate": "2026-04-08T13:00:00Z",
-      "snippet": "We applaud the lunar base vision laid out by NASA Administrator Jared Isaacman on March 24. Placing this stake in the lunar regolith is long overdue. What is missing from the mission architecture, how...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Russia supplies Iran with cyber support, spy imagery to hone attacks, Ukraine says",
       "link": "https://www.defensenews.com/flashpoints/middle-east/2026/04/07/russia-supplies-iran-with-cyber-support-spy-imagery-to-hone-attacks-ukraine-says/",
       "pubDate": "2026-04-07T21:12:52Z",
       "snippet": "Russian satellites have made detailed imagery surveys of military facilities to help Iran strike U.S. forces, according to a Ukrainian intel assessment.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Navy seeks 1,200% increase in Tomahawk missile procurement for 2027",
-      "link": "https://www.defensenews.com/news/your-navy/2026/04/07/us-navy-seeks-1200-increase-in-tomahawk-missile-procurement-for-2027/",
-      "pubDate": "2026-04-07T19:38:51Z",
-      "snippet": "The U.S. Navy is requesting $3 billion to replenish its stockpile of Tomahawk missiles that have been depleted over the course of the Iran war.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Trump\u2019s VA budget request tops $488 billion for fiscal 2027",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/07/trumps-va-budget-request-tops-488-billion-for-fiscal-2027/",
-      "pubDate": "2026-04-07T19:37:03Z",
-      "snippet": "The Department of Veterans Affairs would see its budget increase by 7.7% in fiscal 2027 under the White House\u2019s proposed $2.2 trillion budget.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Iran\u2019s other would-be WMD program lies in ruins following strikes by Israel and the US",
-      "link": "https://www.defensenews.com/global/mideast-africa/2026/04/07/irans-other-would-be-wmd-program-lies-in-ruins-following-strikes-by-israel-and-the-us/",
-      "pubDate": "2026-04-07T15:51:32Z",
-      "snippet": "\u201cIt almost seems like an afterthought and lower priority to the war planners,\u201d said Jim Lamson, a former Iran analyst for the CIA of 23 years.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Outpaced by the US, China\u2019s military places selective bets on artificial intelligence",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/04/07/outpaced-by-the-us-chinas-military-places-selective-bets-on-artificial-intelligence/",
-      "pubDate": "2026-04-07T09:57:38Z",
-      "snippet": "China may have surpassed the United States in AI for drone swarms, one Taiwan-based analyst said.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Israel to sell PULS systems to Greece for $750 million",
-      "link": "https://www.defensenews.com/global/mideast-africa/2026/04/06/israel-to-sell-puls-systems-to-greece-for-750-million/",
-      "pubDate": "2026-04-06T21:21:55Z",
-      "snippet": "The deal between the two countries includes dozens of launchers and rockets.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Ukraine missile maker targets \u2018game changer\u2019 air defense system by 2027",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/04/06/ukraine-missile-maker-targets-game-changer-air-defense-system-by-2027/",
-      "pubDate": "2026-04-06T13:55:57Z",
-      "snippet": "Fire Point, maker of Ukraine\u2019s Flamingo cruise missile, is in talks with European companies to launch a new air defense system by next year.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army wants new grenade launcher, ammunition to be able to destroy drones",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/04/06/us-army-wants-new-grenade-launcher-ammunition-to-be-able-to-destroy-drones/",
-      "pubDate": "2026-04-06T13:38:21Z",
-      "snippet": "The Army is calling for prototype submissions that include 16 weapons, fire controls systems and around 25,000 rounds of ammunition.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US special forces rescue second F-15 airman from Iran",
-      "link": "https://www.defensenews.com/news/your-military/2026/04/05/us-special-forces-rescue-f-15-airman-from-iran/",
-      "pubDate": "2026-04-05T13:40:03Z",
-      "snippet": "The airman, the weapons officer of an F-15 jet shot down on Friday, was wounded but \u201cwill be just fine,\u201d President Trump announced.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -475,15 +439,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/01/260125083404.htm",
       "pubDate": "2026-01-26T15:11:17Z",
       "snippet": "When materials become just one atom thick, melting no longer follows the familiar rules. Instead of jumping straight from solid to liquid, an unusual in-between state emerges, where atomic positions l...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Distant entangled atoms acting as one sensor deliver stunning precision",
-      "link": "https://www.sciencedaily.com/releases/2026/01/260126075842.htm",
-      "pubDate": "2026-01-26T13:26:09Z",
-      "snippet": "Researchers have demonstrated that quantum entanglement can link atoms across space to improve measurement accuracy. By splitting an entangled group of atoms into separate clouds, they were able to me...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
