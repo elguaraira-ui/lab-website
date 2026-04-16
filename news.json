@@ -1,7 +1,223 @@
 {
-  "updated": "2026-04-15T11:45:36.898620Z",
-  "count": 48,
+  "updated": "2026-04-16T11:50:34.999120Z",
+  "count": 50,
   "items": [
+    {
+      "title": "EU pumps over $1 billion into defense R&D, centered around  Ukraine war lessons",
+      "link": "https://www.defensenews.com/global/europe/2026/04/16/eu-pumps-over-1-billion-into-defense-rd-centered-around-ukraine-war-lessons/",
+      "pubDate": "2026-04-16T11:37:33Z",
+      "snippet": "The choice of funded projects marks a shift to 21st-century warfare, with loitering munitions and affordable mass drone production high on the agenda.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Aethero orders Titan satellite to advance space-based data center ambitions",
+      "link": "https://spacenews.com/aethero-orders-titan-satellite-to-advance-space-based-data-center-ambitions/",
+      "pubDate": "2026-04-16T11:00:00Z",
+      "snippet": "Aethero is preparing to deploy its most powerful computing payload yet this fall, aiming to bring data center-style processing to orbit and expand the scale of AI workloads that can be handled in spac...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "France readies AI-powered combat data-management similar to US \u2018Maven\u2019",
+      "link": "https://www.defensenews.com/global/europe/2026/04/16/france-readies-ai-powered-combat-data-management-similar-to-us-maven/",
+      "pubDate": "2026-04-16T10:47:52Z",
+      "snippet": "The system could be available within a few months, and available for exercises in September 2027, a top general said, declining to provide specifics.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "PlanetiQ secures $15 million Air Force STRATFI contract",
+      "link": "https://spacenews.com/planetiq-secures-15-million-air-force-stratfi-contract/",
+      "pubDate": "2026-04-16T10:00:00Z",
+      "snippet": "COLORADO SPRINGS \u2013 Commercial satellite operator PlanetiQ will develop and launch spacecraft equipped with next-generation instruments to gather terrestrial and space weather data with a $15 million U...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Space Force reorg signals end of SDA as standalone agency",
+      "link": "https://spacenews.com/space-force-reorg-signals-end-of-sda-as-standalone-agency/",
+      "pubDate": "2026-04-16T02:57:01Z",
+      "snippet": "Officials say the Space Development Agency\u2019s \u2018go fast\u2019 model will live on under new portfolio-based organization\nThe post Space Force reorg signals end of SDA as standalone agency appeared first on Sp...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "White House offers no hint of Iran war cost as it seeks military funding surge",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/16/white-house-offers-no-hint-of-iran-war-cost-as-it-seeks-military-funding-surge/",
+      "pubDate": "2026-04-16T00:52:33Z",
+      "snippet": "\"I don't have a ballpark,\" White House budget director Russell Vought told lawmakers Wednesday about the cost of the Iran war.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Seraphim forms space advisory council",
+      "link": "https://spacenews.com/seraphim-forms-space-advisory-council/",
+      "pubDate": "2026-04-15T23:01:00Z",
+      "snippet": "Early-stage space investor Seraphim Space has formed a global advisory council of industry, policy and investment leaders to inform its long-term strategy as geopolitical and technology advances rapid...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Meink: Space Force must \u2018execute\u2019 as budget set to surge",
+      "link": "https://spacenews.com/meink-space-force-must-execute-as-budget-set-to-surge/",
+      "pubDate": "2026-04-15T21:50:48Z",
+      "snippet": "Service leaders warn workforce gaps and acquisition bottlenecks could slow delivery of new tech\nThe post Meink: Space Force must &#8216;execute&#8217; as budget set to surge appeared first on SpaceNew...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Air Force debuts operational AI wargame system",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/04/15/us-air-force-debuts-operational-ai-wargame-system/",
+      "pubDate": "2026-04-15T21:47:07Z",
+      "snippet": "WarMatrix is an AI-powered system meant to keep human judgement central to wargaming and was marked operational during an event in late March.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Defining acquisition on a wartime footing",
+      "link": "https://spacenews.com/defining-acquisition-on-a-wartime-footing/",
+      "pubDate": "2026-04-15T20:45:05Z",
+      "snippet": "The President, the Secretary of War, and the Chief of Space Operations are all saying it: We no longer have the luxury of time. This isn&#8217;t rhetoric. It is a direct response to a fundamental chan...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NASA seeks proposals for commercial TDRSS replacement",
+      "link": "https://spacenews.com/nasa-seeks-proposals-for-commercial-tdrss-replacement/",
+      "pubDate": "2026-04-15T20:34:56Z",
+      "snippet": "NASA plans to seek proposals for commercial communications services that can be backward compatible with the agency\u2019s aging fleet of relay satellites. NASA issued April 10 a draft solicitation for Pro...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "AeroVironment launches new multifunctional drone variant",
+      "link": "https://www.defensenews.com/news/your-military/2026/04/15/aerovironment-launches-new-multifunctional-drone-variant/",
+      "pubDate": "2026-04-15T20:24:43Z",
+      "snippet": "The MAYHEM 10 drone, a part of the Switchblade family, will serve as a multifunctional launch system, capable of deploying from various platforms.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Emerson Launches Innovative Software-Driven Method for High-Fidelity Aerospace RF Testing",
+      "link": "https://spacenews.com/emerson-launches-innovative-software-driven-method-for-high-fidelity-aerospace-rf-testing/",
+      "pubDate": "2026-04-15T19:08:24Z",
+      "snippet": "AUSTIN,\u00a0Texas\u00a0(April\u00a013, 2026)\u00a0\u2013\u00a0Emerson announced\u00a0the\u00a0NI Channel Emulator System Software (CHESS)\u00a0platform\u00a0today\u00a0at the 2026 Space Symposium\u00a0conference in Colorado, introducing a new software-defined...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Saltzman unveils blueprint for Space Force\u2019s future",
+      "link": "https://spacenews.com/saltzman-unveils-blueprint-for-space-forces-future/",
+      "pubDate": "2026-04-15T18:26:19Z",
+      "snippet": "\u2018Future Operating Environment\u2019 and \u2018Objective Force\u2019 documents outline a contested space domain and call for a combat-ready force\nThe post Saltzman unveils blueprint for Space Force\u2019s future appeared ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Senators seek increased funding for NASA Mars missions",
+      "link": "https://spacenews.com/senators-seek-increased-funding-for-nasa-mars-missions/",
+      "pubDate": "2026-04-15T18:00:00Z",
+      "snippet": "Several senators are asking appropriators to increase funding for NASA\u2019s robotic Mars exploration efforts, fearing \u201csevere and irreversible harm\u201d if funding is not restored.\nThe post Senators seek inc...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "The Infrastructure Layer U.S. Space Superiority Has Been Missing",
+      "link": "https://spacenews.com/the-infrastructure-layer-u-s-space-superiority-has-been-missing/",
+      "pubDate": "2026-04-15T17:34:00Z",
+      "snippet": "Space domain awareness has a data problem. Not a shortage of data, but a shortage of the right data, delivered at the right time, with enough autonomy to act on [&#8230;]\nThe post The Infrastructure L...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "France puts mobile corps command to the test in major war scenario",
+      "link": "https://www.defensenews.com/global/europe/2026/04/15/france-puts-mobile-corps-command-to-the-test-in-major-war-scenario/",
+      "pubDate": "2026-04-15T15:59:11Z",
+      "snippet": "The small forward command post lets commanders \u201cbe in contact with the divisions, to be as close as possible to the engagement zone,\u201d said a top general.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Rethinking cyber and space with Joe Mazur",
+      "link": "https://spacenews.com/rethinking-cyber-and-space-with-joe-mazur/",
+      "pubDate": "2026-04-15T14:35:47Z",
+      "snippet": "In this episode of Space Minds, Mike Gruss talks with Nightwing\u2019s Joe Mazur to discuss the intersection of cyber and space. They chat about the acceleration of cyber operations, the [&#8230;]\nThe post...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Berlin gets a front-row seat to German weapons\u2019 performance in Ukraine",
+      "link": "https://www.defensenews.com/global/europe/2026/04/15/berlin-gets-a-front-row-seat-to-german-weapons-performance-in-ukraine/",
+      "pubDate": "2026-04-15T13:36:28Z",
+      "snippet": "A new bilateral agreement covers data sharing from engagements of the Panzerhaubitze 2000, RCH-155 artillery and the IRIS-T air-defense weapon.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Novaspace and OGC Unveil the China Space Industry Intelligence Catalog",
+      "link": "https://spacenews.com/novaspace-and-ogc-unveil-the-china-space-industry-intelligence-catalog/",
+      "pubDate": "2026-04-15T13:22:05Z",
+      "snippet": "Paris, France [April&#160;2026]&#160;\u2013&#160;Novaspace, in partnership with Orbital Gateway Consulting (OGC), launches the&#160;China Space Industry Intelligence Catalog,&#160;providing&#160;global sta...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Vast offers new docking adapter for large space stations",
+      "link": "https://spacenews.com/vast-offers-new-docking-adapter-for-large-space-stations/",
+      "pubDate": "2026-04-15T13:00:00Z",
+      "snippet": "Commercial space station developer Vast unveiled a new docking interface the company is offering to the broader industry for future large stations and spacecraft.\nThe post Vast offers new docking adap...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "The Digital Networks Act: a reform that requires strategic attention for satellite operators",
+      "link": "https://spacenews.com/the-digital-networks-act-a-reform-that-requires-strategic-attention-for-satellite-operators/",
+      "pubDate": "2026-04-15T13:00:00Z",
+      "snippet": "Satellite operators seeking EU market access may face a fundamental shift in how spectrum is authorized, how services are delivered across borders, and what operational obligations apply. The Digital ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Estonia raids combat-vehicle funds to buy more drones, air defenses",
+      "link": "https://www.defensenews.com/global/europe/2026/04/15/estonia-raids-combat-vehicle-funds-to-buy-more-drones-air-defenses/",
+      "pubDate": "2026-04-15T12:29:42Z",
+      "snippet": "The defense minister said the decision was based on lessons learned from Russia's invasion of Ukraine.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "New Wireless Access Point, Camera, and Remote Interface Unit Join NASA Human Rated Class 1 Layer 3 Ethernet Switch Family",
+      "link": "https://spacenews.com/new-wireless-access-point-camera-and-remote-interface-unit-join-nasa-human-rated-class-1-layer-3-ethernet-switch-family/",
+      "pubDate": "2026-04-15T12:00:00Z",
+      "snippet": "Colorado Springs, Colorado, April 15, 2026 \u2014 Ecliptic Enterprises, a long\u2011standing leader in space avionics and imaging systems with more than 220 missions flown over 25 years, announced a major [&#82...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Turion Space raises $75 million to expand maneuverable satellite fleet",
       "link": "https://spacenews.com/turion-space-raises-75-million-to-expand-maneuverable-satellite-fleet/",
@@ -39,150 +255,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "SES and Boeing move toward factory-installed multi-orbit inflight connectivity",
-      "link": "https://spacenews.com/ses-and-boeing-move-toward-factory-installed-multi-orbit-inflight-connectivity/",
-      "pubDate": "2026-04-14T21:22:59Z",
-      "snippet": "SES announced an agreement with Boeing April 14 to start integrating multi-orbit hardware during aircraft production, marking a key step away from retrofit installations to incorporate LEO broadband.\n...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Commercial Space Federation (CSF) Welcomes ispace-U.S. to\u00a0Board of Directors",
-      "link": "https://spacenews.com/commercial-space-federation-csf-welcomes-ispace-u-s-to-board-of-directors/",
-      "pubDate": "2026-04-14T21:00:00Z",
-      "snippet": "April 14, 2026 \u2013 Washington, D.C.\u2014The Commercial Space Federation (CSF) and ispace technologies U.S., inc. (ispace-U.S.) today announced that ispace-U.S., a U.S.-based commercial lunar exploration com...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Seagate Space and Oceaneering Join Forces to Build the Future of Offshore Launch Infrastructure",
-      "link": "https://spacenews.com/seagate-space-and-oceaneering-join-forces-to-build-the-future-of-offshore-launch-infrastructure/",
-      "pubDate": "2026-04-14T19:56:49Z",
-      "snippet": "Oceaneering International, Inc. and Seagate Space Corporation&#160;today&#160;announced a strategic relationship to advance the development of Seagate&#160;Space\u2019s&#160;offshore launch platform design...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Put science back in the driver\u2019s seat",
-      "link": "https://spacenews.com/put-science-back-in-the-drivers-seat/",
-      "pubDate": "2026-04-14T19:07:48Z",
-      "snippet": "Science at NASA is becoming a hitchhiker. After decades in the driver\u2019s seat, where dedicated science missions made historic discoveries such as alien oceans, the accelerating universe and potential b...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "The future of GPS satellites with Fang Qian of Lockheed Martin",
-      "link": "https://spacenews.com/the-future-of-gps-satellites-with-fang-qian-of-lockheed-martin/",
-      "pubDate": "2026-04-14T18:36:26Z",
-      "snippet": "In this episode of Space Minds, Mike Gruss sits down with Fang Qian to discuss the future of GPS satellites. They chat about the need for jam-resistant signals, what comes [&#8230;]\nThe post The futur...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "White House releases space nuclear policy",
-      "link": "https://spacenews.com/white-house-releases-space-nuclear-policy/",
-      "pubDate": "2026-04-14T18:22:45Z",
-      "snippet": "The White House released a policy April 14 directing NASA, the Pentagon and the Department of Energy to develop space nuclear power systems that could launch as soon as 2028.\nThe post White House rele...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Defense firms unveil new satellite designs for orbital warfare",
-      "link": "https://spacenews.com/defense-firms-unveil-new-satellite-designs-for-orbital-warfare/",
-      "pubDate": "2026-04-14T18:08:42Z",
-      "snippet": "BAE Systems, Lockheed Martin are developing maneuvering satellites that can be refueled\nThe post Defense firms unveil new satellite designs for orbital warfare appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Q&A: Aerospace Corp flexes its data advantage",
-      "link": "https://spacenews.com/qa-aerospace-corp-flexes-its-data-advantage/",
-      "pubDate": "2026-04-14T18:03:03Z",
-      "snippet": "Aerospace Corp. is swimming in data. After testing spacecraft and components for more than 65 years, the Federally Funded Research and Development Center (FFRDC) is training artificial intelligence mo...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Space Command pushes new warfighting model built on moving satellites",
-      "link": "https://spacenews.com/space-command-pushes-new-warfighting-model-built-on-moving-satellites/",
-      "pubDate": "2026-04-14T17:50:47Z",
-      "snippet": "Gen. Stephen Whiting calls for a shift from fixed spacecraft to maneuverable assets, with wargames planned to test the concept\nThe post Space Command pushes new warfighting model built on moving satel...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Q&A: Astronaut Linda Godwin on lessons learned from Artemis",
-      "link": "https://spacenews.com/qa-astronaut-linda-godwin-on-lessons-learned-from-artemis/",
-      "pubDate": "2026-04-14T17:43:19Z",
-      "snippet": "Linda Godwin, a former NASA astronaut and a veteran of four space shuttle missions, knows what it\u2019s like to spend a significant time in space. She chalked up more than 38 days in orbit. She carried ou...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "\u2018The show goes on:\u2019 NASA looks beyond Artemis 2",
-      "link": "https://spacenews.com/the-show-goes-on-nasa-looks-beyond-artemis-2/",
-      "pubDate": "2026-04-14T17:22:35Z",
-      "snippet": "NASA\u2019s Artemis 2 mission returned safely to Earth the evening of April 10, completing a critical early step in the agency\u2019s effort to send astronauts back to the moon. The Orion spacecraft Integrity s...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "RTX\u2019s Blue Canyon Technologies expands reaction wheel production capacity",
-      "link": "https://spacenews.com/rtxs-blue-canyon-technologies-expands-reaction-wheel-production-capacity/",
-      "pubDate": "2026-04-14T16:56:00Z",
-      "snippet": "BOULDER, Colo. (April\u00a014, 2026) &#8212; Small satellite manufacturer and mission services provider Blue Canyon Technologies, part of RTX\u2019s (NYSE: RTX) Raytheon business, is increasing reaction wheel p...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Xoople and L3Harris team up to build satellites for \u2018Earth AI\u2019",
-      "link": "https://spacenews.com/xoople-and-l3harris-team-up-to-build-satellites-for-earth-ai/",
-      "pubDate": "2026-04-14T15:00:00Z",
-      "snippet": "New constellation aims to turn the planet into a continuous data stream for machine learning\nThe post Xoople and L3Harris team up to build satellites for \u2018Earth AI\u2019\u00a0 appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Archangel Lightworks Raises Over $13.5m In Series A Funding Round",
-      "link": "https://spacenews.com/archangel-lightworks-raises-over-13-5m-in-series-a-funding-round/",
-      "pubDate": "2026-04-14T14:31:38Z",
-      "snippet": "Oxford, UK \u2013 Archangel Lightworks announces the successful close of an oversubscribed $13.5m Series A funding round to accelerate the commercialisation of its deployable optical ground station, the TE...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Amazon buys Globalstar to catapult into direct-to-device race",
-      "link": "https://spacenews.com/amazon-buys-globalstar-to-catapult-into-direct-to-device-race/",
-      "pubDate": "2026-04-14T14:30:10Z",
-      "snippet": "Amazon plans to buy satellite operator Globalstar in a deal valued at around $11 billion, marking its entry into the emerging market for providing connectivity directly to mobile phones and other cell...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "BAE Systems introduces Ascent\u2122 spacecraft to support space superiority and exploration",
-      "link": "https://spacenews.com/bae-systems-introduces-ascent-spacecraft-to-support-space-superiority-and-exploration/",
-      "pubDate": "2026-04-14T14:00:00Z",
-      "snippet": "BROOMFIELD, Colo. \u2014 April 14, 2026 \u2014 BAE Systems has introduced its Ascent spacecraft, a new addition to the company\u2019s Elevation spacecraft line that supports superiority and exploration missions acro...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Australia touts first GMLRS artillery rocket assembled Down Under",
       "link": "https://www.defensenews.com/global/asia-pacific/2026/04/14/australia-touts-first-gmlrs-artillery-rocket-assembled-down-under/",
       "pubDate": "2026-04-14T09:48:45Z",
@@ -210,33 +282,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "Pentagon, FAA sign agreement on deploying anti-drone laser system near Mexico",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/10/pentagon-faa-sign-agreement-on-deploying-anti-drone-laser-system-near-mexico/",
-      "pubDate": "2026-04-10T22:14:38Z",
-      "snippet": "The agreement came after the FAA conducted testing in New Mexico on the laser system used by the Pentagon and Homeland Security Department.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon, Lockheed Martin agree to $4.7 billion PAC-3 interceptor deal",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/04/10/pentagon-lockheed-martin-agree-to-47-billion-pac-3-interceptor-deal/",
-      "pubDate": "2026-04-10T19:02:09Z",
-      "snippet": "Lockheed in January\u00a0discussed a target of increasing annual PAC-3 interceptor production from approximately 600 to 2,000 over a span of seven years.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Ukrainian drone makers visit Paris looking for co-production deals",
-      "link": "https://www.defensenews.com/global/europe/2026/04/10/ukrainian-drone-makers-visit-paris-looking-for-co-production-deals/",
-      "pubDate": "2026-04-10T14:44:17Z",
-      "snippet": "\u201cWe come with our lessons learned,\u201d Kamyshin said. \u201cWe offer a model which is definitely beneficial for your country, for your industry, for your economy.\"",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Gravitational waves may be hidden in the light atoms emit",
       "link": "https://www.sciencedaily.com/releases/2026/04/260409101109.htm",
       "pubDate": "2026-04-10T13:43:52Z",
@@ -253,33 +298,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "UK says it deployed military to deter Russian submarines from attack on undersea cables",
-      "link": "https://www.defensenews.com/global/europe/2026/04/09/uk-says-it-deployed-military-to-deter-russian-submarines-from-attack-on-undersea-cables/",
-      "pubDate": "2026-04-09T14:55:55Z",
-      "snippet": "Norway\u2019s defense ministry said its armed forces had also deployed a P-8 maritime patrol aircraft and a frigate.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon\u2019s ouster of Anthropic opens\u00a0doors for small AI rivals",
-      "link": "https://www.defensenews.com/pentagon/2026/04/09/pentagons-ouster-of-anthropic-opens-doors-for-small-ai-rivals/",
-      "pubDate": "2026-04-09T13:38:25Z",
-      "snippet": "Small defense industry artificial intelligence startups are suddenly fielding calls from generals, combatant commanders and deep-pocketed investors.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Researchers propose \u2018rewilding\u2019 Europe\u2019s borderlands to repel enemies",
-      "link": "https://www.defensenews.com/global/europe/2026/04/09/researchers-propose-rewilding-europes-borderlands-to-repel-enemies/",
-      "pubDate": "2026-04-09T12:26:55Z",
-      "snippet": "Restored wetlands and peat bogs can create natural barriers for invading forces while contributing to climate resilience, according to a new report.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Stanford scientists create shape-shifting material that changes color and texture like an octopus",
