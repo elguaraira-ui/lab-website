@@ -1,7 +1,151 @@
 {
-  "updated": "2026-04-16T11:50:34.999120Z",
-  "count": 50,
+  "updated": "2026-04-17T11:41:12.295238Z",
+  "count": 52,
   "items": [
+    {
+      "title": "D2D services are at risk of becoming too complicated and siloed",
+      "link": "https://spacenews.com/d2d-services-are-at-risk-of-becoming-too-complicated-and-siloed/",
+      "pubDate": "2026-04-17T11:00:00Z",
+      "snippet": "At the recent Mobile World Conference 2026 in Barcelona, the strong presence of Direct-to-Device (D2D) satellite services and the avalanche of press releases related to contracts signed between D2D sa...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Qingzhou prototype cargo spacecraft completes rendezvous tests in orbit",
+      "link": "https://spacenews.com/qingzhou-prototype-cargo-spacecraft-completes-rendezvous-tests-in-orbit/",
+      "pubDate": "2026-04-17T09:27:52Z",
+      "snippet": "China has conducted rendezvous and proximity operations tests involving a prototype cargo spacecraft and a satellite in a step towards low-cost orbital infrastructure.\nThe post Qingzhou prototype carg...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "France nears rocket artillery decision, plans ballistic missile by 2035",
+      "link": "https://www.defensenews.com/global/europe/2026/04/17/france-nears-rocket-artillery-decision-plans-ballistic-missile-by-2035/",
+      "pubDate": "2026-04-17T08:19:24Z",
+      "snippet": "French defense leaders are treating the acquisition of a new rocket artillery weapon as priority for the land forces.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "India\u2019s TakeMe2Space sets sights on 50-kilowatt data center",
+      "link": "https://spacenews.com/indias-takeme2space-sets-sights-on-50-kilowatt-data-center/",
+      "pubDate": "2026-04-16T23:59:03Z",
+      "snippet": "COLORADO SPRINGS \u2013 After announcing a $5 million seed round in January, Indian startup TakeMe2Space seeks to raise $55 million to establish a 50-kilowatt orbital data center. \u201cWhat is key for us is to...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Countering missile threats \u2018left of launch\u2019",
+      "link": "https://spacenews.com/countering-missile-threats-left-of-launch/",
+      "pubDate": "2026-04-16T23:05:42Z",
+      "snippet": "COLORADO SPRINGS \u2013 U.S. government agencies are working with industry to develop tools to disrupt missiles before they take flight, a timespan called \u2018left of launch.\u2019 \u201cWe&#8217;re looking at differen...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Taiwan floats shared satcom constellation amid calls for more space collaboration",
+      "link": "https://spacenews.com/taiwan-floats-shared-satcom-constellation-amid-calls-for-more-space-collaboration/",
+      "pubDate": "2026-04-16T21:47:30Z",
+      "snippet": "Taiwan\u2019s space agency chief has called on other countries to band together on a shared communications constellation to match the scale and growing strategic importance of networks like Starlink.\nThe p...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Companies make the case for commercial space station markets",
+      "link": "https://spacenews.com/companies-make-the-case-for-commercial-space-station-markets/",
+      "pubDate": "2026-04-16T21:42:36Z",
+      "snippet": "Companies proposing to develop commercial space stations are pushing back against claims by NASA that a market for such stations has yet to develop.\nThe post Companies make the case for commercial spa...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Boeing and its subsidiary Millennium Space team on new mid-size satellite",
+      "link": "https://spacenews.com/boeing-and-its-subsidiary-millennium-space-team-on-new-mid-size-satellite/",
+      "pubDate": "2026-04-16T18:39:25Z",
+      "snippet": "The new satellite platform is being positioned to compete in the emerging \u201cmicro GEO\u201d market for space-based communications and sensing\nThe post Boeing and its subsidiary Millennium Space team on new ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "All Points signs agreement to build payload processing facilities at KSC",
+      "link": "https://spacenews.com/all-points-signs-agreement-to-build-payload-processing-facilities-at-ksc/",
+      "pubDate": "2026-04-16T18:04:00Z",
+      "snippet": "All Points Logistics has signed an agreement with NASA\u2019s Kennedy Space Center to construct satellite processing facilities on center property.\nThe post All Points signs agreement to build payload proc...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Starlink outage hit drone tests, exposing Pentagon\u2019s growing reliance on SpaceX",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/16/starlink-outage-hit-drone-tests-exposing-pentagons-growing-reliance-on-spacex/",
+      "pubDate": "2026-04-16T17:41:44Z",
+      "snippet": "Last August, a global outage across Elon Musk\u2019s satellite network left U.S. Navy unmanned surface vessels bobbing off California, halting operations.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "How space weather forecasting keeps astronauts (and satellites) safe",
+      "link": "https://spacenews.com/how-space-weather-forecasting-keeps-astronauts-and-satellites-safe/",
+      "pubDate": "2026-04-16T16:30:00Z",
+      "snippet": "BOULDER, Colorado \u2013 The sun\u2019s volatile outbursts, such as storms, flares and other space weather, can cause serious harm to astronauts like the Artemis 2 crew who recently came home, and to satellites...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NASA seeks commercial and exploration links for new Earth science missions",
+      "link": "https://spacenews.com/nasa-seeks-commercial-and-exploration-links-for-new-earth-science-missions/",
+      "pubDate": "2026-04-16T15:59:22Z",
+      "snippet": "Two new proposed NASA Earth science missions will attempt to address key research topics while leveraging both commercial and exploration capabilities. During NASA\u2019s \u201cIgnition\u201d event March 24, the age...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "The optimism in the space economy with Alyssa Goessler",
+      "link": "https://spacenews.com/the-optimism-in-the-space-economy-with-alyssa-goessler/",
+      "pubDate": "2026-04-16T15:23:29Z",
+      "snippet": "In this episode of Space Minds, Mike Gruss talks with Alyssa Goessler on what&#8217;s driving the optimism in the space economy. They discuss the rigor needed in evaluating companies, the [&#8230;]\nTh...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "How the US military could clear mines from the Strait of Hormuz",
+      "link": "https://www.defensenews.com/news/your-military/2026/04/16/how-the-us-military-could-clear-mines-from-the-strait-of-hormuz/",
+      "pubDate": "2026-04-16T14:18:34Z",
+      "snippet": "An arsenal of drones, explosive\u2011laden robots and helicopters can help reduce risk, though de\u2011mining crews could still be vulnerable to Iranian attacks.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Artemis 2 is a benchmark in our space exploration program \u2014 and it depends on steady NASA funding",
+      "link": "https://spacenews.com/artemis-2-is-a-benchmark-in-our-space-exploration-program-and-it-depends-on-steady-nasa-funding/",
+      "pubDate": "2026-04-16T13:00:00Z",
+      "snippet": "Now that the Artemis 2 mission has been successfully completed, it\u2019s worth taking a look at where NASA stands on the role of humans in exploring space and what its path forward should be. Doing this i...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Voyager to fly private astronaut mission to ISS",
+      "link": "https://spacenews.com/voyager-to-fly-private-astronaut-mission-to-iss/",
+      "pubDate": "2026-04-16T11:54:32Z",
+      "snippet": "Voyager Technologies will be the third company to fly a private astronaut mission to the International Space Station, gaining experience for its commercial station.\nThe post Voyager to fly private ast...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "EU pumps over $1 billion into defense R&D, centered around  Ukraine war lessons",
       "link": "https://www.defensenews.com/global/europe/2026/04/16/eu-pumps-over-1-billion-into-defense-rd-centered-around-ukraine-war-lessons/",
@@ -12,7 +156,7 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Aethero orders Titan satellite to advance space-based data center ambitions",
+      "title": "Aethero developing Titan satellite to advance space-based data center ambitions",
       "link": "https://spacenews.com/aethero-orders-titan-satellite-to-advance-space-based-data-center-ambitions/",
       "pubDate": "2026-04-16T11:00:00Z",
       "snippet": "Aethero is preparing to deploy its most powerful computing payload yet this fall, aiming to bring data center-style processing to orbit and expand the scale of AI workloads that can be handled in spac...",
@@ -111,42 +255,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Emerson Launches Innovative Software-Driven Method for High-Fidelity Aerospace RF Testing",
-      "link": "https://spacenews.com/emerson-launches-innovative-software-driven-method-for-high-fidelity-aerospace-rf-testing/",
-      "pubDate": "2026-04-15T19:08:24Z",
-      "snippet": "AUSTIN,\u00a0Texas\u00a0(April\u00a013, 2026)\u00a0\u2013\u00a0Emerson announced\u00a0the\u00a0NI Channel Emulator System Software (CHESS)\u00a0platform\u00a0today\u00a0at the 2026 Space Symposium\u00a0conference in Colorado, introducing a new software-defined...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Saltzman unveils blueprint for Space Force\u2019s future",
-      "link": "https://spacenews.com/saltzman-unveils-blueprint-for-space-forces-future/",
-      "pubDate": "2026-04-15T18:26:19Z",
-      "snippet": "\u2018Future Operating Environment\u2019 and \u2018Objective Force\u2019 documents outline a contested space domain and call for a combat-ready force\nThe post Saltzman unveils blueprint for Space Force\u2019s future appeared ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Senators seek increased funding for NASA Mars missions",
-      "link": "https://spacenews.com/senators-seek-increased-funding-for-nasa-mars-missions/",
-      "pubDate": "2026-04-15T18:00:00Z",
-      "snippet": "Several senators are asking appropriators to increase funding for NASA\u2019s robotic Mars exploration efforts, fearing \u201csevere and irreversible harm\u201d if funding is not restored.\nThe post Senators seek inc...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "The Infrastructure Layer U.S. Space Superiority Has Been Missing",
-      "link": "https://spacenews.com/the-infrastructure-layer-u-s-space-superiority-has-been-missing/",
-      "pubDate": "2026-04-15T17:34:00Z",
-      "snippet": "Space domain awareness has a data problem. Not a shortage of data, but a shortage of the right data, delivered at the right time, with enough autonomy to act on [&#8230;]\nThe post The Infrastructure L...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "France puts mobile corps command to the test in major war scenario",
       "link": "https://www.defensenews.com/global/europe/2026/04/15/france-puts-mobile-corps-command-to-the-test-in-major-war-scenario/",
       "pubDate": "2026-04-15T15:59:11Z",
@@ -154,15 +262,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Rethinking cyber and space with Joe Mazur",
-      "link": "https://spacenews.com/rethinking-cyber-and-space-with-joe-mazur/",
-      "pubDate": "2026-04-15T14:35:47Z",
-      "snippet": "In this episode of Space Minds, Mike Gruss talks with Nightwing\u2019s Joe Mazur to discuss the intersection of cyber and space. They chat about the acceleration of cyber operations, the [&#8230;]\nThe post...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Berlin gets a front-row seat to German weapons\u2019 performance in Ukraine",
@@ -174,33 +273,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Novaspace and OGC Unveil the China Space Industry Intelligence Catalog",
-      "link": "https://spacenews.com/novaspace-and-ogc-unveil-the-china-space-industry-intelligence-catalog/",
-      "pubDate": "2026-04-15T13:22:05Z",
-      "snippet": "Paris, France [April&#160;2026]&#160;\u2013&#160;Novaspace, in partnership with Orbital Gateway Consulting (OGC), launches the&#160;China Space Industry Intelligence Catalog,&#160;providing&#160;global sta...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Vast offers new docking adapter for large space stations",
-      "link": "https://spacenews.com/vast-offers-new-docking-adapter-for-large-space-stations/",
-      "pubDate": "2026-04-15T13:00:00Z",
-      "snippet": "Commercial space station developer Vast unveiled a new docking interface the company is offering to the broader industry for future large stations and spacecraft.\nThe post Vast offers new docking adap...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "The Digital Networks Act: a reform that requires strategic attention for satellite operators",
-      "link": "https://spacenews.com/the-digital-networks-act-a-reform-that-requires-strategic-attention-for-satellite-operators/",
-      "pubDate": "2026-04-15T13:00:00Z",
-      "snippet": "Satellite operators seeking EU market access may face a fundamental shift in how spectrum is authorized, how services are delivered across borders, and what operational obligations apply. The Digital ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Estonia raids combat-vehicle funds to buy more drones, air defenses",
       "link": "https://www.defensenews.com/global/europe/2026/04/15/estonia-raids-combat-vehicle-funds-to-buy-more-drones-air-defenses/",
       "pubDate": "2026-04-15T12:29:42Z",
@@ -210,64 +282,10 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "New Wireless Access Point, Camera, and Remote Interface Unit Join NASA Human Rated Class 1 Layer 3 Ethernet Switch Family",
-      "link": "https://spacenews.com/new-wireless-access-point-camera-and-remote-interface-unit-join-nasa-human-rated-class-1-layer-3-ethernet-switch-family/",
-      "pubDate": "2026-04-15T12:00:00Z",
-      "snippet": "Colorado Springs, Colorado, April 15, 2026 \u2014 Ecliptic Enterprises, a long\u2011standing leader in space avionics and imaging systems with more than 220 missions flown over 25 years, announced a major [&#82...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Turion Space raises $75 million to expand maneuverable satellite fleet",
-      "link": "https://spacenews.com/turion-space-raises-75-million-to-expand-maneuverable-satellite-fleet/",
-      "pubDate": "2026-04-15T11:00:00Z",
-      "snippet": "Washington Harbour Partners leads Series B funding round \nThe post Turion Space raises $75 million to expand maneuverable satellite fleet appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Kepler to lead interoperability tests for ESA\u2019s HydRON optical relay network",
-      "link": "https://spacenews.com/kepler-to-lead-interoperability-tests-for-esas-hydron-optical-relay-network/",
-      "pubDate": "2026-04-15T00:00:00Z",
-      "snippet": "The European Space Agency has picked Canadian small satellite operator Kepler Communications to lead a hosted payload mission to test terminal interoperability for HydRON, ESA\u2019s flagship optical relay...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Blue Origin moves toward launch at Vandenberg",
-      "link": "https://spacenews.com/blue-origin-moves-toward-launch-at-vandenberg/",
-      "pubDate": "2026-04-14T23:13:56Z",
-      "snippet": "COLORADO SPRINGS \u2013 Blue Origin moved a step closer to launching New Glenn rockets from Vandenberg Space Force Base with a U.S. Space Force decision to conduct final negotiations of a lease for Space L...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NRO highlights government and industry partnerships",
-      "link": "https://spacenews.com/nro-highlights-government-and-industry-partnerships/",
-      "pubDate": "2026-04-14T22:10:51Z",
-      "snippet": "COLORADO SPRINGS \u2013 The National Reconnaissance Office, the agency responsible for U.S. spy satellites, seeks partners to accelerate its adoption of state-of-the-art intelligence, surveillance and reco...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Australia touts first GMLRS artillery rocket assembled Down Under",
       "link": "https://www.defensenews.com/global/asia-pacific/2026/04/14/australia-touts-first-gmlrs-artillery-rocket-assembled-down-under/",
       "pubDate": "2026-04-14T09:48:45Z",
       "snippet": "Lockheed's rocket is the poster child for Australia\u2019s Guided Weapons and Explosive Ordnance (GWEO) Enterprise, which seeks make strike weapons locally.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US military eyes high-energy \u2018laser dome\u2019 for domestic air defense",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/04/13/us-military-eyes-high-energy-laser-dome-for-domestic-air-defense/",
-      "pubDate": "2026-04-13T17:06:54Z",
-      "snippet": "The U.S. military's pursuit of high-energy laser weapons for American air defense comes amid the expanding threat of low-cost weaponized drones.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
