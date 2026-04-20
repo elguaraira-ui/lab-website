@@ -1,24 +1,51 @@
 {
-  "updated": "2026-04-17T11:41:12.295238Z",
-  "count": 52,
+  "updated": "2026-04-20T11:58:54.084226Z",
+  "count": 34,
   "items": [
     {
-      "title": "D2D services are at risk of becoming too complicated and siloed",
-      "link": "https://spacenews.com/d2d-services-are-at-risk-of-becoming-too-complicated-and-siloed/",
-      "pubDate": "2026-04-17T11:00:00Z",
-      "snippet": "At the recent Mobile World Conference 2026 in Barcelona, the strong presence of Direct-to-Device (D2D) satellite services and the avalanche of press releases related to contracts signed between D2D sa...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
+      "title": "Baltic nations brace for impact of Iran war delaying US weapons shipments",
+      "link": "https://www.defensenews.com/global/europe/2026/04/20/baltic-nations-brace-for-impact-of-iran-war-delaying-us-weapons-shipments/",
+      "pubDate": "2026-04-20T08:36:48Z",
+      "snippet": "Delays in ammunition deliveries could reopen a thorny question for Baltic HIMARS users: Would the U.S. permit non-Lockheed rockets to be loaded?",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
     },
     {
-      "title": "Qingzhou prototype cargo spacecraft completes rendezvous tests in orbit",
-      "link": "https://spacenews.com/qingzhou-prototype-cargo-spacecraft-completes-rendezvous-tests-in-orbit/",
-      "pubDate": "2026-04-17T09:27:52Z",
-      "snippet": "China has conducted rendezvous and proximity operations tests involving a prototype cargo spacecraft and a satellite in a step towards low-cost orbital infrastructure.\nThe post Qingzhou prototype carg...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
+      "title": "After 200 years scientists finally crack the \u201cdolomite problem\u201d",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260420015840.htm",
+      "pubDate": "2026-04-20T06:28:54Z",
+      "snippet": "After two centuries of failed attempts, scientists have finally grown dolomite in the lab, cracking a long-standing geological puzzle. They discovered that the mineral\u2019s growth stalls because of tiny ...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "US Navy destroyer fires on cargo vessel attempting to sail to Iranian port",
+      "link": "https://www.defensenews.com/news/your-military/2026/04/20/us-navy-destroyer-fires-on-cargo-vessel-attempting-to-sail-to-iranian-port/",
+      "pubDate": "2026-04-20T01:00:27Z",
+      "snippet": "The USS Spruance \"disabled Touska\u2019s propulsion by firing several rounds from the destroyer\u2019s 5-inch MK 45 Gun into Touska\u2019s engine room,\" CENTCOM stated.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Air Force unit executes test of Anduril\u2019s semiautonomous combat drone",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/04/17/air-force-unit-executes-test-of-andurils-semiautonomous-combat-drone/",
+      "pubDate": "2026-04-17T19:44:55Z",
+      "snippet": "Airmen operated Auduril's YFQ-44A jet-powered combat drone, which could someday fly alongside piloted fighters.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US to delay weapons deliveries to some European countries due to Iran war, sources say",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/17/us-to-delay-weapons-deliveries-to-some-european-countries-due-to-iran-war-sources-say/",
+      "pubDate": "2026-04-17T13:20:50Z",
+      "snippet": "Some European counterparts have been told that select U.S. weapons deliveries may be delayed as the Iran war continues to draw on weapons stocks.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
     },
     {
       "title": "France nears rocket artillery decision, plans ballistic missile by 2035",
@@ -30,60 +57,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "India\u2019s TakeMe2Space sets sights on 50-kilowatt data center",
-      "link": "https://spacenews.com/indias-takeme2space-sets-sights-on-50-kilowatt-data-center/",
-      "pubDate": "2026-04-16T23:59:03Z",
-      "snippet": "COLORADO SPRINGS \u2013 After announcing a $5 million seed round in January, Indian startup TakeMe2Space seeks to raise $55 million to establish a 50-kilowatt orbital data center. \u201cWhat is key for us is to...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Countering missile threats \u2018left of launch\u2019",
-      "link": "https://spacenews.com/countering-missile-threats-left-of-launch/",
-      "pubDate": "2026-04-16T23:05:42Z",
-      "snippet": "COLORADO SPRINGS \u2013 U.S. government agencies are working with industry to develop tools to disrupt missiles before they take flight, a timespan called \u2018left of launch.\u2019 \u201cWe&#8217;re looking at differen...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Taiwan floats shared satcom constellation amid calls for more space collaboration",
-      "link": "https://spacenews.com/taiwan-floats-shared-satcom-constellation-amid-calls-for-more-space-collaboration/",
-      "pubDate": "2026-04-16T21:47:30Z",
-      "snippet": "Taiwan\u2019s space agency chief has called on other countries to band together on a shared communications constellation to match the scale and growing strategic importance of networks like Starlink.\nThe p...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Companies make the case for commercial space station markets",
-      "link": "https://spacenews.com/companies-make-the-case-for-commercial-space-station-markets/",
-      "pubDate": "2026-04-16T21:42:36Z",
-      "snippet": "Companies proposing to develop commercial space stations are pushing back against claims by NASA that a market for such stations has yet to develop.\nThe post Companies make the case for commercial spa...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Boeing and its subsidiary Millennium Space team on new mid-size satellite",
-      "link": "https://spacenews.com/boeing-and-its-subsidiary-millennium-space-team-on-new-mid-size-satellite/",
-      "pubDate": "2026-04-16T18:39:25Z",
-      "snippet": "The new satellite platform is being positioned to compete in the emerging \u201cmicro GEO\u201d market for space-based communications and sensing\nThe post Boeing and its subsidiary Millennium Space team on new ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "All Points signs agreement to build payload processing facilities at KSC",
-      "link": "https://spacenews.com/all-points-signs-agreement-to-build-payload-processing-facilities-at-ksc/",
-      "pubDate": "2026-04-16T18:04:00Z",
-      "snippet": "All Points Logistics has signed an agreement with NASA\u2019s Kennedy Space Center to construct satellite processing facilities on center property.\nThe post All Points signs agreement to build payload proc...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Starlink outage hit drone tests, exposing Pentagon\u2019s growing reliance on SpaceX",
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/16/starlink-outage-hit-drone-tests-exposing-pentagons-growing-reliance-on-spacex/",
       "pubDate": "2026-04-16T17:41:44Z",
@@ -91,33 +64,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "How space weather forecasting keeps astronauts (and satellites) safe",
-      "link": "https://spacenews.com/how-space-weather-forecasting-keeps-astronauts-and-satellites-safe/",
-      "pubDate": "2026-04-16T16:30:00Z",
-      "snippet": "BOULDER, Colorado \u2013 The sun\u2019s volatile outbursts, such as storms, flares and other space weather, can cause serious harm to astronauts like the Artemis 2 crew who recently came home, and to satellites...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NASA seeks commercial and exploration links for new Earth science missions",
-      "link": "https://spacenews.com/nasa-seeks-commercial-and-exploration-links-for-new-earth-science-missions/",
-      "pubDate": "2026-04-16T15:59:22Z",
-      "snippet": "Two new proposed NASA Earth science missions will attempt to address key research topics while leveraging both commercial and exploration capabilities. During NASA\u2019s \u201cIgnition\u201d event March 24, the age...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "The optimism in the space economy with Alyssa Goessler",
-      "link": "https://spacenews.com/the-optimism-in-the-space-economy-with-alyssa-goessler/",
-      "pubDate": "2026-04-16T15:23:29Z",
-      "snippet": "In this episode of Space Minds, Mike Gruss talks with Alyssa Goessler on what&#8217;s driving the optimism in the space economy. They discuss the rigor needed in evaluating companies, the [&#8230;]\nTh...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "How the US military could clear mines from the Strait of Hormuz",
@@ -129,24 +75,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Artemis 2 is a benchmark in our space exploration program \u2014 and it depends on steady NASA funding",
-      "link": "https://spacenews.com/artemis-2-is-a-benchmark-in-our-space-exploration-program-and-it-depends-on-steady-nasa-funding/",
-      "pubDate": "2026-04-16T13:00:00Z",
-      "snippet": "Now that the Artemis 2 mission has been successfully completed, it\u2019s worth taking a look at where NASA stands on the role of humans in exploring space and what its path forward should be. Doing this i...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Voyager to fly private astronaut mission to ISS",
-      "link": "https://spacenews.com/voyager-to-fly-private-astronaut-mission-to-iss/",
-      "pubDate": "2026-04-16T11:54:32Z",
-      "snippet": "Voyager Technologies will be the third company to fly a private astronaut mission to the International Space Station, gaining experience for its commercial station.\nThe post Voyager to fly private ast...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "EU pumps over $1 billion into defense R&D, centered around  Ukraine war lessons",
       "link": "https://www.defensenews.com/global/europe/2026/04/16/eu-pumps-over-1-billion-into-defense-rd-centered-around-ukraine-war-lessons/",
       "pubDate": "2026-04-16T11:37:33Z",
@@ -154,15 +82,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Aethero developing Titan satellite to advance space-based data center ambitions",
-      "link": "https://spacenews.com/aethero-orders-titan-satellite-to-advance-space-based-data-center-ambitions/",
-      "pubDate": "2026-04-16T11:00:00Z",
-      "snippet": "Aethero is preparing to deploy its most powerful computing payload yet this fall, aiming to bring data center-style processing to orbit and expand the scale of AI workloads that can be handled in spac...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "France readies AI-powered combat data-management similar to US \u2018Maven\u2019",
@@ -174,24 +93,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "PlanetiQ secures $15 million Air Force STRATFI contract",
-      "link": "https://spacenews.com/planetiq-secures-15-million-air-force-stratfi-contract/",
-      "pubDate": "2026-04-16T10:00:00Z",
-      "snippet": "COLORADO SPRINGS \u2013 Commercial satellite operator PlanetiQ will develop and launch spacecraft equipped with next-generation instruments to gather terrestrial and space weather data with a $15 million U...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Space Force reorg signals end of SDA as standalone agency",
-      "link": "https://spacenews.com/space-force-reorg-signals-end-of-sda-as-standalone-agency/",
-      "pubDate": "2026-04-16T02:57:01Z",
-      "snippet": "Officials say the Space Development Agency\u2019s \u2018go fast\u2019 model will live on under new portfolio-based organization\nThe post Space Force reorg signals end of SDA as standalone agency appeared first on Sp...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "White House offers no hint of Iran war cost as it seeks military funding surge",
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/16/white-house-offers-no-hint-of-iran-war-cost-as-it-seeks-military-funding-surge/",
       "pubDate": "2026-04-16T00:52:33Z",
@@ -201,24 +102,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Seraphim forms space advisory council",
-      "link": "https://spacenews.com/seraphim-forms-space-advisory-council/",
-      "pubDate": "2026-04-15T23:01:00Z",
-      "snippet": "Early-stage space investor Seraphim Space has formed a global advisory council of industry, policy and investment leaders to inform its long-term strategy as geopolitical and technology advances rapid...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Meink: Space Force must \u2018execute\u2019 as budget set to surge",
-      "link": "https://spacenews.com/meink-space-force-must-execute-as-budget-set-to-surge/",
-      "pubDate": "2026-04-15T21:50:48Z",
-      "snippet": "Service leaders warn workforce gaps and acquisition bottlenecks could slow delivery of new tech\nThe post Meink: Space Force must &#8216;execute&#8217; as budget set to surge appeared first on SpaceNew...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "US Air Force debuts operational AI wargame system",
       "link": "https://www.defensenews.com/industry/techwatch/2026/04/15/us-air-force-debuts-operational-ai-wargame-system/",
       "pubDate": "2026-04-15T21:47:07Z",
@@ -226,24 +109,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Defining acquisition on a wartime footing",
-      "link": "https://spacenews.com/defining-acquisition-on-a-wartime-footing/",
-      "pubDate": "2026-04-15T20:45:05Z",
-      "snippet": "The President, the Secretary of War, and the Chief of Space Operations are all saying it: We no longer have the luxury of time. This isn&#8217;t rhetoric. It is a direct response to a fundamental chan...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NASA seeks proposals for commercial TDRSS replacement",
-      "link": "https://spacenews.com/nasa-seeks-proposals-for-commercial-tdrss-replacement/",
-      "pubDate": "2026-04-15T20:34:56Z",
-      "snippet": "NASA plans to seek proposals for commercial communications services that can be backward compatible with the agency\u2019s aging fleet of relay satellites. NASA issued April 10 a draft solicitation for Pro...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "AeroVironment launches new multifunctional drone variant",
@@ -268,24 +133,6 @@
       "link": "https://www.defensenews.com/global/europe/2026/04/15/berlin-gets-a-front-row-seat-to-german-weapons-performance-in-ukraine/",
       "pubDate": "2026-04-15T13:36:28Z",
       "snippet": "A new bilateral agreement covers data sharing from engagements of the Panzerhaubitze 2000, RCH-155 artillery and the IRIS-T air-defense weapon.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Estonia raids combat-vehicle funds to buy more drones, air defenses",
-      "link": "https://www.defensenews.com/global/europe/2026/04/15/estonia-raids-combat-vehicle-funds-to-buy-more-drones-air-defenses/",
-      "pubDate": "2026-04-15T12:29:42Z",
-      "snippet": "The defense minister said the decision was based on lessons learned from Russia's invasion of Ukraine.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Australia touts first GMLRS artillery rocket assembled Down Under",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/04/14/australia-touts-first-gmlrs-artillery-rocket-assembled-down-under/",
-      "pubDate": "2026-04-14T09:48:45Z",
-      "snippet": "Lockheed's rocket is the poster child for Australia\u2019s Guided Weapons and Explosive Ordnance (GWEO) Enterprise, which seeks make strike weapons locally.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -457,15 +304,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/01/260125083427.htm",
       "pubDate": "2026-01-26T16:57:18Z",
       "snippet": "For years, scientists noticed that magnetic fields could improve steel, but no one knew exactly why. New simulations reveal that magnetism changes how iron atoms behave, making it harder for carbon at...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "A strange in-between state of matter is finally observed",
-      "link": "https://www.sciencedaily.com/releases/2026/01/260125083404.htm",
-      "pubDate": "2026-01-26T15:11:17Z",
-      "snippet": "When materials become just one atom thick, melting no longer follows the familiar rules. Instead of jumping straight from solid to liquid, an unusual in-between state emerges, where atomic positions l...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
