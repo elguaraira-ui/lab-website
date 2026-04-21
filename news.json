@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-20T11:58:54.084226Z",
-  "count": 34,
+  "updated": "2026-04-21T11:52:06.160910Z",
+  "count": 31,
   "items": [
+    {
+      "title": "After watchdog slams understaffing, AI to vet Pentagon-backed professors\u2019 China ties",
+      "link": "https://www.defensenews.com/news/2026/04/20/after-watchdog-slams-understaffing-ai-to-vet-pentagon-backed-professors-china-ties/",
+      "pubDate": "2026-04-20T17:56:27Z",
+      "snippet": "AI\u2019s confusion over the nature of DOD research partnerships may mask real espionage if humans are not the final judge of foreign influence, experts warn.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Army turns to Ukraine-tested drones to counter Iranian UAV threat",
+      "link": "https://www.defensenews.com/unmanned/2026/04/20/us-army-turns-to-ukraine-tested-drones-to-counter-iranian-uav-threat/",
+      "pubDate": "2026-04-20T16:31:07Z",
+      "snippet": "Army Secretary Dan Driscoll told lawmakers the service has purchased 13,000 low-cost interceptor drones to counter Iranian-made Shahed drones.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Army wants doctrine for landing helicopters on Arctic ice",
+      "link": "https://www.defensenews.com/news/your-military/2026/04/20/us-army-wants-doctrine-for-landing-helicopters-on-arctic-ice/",
+      "pubDate": "2026-04-20T15:30:00Z",
+      "snippet": "The Army Corps of Engineers\u2019 research and development component is working to disprove old assumptions about the risks of landing on frozen lakes.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "L3Harris announces $1 billion expansion in Virginia",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/04/20/l3harris-announces-1-billion-expansion-in-virginia/",
+      "pubDate": "2026-04-20T15:00:00Z",
+      "snippet": "The expansion will more than double manufacturing space at the Virginia site, which currently spans 256,000 square feet.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Space Force\u2019s 15-year vision calls for more personnel, simulators and survivability",
+      "link": "https://www.defensenews.com/news/your-military/2026/04/20/space-forces-15-year-vision-calls-for-more-personnel-simulators-and-survivability/",
+      "pubDate": "2026-04-20T13:30:00Z",
+      "snippet": "A new Space Force vision document grapples with the future of space warfare and how the service can prepare for it.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Air Force wants better infrared jammers for its combat rescue helicopters",
+      "link": "https://www.defensenews.com/air-warfare/2026/04/20/us-air-force-wants-better-infrared-jammers-for-its-combat-rescue-helicopters/",
+      "pubDate": "2026-04-20T12:28:59Z",
+      "snippet": "The HH-60W, recently used to rescue downed pilots in Iran, lacks a capable infrared countermeasure system, Air Force Material Command said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Baltic nations brace for impact of Iran war delaying US weapons shipments",
       "link": "https://www.defensenews.com/global/europe/2026/04/20/baltic-nations-brace-for-impact-of-iran-war-delaying-us-weapons-shipments/",
@@ -52,87 +106,6 @@
       "link": "https://www.defensenews.com/global/europe/2026/04/17/france-nears-rocket-artillery-decision-plans-ballistic-missile-by-2035/",
       "pubDate": "2026-04-17T08:19:24Z",
       "snippet": "French defense leaders are treating the acquisition of a new rocket artillery weapon as priority for the land forces.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Starlink outage hit drone tests, exposing Pentagon\u2019s growing reliance on SpaceX",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/16/starlink-outage-hit-drone-tests-exposing-pentagons-growing-reliance-on-spacex/",
-      "pubDate": "2026-04-16T17:41:44Z",
-      "snippet": "Last August, a global outage across Elon Musk\u2019s satellite network left U.S. Navy unmanned surface vessels bobbing off California, halting operations.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "How the US military could clear mines from the Strait of Hormuz",
-      "link": "https://www.defensenews.com/news/your-military/2026/04/16/how-the-us-military-could-clear-mines-from-the-strait-of-hormuz/",
-      "pubDate": "2026-04-16T14:18:34Z",
-      "snippet": "An arsenal of drones, explosive\u2011laden robots and helicopters can help reduce risk, though de\u2011mining crews could still be vulnerable to Iranian attacks.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "EU pumps over $1 billion into defense R&D, centered around  Ukraine war lessons",
-      "link": "https://www.defensenews.com/global/europe/2026/04/16/eu-pumps-over-1-billion-into-defense-rd-centered-around-ukraine-war-lessons/",
-      "pubDate": "2026-04-16T11:37:33Z",
-      "snippet": "The choice of funded projects marks a shift to 21st-century warfare, with loitering munitions and affordable mass drone production high on the agenda.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "France readies AI-powered combat data-management similar to US \u2018Maven\u2019",
-      "link": "https://www.defensenews.com/global/europe/2026/04/16/france-readies-ai-powered-combat-data-management-similar-to-us-maven/",
-      "pubDate": "2026-04-16T10:47:52Z",
-      "snippet": "The system could be available within a few months, and available for exercises in September 2027, a top general said, declining to provide specifics.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "White House offers no hint of Iran war cost as it seeks military funding surge",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/16/white-house-offers-no-hint-of-iran-war-cost-as-it-seeks-military-funding-surge/",
-      "pubDate": "2026-04-16T00:52:33Z",
-      "snippet": "\"I don't have a ballpark,\" White House budget director Russell Vought told lawmakers Wednesday about the cost of the Iran war.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Air Force debuts operational AI wargame system",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/04/15/us-air-force-debuts-operational-ai-wargame-system/",
-      "pubDate": "2026-04-15T21:47:07Z",
-      "snippet": "WarMatrix is an AI-powered system meant to keep human judgement central to wargaming and was marked operational during an event in late March.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "AeroVironment launches new multifunctional drone variant",
-      "link": "https://www.defensenews.com/news/your-military/2026/04/15/aerovironment-launches-new-multifunctional-drone-variant/",
-      "pubDate": "2026-04-15T20:24:43Z",
-      "snippet": "The MAYHEM 10 drone, a part of the Switchblade family, will serve as a multifunctional launch system, capable of deploying from various platforms.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "France puts mobile corps command to the test in major war scenario",
-      "link": "https://www.defensenews.com/global/europe/2026/04/15/france-puts-mobile-corps-command-to-the-test-in-major-war-scenario/",
-      "pubDate": "2026-04-15T15:59:11Z",
-      "snippet": "The small forward command post lets commanders \u201cbe in contact with the divisions, to be as close as possible to the engagement zone,\u201d said a top general.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Berlin gets a front-row seat to German weapons\u2019 performance in Ukraine",
-      "link": "https://www.defensenews.com/global/europe/2026/04/15/berlin-gets-a-front-row-seat-to-german-weapons-performance-in-ukraine/",
-      "pubDate": "2026-04-15T13:36:28Z",
-      "snippet": "A new bilateral agreement covers data sharing from engagements of the Panzerhaubitze 2000, RCH-155 artillery and the IRIS-T air-defense weapon.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
