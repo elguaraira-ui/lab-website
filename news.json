@@ -1,7 +1,79 @@
 {
-  "updated": "2026-04-21T11:52:06.160910Z",
-  "count": 31,
+  "updated": "2026-04-22T11:50:18.343524Z",
+  "count": 34,
   "items": [
+    {
+      "title": "Saildrone announces new USV class aimed at anti-submarine warfare",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/04/21/saildrone-announces-new-usv-class-aimed-at-anti-submarine-warfare/",
+      "pubDate": "2026-04-21T21:33:36Z",
+      "snippet": "Spectre, a new class of unmanned surface vessel, will face sea trials in early 2027.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Navy to integrate PAC-3 MSE interceptor missile with Aegis Combat System",
+      "link": "https://www.defensenews.com/news/your-military/2026/04/21/us-navy-to-integrate-pac-3-mse-interceptor-missile-with-aegis-combat-system/",
+      "pubDate": "2026-04-21T19:02:34Z",
+      "snippet": "The Navy will integrate PAC-3 MSE interceptor missiles with the Aegis Combat System, according to Lockheed Martin.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon seeks funds for Golden Dome, drones, AI in largest-ever budget request",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/21/pentagon-seeks-funds-for-golden-dome-drones-ai-in-largest-ever-budget-request/",
+      "pubDate": "2026-04-21T18:58:09Z",
+      "snippet": "According to Pentagon officials, the president's key priorities include the Golden Dome, drones, AI, data infrastructure and the defense industrial base.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US commander warns Taiwan not to \u2018starve the chicken\u2019 on defense",
+      "link": "https://www.defensenews.com/news/your-military/2026/04/21/us-commander-warns-taiwan-not-to-starve-the-chicken-on-defense/",
+      "pubDate": "2026-04-21T17:56:09Z",
+      "snippet": "Adm. Samuel Paparo stressed the importance of Taiwan passing its stalled defense budget.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Navy unmanned surface vessel fleet to grow sevenfold in Indo-Pacific",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/04/21/us-navy-unmanned-surface-vessel-fleet-to-grow-sevenfold-in-indo-pacific/",
+      "pubDate": "2026-04-21T17:42:57Z",
+      "snippet": "The fleet of medium unmanned surface vessels in the Indo-Pacific is expected to grow to at least 30, with smaller USVs and unmanned aerial systems.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US did not move defense system from Korea, general says",
+      "link": "https://www.defensenews.com/news/your-military/2026/04/21/us-did-not-move-defense-system-from-korea-general-says/",
+      "pubDate": "2026-04-21T16:54:56Z",
+      "snippet": "The Washington Post reported in March that the Pentagon was moving parts of a THAAD system to the Middle East from South Korea.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Navy successfully tests new long-range, winged JDAM out to 200 miles",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/04/21/us-navy-successfully-tests-new-long-range-winged-jdam-out-to-200-miles/",
+      "pubDate": "2026-04-21T14:57:43Z",
+      "snippet": "An April 1 test saw the munition deployed from an F/A-18 Super Hornet, fly approximately 200 miles in 34 minutes and strike within meters of its target.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Denmark to receive first SAMP/T NG air-defense system in 2028",
+      "link": "https://www.defensenews.com/global/europe/2026/04/21/denmark-to-receive-first-sampt-ng-air-defense-system-in-2028/",
+      "pubDate": "2026-04-21T13:51:39Z",
+      "snippet": "Copenhagen in September picked the European system over the American-made Patriot.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "After watchdog slams understaffing, AI to vet Pentagon-backed professors\u2019 China ties",
       "link": "https://www.defensenews.com/news/2026/04/20/after-watchdog-slams-understaffing-ai-to-vet-pentagon-backed-professors-china-ties/",
@@ -57,15 +129,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Baltic nations brace for impact of Iran war delaying US weapons shipments",
-      "link": "https://www.defensenews.com/global/europe/2026/04/20/baltic-nations-brace-for-impact-of-iran-war-delaying-us-weapons-shipments/",
-      "pubDate": "2026-04-20T08:36:48Z",
-      "snippet": "Delays in ammunition deliveries could reopen a thorny question for Baltic HIMARS users: Would the U.S. permit non-Lockheed rockets to be loaded?",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "After 200 years scientists finally crack the \u201cdolomite problem\u201d",
       "link": "https://www.sciencedaily.com/releases/2026/04/260420015840.htm",
       "pubDate": "2026-04-20T06:28:54Z",
@@ -73,42 +136,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "US Navy destroyer fires on cargo vessel attempting to sail to Iranian port",
-      "link": "https://www.defensenews.com/news/your-military/2026/04/20/us-navy-destroyer-fires-on-cargo-vessel-attempting-to-sail-to-iranian-port/",
-      "pubDate": "2026-04-20T01:00:27Z",
-      "snippet": "The USS Spruance \"disabled Touska\u2019s propulsion by firing several rounds from the destroyer\u2019s 5-inch MK 45 Gun into Touska\u2019s engine room,\" CENTCOM stated.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Air Force unit executes test of Anduril\u2019s semiautonomous combat drone",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/04/17/air-force-unit-executes-test-of-andurils-semiautonomous-combat-drone/",
-      "pubDate": "2026-04-17T19:44:55Z",
-      "snippet": "Airmen operated Auduril's YFQ-44A jet-powered combat drone, which could someday fly alongside piloted fighters.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US to delay weapons deliveries to some European countries due to Iran war, sources say",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/17/us-to-delay-weapons-deliveries-to-some-european-countries-due-to-iran-war-sources-say/",
-      "pubDate": "2026-04-17T13:20:50Z",
-      "snippet": "Some European counterparts have been told that select U.S. weapons deliveries may be delayed as the Iran war continues to draw on weapons stocks.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "France nears rocket artillery decision, plans ballistic missile by 2035",
-      "link": "https://www.defensenews.com/global/europe/2026/04/17/france-nears-rocket-artillery-decision-plans-ballistic-missile-by-2035/",
-      "pubDate": "2026-04-17T08:19:24Z",
-      "snippet": "French defense leaders are treating the acquisition of a new rocket artillery weapon as priority for the land forces.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "\u201cGiant superatoms\u201d could finally solve quantum computing\u2019s biggest problem",
