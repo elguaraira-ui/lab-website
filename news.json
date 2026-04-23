@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-22T11:50:18.343524Z",
+  "updated": "2026-04-23T11:52:02.780560Z",
   "count": 34,
   "items": [
+    {
+      "title": "John Phelan out as Navy secretary, Pentagon says",
+      "link": "https://www.defensenews.com/news/your-military/2026/04/22/pentagon-removes-john-phelan-as-navy-secretary/",
+      "pubDate": "2026-04-22T21:51:22Z",
+      "snippet": "The Pentagon provided no reason for the move.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Germany unveils strategy for becoming Europe\u2019s strongest military by 2039",
+      "link": "https://www.defensenews.com/global/europe/2026/04/22/germany-unveils-strategy-for-becoming-europes-strongest-military-by-2039/",
+      "pubDate": "2026-04-22T11:57:42Z",
+      "snippet": "The Bundeswehr will move away from rigid hardware quotas \u2212 the number of tanks, aircraft or ships \u2212 toward a flexible, effects-based planning model.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Saildrone announces new USV class aimed at anti-submarine warfare",
       "link": "https://www.defensenews.com/industry/techwatch/2026/04/21/saildrone-announces-new-usv-class-aimed-at-anti-submarine-warfare/",
@@ -106,24 +124,6 @@
       "link": "https://www.defensenews.com/industry/techwatch/2026/04/20/l3harris-announces-1-billion-expansion-in-virginia/",
       "pubDate": "2026-04-20T15:00:00Z",
       "snippet": "The expansion will more than double manufacturing space at the Virginia site, which currently spans 256,000 square feet.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Space Force\u2019s 15-year vision calls for more personnel, simulators and survivability",
-      "link": "https://www.defensenews.com/news/your-military/2026/04/20/space-forces-15-year-vision-calls-for-more-personnel-simulators-and-survivability/",
-      "pubDate": "2026-04-20T13:30:00Z",
-      "snippet": "A new Space Force vision document grapples with the future of space warfare and how the service can prepare for it.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Air Force wants better infrared jammers for its combat rescue helicopters",
-      "link": "https://www.defensenews.com/air-warfare/2026/04/20/us-air-force-wants-better-infrared-jammers-for-its-combat-rescue-helicopters/",
-      "pubDate": "2026-04-20T12:28:59Z",
-      "snippet": "The HH-60W, recently used to rescue downed pilots in Iran, lacks a capable infrared countermeasure system, Air Force Material Command said.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
