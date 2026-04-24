@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-23T11:52:02.780560Z",
-  "count": 34,
+  "updated": "2026-04-24T11:51:15.261718Z",
+  "count": 33,
   "items": [
+    {
+      "title": "Australia awards contracts for counter-drone tech based on lasers, interceptors",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/04/24/australia-awards-contracts-for-counter-drone-tech-based-on-lasers-interceptors/",
+      "pubDate": "2026-04-24T09:59:41Z",
+      "snippet": "Both products will eventually integrate into a command-and-control system developed under the Army\u2019s umbrella Land 156 counter-unmanned aerial system push.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "In first, Ukrainian unmanned vessel launches interceptor to knock out Shahed drone",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/04/23/in-first-ukrainian-unmanned-vessel-launches-interceptor-to-knock-out-shahed-drone/",
+      "pubDate": "2026-04-23T18:17:26Z",
+      "snippet": "Ukraine unleashed a powerful new defense against Shahed drones that could blunt Russia's ability to force concessions in future negotiations.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Inside China, artificial intelligence is a snake eating its own tail",
+      "link": "https://www.defensenews.com/opinion/2026/04/23/inside-china-artificial-intelligence-is-a-snake-eating-its-own-tail/",
+      "pubDate": "2026-04-23T13:47:42Z",
+      "snippet": "AI researchers refer to this as \u201cmodel collapse,\u201d a phenomenon in which models trained on their own synthetic outputs degrade over successive generations.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "AI just discovered new physics in the fourth state of matter",
+      "link": "https://www.sciencedaily.com/releases/2026/04/260422044635.htm",
+      "pubDate": "2026-04-23T13:38:47Z",
+      "snippet": "Physicists have taken a major step toward using AI not just to analyze data, but to uncover entirely new laws of nature. By combining a specially designed neural network with precise 3D tracking of pa...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
     {
       "title": "John Phelan out as Navy secretary, Pentagon says",
       "link": "https://www.defensenews.com/news/your-military/2026/04/22/pentagon-removes-john-phelan-as-navy-secretary/",
@@ -88,42 +124,6 @@
       "link": "https://www.defensenews.com/global/europe/2026/04/21/denmark-to-receive-first-sampt-ng-air-defense-system-in-2028/",
       "pubDate": "2026-04-21T13:51:39Z",
       "snippet": "Copenhagen in September picked the European system over the American-made Patriot.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "After watchdog slams understaffing, AI to vet Pentagon-backed professors\u2019 China ties",
-      "link": "https://www.defensenews.com/news/2026/04/20/after-watchdog-slams-understaffing-ai-to-vet-pentagon-backed-professors-china-ties/",
-      "pubDate": "2026-04-20T17:56:27Z",
-      "snippet": "AI\u2019s confusion over the nature of DOD research partnerships may mask real espionage if humans are not the final judge of foreign influence, experts warn.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army turns to Ukraine-tested drones to counter Iranian UAV threat",
-      "link": "https://www.defensenews.com/unmanned/2026/04/20/us-army-turns-to-ukraine-tested-drones-to-counter-iranian-uav-threat/",
-      "pubDate": "2026-04-20T16:31:07Z",
-      "snippet": "Army Secretary Dan Driscoll told lawmakers the service has purchased 13,000 low-cost interceptor drones to counter Iranian-made Shahed drones.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army wants doctrine for landing helicopters on Arctic ice",
-      "link": "https://www.defensenews.com/news/your-military/2026/04/20/us-army-wants-doctrine-for-landing-helicopters-on-arctic-ice/",
-      "pubDate": "2026-04-20T15:30:00Z",
-      "snippet": "The Army Corps of Engineers\u2019 research and development component is working to disprove old assumptions about the risks of landing on frozen lakes.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "L3Harris announces $1 billion expansion in Virginia",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/04/20/l3harris-announces-1-billion-expansion-in-virginia/",
-      "pubDate": "2026-04-20T15:00:00Z",
-      "snippet": "The expansion will more than double manufacturing space at the Virginia site, which currently spans 256,000 square feet.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -295,15 +295,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/01/260130041105.htm",
       "pubDate": "2026-01-30T12:58:57Z",
       "snippet": "Researchers have found a way to make ordinary aluminum tubes float indefinitely, even when submerged for long periods or punched full of holes. By engineering the metal\u2019s surface to repel water, the t...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "The magnetic secret inside steel finally explained",
-      "link": "https://www.sciencedaily.com/releases/2026/01/260125083427.htm",
-      "pubDate": "2026-01-26T16:57:18Z",
-      "snippet": "For years, scientists noticed that magnetic fields could improve steel, but no one knew exactly why. New simulations reveal that magnetism changes how iron atoms behave, making it harder for carbon at...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
