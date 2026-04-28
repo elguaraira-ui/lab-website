@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-27T12:14:28.611595Z",
-  "count": 35,
+  "updated": "2026-04-28T12:18:43.876211Z",
+  "count": 36,
   "items": [
+    {
+      "title": "Why aircraft carriers are the best (and worst) place for laser weapons",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/04/28/why-aircraft-carriers-are-the-best-and-worst-place-for-laser-weapons/",
+      "pubDate": "2026-04-28T01:44:19Z",
+      "snippet": "High-energy laser weapons are a natural fit for large, power-rich aircraft carriers \u2014 with limits.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "What we know about the US military\u2019s new joint laser weapon system",
+      "link": "https://www.defensenews.com/newsletters/daily-news-roundup/2026/04/28/what-we-know-about-the-us-militarys-new-joint-laser-weapon-system/",
+      "pubDate": "2026-04-28T01:23:18Z",
+      "snippet": "The Army-Navy effort aims to produce a containerized 150-kilowatt high-energy laser weapon to counter incoming cruise missiles.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Navy\u2019s unmanned MQ-25A Stingray notches first successful test flight",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/04/27/us-navys-unmanned-mq-25a-stingray-notches-first-successful-test-flight/",
+      "pubDate": "2026-04-27T19:06:39Z",
+      "snippet": "The U.S. Navy and Boeing conducted the Stingray's first test flight on Saturday, showing its ability to taxi, take off, fly and land autonomously.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Air Force looks to launch cheap missiles from cargo aircraft",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/04/27/us-air-force-looks-to-launch-cheap-missiles-from-cargo-aircraft/",
+      "pubDate": "2026-04-27T18:34:55Z",
+      "snippet": "The U.S. Air Force wants inexpensive, long-range missiles that can be launched in mass volleys by cargo aircraft.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Global military spending surges and reaches record high",
+      "link": "https://www.defensenews.com/global/europe/2026/04/27/global-military-spending-surges-and-reaches-record-high/",
+      "pubDate": "2026-04-27T12:41:04Z",
+      "snippet": "In addition to providing the latest numbers, SIPRI researchers also raised a concern about transparency.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Massive frigate buy from Japan jolts Australian warship program",
       "link": "https://www.defensenews.com/global/asia-pacific/2026/04/27/massive-frigate-buy-from-japan-jolts-australian-warship-program/",
@@ -124,42 +169,6 @@
       "link": "https://www.defensenews.com/global/europe/2026/04/22/germany-unveils-strategy-for-becoming-europes-strongest-military-by-2039/",
       "pubDate": "2026-04-22T11:57:42Z",
       "snippet": "The Bundeswehr will move away from rigid hardware quotas \u2212 the number of tanks, aircraft or ships \u2212 toward a flexible, effects-based planning model.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Saildrone announces new USV class aimed at anti-submarine warfare",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/04/21/saildrone-announces-new-usv-class-aimed-at-anti-submarine-warfare/",
-      "pubDate": "2026-04-21T21:33:36Z",
-      "snippet": "Spectre, a new class of unmanned surface vessel, will face sea trials in early 2027.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Navy to integrate PAC-3 MSE interceptor missile with Aegis Combat System",
-      "link": "https://www.defensenews.com/news/your-military/2026/04/21/us-navy-to-integrate-pac-3-mse-interceptor-missile-with-aegis-combat-system/",
-      "pubDate": "2026-04-21T19:02:34Z",
-      "snippet": "The Navy will integrate PAC-3 MSE interceptor missiles with the Aegis Combat System, according to Lockheed Martin.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon seeks funds for Golden Dome, drones, AI in largest-ever budget request",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/21/pentagon-seeks-funds-for-golden-dome-drones-ai-in-largest-ever-budget-request/",
-      "pubDate": "2026-04-21T18:58:09Z",
-      "snippet": "According to Pentagon officials, the president's key priorities include the Golden Dome, drones, AI, data infrastructure and the defense industrial base.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US commander warns Taiwan not to \u2018starve the chicken\u2019 on defense",
-      "link": "https://www.defensenews.com/news/your-military/2026/04/21/us-commander-warns-taiwan-not-to-starve-the-chicken-on-defense/",
-      "pubDate": "2026-04-21T17:56:09Z",
-      "snippet": "Adm. Samuel Paparo stressed the importance of Taiwan passing its stalled defense budget.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
