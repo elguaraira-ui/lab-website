@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-01T11:49:26.809609Z",
+  "updated": "2026-05-04T12:16:30.328070Z",
   "count": 28,
   "items": [
+    {
+      "title": "Dutch startup Intelic sets up drone marketplace for European militaries",
+      "link": "https://www.defensenews.com/global/europe/2026/05/04/dutch-startup-intelic-sets-up-drone-marketplace-for-european-militaries/",
+      "pubDate": "2026-05-04T06:30:00Z",
+      "snippet": "BASE will allow defense ministries to explore systems that are ready to be used in a coalition framework, with interoperability guaranteed, says the firm.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Physicists just found a tiny flaw in time itself",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260502233918.htm",
+      "pubDate": "2026-05-03T13:40:13Z",
+      "snippet": "Physicists are rethinking one of quantum mechanics\u2019 biggest puzzles: how fuzzy possibilities become definite reality. New research suggests that spontaneous \u201ccollapse\u201d processes\u2014possibly linked to gra...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Marine Corps fields 3,500 first-person view attack drones",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/05/01/marine-corps-fields-3500-first-person-view-attack-drones/",
+      "pubDate": "2026-05-01T20:28:43Z",
+      "snippet": "The U.S. Marine Corps had zero first-person view drones in service as of October 2025.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon freezes out Anthropic as it signs deals with AI rivals",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/05/01/pentagon-freezes-out-anthropic-as-it-signs-deals-with-ai-rivals/",
+      "pubDate": "2026-05-01T18:15:50Z",
+      "snippet": "The Department of Defense announced on Friday that it had struck deals with seven leading artificial intelligence companies.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Marine Corps replaces Basic Reconnaissance Course with expanded training",
+      "link": "https://www.defensenews.com/news/your-military/2026/05/01/us-marine-corps-replaces-basic-reconnaissance-course-with-expanded-training/",
+      "pubDate": "2026-05-01T17:43:51Z",
+      "snippet": "The new Ground Reconnaissance Course is one of two programs\u00a0replacing the service\u2019s Basic Reconnaissance Course.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Army tests fresh drones, 3D printers at \u2018Balikatan\u2019 drill in the Philippines",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/05/01/us-army-tests-fresh-drones-3d-printers-at-balikatan-drill-in-the-philippines/",
+      "pubDate": "2026-05-01T14:05:10Z",
+      "snippet": "In addition, the lab was testing a containerized solar-panel micro grid to generate electricity, a quieter alternative to diesel generators.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Pacific Marines will be first to test-drive new pilot-optional helicopter",
       "link": "https://www.defensenews.com/industry/techwatch/2026/04/30/pacific-marines-will-be-first-to-test-drive-new-pilot-optional-helicopter/",
@@ -25,51 +79,6 @@
       "link": "https://www.defensenews.com/news/your-military/2026/04/30/from-prototypes-to-production-us-air-force-seeks-nearly-1b-for-initial-cca-procurement/",
       "pubDate": "2026-04-30T17:19:41Z",
       "snippet": "In a first, the Air Force is asking Congress to fund the purchase of Collaborative Combat Aircraft, marking the beginning of the \u201cloyal wingman\" era.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Iran war has cost $25 billion so far, Pentagon official says",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/29/iran-war-has-cost-25-billion-so-far-pentagon-official-says/",
-      "pubDate": "2026-04-29T19:13:24Z",
-      "snippet": "Acting comptroller Jules Hurst III, testifying before the House Armed Services Committee, said that the bulk of the figure has been devoted to ordnance.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Brain function evaluations to be part of Marine health records",
-      "link": "https://www.defensenews.com/news/your-marine-corps/2026/04/29/brain-function-evaluations-to-be-part-of-marine-health-records/",
-      "pubDate": "2026-04-29T16:41:57Z",
-      "snippet": "By September, Marines will be screened for blast exposure and overpressure during their periodic health assessments, a Pentagon official said.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Marines help gun down beach invaders in simulated Philippines defense",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/04/29/us-marines-help-gun-down-beach-invaders-in-simulated-philippines-defense/",
-      "pubDate": "2026-04-29T14:05:37Z",
-      "snippet": "Afterwards, as the repulsed \u201cenemy\u201d withdrew in disorder, a coup de grace was delivered by an explosive-laden, first-person-view drone.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Drone diplomacy wins Ukraine valuable allies, but now it must deliver",
-      "link": "https://www.defensenews.com/global/europe/2026/04/29/drone-diplomacy-wins-ukraine-valuable-allies-but-now-it-must-deliver/",
-      "pubDate": "2026-04-29T13:19:38Z",
-      "snippet": "The Iran war has confirmed how central drones are to modern warfare and handed Zelenskiy a diplomatic trump card, analysts say.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon\u2019s FY27 budget seeks 85 F-35s, but most ride on reconciliation",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/04/28/pentagons-fy27-budget-seeks-85-f-35s-but-most-ride-on-reconciliation/",
-      "pubDate": "2026-04-28T17:59:31Z",
-      "snippet": "The Pentagon\u2019s fiscal 2027 budget request seeks 85 F-35 Lightning II fighters across the joint force, up from 47 in fiscal 2026.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -241,15 +250,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/02/260208011019.htm",
       "pubDate": "2026-02-08T18:38:35Z",
       "snippet": "Scientists at the University of Warwick have cracked a long-standing problem in air pollution science: how to predict the movement of irregularly shaped nanoparticles as they drift through the air we ...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "This tiny molecular trick makes spider silk almost unbreakable",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260206012210.htm",
-      "pubDate": "2026-02-06T06:22:10Z",
-      "snippet": "Scientists have cracked a key mystery behind spider silk\u2019s legendary strength and flexibility. They discovered that tiny molecular interactions act like natural glue, holding silk proteins together as...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
