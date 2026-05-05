@@ -1,7 +1,61 @@
 {
-  "updated": "2026-05-04T12:16:30.328070Z",
-  "count": 28,
+  "updated": "2026-05-05T11:53:52.366743Z",
+  "count": 33,
   "items": [
+    {
+      "title": "US Army fires Tomahawk missile from new Typhon launcher during Philippines drill",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/05/05/us-army-fires-tomahawk-missile-from-new-typhon-launcher-during-philippines-drill/",
+      "pubDate": "2026-05-05T08:47:12Z",
+      "snippet": "\u201cThe missile was very precise. Let\u2019s say if you want to hit a window from a far distance, it lands directly into that window,\u201d a military official said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Air Force clears T-7A Red Hawk for low-rate production",
+      "link": "https://www.defensenews.com/news/your-air-force/2026/05/04/air-force-clears-t-7a-red-hawk-for-low-rate-production/",
+      "pubDate": "2026-05-04T23:42:42Z",
+      "snippet": "The decision authorizes a $219 million contract for the first 14 aircraft.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US destroys six Iranian small boats, shoots down missiles, drones, admiral says",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-admiral-says/",
+      "pubDate": "2026-05-04T18:06:58Z",
+      "snippet": "Adm. Brad Cooper said Iran was trying to interfere with a U.S. military operation to open the Strait of Hormuz to commercial traffic.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Former Qatari aircraft on track for summer Air Force One delivery",
+      "link": "https://www.defensenews.com/air-warfare/2026/05/04/former-qatari-aircraft-on-track-for-summer-air-force-one-delivery/",
+      "pubDate": "2026-05-04T17:47:55Z",
+      "snippet": "The new aircraft in the Boeing VC-25B Bridge program completed modifications and flight testing and is now being painting red, white and blue.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "MIT scientists finally reveal the hidden structure of a mysterious high-tech material",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260504023831.htm",
+      "pubDate": "2026-05-04T13:14:10Z",
+      "snippet": "For decades, relaxor ferroelectrics have powered everything from medical ultrasounds to sonar systems, yet their inner atomic structure remained a mystery\u2014until now. Researchers have finally mapped th...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Israel to buy more F-35 and F-15 warplanes",
+      "link": "https://www.defensenews.com/global/mideast-africa/2026/05/04/israel-to-buy-more-f-35-and-f-15-warplanes/",
+      "pubDate": "2026-05-04T12:44:12Z",
+      "snippet": "The aircraft purchases are part of a decade-long modernization plan to the tune of $118 billion, the government said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Dutch startup Intelic sets up drone marketplace for European militaries",
       "link": "https://www.defensenews.com/global/europe/2026/05/04/dutch-startup-intelic-sets-up-drone-marketplace-for-european-militaries/",
@@ -241,15 +295,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/02/260209221713.htm",
       "pubDate": "2026-02-10T03:21:59Z",
       "snippet": "Time may feel smooth and continuous, but at the quantum level it behaves very differently. Physicists have now found a way to measure how long ultrafast quantum events actually last, without relying o...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Scientists finally solve a 100-year-old mystery in the air we breathe",
-      "link": "https://www.sciencedaily.com/releases/2026/02/260208011019.htm",
-      "pubDate": "2026-02-08T18:38:35Z",
-      "snippet": "Scientists at the University of Warwick have cracked a long-standing problem in air pollution science: how to predict the movement of irregularly shaped nanoparticles as they drift through the air we ...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
