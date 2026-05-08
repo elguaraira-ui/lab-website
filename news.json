@@ -1,7 +1,43 @@
 {
-  "updated": "2026-05-07T12:23:20.166239Z",
+  "updated": "2026-05-08T12:03:13.542383Z",
   "count": 35,
   "items": [
+    {
+      "title": "Turkey touts propellant breakthrough for Y\u0131ld\u0131r\u0131mhan long-range ballistic missile",
+      "link": "https://www.defensenews.com/global/europe/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/",
+      "pubDate": "2026-05-08T11:14:37Z",
+      "snippet": "The Turkish government has been working on hypersonic technologies and liquid-propellant propulsion systems for nearly a decade.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "As the US Army adds drones to formations, here\u2019s how one base trains its operators",
+      "link": "https://www.defensenews.com/news/your-military/2026/05/08/as-the-us-army-adds-drones-to-formations-heres-how-one-base-trains-its-operators/",
+      "pubDate": "2026-05-08T00:04:09Z",
+      "snippet": "Fort Stewart soldiers are figuring out how to train on unmanned systems after the base stood up the Marne Unmanned Center of Excellence.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US and Iran exchange fire as Trump says war will \u2018be over quickly\u2019",
+      "link": "https://www.defensenews.com/news/your-navy/2026/05/07/us-and-iran-exchange-fire-as-trump-says-war-will-be-over-quickly/",
+      "pubDate": "2026-05-07T23:49:00Z",
+      "snippet": "U.S. forces launched retaliatory strikes against Iranian military facilities Thursday after Iran fired missiles and drones at three U.S. Navy vessels.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon turns to AI targeting to help troops shoot drones",
+      "link": "https://www.defensenews.com/industry/2026/05/07/pentagon-turns-to-ai-targeting-to-help-troops-shoot-drones/",
+      "pubDate": "2026-05-07T15:28:25Z",
+      "snippet": "The technology can detect threats and distinguish them from non-threats, such as birds, faster than a human operator can.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "NASA just tested a powerful new thruster that could send humans to Mars",
       "link": "https://www.sciencedaily.com/releases/2026/05/260505234611.htm",
@@ -111,24 +147,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "US destroys six Iranian small boats, shoots down missiles, drones, admiral says",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/05/04/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-admiral-says/",
-      "pubDate": "2026-05-04T18:06:58Z",
-      "snippet": "Adm. Brad Cooper said Iran was trying to interfere with a U.S. military operation to open the Strait of Hormuz to commercial traffic.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Former Qatari aircraft on track for summer Air Force One delivery",
-      "link": "https://www.defensenews.com/air-warfare/2026/05/04/former-qatari-aircraft-on-track-for-summer-air-force-one-delivery/",
-      "pubDate": "2026-05-04T17:47:55Z",
-      "snippet": "The new aircraft in the Boeing VC-25B Bridge program completed modifications and flight testing and is now being painting red, white and blue.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "MIT scientists finally reveal the hidden structure of a mysterious high-tech material",
       "link": "https://www.sciencedaily.com/releases/2026/05/260504023831.htm",
       "pubDate": "2026-05-04T13:14:10Z",
@@ -136,24 +154,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Israel to buy more F-35 and F-15 warplanes",
-      "link": "https://www.defensenews.com/global/mideast-africa/2026/05/04/israel-to-buy-more-f-35-and-f-15-warplanes/",
-      "pubDate": "2026-05-04T12:44:12Z",
-      "snippet": "The aircraft purchases are part of a decade-long modernization plan to the tune of $118 billion, the government said.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Dutch startup Intelic sets up drone marketplace for European militaries",
-      "link": "https://www.defensenews.com/global/europe/2026/05/04/dutch-startup-intelic-sets-up-drone-marketplace-for-european-militaries/",
-      "pubDate": "2026-05-04T06:30:00Z",
-      "snippet": "BASE will allow defense ministries to explore systems that are ready to be used in a coalition framework, with interoperability guaranteed, says the firm.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Physicists just found a tiny flaw in time itself",
