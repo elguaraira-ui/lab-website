@@ -1,7 +1,70 @@
 {
-  "updated": "2026-05-08T12:03:13.542383Z",
-  "count": 35,
+  "updated": "2026-05-11T13:36:00.445012Z",
+  "count": 34,
   "items": [
+    {
+      "title": "Scientists put a tiny lump of metal in two places at once in record-breaking quantum experiment",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260509210650.htm",
+      "pubDate": "2026-05-11T12:48:46Z",
+      "snippet": "Scientists have pulled off a mind-bending quantum experiment that sounds almost impossible: they showed that tiny metal particles made of thousands of atoms can exist in multiple places at once. Using...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Ukrainian drone strike on empty Baltic fuel depot prompts top-level resignation \u2013 in Latvia",
+      "link": "https://www.defensenews.com/global/europe/2026/05/11/ukrainian-drone-strike-on-empty-baltic-fuel-depot-prompts-top-level-resignation-in-latvia/",
+      "pubDate": "2026-05-11T10:32:34Z",
+      "snippet": "A Ukrainian official said Russia is spoofing Ukraine's drones, diverting them to strike nearby Baltic nations instead of targets in Russia.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "\u201cCannot be explained\u201d \u2013 New ultra stainless steel stuns researchers",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+      "pubDate": "2026-05-10T11:39:45Z",
+      "snippet": "A team at the University of Hong Kong has developed a new \u201csuper steel\u201d that can survive the harsh conditions needed to make green hydrogen from seawater. The material uses an unexpected double-protec...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "The hidden atomic gap that could break next-generation computer chips",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260508003125.htm",
+      "pubDate": "2026-05-09T22:48:13Z",
+      "snippet": "A major obstacle may be standing in the way of the next generation of ultra-tiny computer chips. Researchers discovered that many promising 2D materials lose their advantages because an invisible atom...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Ukraine ramps up ground robot production to spare soldiers, haul ammo \u2014 and rescue grandma",
+      "link": "https://www.defensenews.com/unmanned/2026/05/08/ukraine-ramps-up-ground-robot-production-to-spare-soldiers-haul-ammo-and-rescue-grandma/",
+      "pubDate": "2026-05-08T21:39:50Z",
+      "snippet": "The same unmanned ground systems Ukraine uses to haul ammunition and evacuate wounded soldiers are now pulling civilians out of contested ground.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Hegseth aims to cut through the bureaucracy with \u2018Deal Team Six\u2019",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/05/08/hegseth-aims-to-cut-through-the-bureaucracy-with-deal-team-six/",
+      "pubDate": "2026-05-08T19:17:59Z",
+      "snippet": "The Pentagon is utilizing a crew of private sector businessmen to renovate how the department negotiates with defense companies.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US forces disable Iranian-flagged tankers trying to cross blockade",
+      "link": "https://www.defensenews.com/news/your-navy/2026/05/08/us-forces-disable-iranian-flagged-tankers-trying-to-cross-blockade/",
+      "pubDate": "2026-05-08T16:28:20Z",
+      "snippet": "This week, U.S. forces around the Strait of Hormuz have launched strikes against Iranian military facilities and disabled missiles launched by the IRGC.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Turkey touts propellant breakthrough for Y\u0131ld\u0131r\u0131mhan long-range ballistic missile",
       "link": "https://www.defensenews.com/global/europe/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/",
@@ -97,51 +160,6 @@
       "link": "https://www.defensenews.com/news/your-navy/2026/05/05/pentagon-assures-safe-passage-through-strait-of-hormuz-despite-presence-of-mines/",
       "pubDate": "2026-05-05T19:47:14Z",
       "snippet": "The guarantee follows a security warning from U.S. Naval Forces Central Command to vessels on Monday about the presence of mines in the strait.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "As US eyes smaller military footprint in Europe, new unit trains for drone warfare",
-      "link": "https://www.defensenews.com/news/your-military/2026/05/05/as-us-eyes-smaller-military-footprint-in-europe-new-unit-trains-for-drone-warfare/",
-      "pubDate": "2026-05-05T16:16:20Z",
-      "snippet": "The U.S. Army is standing up a new unit in Germany to train personnel on drone warfare, even as the Pentagon looks to scale down troop numbers there.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "NATO nations size up an interceptor-drone bazaar where low price is everything",
-      "link": "https://www.defensenews.com/global/europe/2026/05/05/nato-nations-size-up-an-interceptor-drone-bazaar-where-low-price-is-everything/",
-      "pubDate": "2026-05-05T15:56:16Z",
-      "snippet": "A price point advantage is no longer measured in millions of dollars below the competition, but in mere thousands.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Ukraine could lift arms-exports ban this year as would-be buyers line up",
-      "link": "https://www.defensenews.com/global/europe/2026/05/05/ukraine-could-lift-arms-exports-ban-this-year-as-would-be-buyers-line-up/",
-      "pubDate": "2026-05-05T13:50:52Z",
-      "snippet": "Gulf countries threatened by Iran could be some of the first nations to buy Ukrainian air-defense technology at scale.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army fires Tomahawk missile from new Typhon launcher during Philippines drill",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/05/05/us-army-fires-tomahawk-missile-from-new-typhon-launcher-during-philippines-drill/",
-      "pubDate": "2026-05-05T08:47:12Z",
-      "snippet": "\u201cThe missile was very precise. Let\u2019s say if you want to hit a window from a far distance, it lands directly into that window,\u201d a military official said.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Air Force clears T-7A Red Hawk for low-rate production",
-      "link": "https://www.defensenews.com/news/your-air-force/2026/05/04/air-force-clears-t-7a-red-hawk-for-low-rate-production/",
-      "pubDate": "2026-05-04T23:42:42Z",
-      "snippet": "The decision authorizes a $219 million contract for the first 14 aircraft.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -286,33 +304,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/03/260309225217.htm",
       "pubDate": "2026-03-11T00:46:16Z",
       "snippet": "Scientists at Oak Ridge National Laboratory have created a new aluminum alloy called RidgeAlloy that can turn contaminated car-body scrap into strong structural vehicle parts. Normally, impurities int...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Engineers make magnets behave like graphene",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260307213230.htm",
-      "pubDate": "2026-03-09T01:07:58Z",
-      "snippet": "Engineers have discovered an unexpected link between two very different realms of physics: the behavior of electrons in graphene and magnetic waves in specially engineered materials. By designing a th...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "The hidden technology that could unlock commercial fusion power",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260303050622.htm",
-      "pubDate": "2026-03-03T12:50:59Z",
-      "snippet": "Fusion energy may be one of the most promising clean power sources of the future\u2014but only if scientists can precisely measure the extreme, fast-moving plasmas that make it possible. A new U.S. Departm...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "New crystal seeding method boosts perovskite solar cell efficiency to 23%",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260301190354.htm",
-      "pubDate": "2026-03-02T00:11:45Z",
-      "snippet": "Inverted perovskite solar cells offer strong potential for scalable, low-cost solar power, but a hidden interface inside the device has limited their performance and durability. Researchers have now i...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
