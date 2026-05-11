@@ -799,6 +799,7 @@
       </div>
       <hr style="border:none; border-top:1px solid #e8e8e8; margin-bottom:32px;">
       <div class="blog-body">${post.content}</div>
+      ${post.linkedinUrl ? `<div style="margin-top:32px; padding-top:24px; border-top:1px solid #e8e8e8;"><a href="${post.linkedinUrl}" target="_blank" rel="noopener noreferrer" style="display:inline-block; font-family:Arial,sans-serif; font-size:0.9rem; color:#0077b5; text-decoration:none; font-weight:600;">&#128279; Read and comment on LinkedIn</a></div>` : ''}
     `;
     document.getElementById('blog-list-view').style.display = 'none';
     document.getElementById('blog-post-view').style.display = 'block';
