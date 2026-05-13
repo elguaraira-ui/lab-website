@@ -1,7 +1,52 @@
 {
-  "updated": "2026-05-12T12:59:37.061937Z",
-  "count": 33,
+  "updated": "2026-05-13T13:06:17.022531Z",
+  "count": 36,
   "items": [
+    {
+      "title": "Trump\u2019s Golden Dome missile shield estimated to cost $1.2 trillion",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/05/12/trumps-golden-dome-missile-shield-estimated-to-cost-12-trillion/",
+      "pubDate": "2026-05-12T22:16:44Z",
+      "snippet": "A national missile defense system would cost $1.2 trillion to build and maintain over the next 20 years, a nonpartisan federal agency estimated.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Defense contractors have donated millions to members of Congress, new report finds",
+      "link": "https://www.defensenews.com/pentagon/2026/05/12/defense-contractors-have-donated-millions-to-members-of-congress-new-report-finds/",
+      "pubDate": "2026-05-12T20:37:16Z",
+      "snippet": "The defense industry donations make up only a small percentage of the cash going to Congress, however, according to OpenSecrets.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon seeks additional funding as cost of Iran war tops $29 billion",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/05/12/pentagon-seeks-additional-funding-as-cost-of-iran-war-tops-29-billon/",
+      "pubDate": "2026-05-12T16:19:00Z",
+      "snippet": "The increase from $25 billion just two weeks ago reflects \u201cupdated repair and replacement of equipment costs,\u201d along with the \u201cgeneral operational costs.\"",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Allies surpassed the US in military budget purchasing power last year, new report shows",
+      "link": "https://www.defensenews.com/global/europe/2026/05/12/allies-surpassed-the-us-in-military-budget-purchasing-power-last-year-new-report-shows/",
+      "pubDate": "2026-05-12T15:35:04Z",
+      "snippet": "In absolute terms, Washington remains the single highest military spender by far.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "NATO to cultivate vetted counter-drone vendor pool for nations to pick and choose",
+      "link": "https://www.defensenews.com/global/europe/2026/05/12/nato-to-cultivate-vetted-counter-drone-vendor-pool-for-nations-to-pick-and-choose/",
+      "pubDate": "2026-05-12T14:16:03Z",
+      "snippet": "The alliance also has established common funding that will allow nations to test C-UAS systems before making a final decision on procuring them.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Turkey\u2019s Aselsan eyes growth in networked, mass-producible weapons, CEO says",
       "link": "https://www.defensenews.com/global/europe/2026/05/12/turkeys-aselsan-eyes-growth-in-networked-mass-producible-weapons-ceo-says/",
@@ -129,15 +174,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Pentagon turns to AI targeting to help troops shoot drones",
-      "link": "https://www.defensenews.com/industry/2026/05/07/pentagon-turns-to-ai-targeting-to-help-troops-shoot-drones/",
-      "pubDate": "2026-05-07T15:28:25Z",
-      "snippet": "The technology can detect threats and distinguish them from non-threats, such as birds, faster than a human operator can.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "NASA just tested a powerful new thruster that could send humans to Mars",
       "link": "https://www.sciencedaily.com/releases/2026/05/260505234611.htm",
       "pubDate": "2026-05-06T21:00:24Z",
@@ -145,15 +181,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "France moves aircraft carrier to Red Sea with eye on Hormuz mission",
-      "link": "https://www.defensenews.com/naval/2026/05/06/france-moves-aircraft-carrier-to-red-sea-with-eye-on-hormuz-mission/",
-      "pubDate": "2026-05-06T18:07:23Z",
-      "snippet": "France on Wednesday deployed its carrier strike group to the Red Sea as part of planning for a potential mission to secure the Strait of Hormuz.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "MIT scientists finally reveal the hidden structure of a mysterious high-tech material",
