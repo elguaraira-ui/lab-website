@@ -1,7 +1,97 @@
 {
-  "updated": "2026-05-18T14:23:22.457123Z",
-  "count": 34,
+  "updated": "2026-05-19T13:47:29.213129Z",
+  "count": 52,
   "items": [
+    {
+      "title": "Vast announces line of high-power satellite buses",
+      "link": "https://spacenews.com/vast-announces-line-of-high-power-satellite-buses/",
+      "pubDate": "2026-05-19T13:00:00Z",
+      "snippet": "WASHINGTON \u2014 Commercial space station developer Vast is moving into satellite manufacturing with a line of high-power satellite buses.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Lynk and Anterix get FCC nod to test satellite D2D for private utility networks",
+      "link": "https://spacenews.com/lynk-and-anterix-get-fcc-nod-to-test-satellite-d2d-for-private-utility-networks/",
+      "pubDate": "2026-05-19T12:54:04Z",
+      "snippet": "TAMPA, Fla. \u2014 Lynk Global has secured regulatory approval to test how its direct-to-device (D2D) satellites could extend private utility networks using terrestrial spectrum from Anterix in the United ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NATO jet shoots down Ukrainian drone over Estonia in escalation of airspace violations",
+      "link": "https://www.defensenews.com/global/europe/2026/05/19/nato-jet-shoots-down-ukrainian-drone-over-estonia-in-escalation-of-airspace-violations/",
+      "pubDate": "2026-05-19T12:06:11Z",
+      "snippet": "The drone was shot down by a Romanian F-16 fighter jet stationed in \u0160iauliai, Lithuania, Estonian media reported.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Germany to deploy Patriot battery to Turkey, relieving US forces on NATO\u2019s southeastern flank",
+      "link": "https://www.defensenews.com/global/europe/2026/05/19/germany-to-deploy-patriot-battery-to-turkey-relieving-us-forces-on-natos-southeastern-flank/",
+      "pubDate": "2026-05-19T09:52:33Z",
+      "snippet": "Germany\u2019s contribution to intercepting Iranian missiles is framed in Berlin as an exercise in burden-sharing.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Anderson confirmed as NASA deputy administrator",
+      "link": "https://spacenews.com/anderson-confirmed-as-nasa-deputy-administrator/",
+      "pubDate": "2026-05-19T09:09:53Z",
+      "snippet": "WASHINGTON \u2014 The U.S. Senate confirmed Matt Anderson on May 18 as NASA\u2019s deputy administrator, the second-in-command of the space agency.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "ESA-China SMILE mission lifts off to deliver first global images of Earth\u2019s magnetosphere",
+      "link": "https://spacenews.com/esa-china-smile-mission-lifts-off-to-deliver-first-global-images-of-earths-magnetosphere/",
+      "pubDate": "2026-05-19T05:13:28Z",
+      "snippet": "KOUROU, French Guiana \u2014 The SMILE mission developed jointly by the European Space Agency and China has reached orbit after more than a decade of preparations and cooperation.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "European imaging companies step in to fill warzone gap",
+      "link": "https://spacenews.com/european-imaging-companies-step-in-to-fill-warzone-gap/",
+      "pubDate": "2026-05-18T19:33:50Z",
+      "snippet": "MILAN \u2013 As U.S. satellite imagery companies have pulled back from sharing visuals of Iran and the broader area around the Gulf conflict, European Earth-observation firms are moving to fill the vacuum.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Four NASA payloads to fly on Astrolab\u2019s first lunar rover",
+      "link": "https://spacenews.com/four-nasa-payloads-to-fly-on-astrolabs-first-lunar-rover/",
+      "pubDate": "2026-05-18T18:00:00Z",
+      "snippet": "WASHINGTON \u2014 Astrolab\u2019s first lunar rover will carry four NASA payloads on a mission planned to launch later this year.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Air Force looks to convert offshore oil rigs into rocket recovery platforms",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/05/18/us-air-force-looks-to-convert-offshore-oil-rigs-into-rocket-recovery-platforms/",
+      "pubDate": "2026-05-18T15:35:50Z",
+      "snippet": "An Air Force plan calls for old oil platforms to become Sea-based Recovery Stations for the U.S. Space Force and private spaceflight companies.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Inside Golden Dome\u2019s push to court commercial tech firms and investors",
+      "link": "https://spacenews.com/inside-golden-domes-push-to-court-commercial-tech-firms-and-investors/",
+      "pubDate": "2026-05-18T14:00:00Z",
+      "snippet": "WASHINGTON \u2014 Pentagon officials overseeing Golden Dome are trying to convince commercial space founders, venture investors and software companies that missile defense can be built more like a modern t...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Former University of Michigan researcher accused of hiding Chinese military drone ties",
       "link": "https://www.defensenews.com/news/your-military/2026/05/18/former-university-of-michigan-researcher-accused-of-hiding-chinese-military-drone-ties/",
@@ -12,6 +102,42 @@
       "color": "#8b1a1a"
     },
     {
+      "title": "Tomorrow.io adds $35 million to DeepSky funding round",
+      "link": "https://spacenews.com/tomorrow-io-adds-35-million-to-deepsky-funding-round/",
+      "pubDate": "2026-05-18T12:08:15Z",
+      "snippet": "TAMPA, Fla. \u2014 Weather intelligence provider Tomorrow.io has added $35 million to its latest funding round, bringing the total to $210 million to accelerate development of a next-generation constellati...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "House bill restores funding for TraCSS",
+      "link": "https://spacenews.com/house-bill-restores-funding-for-tracss/",
+      "pubDate": "2026-05-18T12:03:26Z",
+      "snippet": "WASHINGTON \u2014 A House appropriations bill would reverse plans by the administration to stop development of a civil space traffic management system.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "New CSF Report Sees Up To 7,000+ Satellites Launched Annually By Mid 2030\u2019s, Highlights The Challenges With US Launch Infrastructure",
+      "link": "https://spacenews.com/new-csf-report-sees-up-to-7000-satellites-launched-annually-by-mid-2030s-highlights-the-challenges-with-us-launch-infrastructure/",
+      "pubDate": "2026-05-18T12:00:00Z",
+      "snippet": "WASHINGTON, D.C., May 18, 2026&#160;\u2014 The Commercial Space Federation (CSF), in partnership with Rational Futures (RF), announced the release of SCRUBBED: America&#8217;s Launch Capacity Challenge, a ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "The next war will be won \u2014 or lost \u2014 in orbit",
+      "link": "https://spacenews.com/the-next-war-will-be-won-or-lost-in-orbit/",
+      "pubDate": "2026-05-18T11:00:00Z",
+      "snippet": "We in the West have learned many things from the conflict in Ukraine. Four years on from its full-scale invasion \u2014 the war in fact having started in 2014 \u2014 we find ourselves, or should find ourselves,...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
       "title": "AI reveals the invisible magnetic chaos wasting energy inside electric motors",
       "link": "https://www.sciencedaily.com/releases/2026/05/260517211433.htm",
       "pubDate": "2026-05-18T04:02:36Z",
@@ -19,6 +145,60 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
+    },
+    {
+      "title": "Zenk Space raises $26 million, targets June debut launch",
+      "link": "https://spacenews.com/zenk-space-raises-26-million-targets-june-debut-launch/",
+      "pubDate": "2026-05-18T02:22:15Z",
+      "snippet": "KOUROU, French Guiana \u2014 China\u2019s Zenk Space has secured 180 million yuan ahead of the planned June debut of its Zhihang-1 kerolox rocket, the company&#8217;s first orbital launch attempt.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NASA releases final RFP for Mars communications orbiter",
+      "link": "https://spacenews.com/nasa-releases-final-rfp-for-mars-communications-orbiter/",
+      "pubDate": "2026-05-16T22:33:24Z",
+      "snippet": "WASHINGTON \u2014 NASA has released the final request for proposals for a Mars telecommunications system, confirming requirements that limit the companies that can bid on it.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "York Space defends growth strategy as SDA programs are reshaped",
+      "link": "https://spacenews.com/york-space-defends-growth-strategy-as-sda-programs-are-reshaped/",
+      "pubDate": "2026-05-16T21:55:25Z",
+      "snippet": "WASHINGTON \u2014 Just months after its public debut, York Space Systems is confronting a question that goes to the core of its business model: what happens when the Pentagon program that fueled its rise i...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Space Force awards Northrop Grumman $398 million satellite contract",
+      "link": "https://spacenews.com/space-force-awards-northrop-grumman-398-million-satellite-contract/",
+      "pubDate": "2026-05-16T14:40:02Z",
+      "snippet": "WASHINGTON \u2014 The U.S. Space Force awarded Northrop Grumman a $398 million contract to build a prototype communications satellite intended to demonstrate anti-jamming technologies for military operatio...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "SpaceX launches CRS-34 cargo mission to ISS",
+      "link": "https://spacenews.com/spacex-launches-crs-34-cargo-mission-to-iss/",
+      "pubDate": "2026-05-15T23:27:44Z",
+      "snippet": "Updated May 16 to include CLARREO Pathfinder.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Starlink Mobile challengers back proposed telco-led D2D joint venture",
+      "link": "https://spacenews.com/starlink-mobile-challengers-back-proposed-telco-led-d2d-joint-venture/",
+      "pubDate": "2026-05-15T22:06:07Z",
+      "snippet": "TAMPA, Fla. \u2014 A planned direct-to-device (D2D) joint venture between AT&amp;T, T-Mobile and Verizon has divided operators behind the satellites needed to connect ordinary smartphones from space.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
     },
     {
       "title": "US Army to receive thousands of Barracuda-500M cruise missiles in Anduril deal",
@@ -39,6 +219,15 @@
       "color": "#8b1a1a"
     },
     {
+      "title": "Joint ESA-China SMILE mission set for launch to study Earth\u2019s magnetic shield",
+      "link": "https://spacenews.com/joint-esa-china-smile-mission-set-for-launch-to-study-earths-magnetic-shield/",
+      "pubDate": "2026-05-15T18:08:19Z",
+      "snippet": "HELSINKI \u2014 A pioneering joint ESA-China science mission to study Earth\u2019s magnetosphere is set to launch May 19, after a decade of preparations.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
       "title": "USS Gerald R. Ford to return from 11-month deployment on Saturday",
       "link": "https://www.defensenews.com/news/your-navy/2026/05/15/uss-gerald-r-ford-to-return-from-11-month-deployment-on-saturday/",
       "pubDate": "2026-05-15T18:04:32Z",
@@ -57,6 +246,15 @@
       "color": "#8b1a1a"
     },
     {
+      "title": "Virgin Galactic reaffirms plans to begin commercial service this year",
+      "link": "https://spacenews.com/virgin-galactic-reaffirms-plans-to-begin-commercial-service-this-year/",
+      "pubDate": "2026-05-15T11:48:54Z",
+      "snippet": "WASHINGTON \u2014 Virgin Galactic said May 14 it remains on track, technically and financially, to start commercial flights of its next-generation suborbital spaceplane before the end of the year.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
       "title": "Near Russian border, NATO grapples with ground robots in combat",
       "link": "https://www.defensenews.com/global/europe/2026/05/15/near-russian-border-nato-grapples-with-ground-robots-in-combat/",
       "pubDate": "2026-05-15T10:01:25Z",
@@ -64,6 +262,15 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
+    },
+    {
+      "title": "Chinese satellite maker MinoSpace seeks $736 million in IPO",
+      "link": "https://spacenews.com/chinese-satellite-maker-minospace-seeks-736-million-in-ipo/",
+      "pubDate": "2026-05-15T09:00:11Z",
+      "snippet": "HELSINKI \u2014 Chinese satellite maker MinoSpace has seen its initial public offering application accepted, seeking $736 million for constellation and product expansion plans.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
     },
     {
       "title": "Blacklists, corruption and frontline needs: Ukraine tackles an arms-export puzzle",
@@ -88,51 +295,6 @@
       "link": "https://www.defensenews.com/global/asia-pacific/2026/05/14/japan-fires-first-ever-missiles-from-philippine-soil/",
       "pubDate": "2026-05-14T11:28:03Z",
       "snippet": "The first Type 88 missile hit its target \u2013 a former minesweeper dating from WWII \u2013 47 miles away after a six-minute flight.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Navy could run out of money by July, top officer warns",
-      "link": "https://www.defensenews.com/news/your-navy/2026/05/13/us-navy-could-run-out-of-money-by-july-top-officer-warns/",
-      "pubDate": "2026-05-13T20:34:43Z",
-      "snippet": "Chief of Naval Operations Adm. Daryl Caudle told lawmakers at a budget hearing Tuesday that the Navy might have to modify training and operations.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Contractor awarded $3.5 billion to build out US Coast Guard\u2019s Arctic Security Cutters fleet",
-      "link": "https://www.defensenews.com/news/your-military/2026/05/13/contractor-awarded-35-billion-to-build-out-coast-guards-arctic-security-cutters-fleet/",
-      "pubDate": "2026-05-13T20:23:23Z",
-      "snippet": "The five cutters to be delivered by Davie Defense will represent a new class of Arctic icebreakers.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Air Force MQ-9 fleet drops to 135 aircraft after Iran combat losses",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/05/13/air-force-mq-9-fleet-drops-to-135-aircraft-after-iran-combat-losses/",
-      "pubDate": "2026-05-13T18:15:25Z",
-      "snippet": "The Air Force is seeking to backfill the inventory of MQ-9 Reapers and field a cheaper, more expendable replacement.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon reaches agreements with defense firms on containerized missiles",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/05/13/pentagon-reaches-agreements-with-defense-firms-on-containerized-missiles/",
-      "pubDate": "2026-05-13T15:00:05Z",
-      "snippet": "The Pentagon is announcing framework agreements with Anduril, CoAspire, Leidos and Zone 5 to acquire over 10,000 containerized missiles.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US special operations leaders frustrated by inability to modify their own equipment",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/05/13/us-special-operations-leaders-frustrated-by-inability-to-modify-their-own-equipment/",
-      "pubDate": "2026-05-13T14:28:26Z",
-      "snippet": "The military must wait for manufacturers to fix or upgrade equipment, leaving them with outdated capabilities as technology evolves quickly, they said.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -300,10 +462,10 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "The 19th-century mathematical clue that led to quantum mechanics",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260309225224.htm",
-      "pubDate": "2026-03-11T01:53:49Z",
-      "snippet": "More than a century before quantum mechanics was born, Irish mathematician William Rowan Hamilton stumbled onto an idea that would quietly foreshadow one of the deepest truths in physics. While studyi...",
+      "title": "Scientists turn scrap car aluminum into high-performance metal for new vehicles",
+      "link": "https://www.sciencedaily.com/releases/2026/03/260309225217.htm",
+      "pubDate": "2026-03-11T00:46:16Z",
+      "snippet": "Scientists at Oak Ridge National Laboratory have created a new aluminum alloy called RidgeAlloy that can turn contaminated car-body scrap into strong structural vehicle parts. Normally, impurities int...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
