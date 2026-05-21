@@ -1,7 +1,124 @@
 {
-  "updated": "2026-05-20T13:28:03.771770Z",
+  "updated": "2026-05-21T13:51:55.396805Z",
   "count": 51,
   "items": [
+    {
+      "title": "Starship underpins SpaceX\u2019s growth ambitions",
+      "link": "https://spacenews.com/starship-underpins-spacexs-growth-ambitions/",
+      "pubDate": "2026-05-21T13:00:12Z",
+      "snippet": "As SpaceX prepares for its next Starship test flight, the company\u2019s prospectus underlines how critical that vehicle is to its ambitions.\nThe post Starship underpins SpaceX\u2019s growth ambitions appeared ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "The internet was \u2018too expensive\u2019 too",
+      "link": "https://spacenews.com/the-internet-was-too-expensive-too/",
+      "pubDate": "2026-05-21T13:00:00Z",
+      "snippet": "Every new infrastructure platform can look uneconomic at first. Early systems are often bespoke, supply chains immature and scaling doesn\u2019t yet exist. The result: cost structures can appear daunting, ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Turkey to buy 100 one-way explosive naval drones for swarm attacks",
+      "link": "https://www.defensenews.com/global/europe/2026/05/21/turkey-to-buy-100-one-way-explosive-naval-drones-for-swarm-attacks/",
+      "pubDate": "2026-05-21T12:32:23Z",
+      "snippet": "Turkey eyes an arsenal capable of taking out enemy ships with unmanned systems.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "CEO Series: Open Cosmos\u2019 Rafel Jorda Siquier on finding a niche in space.",
+      "link": "https://spacenews.com/ceo-series-open-cosmos-rafel-jorda-siquier-on-finding-a-niche-in-space/",
+      "pubDate": "2026-05-21T08:57:42Z",
+      "snippet": "In this episode of Space Minds, Mike Gruss talks with Open Cosmos\u2019 CEO Rafel Jorda Siquier about combining Earth observation, connectivity and IoT into a single platform. They also discuss [&#8230;]\nT...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "LatConnect 60 announces accelerated growth investment round to build AUKUS-aligned Highest Resolution SWIR Satellite constellation",
+      "link": "https://spacenews.com/latconnect-60-announces-accelerated-growth-investment-round-to-build-aukus-aligned-highest-resolution-swir-satellite-constellation/",
+      "pubDate": "2026-05-21T06:00:00Z",
+      "snippet": "Perth, Western Australia \u2014 21 May 2026 \u2014 LatConnect 60 (LC60), an Australian Earth observation and AI company, announced its growth investment round that is in-progress to accelerate development plans...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Space Force eyes 2027 demonstrations of in-space refueling and satellite servicing",
+      "link": "https://spacenews.com/space-force-eyes-2027-demonstrations-of-in-space-refueling-and-satellite-servicing/",
+      "pubDate": "2026-05-20T23:47:55Z",
+      "snippet": "USSF-23 mission will launch vehicles to demonstrate refueling and satellite servicing in geostationary orbit\nThe post Space Force eyes 2027 demonstrations of in-space refueling and satellite servicing...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "SpaceX files for IPO",
+      "link": "https://spacenews.com/spacex-files-for-ipo/",
+      "pubDate": "2026-05-20T22:16:01Z",
+      "snippet": "SpaceX filed documents for an initial public offering of stock May 20, revealing the company\u2019s finances and enormous ambitions\nThe post SpaceX files for IPO appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "U.S. \u2018more prepared\u2019 for next WRC",
+      "link": "https://spacenews.com/u-s-more-prepared-for-next-wrc/",
+      "pubDate": "2026-05-20T19:07:44Z",
+      "snippet": "White House officials say they will go into a major international conference next year better prepared than ever to defend key radio-frequency spectrum priorities.\nThe post U.S. \u2018more prepared\u2019 for ne...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Lithuanian lawmakers shelter, Vilnius air traffic suspended due to drone incursion",
+      "link": "https://www.defensenews.com/global/europe/2026/05/20/lithuanian-lawmakers-shelter-vilnius-air-traffic-suspended-due-to-drone-incursion/",
+      "pubDate": "2026-05-20T16:10:10Z",
+      "snippet": "A drone violated Lithuanian airspace on Wednesday, the latest in a series of security incidents in the Baltic region.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Germany touts pan-German space command amid European push to supplant US tech",
+      "link": "https://www.defensenews.com/global/europe/2026/05/20/germany-touts-pan-german-space-command-amid-european-push-to-supplant-us-tech/",
+      "pubDate": "2026-05-20T15:21:24Z",
+      "snippet": "Austria\u2019s Defense Minister Claudia Tanner reaffirmed that Austria plans to put three operationally designated military satellites into orbit next year.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Orbital Data Centers: Power and Thermal Management for Scalable Architectures",
+      "link": "https://spacenews.com/scalable-power-and-thermal-architectures-key-to-enabling-orbital-data-centers/",
+      "pubDate": "2026-05-20T14:57:00Z",
+      "snippet": "As orbital data centers move from concept to reality, scalable power generation and efficient thermal management&#160;are&#160;emerging&#160;as critical enabling technologies. A new whitepaper from Re...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Starfighters turns Texas facility toward microgravity flight testing",
+      "link": "https://spacenews.com/starfighters-turns-texas-facility-toward-microgravity-flight-testing/",
+      "pubDate": "2026-05-20T14:17:50Z",
+      "snippet": "Starfighters Space, which is developing F-104 supersonic jets for satellite air-launch, is turning its Texas facility into a staging ground for microgravity flight testing in response to NASA\u2019s call f...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Report finds U.S. space supply chains rely heavily on Chinese manufacturing",
+      "link": "https://spacenews.com/report-finds-u-s-space-supply-chains-rely-heavily-on-chinese-manufacturing/",
+      "pubDate": "2026-05-20T14:00:00Z",
+      "snippet": "Altana\u2019s report also highlights reliance on Taiwanese semiconductor manufacturing alongside upstream Chinese and Russian exposure\nThe post Report finds U.S. space supply chains rely heavily on Chinese...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "The cardinality wall: The hidden data bottleneck for LEO constellations",
       "link": "https://spacenews.com/the-cardinality-wall-the-hidden-data-bottleneck-for-leo-constellations/",
@@ -138,15 +255,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Four NASA payloads to fly on Astrolab\u2019s first lunar rover",
-      "link": "https://spacenews.com/four-nasa-payloads-to-fly-on-astrolabs-first-lunar-rover/",
-      "pubDate": "2026-05-18T18:00:00Z",
-      "snippet": "Astrolab\u2019s first lunar rover will carry four NASA payloads on a mission planned to launch later this year.\nThe post Four NASA payloads to fly on Astrolab\u2019s first lunar rover appeared first on SpaceNew...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "US Air Force looks to convert offshore oil rigs into rocket recovery platforms",
       "link": "https://www.defensenews.com/industry/techwatch/2026/05/18/us-air-force-looks-to-convert-offshore-oil-rigs-into-rocket-recovery-platforms/",
       "pubDate": "2026-05-18T15:35:50Z",
@@ -154,15 +262,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Inside Golden Dome\u2019s push to court commercial tech firms and investors",
-      "link": "https://spacenews.com/inside-golden-domes-push-to-court-commercial-tech-firms-and-investors/",
-      "pubDate": "2026-05-18T14:00:00Z",
-      "snippet": "Behind the classified architecture is a struggle over affordability, industrial scale and whether commercial space economics can work for national defense\nThe post Inside Golden Dome\u2019s push to court c...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Former University of Michigan researcher accused of hiding Chinese military drone ties",
@@ -174,42 +273,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Tomorrow.io adds $35 million to DeepSky funding round",
-      "link": "https://spacenews.com/tomorrow-io-adds-35-million-to-deepsky-funding-round/",
-      "pubDate": "2026-05-18T12:08:15Z",
-      "snippet": "Weather intelligence provider Tomorrow.io has added $35 million to its latest funding round, bringing the total to $210 million to accelerate development of a next-generation constellation for gatheri...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "House bill restores funding for TraCSS",
-      "link": "https://spacenews.com/house-bill-restores-funding-for-tracss/",
-      "pubDate": "2026-05-18T12:03:26Z",
-      "snippet": "A House appropriations bill would reverse plans by the administration to stop development of a civil space traffic management system.\nThe post House bill restores funding for TraCSS appeared first on ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "New CSF Report Sees Up To 7,000+ Satellites Launched Annually By Mid 2030\u2019s, Highlights The Challenges With US Launch Infrastructure",
-      "link": "https://spacenews.com/new-csf-report-sees-up-to-7000-satellites-launched-annually-by-mid-2030s-highlights-the-challenges-with-us-launch-infrastructure/",
-      "pubDate": "2026-05-18T12:00:00Z",
-      "snippet": "WASHINGTON, D.C., May 18, 2026&#160;\u2014 The Commercial Space Federation (CSF), in partnership with Rational Futures (RF), announced the release of SCRUBBED: America&#8217;s Launch Capacity Challenge, a ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "The next war will be won \u2014 or lost \u2014 in orbit",
-      "link": "https://spacenews.com/the-next-war-will-be-won-or-lost-in-orbit/",
-      "pubDate": "2026-05-18T11:00:00Z",
-      "snippet": "We in the West have learned many things from the conflict in Ukraine. Four years on from its full-scale invasion \u2014 the war in fact having started in 2014 \u2014 [&#8230;]\nThe post The next war will be won ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "AI reveals the invisible magnetic chaos wasting energy inside electric motors",
       "link": "https://www.sciencedaily.com/releases/2026/05/260517211433.htm",
       "pubDate": "2026-05-18T04:02:36Z",
@@ -219,73 +282,10 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "Zenk Space raises $26 million, targets June debut launch",
-      "link": "https://spacenews.com/zenk-space-raises-26-million-targets-june-debut-launch/",
-      "pubDate": "2026-05-18T02:22:15Z",
-      "snippet": "China\u2019s Zenk Space has secured 180 million yuan ahead of the planned June debut of its Zhihang-1 kerolox rocket, the company's first orbital launch attempt.\nThe post Zenk Space raises $26 million, tar...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NASA releases final RFP for Mars communications orbiter",
-      "link": "https://spacenews.com/nasa-releases-final-rfp-for-mars-communications-orbiter/",
-      "pubDate": "2026-05-16T22:33:24Z",
-      "snippet": "NASA has released the final request for proposals for a Mars telecommunications system, confirming requirements that limit the companies that can bid on it.\nThe post NASA releases final RFP for Mars c...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "York Space defends growth strategy as SDA programs are reshaped",
-      "link": "https://spacenews.com/york-space-defends-growth-strategy-as-sda-programs-are-reshaped/",
-      "pubDate": "2026-05-16T21:55:25Z",
-      "snippet": "Company executives acknowledge \u2018investor confusion\u2019 as Space Force reorganizes York's primary customer, the Space Development Agency\nThe post York Space defends growth strategy as SDA programs are res...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Space Force awards Northrop Grumman $398 million satellite contract",
-      "link": "https://spacenews.com/space-force-awards-northrop-grumman-398-million-satellite-contract/",
-      "pubDate": "2026-05-16T14:40:02Z",
-      "snippet": "The company will build a communications satellite to test protected communications technologies for contested environments\nThe post Space Force awards Northrop Grumman $398 million satellite contract ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "US Army to receive thousands of Barracuda-500M cruise missiles in Anduril deal",
       "link": "https://www.defensenews.com/industry/techwatch/2026/05/15/us-army-to-receive-thousands-of-barracuda-500m-cruise-missiles-in-anduril-deal/",
       "pubDate": "2026-05-15T19:27:58Z",
       "snippet": "The Pentagon\u2019s Low-Cost Containerized Missiles program aims to obtain over 10,000 low-cost cruise missiles over a three-year span.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "No sound of silence: US soldiers train eyes \u2014 and ears \u2014 for drone swarms",
-      "link": "https://www.defensenews.com/news/your-military/2026/05/15/no-sound-of-silence-us-soldiers-train-eyes-and-ears-for-drone-swarms/",
-      "pubDate": "2026-05-15T18:39:31Z",
-      "snippet": "The U.S. Army is moving beyond battling individual drone threats as it experiments with tactics to combat throngs of unmanned aircraft in saturated skies.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "USS Gerald R. Ford to return from 11-month deployment on Saturday",
-      "link": "https://www.defensenews.com/news/your-navy/2026/05/15/uss-gerald-r-ford-to-return-from-11-month-deployment-on-saturday/",
-      "pubDate": "2026-05-15T18:04:32Z",
-      "snippet": "The world\u2019s largest aircraft carrier is finally returning home after etching its name into Navy history books.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Marines practice seizing remote islands in Philippine exercise",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/05/15/us-marines-practice-seizing-remote-islands-in-philippine-exercise/",
-      "pubDate": "2026-05-15T16:31:01Z",
-      "snippet": "Based on Oahu, MADIS crews face limitations when live-firing at home, so Konien was enthusiastic about the opportunity to fire rounds and missiles abroad.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
