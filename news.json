@@ -1,7 +1,52 @@
 {
-  "updated": "2026-05-25T13:53:44.852898Z",
-  "count": 52,
+  "updated": "2026-05-26T13:43:56.952265Z",
+  "count": 53,
   "items": [
+    {
+      "title": "India boosts drone warfare capability with compact missile",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/05/26/india-boosts-drone-warfare-capability-with-compact-missile/",
+      "pubDate": "2026-05-26T12:56:11Z",
+      "snippet": "Indian Defense Minister Rajnath Singh called the successful development trials a \u201cstrategic milestone\u201d toward self-reliance in defense.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Regulations and access to capital continue to hinder Europe\u2019s smallsat industry",
+      "link": "https://spacenews.com/regulations-and-access-to-capital-continue-to-hinder-europes-smallsat-industry/",
+      "pubDate": "2026-05-26T12:49:00Z",
+      "snippet": "Burdensome regulations and limited access to capital continue to act as a drag on Europe\u2019s smallsat sector despite proposed new legislation and an influx of defense spending.\nThe post Regulations and ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Chinese startup Mega Engine advances reusable staged-combustion rocket engine",
+      "link": "https://spacenews.com/chinese-startup-mega-engine-advances-reusable-staged-combustion-rocket-engine/",
+      "pubDate": "2026-05-26T10:43:10Z",
+      "snippet": "A new Chinese commercial rocket engine startup has conducted a successful long-duration hot fire test of a closed-cycle kerosene-liquid oxygen engine.\nThe post Chinese startup Mega Engine advances reu...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Orbit Fab, Thales Alenia to study refueling for electric-propulsion satellites",
+      "link": "https://spacenews.com/orbit-fab-thales-alenia-to-study-refueling-for-electric-propulsion-satellites/",
+      "pubDate": "2026-05-26T08:00:00Z",
+      "snippet": "The companies will explore integrating Orbit Fab\u2019s refueling interface with electric propulsion systems developed by Thales Alenia Space \nThe post Orbit Fab, Thales Alenia to study refueling for elect...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions",
+      "link": "https://spacenews.com/exolaunch-and-seops-purchase-falcon-9-launches-for-dedicated-rideshare-missions/",
+      "pubDate": "2026-05-26T06:00:00Z",
+      "snippet": "Two companies best known for brokering payload space on SpaceX rideshare launches have each purchased Falcon 9 launches to meet the growing demand for such missions.\nThe post Exolaunch and SEOPS purch...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Northern Norway is ready to launch. EU Space Regulation \u2014 and its new Arctic policy \u2013 is not.",
       "link": "https://spacenews.com/northern-norway-is-ready-to-launch-eu-space-regulation-and-its-new-arctic-policy-is-not/",
@@ -235,42 +280,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "CEO Series: Open Cosmos\u2019 Rafel Jorda Siquier on finding a niche in space",
-      "link": "https://spacenews.com/ceo-series-open-cosmos-rafel-jorda-siquier-on-finding-a-niche-in-space/",
-      "pubDate": "2026-05-21T08:57:42Z",
-      "snippet": "In this episode of Space Minds, Mike Gruss talks with Open Cosmos\u2019 CEO Rafel Jorda Siquier about combining Earth observation, connectivity and IoT into a single platform. They also discuss [&#8230;]\nT...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "LatConnect 60 announces accelerated growth investment round to build AUKUS-aligned Highest Resolution SWIR Satellite constellation",
-      "link": "https://spacenews.com/latconnect-60-announces-accelerated-growth-investment-round-to-build-aukus-aligned-highest-resolution-swir-satellite-constellation/",
-      "pubDate": "2026-05-21T06:00:00Z",
-      "snippet": "Perth, Western Australia \u2014 21 May 2026 \u2014 LatConnect 60 (LC60), an Australian Earth observation and AI company, announced its growth investment round that is in-progress to accelerate development plans...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Space Force eyes 2027 demonstrations of in-space refueling and satellite servicing",
-      "link": "https://spacenews.com/space-force-eyes-2027-demonstrations-of-in-space-refueling-and-satellite-servicing/",
-      "pubDate": "2026-05-20T23:47:55Z",
-      "snippet": "USSF-23 mission will launch vehicles to demonstrate refueling and satellite servicing in geostationary orbit\nThe post Space Force eyes 2027 demonstrations of in-space refueling and satellite servicing...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "SpaceX files for IPO",
-      "link": "https://spacenews.com/spacex-files-for-ipo/",
-      "pubDate": "2026-05-20T22:16:01Z",
-      "snippet": "SpaceX filed documents for an initial public offering of stock May 20, revealing the company\u2019s finances and enormous ambitions\nThe post SpaceX files for IPO appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Lithuanian lawmakers shelter, Vilnius air traffic suspended due to drone incursion",
