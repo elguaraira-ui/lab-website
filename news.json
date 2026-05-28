@@ -1,7 +1,187 @@
 {
-  "updated": "2026-05-27T14:15:48.534300Z",
-  "count": 55,
+  "updated": "2026-05-28T14:25:34.260806Z",
+  "count": 54,
   "items": [
+    {
+      "title": "The Propulsion Imperative Behind Golden Dome",
+      "link": "https://spacenews.com/the-propulsion-imperative-behind-golden-dome/",
+      "pubDate": "2026-05-28T13:26:54Z",
+      "snippet": "Missile defense has traditionally been framed around detection, tracking and interception. Golden Dome changes that calculus, broadening the focus to the entire distributed infrastructure enabling the...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US troops are reportedly being targeted using location data, Pentagon says",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/05/28/us-troops-are-reportedly-being-targeted-using-location-data-pentagon-says/",
+      "pubDate": "2026-05-28T12:15:57Z",
+      "snippet": "U.S. forces deployed to war zones have been targeted using commercially available location data, according to reports fielded by\u00a0military\u00a0officials.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Europe\u2019s biggest space opportunity comes after launch",
+      "link": "https://spacenews.com/europes-biggest-space-opportunity-comes-after-launch/",
+      "pubDate": "2026-05-28T10:00:00Z",
+      "snippet": "At most major European space summits, the sovereignty debate has long been overshadowed by talk of launchers, constellations and the symbolism of a national presence. On the sidelines, however, the [&...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Canada wants Saab early-warning aircraft under push to retool defense suppliers",
+      "link": "https://www.defensenews.com/air/2026/05/28/canada-wants-saab-early-warning-aircraft-under-push-to-retool-defense-suppliers/",
+      "pubDate": "2026-05-28T09:12:15Z",
+      "snippet": "Prime Minister Mark Carney has pledged to diversify and localize defense production following continued threats by U.S. President Trump.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Virgin Galactic returns Unity to flight to prepare for next-generation spaceplane",
+      "link": "https://spacenews.com/virgin-galactic-returns-unity-to-flight-to-prepare-for-next-generation-spaceplane/",
+      "pubDate": "2026-05-28T06:22:42Z",
+      "snippet": "The Virgin Galactic spaceplane used for the company\u2019s first commercial flights has returned to service to train its pilots for its next-generation spacecraft.\nThe post Virgin Galactic returns Unity to...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "FAA requires mishap investigation into latest Starship launch",
+      "link": "https://spacenews.com/faa-requires-mishap-investigation-into-latest-starship-launch/",
+      "pubDate": "2026-05-28T04:06:52Z",
+      "snippet": "The Federal Aviation Administration will require SpaceX to complete an investigation into its latest Starship test flight before allowing the vehicle to fly again.\nThe post FAA requires mishap investi...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "House Armed Services draft bill eliminates SDA, Space RCO as separate entities",
+      "link": "https://spacenews.com/house-armed-services-draft-bill-eliminates-sda-space-rco-as-separate-entities/",
+      "pubDate": "2026-05-27T22:30:22Z",
+      "snippet": "HASC 2027 NDAA supports realignment of the Space Development Agency and the Space Rapid Capabilities Office under a portfolio-based acquisition structure\nThe post House Armed Services draft bill elimi...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Pentagon eyes drone testing ground in Mississippi",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/05/27/pentagon-eyes-drone-testing-ground-in-mississippi/",
+      "pubDate": "2026-05-27T21:42:29Z",
+      "snippet": "U.S. Special Operations Command is looking to build a new testing ground for drones in Mississippi.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US munitions depleted by Iran war will take years to restore, analysis finds",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/05/27/us-munitions-depleted-by-iran-war-will-take-years-to-restore-analysis-finds/",
+      "pubDate": "2026-05-27T19:44:52Z",
+      "snippet": "Replenishing stockpiles of critical weapons systems could take until 2030 or 2031, creating a \"window of vulnerability,\" a new analysis found.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "How US Army combat medics are preparing for an Indo-Pacific fight",
+      "link": "https://www.defensenews.com/news/your-military/2026/05/27/how-us-army-combat-medics-are-preparing-for-an-indo-pacific-fight/",
+      "pubDate": "2026-05-27T19:07:54Z",
+      "snippet": "Distance, contested air, communication disruptions, weather and limited evacuation platforms could greatly impact timely access to medical care.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Mars to Titan: the next rallying call?",
+      "link": "https://spacenews.com/mars-to-titan-the-next-rallying-call/",
+      "pubDate": "2026-05-27T17:11:27Z",
+      "snippet": "Where will humans go after Mars? Is Mars the end of the line or is it a steppingstone to somewhere else? If we \u201cmoon-to-Mars,\u201d do we then \u201cMars-to-somewhere else?\u201d These [&#8230;]\nThe post Mars to Tit...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Army receives first lightweight Javelin launchers",
+      "link": "https://www.defensenews.com/news/your-military/2026/05/27/us-army-receives-first-lightweight-javelin-launchers/",
+      "pubDate": "2026-05-27T17:07:00Z",
+      "snippet": "The U.S. Army has received its first batch of new, lighter Javelin launchers, defense contractor RTX announced in a statement Tuesday.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "European space industry warns EU Space Act could slow competitiveness",
+      "link": "https://spacenews.com/european-space-industry-warns-eu-space-act-could-slow-competitiveness/",
+      "pubDate": "2026-05-27T16:34:00Z",
+      "snippet": "AMSTERDAM &#8211; European industry representatives and legal experts are worried that the EU Space Act is too slow, too rigid and too bureaucratic. Speaking at SmallSat Europe, panelists said they [&...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "As geopolitics reshape space, SpinLaunch sees an opening",
+      "link": "https://spacenews.com/as-geopolitics-reshape-space-spinlaunch-sees-an-opening/",
+      "pubDate": "2026-05-27T16:00:00Z",
+      "snippet": "SpinLaunch CEO Massimiliano \u201cMassi\u201d Ladovaz paints an ambitious picture of a rapidly shifting space industry driven as much by geopolitics and sovereignty as by engineering innovation. Ladovaz argued ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Kongsberg NanoAvionics sets sights on building and supporting sovereign constellations",
+      "link": "https://spacenews.com/kongsberg-nanoavionics-sets-sights-on-building-and-supporting-sovereign-constellations/",
+      "pubDate": "2026-05-27T15:47:09Z",
+      "snippet": "NanoAvionics, founded in 2014, was known for producing individual satellites and small constellations until April 2025, when the company won a 122.5-million-euro contract ($142 million) to build the i...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Former Ukraine official calls for stricter restrictions on Russian use of Starlink",
+      "link": "https://spacenews.com/former-ukraine-official-calls-for-stricter-restrictions-on-russian-use-of-starlink/",
+      "pubDate": "2026-05-27T15:34:19Z",
+      "snippet": "AMSTERDAM \u2013 A former senior Ukrainian defense official called on SpaceX to tighten controls on Starlink terminals that she said are reaching Russian forces through third-party countries or intermediar...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Sitael Accelerates Growth in Space: New Missions, Industrial Capacity and a Trajectory Towards 2031",
+      "link": "https://spacenews.com/sitael-accelerates-growth-in-spacenew-missions-industrial-capacity-and-a-trajectory-towards-2031/",
+      "pubDate": "2026-05-27T15:11:42Z",
+      "snippet": "\u2022 SITAEL announces a growth plan targeting \u20ac200 million in revenues by 2031, currently supported by over \u20ac150 million in backlog and nine launches planned by 2030.\u2022 The company confirms [&#8230;]\nThe ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Schaeffler AG joins forces with Spire to build sovereign European satellites",
+      "link": "https://spacenews.com/schaeffler-ag-joins-forces-with-spire-to-build-sovereign-european-satellites/",
+      "pubDate": "2026-05-27T15:02:37Z",
+      "snippet": "AMSTERDAM \u2013 Spire Global revealed another element of its campaign to rapidly scale satellite production in German: strategic cooperation with Schaeffer AG, a major German manufacturer of automotive sy...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Starcloud\u2019s path to 88,000 computing satellites",
+      "link": "https://spacenews.com/starclouds-path-to-88000-computing-satellites/",
+      "pubDate": "2026-05-27T15:01:26Z",
+      "snippet": "In November, Starcloud sent a small satellite called Starcloud-1 into orbit via a SpaceX launch. The 60-kilogram spacecraft was the first to carry a compute system with an NVIDIA H100 [&#8230;]\nThe po...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Spire expands European manufacturing with Munich plant",
+      "link": "https://spacenews.com/spire-expands-european-manufacturing-with-munich-plant/",
+      "pubDate": "2026-05-27T14:23:57Z",
+      "snippet": "AMSTERDAM \u2013 Spire Global has established a facility in Munich to develop and manufacture as many as 100 small satellites annually. With manufacturing plants in Boulder, Colorado, Glasgow, Scotland, an...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Europe\u2019s satellite spectrum proposal clouds SpaceX and Viasat plans",
       "link": "https://spacenews.com/europes-satellite-spectrum-proposal-clouds-spacex-and-viasat-plans/",
@@ -57,33 +237,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "SpaceX wins $2.29 billion Space Force contract for military data network",
-      "link": "https://spacenews.com/spacex-wins-2-29-billion-space-force-contract-for-military-data-network/",
-      "pubDate": "2026-05-26T22:40:27Z",
-      "snippet": "The contract is for the development of the U.S. Space Force\u2019s Space Data Network backbone\nThe post SpaceX wins $2.29 billion Space Force contract for military data network appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NASA selects four companies for initial moon base awards",
-      "link": "https://spacenews.com/nasa-selects-four-companies-for-initial-moon-base-awards/",
-      "pubDate": "2026-05-26T21:50:27Z",
-      "snippet": "NASA announced May 26 the first contracts associated with its plans to develop a lunar base, picking four companies to develop and deliver landers and drones to the moon.\nThe post NASA selects four co...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Open Cosmos\u2019 CEO on what it takes to bring IoT to space",
-      "link": "https://spacenews.com/open-cosmos-ceo-on-what-it-takes-to-bring-iot-to-space/",
-      "pubDate": "2026-05-26T21:05:19Z",
-      "snippet": "Open Cosmos, based in the United Kingdom, is facing a 2028 deadline to field an ambitious broadband constellation for Europe. That system, ConnectedCosmos, aims to reduce reliance on undersea cables [...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Pentagon spars with SpaceX over Starlink price hike during Iran war",
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/05/26/pentagon-spars-with-spacex-over-starlink-price-hike-during-iran-war/",
       "pubDate": "2026-05-26T19:19:53Z",
@@ -100,33 +253,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Starcloud orders Starlink lasers for orbital data center network",
-      "link": "https://spacenews.com/starcloud-orders-starlink-lasers-for-orbital-data-center-network/",
-      "pubDate": "2026-05-26T17:03:13Z",
-      "snippet": "Starcloud has ordered optical terminals from SpaceX to use Starlink as a global data-relay network for its future orbital data centers, deepening ties with the company it is counting on to launch full...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "The surge in military budgets can help Europe\u2019s entrepreneurial space sector \u2014 if spending speeds up",
-      "link": "https://spacenews.com/the-surge-in-military-budgets-can-help-europes-entrepreneurial-space-sector-if-spending-speeds-up/",
-      "pubDate": "2026-05-26T17:00:00Z",
-      "snippet": "AMSTERDAM \u2013 The recent surge in European defense spending could bolster Europe\u2019s entrepreneurial space sector, but only if bureaucratic roadblocks are cleared, panelists said at the SmallSat Europe co...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Voyager wins DARPA contract for solid rocket propellant technology",
-      "link": "https://spacenews.com/voyager-wins-darpa-contract-for-solid-rocket-propellant-technology/",
-      "pubDate": "2026-05-26T16:00:00Z",
-      "snippet": "The $16.5 million award is for \u2018thrust-control technology\u2019 designed to make solid propulsion systems more adaptable across different missions and weapons programs\nThe post Voyager wins DARPA contract ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Australia starts \u2018high-risk\u2019 life extension of its submarine fleet",
@@ -156,69 +282,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Regulations and access to capital continue to hinder Europe\u2019s smallsat industry",
-      "link": "https://spacenews.com/regulations-and-access-to-capital-continue-to-hinder-europes-smallsat-industry/",
-      "pubDate": "2026-05-26T12:49:00Z",
-      "snippet": "Burdensome regulations and limited access to capital continue to act as a drag on Europe\u2019s smallsat sector despite proposed new legislation and an influx of defense spending.\nThe post Regulations and ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Chinese startup Mega Engine advances reusable staged-combustion rocket engine",
-      "link": "https://spacenews.com/chinese-startup-mega-engine-advances-reusable-staged-combustion-rocket-engine/",
-      "pubDate": "2026-05-26T10:43:10Z",
-      "snippet": "A new Chinese commercial rocket engine startup has conducted a successful long-duration hot fire test of a closed-cycle kerosene-liquid oxygen engine.\nThe post Chinese startup Mega Engine advances reu...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Orbit Fab, Thales Alenia to study refueling for electric-propulsion satellites",
-      "link": "https://spacenews.com/orbit-fab-thales-alenia-to-study-refueling-for-electric-propulsion-satellites/",
-      "pubDate": "2026-05-26T08:00:00Z",
-      "snippet": "The companies will explore integrating Orbit Fab\u2019s refueling interface with electric propulsion systems developed by Thales Alenia Space \nThe post Orbit Fab, Thales Alenia to study refueling for elect...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Exolaunch and SEOPS purchase Falcon 9 launches for dedicated rideshare missions",
-      "link": "https://spacenews.com/exolaunch-and-seops-purchase-falcon-9-launches-for-dedicated-rideshare-missions/",
-      "pubDate": "2026-05-26T06:00:00Z",
-      "snippet": "Two companies best known for brokering payload space on SpaceX rideshare launches have each purchased Falcon 9 launches to meet the growing demand for such missions.\nThe post Exolaunch and SEOPS purch...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Northern Norway is ready to launch. EU Space Regulation \u2014 and its new Arctic policy \u2013 is not.",
-      "link": "https://spacenews.com/northern-norway-is-ready-to-launch-eu-space-regulation-and-its-new-arctic-policy-is-not/",
-      "pubDate": "2026-05-25T11:00:00Z",
-      "snippet": "The European Commission is currently updating its Arctic policy, with a new policy statement expected this coming autumn. Unlike the latest policy from 2021, the update will place greater emphasis [&#...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Shenzhou-23 crew arrives at Tiangong as China maps path to 2030 lunar landing",
-      "link": "https://spacenews.com/shenzhou-23-crew-arrives-at-tiangong-as-china-maps-path-to-2030-lunar-landing/",
-      "pubDate": "2026-05-24T21:11:26Z",
-      "snippet": "Three Chinese astronauts arrived at Tiangong space station Sunday, with one crewmember expected to become China\u2019s first to stay in orbit for an entire year.\nThe post Shenzhou-23 crew arrives at Tiango...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NASA to add missions to SpaceX commercial crew contract",
-      "link": "https://spacenews.com/nasa-to-add-missions-to-spacex-commercial-crew-contract/",
-      "pubDate": "2026-05-24T07:51:34Z",
-      "snippet": "NASA plans to add more missions to SpaceX\u2019s commercial crew contract, protecting the agency from the possibility that Boeing\u2019s spacecraft is never certified for missions to the International Space Sta...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Ordinary WiFi can now identify people with near perfect accuracy",
       "link": "https://www.sciencedaily.com/releases/2026/05/260522023127.htm",
       "pubDate": "2026-05-23T03:03:54Z",
@@ -226,24 +289,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Blue Origin completes investigation into New Glenn launch failure",
-      "link": "https://spacenews.com/blue-origin-completes-investigation-into-new-glenn-launch-failure/",
-      "pubDate": "2026-05-23T02:32:12Z",
-      "snippet": "Blue Origin has completed the investigation into the failure on the third flight of its New Glenn rocket, clearing launches of the vehicle to resume.\nThe post Blue Origin completes investigation into ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "SpaceX launches first Starship V3",
-      "link": "https://spacenews.com/spacex-launches-first-starship-v3/",
-      "pubDate": "2026-05-23T00:35:12Z",
-      "snippet": "SpaceX launched the newest version of its Starship vehicle for the first time May 22, completing most of the test objectives planned for the suborbital flight.\nThe post SpaceX launches first Starship ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "All-female Senate delegation sets off for High North amid growing military tensions",
@@ -282,15 +327,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "SOCOM begins fielding new battlefield biometrics system",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/05/22/socom-begins-fielding-new-battlefield-biometrics-system/",
-      "pubDate": "2026-05-22T12:56:25Z",
-      "snippet": "Reveal Technology\u2019s Identifi platform allows operators to collect fingerprints, facial scans, iris data and voice recognition in the field.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Ancient chemistry trick unlocks new type of glass that traps CO2 and hydrogen",
       "link": "https://www.sciencedaily.com/releases/2026/05/260521072404.htm",
       "pubDate": "2026-05-22T09:17:29Z",
@@ -298,51 +334,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Poland joins Pentagon\u2019s counter-drone marketplace amid unexpected US deployment cancellation",
-      "link": "https://www.defensenews.com/news/your-military/2026/05/21/poland-joins-pentagons-counter-drone-marketplace-amid-unexpected-us-deployment-cancellation/",
-      "pubDate": "2026-05-21T21:05:59Z",
-      "snippet": "The Army is continuing to expand military cooperation with Poland through the Pentagon\u2019s counter-drone initiative, the service announced on Wednesday.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "The US Navy is full speed ahead on building a laser fleet",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/05/21/the-us-navy-is-full-speed-ahead-on-building-a-laser-fleet/",
-      "pubDate": "2026-05-21T18:51:44Z",
-      "snippet": "Operation Epic Fury may have strengthened the case for laser weapons, but the U.S. Navy\u2019s dream of putting one on every ship may take longer than expected.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Turkey to buy 100 one-way explosive naval drones for swarm attacks",
-      "link": "https://www.defensenews.com/global/europe/2026/05/21/turkey-to-buy-100-one-way-explosive-naval-drones-for-swarm-attacks/",
-      "pubDate": "2026-05-21T12:32:23Z",
-      "snippet": "Turkey eyes an arsenal capable of taking out enemy ships with unmanned systems.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Lithuanian lawmakers shelter, Vilnius air traffic suspended due to drone incursion",
-      "link": "https://www.defensenews.com/global/europe/2026/05/20/lithuanian-lawmakers-shelter-vilnius-air-traffic-suspended-due-to-drone-incursion/",
-      "pubDate": "2026-05-20T16:10:10Z",
-      "snippet": "A drone violated Lithuanian airspace on Wednesday, the latest in a series of security incidents in the Baltic region.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Germany touts pan-German space command amid European push to supplant US tech",
-      "link": "https://www.defensenews.com/global/europe/2026/05/20/germany-touts-pan-german-space-command-amid-european-push-to-supplant-us-tech/",
-      "pubDate": "2026-05-20T15:21:24Z",
-      "snippet": "Austria\u2019s Defense Minister Claudia Tanner reaffirmed that Austria plans to put three operationally designated military satellites into orbit next year.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "AI reveals the invisible magnetic chaos wasting energy inside electric motors",
