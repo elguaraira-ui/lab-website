@@ -1,7 +1,160 @@
 {
-  "updated": "2026-05-28T14:25:34.260806Z",
-  "count": 54,
+  "updated": "2026-05-29T13:52:25.778917Z",
+  "count": 56,
   "items": [
+    {
+      "title": "Romania says Russian drone hit apartment block, NATO vows to defend alliance territory",
+      "link": "https://www.defensenews.com/global/europe/2026/05/29/romania-says-russian-drone-hit-apartment-block-nato-vows-to-defend-alliance-territory/",
+      "pubDate": "2026-05-29T13:44:06Z",
+      "snippet": "\u201cI affirmed that NATO stands ready to defend every inch of Allied territory,\u201d NATO Secretary General Mark Rutte said on X.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration",
+      "link": "https://spacenews.com/bellatrix-and-telepix-plan-2028-air-breathing-vleo-imaging-demonstration/",
+      "pubDate": "2026-05-29T13:36:35Z",
+      "snippet": "South Korean optical payload developer TelePIX and Indian propulsion specialist Bellatrix Aerospace have teamed up on a very low Earth orbit geospatial demonstration mission slated for 2028.\nThe post ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "New Zealand budget spares defense, intelligence agencies from cuts",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/05/29/new-zealand-budget-spares-defense-intelligence-agencies-from-cuts/",
+      "pubDate": "2026-05-29T12:05:35Z",
+      "snippet": "\u201cThe rules-based global system is under strain. Countries are boosting their spending on defense,\" said Finance Minister Nicola Willis.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon looks to reinvent the bunker-buster bomb",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/05/29/pentagon-looks-to-reinvent-the-bunker-buster-bomb/",
+      "pubDate": "2026-05-29T12:00:01Z",
+      "snippet": "The goal is to go beyond the traditional brute-force approach of giant bombs and instead manipulate shock waves to destroy targets.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Spatial data has become a weapon of war in the US-Iran war",
+      "link": "https://spacenews.com/spatial-data-has-become-a-weapon-of-war-in-the-us-iran-war/",
+      "pubDate": "2026-05-29T12:00:00Z",
+      "snippet": "We are in the geospatial era of warfare in which information derived from satellites is as strategically critical as territorial control. The progressive dissolution of the distinction between the civ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Quad nations step up Indo-Pacific push with new initiatives",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/05/29/quad-nations-step-up-indo-pacific-push-with-new-initiatives/",
+      "pubDate": "2026-05-29T10:47:27Z",
+      "snippet": "The announcement to build port infrastructure in Fiji comes amid China\u2019s deepening ties with the South Pacific island, which straddles vital sea lanes.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "China\u2019s latest batch of new and reusable rockets are close to launch",
+      "link": "https://spacenews.com/chinas-latest-batch-of-new-and-reusable-rockets-are-close-to-launch/",
+      "pubDate": "2026-05-29T09:38:40Z",
+      "snippet": "A number of new Chinese state-led and commercial rockets are set for debuts and fresh first stage recovery attempts in the coming weeks and months.\nThe post China\u2019s latest batch of new and reusable ro...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "At French Army FPV competition, NATO soldiers race drones and swap tips",
+      "link": "https://www.defensenews.com/global/europe/2026/05/29/at-french-army-fpv-competition-nato-soldiers-race-drones-and-swap-tips/",
+      "pubDate": "2026-05-29T08:58:06Z",
+      "snippet": "\u201cWhen I put on the mask, I no longer exist in this reality,\u201d Chief Cpl. Cl\u00e9ment said after completing the course.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "New Glenn rocket explodes on Cape Canaveral pad",
+      "link": "https://spacenews.com/new-glenn-rocket-explodes-on-cape-canaveral-pad/",
+      "pubDate": "2026-05-29T06:00:15Z",
+      "snippet": "A Blue Origin New Glenn rocket exploded on its launch pad at Cape Canaveral, Florida, during a May 28 hotfire test, destroying the rocket and causing extensive pad damage.\nThe post New Glenn rocket ex...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Space Force plans nationwide network of \u2018resilient operations centers\u2019",
+      "link": "https://spacenews.com/space-force-plans-nationwide-network-of-resilient-operations-centers/",
+      "pubDate": "2026-05-28T22:55:11Z",
+      "snippet": "These facilities are intended to ensure military space missions can continue during wartime when installations could come under attack\nThe post Space Force plans nationwide network of \u2018resilient opera...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Observable Space raises $90 million and wins Space Force contract for optical systems",
+      "link": "https://spacenews.com/observable-space-raises-90-million-and-wins-space-force-contract-for-optical-systems/",
+      "pubDate": "2026-05-28T22:12:14Z",
+      "snippet": "Observable Space, a company that develops optical systems for laser communications and space domain awareness, has raised $90 million and secured a U.S. Space Force contract.\nThe post Observable Space...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Army turns resupply drone into rocket launcher in new test",
+      "link": "https://www.defensenews.com/news/your-military/2026/05/28/army-turns-resupply-drone-into-rocket-launcher-in-new-test/",
+      "pubDate": "2026-05-28T18:11:19Z",
+      "snippet": "Though the drone was designed to haul supplies across the battlefield, the Army recently tried turning it into a rocket launcher.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Setting up a permanent lunar presence needs investment in biology",
+      "link": "https://spacenews.com/setting-up-a-permanent-lunar-presence-needs-investment-in-biology/",
+      "pubDate": "2026-05-28T17:12:36Z",
+      "snippet": "In December 1972, Gene Cernan and Harrison Schmitt spent 75 hours on the lunar surface during Apollo 17. They drove a rover, conducted three spacewalks and collected samples across the [&#8230;]\nThe p...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Revolv Space enters in-orbit servicing market with Infinite Orbits deal",
+      "link": "https://spacenews.com/revolv-space-enters-in-orbit-servicing-market-with-infinite-orbits-deal/",
+      "pubDate": "2026-05-28T16:06:02Z",
+      "snippet": "WARSAW, Poland \u2014 The Italian-Dutch company Revolv Space has announced that French in-orbit services provider Infinite Orbits has selected its Solar Array Drive Assemblies (SADAs), the devices used to ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Lithuania to buy Patria armored vehicles, eyes local industry share",
+      "link": "https://www.defensenews.com/global/europe/2026/05/28/lithuania-to-buy-patria-armored-vehicles-eyes-local-industry-share/",
+      "pubDate": "2026-05-28T15:23:54Z",
+      "snippet": "A contract is expected to be signed with the Finnish producer in 2027.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Germany pushes European military space command initiative",
+      "link": "https://spacenews.com/germany-pushes-european-military-space-command-initiative/",
+      "pubDate": "2026-05-28T15:02:40Z",
+      "snippet": "AMSTERDAM \u2014 A senior German military official said Europe needs a coordinated approach to military space operations and proposed the creation of a European Space Component Command hosted by Germany [&...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "CEO Series: Lux Aeterna\u2019s Brian Taylor on what\u2019s next for on-orbit servicing",
+      "link": "https://spacenews.com/ceo-series-lux-aeternas-brian-taylor-on-whats-next-for-on-orbit-servicing/",
+      "pubDate": "2026-05-28T14:41:22Z",
+      "snippet": "In this episode of Space Minds, David Ariosto talks with Lux Aeterna CEO Brian Taylor about the problems with disposable satellites and the use for on-orbit servicing. Sponsored by Arcfield [&#8230;]\n...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "The Propulsion Imperative Behind Golden Dome",
       "link": "https://spacenews.com/the-propulsion-imperative-behind-golden-dome/",
@@ -19,6 +172,15 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
+    },
+    {
+      "title": "A 100-year-old piano mystery has finally been solved",
+      "link": "https://www.sciencedaily.com/releases/2026/05/260528073949.htm",
+      "pubDate": "2026-05-28T11:51:24Z",
+      "snippet": "For more than a century, pianists and music teachers have argued over whether a performer\u2019s touch can actually change the tone color of a piano note \u2014 and now scientists say the answer is yes. Using a...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
     },
     {
       "title": "Europe\u2019s biggest space opportunity comes after launch",
@@ -147,78 +309,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Sitael Accelerates Growth in Space: New Missions, Industrial Capacity and a Trajectory Towards 2031",
-      "link": "https://spacenews.com/sitael-accelerates-growth-in-spacenew-missions-industrial-capacity-and-a-trajectory-towards-2031/",
-      "pubDate": "2026-05-27T15:11:42Z",
-      "snippet": "\u2022 SITAEL announces a growth plan targeting \u20ac200 million in revenues by 2031, currently supported by over \u20ac150 million in backlog and nine launches planned by 2030.\u2022 The company confirms [&#8230;]\nThe ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Schaeffler AG joins forces with Spire to build sovereign European satellites",
-      "link": "https://spacenews.com/schaeffler-ag-joins-forces-with-spire-to-build-sovereign-european-satellites/",
-      "pubDate": "2026-05-27T15:02:37Z",
-      "snippet": "AMSTERDAM \u2013 Spire Global revealed another element of its campaign to rapidly scale satellite production in German: strategic cooperation with Schaeffer AG, a major German manufacturer of automotive sy...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Starcloud\u2019s path to 88,000 computing satellites",
-      "link": "https://spacenews.com/starclouds-path-to-88000-computing-satellites/",
-      "pubDate": "2026-05-27T15:01:26Z",
-      "snippet": "In November, Starcloud sent a small satellite called Starcloud-1 into orbit via a SpaceX launch. The 60-kilogram spacecraft was the first to carry a compute system with an NVIDIA H100 [&#8230;]\nThe po...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Spire expands European manufacturing with Munich plant",
-      "link": "https://spacenews.com/spire-expands-european-manufacturing-with-munich-plant/",
-      "pubDate": "2026-05-27T14:23:57Z",
-      "snippet": "AMSTERDAM \u2013 Spire Global has established a facility in Munich to develop and manufacture as many as 100 small satellites annually. With manufacturing plants in Boulder, Colorado, Glasgow, Scotland, an...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Europe\u2019s satellite spectrum proposal clouds SpaceX and Viasat plans",
-      "link": "https://spacenews.com/europes-satellite-spectrum-proposal-clouds-spacex-and-viasat-plans/",
-      "pubDate": "2026-05-27T13:04:41Z",
-      "snippet": "Europe has proposed reserving two-thirds of 2 gigahertz mobile satellite spectrum up for renewal next year for European operators, complicating SpaceX\u2019s direct-to-device ambitions and the outlook for ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Artemis 2 captured the world\u2019s attention. It should change how we think about supply chains.",
-      "link": "https://spacenews.com/artemis-2-captured-the-worlds-attention-it-should-change-how-we-think-about-supply-chains/",
-      "pubDate": "2026-05-27T13:00:00Z",
-      "snippet": "The Artemis 2 mission has captured global attention for obvious reasons. It signals a return to the moon, reflects geopolitical ambition and showcases the next phase of human spaceflight. But [&#8230;...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "World\u2019s smallest deployable operational optical ground station proves capability in successful trials",
-      "link": "https://spacenews.com/worlds-smallest-deployable-operational-optical-ground-station-proves-capability-in-successful-trials/",
-      "pubDate": "2026-05-27T12:00:00Z",
-      "snippet": "Oxford, UK \u2013 27 May 2026 Archangel Lightworks, the laser communications company, has successfully completed field trials of the TERRA-M, the world\u2019s smallest deployable operational optical ground stat...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "European space industry watching SpaceX IPO plans",
-      "link": "https://spacenews.com/european-space-industry-watching-spacex-ipo-plans/",
-      "pubDate": "2026-05-27T11:33:29Z",
-      "snippet": "Space companies and investors in Europe are closely watching SpaceX\u2019s plans to go public, an event that could spur new investment in other companies.\nThe post European space industry watching SpaceX I...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Latvia sends mobile intercept units to Russian border in wake of drone incursions",
       "link": "https://www.defensenews.com/global/europe/2026/05/27/latvia-sends-mobile-intercept-units-to-russian-border-in-wake-of-drone-incursions/",
       "pubDate": "2026-05-27T08:06:03Z",
@@ -226,15 +316,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Nations opt for a mix of sovereign, bilateral, federated and commercial space capabilities",
-      "link": "https://spacenews.com/nations-opt-for-a-mix-of-sovereign-bilateral-federated-and-commercial-space-capabilities/",
-      "pubDate": "2026-05-27T07:28:52Z",
-      "snippet": "AMSTERDAM \u2013 European nations are adopting a mix of sovereign, bilateral, federated and dual-use commercial technologies to enhance military readiness. \u201cWhen we talk about sovereignty, independence, sa...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Pentagon spars with SpaceX over Starlink price hike during Iran war",
@@ -255,15 +336,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Australia starts \u2018high-risk\u2019 life extension of its submarine fleet",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/05/26/australia-starts-high-risk-life-extension-of-its-submarine-fleet/",
-      "pubDate": "2026-05-26T14:16:09Z",
-      "snippet": "The Australian National Audit Office (ANAO) has issued a damning verdict on Department of Defence planning for the life-extension program.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "AI-powered spectrometer chip shrinks lab technology to the size of a grain of sand",
       "link": "https://www.sciencedaily.com/releases/2026/05/260525000501.htm",
       "pubDate": "2026-05-26T13:09:27Z",
@@ -273,15 +345,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "India boosts drone warfare capability with compact missile",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/05/26/india-boosts-drone-warfare-capability-with-compact-missile/",
-      "pubDate": "2026-05-26T12:56:11Z",
-      "snippet": "Indian Defense Minister Rajnath Singh called the successful development trials a \u201cstrategic milestone\u201d toward self-reliance in defense.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Ordinary WiFi can now identify people with near perfect accuracy",
       "link": "https://www.sciencedaily.com/releases/2026/05/260522023127.htm",
       "pubDate": "2026-05-23T03:03:54Z",
@@ -289,42 +352,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "All-female Senate delegation sets off for High North amid growing military tensions",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/05/22/all-female-senate-delegation-sets-off-for-high-north-amid-growing-military-tensions/",
-      "pubDate": "2026-05-22T20:24:36Z",
-      "snippet": "The itinerary is set to include briefings at Pituffik Space Base in Greenland on Arctic defense and strategic competition in the region.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Marine Corps tests using helicopter as mobile drone command center",
-      "link": "https://www.defensenews.com/news/your-marine-corps/2026/05/22/us-marine-corps-tests-using-helicopter-as-mobile-drone-command-center/",
-      "pubDate": "2026-05-22T18:59:00Z",
-      "snippet": "During the test, troops launched a Neros Archer FPV drone from the ground before transferring control to operators aboard a helicopter orbiting miles away.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Congressional report tallies 42 US aircraft lost or damaged in Operation Epic Fury",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/05/22/congressional-report-tallies-42-us-aircraft-lost-or-damaged-in-operation-epic-fury/",
-      "pubDate": "2026-05-22T17:49:18Z",
-      "snippet": "Drones took the heaviest hit, accounting for 25 of the 42 aircraft losses listed in the report.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Libya and Syria join Turkey\u2019s flagship military exercise in historic firsts",
-      "link": "https://www.defensenews.com/global/europe/2026/05/22/libya-and-syria-join-turkeys-flagship-military-exercise-in-historic-firsts/",
-      "pubDate": "2026-05-22T15:26:06Z",
-      "snippet": "Ankara framed both nations\u2019 attendance as part of its broader military-restructuring and advisory programs in each country.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Ancient chemistry trick unlocks new type of glass that traps CO2 and hydrogen",
@@ -475,15 +502,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/03/260324024251.htm",
       "pubDate": "2026-03-25T03:53:24Z",
       "snippet": "Researchers have visualized atoms in motion just before a radiation-driven decay process occurs, revealing a surprisingly dynamic scene. Instead of remaining fixed, the atoms roam and rearrange, direc...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "A strange new quantum state appears when atoms get \u201cfrustrated\u201d",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260315225137.htm",
-      "pubDate": "2026-03-16T10:19:03Z",
-      "snippet": "Physicists at UC Santa Barbara have uncovered a new way to manipulate unusual magnetic states by exploiting \u201cfrustration\u201d inside a crystal\u2019s atomic structure. The team discovered a rare system where t...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
