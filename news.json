@@ -1,7 +1,142 @@
 {
-  "updated": "2026-05-29T13:52:25.778917Z",
-  "count": 56,
+  "updated": "2026-06-01T16:30:41.671098Z",
+  "count": 55,
   "items": [
+    {
+      "title": "Northrop Grumman partners with Apex on space-based interceptors for Golden Dome",
+      "link": "https://spacenews.com/northrop-grumman-partners-with-apex-on-space-based-interceptors-for-golden-dome/",
+      "pubDate": "2026-06-01T14:57:04Z",
+      "snippet": "The Los Angeles-based startup manufactures standardized satellite buses designed to be produced more quickly and at lower cost than traditional government spacecraft\nThe post Northrop Grumman partners...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Spaceport facility bonds are now law \u2013 and they fundamentally change space infrastructure finance",
+      "link": "https://spacenews.com/spaceport-facility-bonds-are-now-law-and-they-fundamentally-change-space-infrastructure-finance/",
+      "pubDate": "2026-06-01T13:00:00Z",
+      "snippet": "After more than three decades in public and project finance, I have learned that real inflection points in infrastructure development rarely announce themselves loudly. They usually arrive embedded in...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NASA\u2019s X-59 is about to break the sound barrier for the first time",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260601025338.htm",
+      "pubDate": "2026-06-01T11:48:14Z",
+      "snippet": "NASA\u2019s futuristic X-59 jet is about to face its biggest challenge yet: breaking the sound barrier for the first time. After a successful series of test flights that pushed the aircraft to near-superso...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Poland spends $16.5 billion in EU-backed loans on heavy army weapons",
+      "link": "https://www.defensenews.com/global/europe/2026/06/01/poland-spends-165-billion-in-eu-backed-loans-on-heavy-army-weapons/",
+      "pubDate": "2026-06-01T11:11:44Z",
+      "snippet": "Amid political infighting over the funding mechanism, the government has  tapped local companies to make fighting vehicles, howitzers and ammunition.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "China conducts surprise launch of Long March 12B, delivers Qianfan satellites on debut flight",
+      "link": "https://spacenews.com/china-conducts-surprise-launch-of-long-march-12b-delivers-qianfan-satellites-on-debut-flight/",
+      "pubDate": "2026-06-01T10:43:39Z",
+      "snippet": "China conducted the maiden launch of its reusable Long March 12B rocket Monday, providing no advance warning and delivering operational payloads to orbit.\nThe post China conducts surprise launch of Lo...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "New Glenn failure worsens constrained launch market",
+      "link": "https://spacenews.com/new-glenn-failure-worsens-constrained-launch-market/",
+      "pubDate": "2026-06-01T09:46:33Z",
+      "snippet": "The explosion of a New Glenn rocket has generated reverberations across the space industry with the rocket out of service for potentially a year or more.\nThe post New Glenn failure worsens constrained...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "China launches test direct-to-device satellites for multiple projects",
+      "link": "https://spacenews.com/china-launches-test-direct-to-device-satellites-for-multiple-projects/",
+      "pubDate": "2026-06-01T09:37:01Z",
+      "snippet": "China capped a busy month of launches by sending four new satellite internet test satellites into orbit with a workhorse hypergolic rocket.\nThe post China launches test direct-to-device satellites for...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "This strange crystal acts like metal and glass at the same time",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260601025322.htm",
+      "pubDate": "2026-06-01T07:25:09Z",
+      "snippet": "A remarkable crystal called molybdenum oxychloride could help make futuristic technologies like smart contact lenses and ultrathin AR glasses a reality. Scientists have created the first detailed expe...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "FAA documents outline SpaceX plans for Starfall reentry vehicles",
+      "link": "https://spacenews.com/faa-documents-outline-spacex-plans-for-starfall-reentry-vehicles/",
+      "pubDate": "2026-05-31T09:26:19Z",
+      "snippet": "Federal Aviation Administration documents have provided new details about a SpaceX project to develop and test reentry vehicles that could be used to support in-space manufacturing projects.\nThe post ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Blue Origin gets national security launch task order hours before New Glenn explosion",
+      "link": "https://spacenews.com/blue-origin-gets-national-security-launch-task-order-hours-before-new-glenn-explosion/",
+      "pubDate": "2026-05-30T21:06:37Z",
+      "snippet": "U.S. Space Force, National Reconnaissance Office \u2018remain committed partners with Blue Origin\u2019\nThe post Blue Origin gets national security launch task order hours before New Glenn explosion appeared fi...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "How Russia is turning Ukraine\u2019s drones against NATO",
+      "link": "https://www.defensenews.com/global/europe/2026/05/29/how-russia-is-turning-ukraines-drones-against-nato/",
+      "pubDate": "2026-05-29T23:36:27Z",
+      "snippet": "A Russian drone wounded two civilians in Romania on Friday, days after Lithuania detailed how Moscow is also steering Ukraine's drones onto allied soil.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Navy to explore powering shore installations with aircraft carriers",
+      "link": "https://www.defensenews.com/news/your-military/2026/05/29/us-navy-to-explore-powering-shore-installations-with-aircraft-carriers/",
+      "pubDate": "2026-05-29T17:26:16Z",
+      "snippet": "Acting Navy Secretary Hung Cao revealed that Naval Station Norfolk will be \u201cpowered from an aircraft carrier\" sometime this summer.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking",
+      "link": "https://spacenews.com/space-force-awards-spacex-4-16-billion-to-build-satellite-network-for-airborne-target-tracking/",
+      "pubDate": "2026-05-29T16:52:57Z",
+      "snippet": "The low-orbit satellite constellation is intended to track aircraft, cruise missiles and other airborne threats\nThe post Space Force awards SpaceX $4.16 billion to build satellite network for airborne...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "China is building launch pads near its nuclear missile silos",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/05/29/china-is-building-launch-pads-near-its-nuclear-missile-silos/",
+      "pubDate": "2026-05-29T15:02:15Z",
+      "snippet": "China\u2019s nuclear missiles can reach any U.S. city. Now, satellite images show Beijing is building a sprawling web of military sites near its nuclear silos.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Space Force\u2019s commercial gatekeeper offers a playbook for startups seeking defense business",
+      "link": "https://spacenews.com/space-forces-commercial-gatekeeper-offers-a-playbook-for-startups-seeking-defense-business/",
+      "pubDate": "2026-05-29T14:53:49Z",
+      "snippet": "COMSO chief Col. Tim Trimailo says transparency, patience and a clear military value proposition matter as much as technical innovation\nThe post Space Force\u2019s commercial gatekeeper offers a playbook f...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Romania says Russian drone hit apartment block, NATO vows to defend alliance territory",
       "link": "https://www.defensenews.com/global/europe/2026/05/29/romania-says-russian-drone-hit-apartment-block-nato-vows-to-defend-alliance-territory/",
@@ -183,15 +318,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "Europe\u2019s biggest space opportunity comes after launch",
-      "link": "https://spacenews.com/europes-biggest-space-opportunity-comes-after-launch/",
-      "pubDate": "2026-05-28T10:00:00Z",
-      "snippet": "At most major European space summits, the sovereignty debate has long been overshadowed by talk of launchers, constellations and the symbolism of a national presence. On the sidelines, however, the [&...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Canada wants Saab early-warning aircraft under push to retool defense suppliers",
       "link": "https://www.defensenews.com/air/2026/05/28/canada-wants-saab-early-warning-aircraft-under-push-to-retool-defense-suppliers/",
       "pubDate": "2026-05-28T09:12:15Z",
@@ -199,33 +325,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Virgin Galactic returns Unity to flight to prepare for next-generation spaceplane",
-      "link": "https://spacenews.com/virgin-galactic-returns-unity-to-flight-to-prepare-for-next-generation-spaceplane/",
-      "pubDate": "2026-05-28T06:22:42Z",
-      "snippet": "The Virgin Galactic spaceplane used for the company\u2019s first commercial flights has returned to service to train its pilots for its next-generation spacecraft.\nThe post Virgin Galactic returns Unity to...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "FAA requires mishap investigation into latest Starship launch",
-      "link": "https://spacenews.com/faa-requires-mishap-investigation-into-latest-starship-launch/",
-      "pubDate": "2026-05-28T04:06:52Z",
-      "snippet": "The Federal Aviation Administration will require SpaceX to complete an investigation into its latest Starship test flight before allowing the vehicle to fly again.\nThe post FAA requires mishap investi...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "House Armed Services draft bill eliminates SDA, Space RCO as separate entities",
-      "link": "https://spacenews.com/house-armed-services-draft-bill-eliminates-sda-space-rco-as-separate-entities/",
-      "pubDate": "2026-05-27T22:30:22Z",
-      "snippet": "HASC 2027 NDAA supports realignment of the Space Development Agency and the Space Rapid Capabilities Office under a portfolio-based acquisition structure\nThe post House Armed Services draft bill elimi...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Pentagon eyes drone testing ground in Mississippi",
@@ -241,96 +340,6 @@
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/05/27/us-munitions-depleted-by-iran-war-will-take-years-to-restore-analysis-finds/",
       "pubDate": "2026-05-27T19:44:52Z",
       "snippet": "Replenishing stockpiles of critical weapons systems could take until 2030 or 2031, creating a \"window of vulnerability,\" a new analysis found.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "How US Army combat medics are preparing for an Indo-Pacific fight",
-      "link": "https://www.defensenews.com/news/your-military/2026/05/27/how-us-army-combat-medics-are-preparing-for-an-indo-pacific-fight/",
-      "pubDate": "2026-05-27T19:07:54Z",
-      "snippet": "Distance, contested air, communication disruptions, weather and limited evacuation platforms could greatly impact timely access to medical care.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Mars to Titan: the next rallying call?",
-      "link": "https://spacenews.com/mars-to-titan-the-next-rallying-call/",
-      "pubDate": "2026-05-27T17:11:27Z",
-      "snippet": "Where will humans go after Mars? Is Mars the end of the line or is it a steppingstone to somewhere else? If we \u201cmoon-to-Mars,\u201d do we then \u201cMars-to-somewhere else?\u201d These [&#8230;]\nThe post Mars to Tit...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "US Army receives first lightweight Javelin launchers",
-      "link": "https://www.defensenews.com/news/your-military/2026/05/27/us-army-receives-first-lightweight-javelin-launchers/",
-      "pubDate": "2026-05-27T17:07:00Z",
-      "snippet": "The U.S. Army has received its first batch of new, lighter Javelin launchers, defense contractor RTX announced in a statement Tuesday.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "European space industry warns EU Space Act could slow competitiveness",
-      "link": "https://spacenews.com/european-space-industry-warns-eu-space-act-could-slow-competitiveness/",
-      "pubDate": "2026-05-27T16:34:00Z",
-      "snippet": "AMSTERDAM &#8211; European industry representatives and legal experts are worried that the EU Space Act is too slow, too rigid and too bureaucratic. Speaking at SmallSat Europe, panelists said they [&...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "As geopolitics reshape space, SpinLaunch sees an opening",
-      "link": "https://spacenews.com/as-geopolitics-reshape-space-spinlaunch-sees-an-opening/",
-      "pubDate": "2026-05-27T16:00:00Z",
-      "snippet": "SpinLaunch CEO Massimiliano \u201cMassi\u201d Ladovaz paints an ambitious picture of a rapidly shifting space industry driven as much by geopolitics and sovereignty as by engineering innovation. Ladovaz argued ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Kongsberg NanoAvionics sets sights on building and supporting sovereign constellations",
-      "link": "https://spacenews.com/kongsberg-nanoavionics-sets-sights-on-building-and-supporting-sovereign-constellations/",
-      "pubDate": "2026-05-27T15:47:09Z",
-      "snippet": "NanoAvionics, founded in 2014, was known for producing individual satellites and small constellations until April 2025, when the company won a 122.5-million-euro contract ($142 million) to build the i...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Former Ukraine official calls for stricter restrictions on Russian use of Starlink",
-      "link": "https://spacenews.com/former-ukraine-official-calls-for-stricter-restrictions-on-russian-use-of-starlink/",
-      "pubDate": "2026-05-27T15:34:19Z",
-      "snippet": "AMSTERDAM \u2013 A former senior Ukrainian defense official called on SpaceX to tighten controls on Starlink terminals that she said are reaching Russian forces through third-party countries or intermediar...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Latvia sends mobile intercept units to Russian border in wake of drone incursions",
-      "link": "https://www.defensenews.com/global/europe/2026/05/27/latvia-sends-mobile-intercept-units-to-russian-border-in-wake-of-drone-incursions/",
-      "pubDate": "2026-05-27T08:06:03Z",
-      "snippet": "\u201cThe force teams we plan to deploy to the border in the coming days will be equipped with local interceptor drones,\u201d a Latvian military official said.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon spars with SpaceX over Starlink price hike during Iran war",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/05/26/pentagon-spars-with-spacex-over-starlink-price-hike-during-iran-war/",
-      "pubDate": "2026-05-26T19:19:53Z",
-      "snippet": "The Pentagon should be paying more for access to their satellite Wi-Fi network, SpaceX officials argues.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US launches \u2018self-defense\u2019 strikes against Iran amid ongoing ceasefire",
-      "link": "https://www.defensenews.com/news/your-navy/2026/05/26/us-launches-self-defense-strikes-against-iran-amid-ongoing-ceasefire/",
-      "pubDate": "2026-05-26T19:02:11Z",
-      "snippet": "The U.S. military conducted military strikes Monday against Iranian missile launch sites and boats it said were attempting to lay mines.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -484,24 +493,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/04/260409101104.htm",
       "pubDate": "2026-04-10T13:03:47Z",
       "snippet": "Perovskite solar cells shouldn\u2019t work as well as they do\u2014but they do. Scientists have now discovered that defects inside the material actually help, creating networks that separate and guide electric ...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Stanford scientists create shape-shifting material that changes color and texture like an octopus",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260330001140.htm",
-      "pubDate": "2026-03-31T08:49:34Z",
-      "snippet": "A new shape-shifting material can change both its texture and color in seconds, inspired by the camouflage abilities of octopuses. By precisely controlling how a polymer swells with water, researchers...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "First ever atomic movie reveals hidden driver of radiation damage",
-      "link": "https://www.sciencedaily.com/releases/2026/03/260324024251.htm",
-      "pubDate": "2026-03-25T03:53:24Z",
-      "snippet": "Researchers have visualized atoms in motion just before a radiation-driven decay process occurs, revealing a surprisingly dynamic scene. Instead of remaining fixed, the atoms roam and rearrange, direc...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
