@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-01T16:30:41.671098Z",
-  "count": 55,
+  "updated": "2026-06-02T14:40:41.374150Z",
+  "count": 53,
   "items": [
+    {
+      "title": "The importance of determining an equilibrium state for space traffic management",
+      "link": "https://spacenews.com/the-importance-of-determining-an-equilibrium-state-for-space-traffic-management/",
+      "pubDate": "2026-06-02T13:00:00Z",
+      "snippet": "The rapid expansion of human and robotic activity in low Earth orbit makes critically important the need to implement effective space traffic management (STM). This will be one of the [&#8230;]\nThe po...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "UK explores Vast space station mission for astronaut with physical disability",
+      "link": "https://spacenews.com/uk-explores-vast-space-station-mission-for-astronaut-with-physical-disability/",
+      "pubDate": "2026-06-02T12:25:40Z",
+      "snippet": "The U.K. government is exploring sending British astronaut John McFall to Vast\u2019s planned Haven-1 space station in a mission it says could make him the first person with a physical disability to live i...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Impulse Space raises $500 million",
+      "link": "https://spacenews.com/impulse-space-raises-500-million/",
+      "pubDate": "2026-06-02T12:11:05Z",
+      "snippet": "Impulse Space has raised $500 million to expand production of orbital transfer vehicles and other spacecraft to support growing commercial and government demand.\nThe post Impulse Space raises $500 mil...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Voyager to acquire lunar lander developer Astrobotic",
+      "link": "https://spacenews.com/voyager-to-acquire-lunar-lander-developer-astrobotic/",
+      "pubDate": "2026-06-02T11:54:21Z",
+      "snippet": "Voyager Technologies will acquire Astrobotic, a company developing lunar landers and reusable suborbital vehicles, in a deal worth up to $300 million.\nThe post Voyager to acquire lunar lander develope...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Researchers call for regulations to protect low Earth orbit environment",
+      "link": "https://spacenews.com/researchers-call-for-regulations-to-protect-low-earth-orbit-environment/",
+      "pubDate": "2026-06-02T11:00:00Z",
+      "snippet": "BOULDER, Colorado \u2014 Researchers are calling for increased attention and better protection against the rising introduction of exotic materials into Earth\u2019s atmosphere from satellite and space hardware ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NASA abandons \u2018core module\u2019 concept for commercial space station development",
+      "link": "https://spacenews.com/nasa-abandons-core-module-concept-for-commercial-space-station-development/",
+      "pubDate": "2026-06-02T07:51:59Z",
+      "snippet": "NASA is withdrawing a proposal to revamp its strategy for transitioning from the International Space Station to commercial stations, one that had been criticized by the companies developing such stati...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "New light-powered chip could accelerate AI and quantum computing",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
+      "pubDate": "2026-06-02T04:30:26Z",
+      "snippet": "Scientists have created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough u...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "France to fly two astronauts on Vast missions",
+      "link": "https://spacenews.com/france-to-fly-two-astronauts-on-vast-missions/",
+      "pubDate": "2026-06-02T01:05:03Z",
+      "snippet": "Commercial space station developer Vast has reached an agreement with the French government to fly two French astronauts on its missions, including the first flight to its Haven-1 space station.\nThe p...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Pentagon chief sounds \u2018alarm\u2019 over China\u2019s buildup, urges allies to boost defense spending",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/06/01/pentagon-chief-sounds-alarm-over-chinas-buildup-urges-allies-to-boost-defense-spending/",
+      "pubDate": "2026-06-01T22:06:11Z",
+      "snippet": "Hegseth urged Asian allies to ramp up military spending to counter China\u2019s growing power.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US military seeks cultural advisors in Somalia amid regional strikes",
+      "link": "https://www.defensenews.com/news/your-military/2026/06/01/us-military-seeks-cultural-advisors-in-somalia-amid-regional-strikes/",
+      "pubDate": "2026-06-01T16:36:26Z",
+      "snippet": "The U.S. special operations task force in Somalia is looking for contractors to advise troops on Somali politics, culture and tribal dynamics.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Northrop Grumman partners with Apex on space-based interceptors for Golden Dome",
       "link": "https://spacenews.com/northrop-grumman-partners-with-apex-on-space-based-interceptors-for-golden-dome/",
@@ -219,24 +309,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Space Force plans nationwide network of \u2018resilient operations centers\u2019",
-      "link": "https://spacenews.com/space-force-plans-nationwide-network-of-resilient-operations-centers/",
-      "pubDate": "2026-05-28T22:55:11Z",
-      "snippet": "These facilities are intended to ensure military space missions can continue during wartime when installations could come under attack\nThe post Space Force plans nationwide network of \u2018resilient opera...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Observable Space raises $90 million and wins Space Force contract for optical systems",
-      "link": "https://spacenews.com/observable-space-raises-90-million-and-wins-space-force-contract-for-optical-systems/",
-      "pubDate": "2026-05-28T22:12:14Z",
-      "snippet": "Observable Space, a company that develops optical systems for laser communications and space domain awareness, has raised $90 million and secured a U.S. Space Force contract.\nThe post Observable Space...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "US Army turns resupply drone into rocket launcher in new test",
       "link": "https://www.defensenews.com/news/your-military/2026/05/28/army-turns-resupply-drone-into-rocket-launcher-in-new-test/",
       "pubDate": "2026-05-28T18:11:19Z",
@@ -246,64 +318,10 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Setting up a permanent lunar presence needs investment in biology",
-      "link": "https://spacenews.com/setting-up-a-permanent-lunar-presence-needs-investment-in-biology/",
-      "pubDate": "2026-05-28T17:12:36Z",
-      "snippet": "In December 1972, Gene Cernan and Harrison Schmitt spent 75 hours on the lunar surface during Apollo 17. They drove a rover, conducted three spacewalks and collected samples across the [&#8230;]\nThe p...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Revolv Space enters in-orbit servicing market with Infinite Orbits deal",
-      "link": "https://spacenews.com/revolv-space-enters-in-orbit-servicing-market-with-infinite-orbits-deal/",
-      "pubDate": "2026-05-28T16:06:02Z",
-      "snippet": "WARSAW, Poland \u2014 The Italian-Dutch company Revolv Space has announced that French in-orbit services provider Infinite Orbits has selected its Solar Array Drive Assemblies (SADAs), the devices used to ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Lithuania to buy Patria armored vehicles, eyes local industry share",
       "link": "https://www.defensenews.com/global/europe/2026/05/28/lithuania-to-buy-patria-armored-vehicles-eyes-local-industry-share/",
       "pubDate": "2026-05-28T15:23:54Z",
       "snippet": "A contract is expected to be signed with the Finnish producer in 2027.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Germany pushes European military space command initiative",
-      "link": "https://spacenews.com/germany-pushes-european-military-space-command-initiative/",
-      "pubDate": "2026-05-28T15:02:40Z",
-      "snippet": "AMSTERDAM \u2014 A senior German military official said Europe needs a coordinated approach to military space operations and proposed the creation of a European Space Component Command hosted by Germany [&...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "CEO Series: Lux Aeterna\u2019s Brian Taylor on what\u2019s next for on-orbit servicing",
-      "link": "https://spacenews.com/ceo-series-lux-aeternas-brian-taylor-on-whats-next-for-on-orbit-servicing/",
-      "pubDate": "2026-05-28T14:41:22Z",
-      "snippet": "In this episode of Space Minds, David Ariosto talks with Lux Aeterna CEO Brian Taylor about the problems with disposable satellites and the use for on-orbit servicing. Sponsored by Arcfield [&#8230;]\n...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "The Propulsion Imperative Behind Golden Dome",
-      "link": "https://spacenews.com/the-propulsion-imperative-behind-golden-dome/",
-      "pubDate": "2026-05-28T13:26:54Z",
-      "snippet": "Missile defense has traditionally been framed around detection, tracking and interception. Golden Dome changes that calculus, broadening the focus to the entire distributed infrastructure enabling the...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "US troops are reportedly being targeted using location data, Pentagon says",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/05/28/us-troops-are-reportedly-being-targeted-using-location-data-pentagon-says/",
-      "pubDate": "2026-05-28T12:15:57Z",
-      "snippet": "U.S. forces deployed to war zones have been targeted using commercially available location data, according to reports fielded by\u00a0military\u00a0officials.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -316,33 +334,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Canada wants Saab early-warning aircraft under push to retool defense suppliers",
-      "link": "https://www.defensenews.com/air/2026/05/28/canada-wants-saab-early-warning-aircraft-under-push-to-retool-defense-suppliers/",
-      "pubDate": "2026-05-28T09:12:15Z",
-      "snippet": "Prime Minister Mark Carney has pledged to diversify and localize defense production following continued threats by U.S. President Trump.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon eyes drone testing ground in Mississippi",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/05/27/pentagon-eyes-drone-testing-ground-in-mississippi/",
-      "pubDate": "2026-05-27T21:42:29Z",
-      "snippet": "U.S. Special Operations Command is looking to build a new testing ground for drones in Mississippi.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US munitions depleted by Iran war will take years to restore, analysis finds",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/05/27/us-munitions-depleted-by-iran-war-will-take-years-to-restore-analysis-finds/",
-      "pubDate": "2026-05-27T19:44:52Z",
-      "snippet": "Replenishing stockpiles of critical weapons systems could take until 2030 or 2031, creating a \"window of vulnerability,\" a new analysis found.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "AI-powered spectrometer chip shrinks lab technology to the size of a grain of sand",
@@ -484,15 +475,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/04/260409101109.htm",
       "pubDate": "2026-04-10T13:43:52Z",
       "snippet": "Scientists have proposed a surprising new way to detect gravitational waves\u2014by observing how they change the light emitted by atoms. These waves can subtly shift photon frequencies in different direct...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "These cheap solar cells work better because they\u2019re flawed",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260409101104.htm",
-      "pubDate": "2026-04-10T13:03:47Z",
-      "snippet": "Perovskite solar cells shouldn\u2019t work as well as they do\u2014but they do. Scientists have now discovered that defects inside the material actually help, creating networks that separate and guide electric ...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
