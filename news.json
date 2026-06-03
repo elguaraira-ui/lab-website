@@ -1,7 +1,97 @@
 {
-  "updated": "2026-06-02T14:40:41.374150Z",
-  "count": 53,
+  "updated": "2026-06-03T15:24:06.309224Z",
+  "count": 51,
   "items": [
+    {
+      "title": "Electronics manufacturer Murata to explore Xona satellite timing service for telecom, data centers",
+      "link": "https://spacenews.com/electronics-manufacturer-murata-to-explore-xona-satellite-timing-service-for-telecom-data-centers/",
+      "pubDate": "2026-06-03T15:19:56Z",
+      "snippet": "Xona is developing a low Earth orbit network to provide backup to GPS-dependent systems\nThe post Electronics manufacturer Murata to explore Xona satellite timing service for telecom, data centers appe...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Gulf tensions escalate as Iran hits Kuwait, US strikes near Hormuz",
+      "link": "https://www.defensenews.com/news/your-military/2026/06/03/gulf-tensions-escalate-as-iran-hits-kuwait-us-strikes-near-hormuz/",
+      "pubDate": "2026-06-03T15:09:44Z",
+      "snippet": "CENTCOM said it had carried out a new round of defensive strikes in southern Iran, while an Iranian drone attack on the Kuwait airport killed one person.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Europe is rearming together \u2014 except in space",
+      "link": "https://spacenews.com/europe-is-rearming-together-except-in-space/",
+      "pubDate": "2026-06-03T13:00:00Z",
+      "snippet": "Europe is rapidly rewriting its security architecture. Faced with Russian aggression, mounting doubts about long-term American commitment and growing pressure to shoulder more of its own defense burde...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Muon Space unveils Starship-class satellite platform for orbital data centers",
+      "link": "https://spacenews.com/muon-space-unveils-starship-class-satellite-platform-for-orbital-data-centers/",
+      "pubDate": "2026-06-03T11:39:41Z",
+      "snippet": "Muon Space announced a Starship-class satellite platform June 3 designed from the ground up to meet the demands of the emerging orbital data center market, with an initial launch slated for 2028 after...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "At a NATO range in Latvia, hits and misses mark Europe\u2019s counter-drone journey",
+      "link": "https://www.defensenews.com/global/europe/2026/06/03/at-a-nato-range-in-latvia-hits-and-misses-mark-europes-counter-drone-journey/",
+      "pubDate": "2026-06-03T11:33:30Z",
+      "snippet": "Drone technology is \u201ca couple of steps ahead\u201d of countermeasures, one officer said, with interceptors having to work every time to prevent losses.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Blue Origin seeks to resume New Glenn launches by year\u2019s end",
+      "link": "https://spacenews.com/blue-origin-seeks-to-resume-new-glenn-launches-by-years-end/",
+      "pubDate": "2026-06-03T10:39:28Z",
+      "snippet": "Blue Origin\u2019s CEO says damage to its New Glenn launch pad is not as bad as feared and the rocket could return to flight by the end of the year.\nThe post Blue Origin seeks to resume New Glenn launches ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "The US military wants to showcase battle-ready laser weapons by 2028",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/06/02/the-us-military-wants-to-showcase-battle-ready-laser-weapons-by-2028/",
+      "pubDate": "2026-06-02T23:46:29Z",
+      "snippet": "A directed energy demonstration is expected to occur during the summer of 2028, as part of a series of planned Golden Dome-related events.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "NRO nominee says commercial space, AI are reshaping spy satellite agency",
+      "link": "https://spacenews.com/nro-nominee-says-commercial-space-ai-are-reshaping-spy-satellite-agency/",
+      "pubDate": "2026-06-02T22:22:44Z",
+      "snippet": "In a confirmation hearing, Roger Mason said clear government demand signals are needed as private investment transforms the space intelligence market\nThe post NRO nominee says commercial space, AI are...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety",
+      "link": "https://spacenews.com/global-ssa-market-to-reach-61b-as-governments-prioritize-space-security-resilience-and-orbital-safety/",
+      "pubDate": "2026-06-02T15:11:48Z",
+      "snippet": "Paris, France \u2013 May 2026 \u2013 The 2nd edition of Novaspace\u2019s Space Situational Awareness (SSA) report points to a pivotal decade ahead, with cumulative global spending projected to reach $61 [&#8230;]\nTh...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Navy selects companies for at-sea MUSV prototype testing",
+      "link": "https://www.defensenews.com/news/your-navy/2026/06/02/us-navy-selects-companies-for-at-sea-musv-prototype-testing/",
+      "pubDate": "2026-06-02T14:45:07Z",
+      "snippet": "The U.S. Navy announced on Friday that it had selected seven companies to compete to secure the service\u2019s Medium Unmanned Surface Vessel contract.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "The importance of determining an equilibrium state for space traffic management",
       "link": "https://spacenews.com/the-importance-of-determining-an-equilibrium-state-for-space-traffic-management/",
@@ -201,15 +291,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Space Force awards SpaceX $4.16 billion to build satellite network for airborne target tracking",
-      "link": "https://spacenews.com/space-force-awards-spacex-4-16-billion-to-build-satellite-network-for-airborne-target-tracking/",
-      "pubDate": "2026-05-29T16:52:57Z",
-      "snippet": "The low-orbit satellite constellation is intended to track aircraft, cruise missiles and other airborne threats\nThe post Space Force awards SpaceX $4.16 billion to build satellite network for airborne...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "China is building launch pads near its nuclear missile silos",
       "link": "https://www.defensenews.com/global/asia-pacific/2026/05/29/china-is-building-launch-pads-near-its-nuclear-missile-silos/",
       "pubDate": "2026-05-29T15:02:15Z",
@@ -219,109 +300,10 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Space Force\u2019s commercial gatekeeper offers a playbook for startups seeking defense business",
-      "link": "https://spacenews.com/space-forces-commercial-gatekeeper-offers-a-playbook-for-startups-seeking-defense-business/",
-      "pubDate": "2026-05-29T14:53:49Z",
-      "snippet": "COMSO chief Col. Tim Trimailo says transparency, patience and a clear military value proposition matter as much as technical innovation\nThe post Space Force\u2019s commercial gatekeeper offers a playbook f...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Romania says Russian drone hit apartment block, NATO vows to defend alliance territory",
       "link": "https://www.defensenews.com/global/europe/2026/05/29/romania-says-russian-drone-hit-apartment-block-nato-vows-to-defend-alliance-territory/",
       "pubDate": "2026-05-29T13:44:06Z",
       "snippet": "\u201cI affirmed that NATO stands ready to defend every inch of Allied territory,\u201d NATO Secretary General Mark Rutte said on X.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Bellatrix and TelePIX plan 2028 air-breathing VLEO imaging demonstration",
-      "link": "https://spacenews.com/bellatrix-and-telepix-plan-2028-air-breathing-vleo-imaging-demonstration/",
-      "pubDate": "2026-05-29T13:36:35Z",
-      "snippet": "South Korean optical payload developer TelePIX and Indian propulsion specialist Bellatrix Aerospace have teamed up on a very low Earth orbit geospatial demonstration mission slated for 2028.\nThe post ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "New Zealand budget spares defense, intelligence agencies from cuts",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/05/29/new-zealand-budget-spares-defense-intelligence-agencies-from-cuts/",
-      "pubDate": "2026-05-29T12:05:35Z",
-      "snippet": "\u201cThe rules-based global system is under strain. Countries are boosting their spending on defense,\" said Finance Minister Nicola Willis.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon looks to reinvent the bunker-buster bomb",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/05/29/pentagon-looks-to-reinvent-the-bunker-buster-bomb/",
-      "pubDate": "2026-05-29T12:00:01Z",
-      "snippet": "The goal is to go beyond the traditional brute-force approach of giant bombs and instead manipulate shock waves to destroy targets.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Spatial data has become a weapon of war in the US-Iran war",
-      "link": "https://spacenews.com/spatial-data-has-become-a-weapon-of-war-in-the-us-iran-war/",
-      "pubDate": "2026-05-29T12:00:00Z",
-      "snippet": "We are in the geospatial era of warfare in which information derived from satellites is as strategically critical as territorial control. The progressive dissolution of the distinction between the civ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Quad nations step up Indo-Pacific push with new initiatives",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/05/29/quad-nations-step-up-indo-pacific-push-with-new-initiatives/",
-      "pubDate": "2026-05-29T10:47:27Z",
-      "snippet": "The announcement to build port infrastructure in Fiji comes amid China\u2019s deepening ties with the South Pacific island, which straddles vital sea lanes.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "China\u2019s latest batch of new and reusable rockets are close to launch",
-      "link": "https://spacenews.com/chinas-latest-batch-of-new-and-reusable-rockets-are-close-to-launch/",
-      "pubDate": "2026-05-29T09:38:40Z",
-      "snippet": "A number of new Chinese state-led and commercial rockets are set for debuts and fresh first stage recovery attempts in the coming weeks and months.\nThe post China\u2019s latest batch of new and reusable ro...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "At French Army FPV competition, NATO soldiers race drones and swap tips",
-      "link": "https://www.defensenews.com/global/europe/2026/05/29/at-french-army-fpv-competition-nato-soldiers-race-drones-and-swap-tips/",
-      "pubDate": "2026-05-29T08:58:06Z",
-      "snippet": "\u201cWhen I put on the mask, I no longer exist in this reality,\u201d Chief Cpl. Cl\u00e9ment said after completing the course.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "New Glenn rocket explodes on Cape Canaveral pad",
-      "link": "https://spacenews.com/new-glenn-rocket-explodes-on-cape-canaveral-pad/",
-      "pubDate": "2026-05-29T06:00:15Z",
-      "snippet": "A Blue Origin New Glenn rocket exploded on its launch pad at Cape Canaveral, Florida, during a May 28 hotfire test, destroying the rocket and causing extensive pad damage.\nThe post New Glenn rocket ex...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "US Army turns resupply drone into rocket launcher in new test",
-      "link": "https://www.defensenews.com/news/your-military/2026/05/28/army-turns-resupply-drone-into-rocket-launcher-in-new-test/",
-      "pubDate": "2026-05-28T18:11:19Z",
-      "snippet": "Though the drone was designed to haul supplies across the battlefield, the Army recently tried turning it into a rocket launcher.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Lithuania to buy Patria armored vehicles, eyes local industry share",
-      "link": "https://www.defensenews.com/global/europe/2026/05/28/lithuania-to-buy-patria-armored-vehicles-eyes-local-industry-share/",
-      "pubDate": "2026-05-28T15:23:54Z",
-      "snippet": "A contract is expected to be signed with the Finnish producer in 2027.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
