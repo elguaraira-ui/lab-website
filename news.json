@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-03T15:24:06.309224Z",
-  "count": 51,
+  "updated": "2026-06-04T13:51:19.795714Z",
+  "count": 49,
   "items": [
+    {
+      "title": "NASA working to streamline development of nuclear electric propulsion demo mission",
+      "link": "https://spacenews.com/nasa-working-to-streamline-development-of-nuclear-electric-propulsion-demo-mission/",
+      "pubDate": "2026-06-04T10:55:56Z",
+      "snippet": "NASA is working on a streamlined management approach for a nuclear electric propulsion demonstration mission the agency wants to launch in two and a half years.\nThe post NASA working to streamline dev...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "China builds institutional framework for space computing push",
+      "link": "https://spacenews.com/china-builds-institutional-framework-for-space-computing-push/",
+      "pubDate": "2026-06-04T09:51:01Z",
+      "snippet": "China is establishing an industrial policy framework to support a push to build space-based computing infrastructure, with the emergence of influential coordinating bodies.\nThe post China builds insti...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "SpaceX to raise at least $75 billion in IPO",
+      "link": "https://spacenews.com/spacex-to-raise-at-least-75-billion-in-ipo/",
+      "pubDate": "2026-06-04T02:54:32Z",
+      "snippet": "SpaceX plans to raise at least $75 billion in its initial public offering, valuing the company at more than $1.75 trillion.\nThe post SpaceX to raise at least $75 billion in IPO appeared first on Space...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NASA declares end to MAVEN Mars mission",
+      "link": "https://spacenews.com/nasa-declares-end-to-maven-mars-mission/",
+      "pubDate": "2026-06-04T00:20:49Z",
+      "snippet": "NASA has formally ended a Mars mission that has been out of contact for six months while the investigation into the spacecraft\u2019s demise continues.\nThe post NASA declares end to MAVEN Mars mission appe...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "AST SpaceMobile sees New Glenn setback delaying initial commercial service into 2027",
+      "link": "https://spacenews.com/ast-spacemobile-sees-new-glenn-setback-delaying-initial-commercial-service-into-2027/",
+      "pubDate": "2026-06-03T21:12:58Z",
+      "snippet": "AST SpaceMobile expects Blue Origin\u2019s recent launchpad explosion will delay its direct-to-smartphone constellation by three to six months, investment bank William Blair said in an equity research note...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "After cooperation on SMILE mission, ESA and China chart parallel but separate paths",
+      "link": "https://spacenews.com/after-cooperation-on-smile-mission-esa-and-china-chart-parallel-but-separate-paths/",
+      "pubDate": "2026-06-03T18:20:34Z",
+      "snippet": "ESA and China recently launched the joint SMILE magnetosphere mission after a decade of cooperation, but despite similar goals, another collaboration appears distant.\nThe post After cooperation on SMI...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Lockheed\u2019s GRIZZLY C-UAS system downs attack drone in live-fire demo",
+      "link": "https://www.defensenews.com/news/your-military/2026/06/03/lockheeds-grizzly-c-uas-system-downs-attack-drone-in-live-fire-demo/",
+      "pubDate": "2026-06-03T15:34:13Z",
+      "snippet": "The live-fire demonstration paired the radars, Sanctum software and launcher to destroy the target at Yuma Proving Ground, Arizona.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Electronics manufacturer Murata to explore Xona satellite timing service for telecom, data centers",
       "link": "https://spacenews.com/electronics-manufacturer-murata-to-explore-xona-satellite-timing-service-for-telecom-data-centers/",
@@ -192,15 +255,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Spaceport facility bonds are now law \u2013 and they fundamentally change space infrastructure finance",
-      "link": "https://spacenews.com/spaceport-facility-bonds-are-now-law-and-they-fundamentally-change-space-infrastructure-finance/",
-      "pubDate": "2026-06-01T13:00:00Z",
-      "snippet": "After more than three decades in public and project finance, I have learned that real inflection points in infrastructure development rarely announce themselves loudly. They usually arrive embedded in...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "NASA\u2019s X-59 is about to break the sound barrier for the first time",
       "link": "https://www.sciencedaily.com/releases/2026/06/260601025338.htm",
       "pubDate": "2026-06-01T11:48:14Z",
@@ -219,33 +273,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "China conducts surprise launch of Long March 12B, delivers Qianfan satellites on debut flight",
-      "link": "https://spacenews.com/china-conducts-surprise-launch-of-long-march-12b-delivers-qianfan-satellites-on-debut-flight/",
-      "pubDate": "2026-06-01T10:43:39Z",
-      "snippet": "China conducted the maiden launch of its reusable Long March 12B rocket Monday, providing no advance warning and delivering operational payloads to orbit.\nThe post China conducts surprise launch of Lo...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "New Glenn failure worsens constrained launch market",
-      "link": "https://spacenews.com/new-glenn-failure-worsens-constrained-launch-market/",
-      "pubDate": "2026-06-01T09:46:33Z",
-      "snippet": "The explosion of a New Glenn rocket has generated reverberations across the space industry with the rocket out of service for potentially a year or more.\nThe post New Glenn failure worsens constrained...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "China launches test direct-to-device satellites for multiple projects",
-      "link": "https://spacenews.com/china-launches-test-direct-to-device-satellites-for-multiple-projects/",
-      "pubDate": "2026-06-01T09:37:01Z",
-      "snippet": "China capped a busy month of launches by sending four new satellite internet test satellites into orbit with a workhorse hypergolic rocket.\nThe post China launches test direct-to-device satellites for...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "This strange crystal acts like metal and glass at the same time",
       "link": "https://www.sciencedaily.com/releases/2026/06/260601025322.htm",
       "pubDate": "2026-06-01T07:25:09Z",
@@ -255,55 +282,10 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "FAA documents outline SpaceX plans for Starfall reentry vehicles",
-      "link": "https://spacenews.com/faa-documents-outline-spacex-plans-for-starfall-reentry-vehicles/",
-      "pubDate": "2026-05-31T09:26:19Z",
-      "snippet": "Federal Aviation Administration documents have provided new details about a SpaceX project to develop and test reentry vehicles that could be used to support in-space manufacturing projects.\nThe post ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Blue Origin gets national security launch task order hours before New Glenn explosion",
-      "link": "https://spacenews.com/blue-origin-gets-national-security-launch-task-order-hours-before-new-glenn-explosion/",
-      "pubDate": "2026-05-30T21:06:37Z",
-      "snippet": "U.S. Space Force, National Reconnaissance Office \u2018remain committed partners with Blue Origin\u2019\nThe post Blue Origin gets national security launch task order hours before New Glenn explosion appeared fi...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "How Russia is turning Ukraine\u2019s drones against NATO",
       "link": "https://www.defensenews.com/global/europe/2026/05/29/how-russia-is-turning-ukraines-drones-against-nato/",
       "pubDate": "2026-05-29T23:36:27Z",
       "snippet": "A Russian drone wounded two civilians in Romania on Friday, days after Lithuania detailed how Moscow is also steering Ukraine's drones onto allied soil.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Navy to explore powering shore installations with aircraft carriers",
-      "link": "https://www.defensenews.com/news/your-military/2026/05/29/us-navy-to-explore-powering-shore-installations-with-aircraft-carriers/",
-      "pubDate": "2026-05-29T17:26:16Z",
-      "snippet": "Acting Navy Secretary Hung Cao revealed that Naval Station Norfolk will be \u201cpowered from an aircraft carrier\" sometime this summer.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "China is building launch pads near its nuclear missile silos",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/05/29/china-is-building-launch-pads-near-its-nuclear-missile-silos/",
-      "pubDate": "2026-05-29T15:02:15Z",
-      "snippet": "China\u2019s nuclear missiles can reach any U.S. city. Now, satellite images show Beijing is building a sprawling web of military sites near its nuclear silos.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Romania says Russian drone hit apartment block, NATO vows to defend alliance territory",
-      "link": "https://www.defensenews.com/global/europe/2026/05/29/romania-says-russian-drone-hit-apartment-block-nato-vows-to-defend-alliance-territory/",
-      "pubDate": "2026-05-29T13:44:06Z",
-      "snippet": "\u201cI affirmed that NATO stands ready to defend every inch of Allied territory,\u201d NATO Secretary General Mark Rutte said on X.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
