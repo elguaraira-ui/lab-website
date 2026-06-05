@@ -1,7 +1,115 @@
 {
-  "updated": "2026-06-04T13:51:19.795714Z",
-  "count": 49,
+  "updated": "2026-06-05T13:46:13.315303Z",
+  "count": 51,
   "items": [
+    {
+      "title": "Let\u2019s build the moon base, but not lose sight of Mars",
+      "link": "https://spacenews.com/lets-build-the-moon-base-but-not-lose-sight-of-mars/",
+      "pubDate": "2026-06-05T13:00:00Z",
+      "snippet": "These are heady days for NASA and the space industry. The Artemis 2 crew flew around the moon, traveling farther into space than any humans previously had; NASA announced an [&#8230;]\nThe post Let\u2019s b...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US forces board sanctioned tanker in Indian Ocean, Pentagon says",
+      "link": "https://www.defensenews.com/news/your-military/2026/06/05/us-forces-board-sanctioned-tanker-in-indian-ocean-pentagon-says/",
+      "pubDate": "2026-06-05T12:49:44Z",
+      "snippet": "U.S. forces have intercepted multiple commercial and oil tankers in the Indian Ocean in recent months.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "The US Army wants thousands of air defense missiles to replace the Stinger",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/06/05/the-us-army-wants-thousands-of-air-defense-missiles-to-replace-the-stinger/",
+      "pubDate": "2026-06-05T12:10:45Z",
+      "snippet": "A new Army Request for Information seeks to identify companies that can deliver 11,000 next-gen, short range interceptors beginning in Fiscal Year 2028.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches",
+      "link": "https://spacenews.com/qianfan-constellation-deployment-hits-200-satellites-with-long-march-8-and-6a-launches/",
+      "pubDate": "2026-06-05T10:46:32Z",
+      "snippet": "Construction of the Shanghai-led Qianfan constellation continued to accelerate this week with a pair of Long March launches, following on from two recent experimental flights.\nThe post Qianfan constel...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Satellite maker Apex\u2019s valuation rises to $2.3 billion after latest $200 million raise",
+      "link": "https://spacenews.com/satellite-maker-apexs-valuation-rises-to-2-3-billion-after-latest-200-million-raise/",
+      "pubDate": "2026-06-05T09:15:00Z",
+      "snippet": "Apex has raised more than $200 million to expand in-house satellite production capabilities, announcing a funding round June 5 it says nearly doubled the four-year-old manufacturer\u2019s valuation to $2.3...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "The Exploration Company completes drop test of Nyx capsule",
+      "link": "https://spacenews.com/the-exploration-company-completes-drop-test-of-nyx-capsule/",
+      "pubDate": "2026-06-05T08:30:24Z",
+      "snippet": "The Exploration Company performed a drop test of the Nyx spacecraft it is developing to transport cargo to low Earth orbit ahead of a 2028 test flight.\nThe post The Exploration Company completes drop ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Axiom Space adds more than $175 million to funding round",
+      "link": "https://spacenews.com/axiom-space-adds-more-than-175-million-to-funding-round/",
+      "pubDate": "2026-06-05T07:03:24Z",
+      "snippet": "Axiom Space announced June 4 that it added more than $175 million to its latest funding round, with Japan\u2019s largest bank joining the company\u2019s investors.\nThe post Axiom Space adds more than $175 milli...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "HASC NDAA markup challenges Space Force on satellite programs",
+      "link": "https://spacenews.com/hasc-ndaa-markup-challenges-space-force-on-satellite-programs/",
+      "pubDate": "2026-06-04T22:32:04Z",
+      "snippet": "House Armed Services Committee seeks to preserve a missile-warning satellite program the Pentagon wants to cancel. It also criticizes a recent tactical communications satellite procurement and GPS ove...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "AstroForge completes DeepSpace-2 spacecraft",
+      "link": "https://spacenews.com/astroforge-completes-deepspace-2-spacecraft/",
+      "pubDate": "2026-06-04T16:03:25Z",
+      "snippet": "Asteroid mining startup AstroForge has completed assembly of its latest spacecraft for launch later this year, incorporating lessons from a failed mission last year.\nThe post AstroForge completes Deep...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Delian Asparouhov and Philip Johnston on making the case for orbital data centers",
+      "link": "https://spacenews.com/delian-asparouhov-and-philip-johnston-on-making-the-case-for-orbital-data-centers/",
+      "pubDate": "2026-06-04T15:03:40Z",
+      "snippet": "This episode of Space Minds is from SpaceNews\u2019 recent event on orbital data centers. There, Jeff Foust talks with talks with Founders Fund\u2019s Delian Asparouhov about why he\u2019s warming to [&#8230;]\nThe p...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Hidden chemical weapons sites emerge in Syria amid fragile security transition",
+      "link": "https://www.defensenews.com/global/mideast-africa/2026/06/04/hidden-chemical-weapons-sites-emerge-in-syria-amid-fragile-security-transition/",
+      "pubDate": "2026-06-04T15:02:01Z",
+      "snippet": "Over a decade after Syria agreed to dismantle its arsenal, international inspectors have uncovered scores of previously hidden chemical weapons materials.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "After 20 years, scientists finally shrink a powerful laser onto a chip",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260604044240.htm",
+      "pubDate": "2026-06-04T14:54:57Z",
+      "snippet": "Researchers at EPFL have developed a chip-scale ultrafast laser that performs on par with traditional tabletop femtosecond lasers. The innovation could make advanced laser technologies far smaller, ch...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
     {
       "title": "NASA working to streamline development of nuclear electric propulsion demo mission",
       "link": "https://spacenews.com/nasa-working-to-streamline-development-of-nuclear-electric-propulsion-demo-mission/",
@@ -156,60 +264,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "The importance of determining an equilibrium state for space traffic management",
-      "link": "https://spacenews.com/the-importance-of-determining-an-equilibrium-state-for-space-traffic-management/",
-      "pubDate": "2026-06-02T13:00:00Z",
-      "snippet": "The rapid expansion of human and robotic activity in low Earth orbit makes critically important the need to implement effective space traffic management (STM). This will be one of the [&#8230;]\nThe po...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "UK explores Vast space station mission for astronaut with physical disability",
-      "link": "https://spacenews.com/uk-explores-vast-space-station-mission-for-astronaut-with-physical-disability/",
-      "pubDate": "2026-06-02T12:25:40Z",
-      "snippet": "The U.K. government is exploring sending British astronaut John McFall to Vast\u2019s planned Haven-1 space station in a mission it says could make him the first person with a physical disability to live i...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Impulse Space raises $500 million",
-      "link": "https://spacenews.com/impulse-space-raises-500-million/",
-      "pubDate": "2026-06-02T12:11:05Z",
-      "snippet": "Impulse Space has raised $500 million to expand production of orbital transfer vehicles and other spacecraft to support growing commercial and government demand.\nThe post Impulse Space raises $500 mil...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Voyager to acquire lunar lander developer Astrobotic",
-      "link": "https://spacenews.com/voyager-to-acquire-lunar-lander-developer-astrobotic/",
-      "pubDate": "2026-06-02T11:54:21Z",
-      "snippet": "Voyager Technologies will acquire Astrobotic, a company developing lunar landers and reusable suborbital vehicles, in a deal worth up to $300 million.\nThe post Voyager to acquire lunar lander develope...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Researchers call for regulations to protect low Earth orbit environment",
-      "link": "https://spacenews.com/researchers-call-for-regulations-to-protect-low-earth-orbit-environment/",
-      "pubDate": "2026-06-02T11:00:00Z",
-      "snippet": "BOULDER, Colorado \u2014 Researchers are calling for increased attention and better protection against the rising introduction of exotic materials into Earth\u2019s atmosphere from satellite and space hardware ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NASA abandons \u2018core module\u2019 concept for commercial space station development",
-      "link": "https://spacenews.com/nasa-abandons-core-module-concept-for-commercial-space-station-development/",
-      "pubDate": "2026-06-02T07:51:59Z",
-      "snippet": "NASA is withdrawing a proposal to revamp its strategy for transitioning from the International Space Station to commercial stations, one that had been criticized by the companies developing such stati...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "New light-powered chip could accelerate AI and quantum computing",
       "link": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
       "pubDate": "2026-06-02T04:30:26Z",
@@ -217,15 +271,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "France to fly two astronauts on Vast missions",
-      "link": "https://spacenews.com/france-to-fly-two-astronauts-on-vast-missions/",
-      "pubDate": "2026-06-02T01:05:03Z",
-      "snippet": "Commercial space station developer Vast has reached an agreement with the French government to fly two French astronauts on its missions, including the first flight to its Haven-1 space station.\nThe p...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Pentagon chief sounds \u2018alarm\u2019 over China\u2019s buildup, urges allies to boost defense spending",
@@ -244,15 +289,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Northrop Grumman partners with Apex on space-based interceptors for Golden Dome",
-      "link": "https://spacenews.com/northrop-grumman-partners-with-apex-on-space-based-interceptors-for-golden-dome/",
-      "pubDate": "2026-06-01T14:57:04Z",
-      "snippet": "The Los Angeles-based startup manufactures standardized satellite buses designed to be produced more quickly and at lower cost than traditional government spacecraft\nThe post Northrop Grumman partners...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "NASA\u2019s X-59 is about to break the sound barrier for the first time",
@@ -280,15 +316,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "How Russia is turning Ukraine\u2019s drones against NATO",
-      "link": "https://www.defensenews.com/global/europe/2026/05/29/how-russia-is-turning-ukraines-drones-against-nato/",
-      "pubDate": "2026-05-29T23:36:27Z",
-      "snippet": "A Russian drone wounded two civilians in Romania on Friday, days after Lithuania detailed how Moscow is also steering Ukraine's drones onto allied soil.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "A 100-year-old piano mystery has finally been solved",
@@ -430,15 +457,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
       "pubDate": "2026-04-13T12:38:46Z",
       "snippet": "In the pursuit of powerful and stable quantum computers, researchers at Chalmers University of Technology, Sweden, have developed the theory for an entirely new quantum system \u2013 based on the novel con...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Gravitational waves may be hidden in the light atoms emit",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260409101109.htm",
-      "pubDate": "2026-04-10T13:43:52Z",
-      "snippet": "Scientists have proposed a surprising new way to detect gravitational waves\u2014by observing how they change the light emitted by atoms. These waves can subtly shift photon frequencies in different direct...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
