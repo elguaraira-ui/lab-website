@@ -1,7 +1,169 @@
 {
-  "updated": "2026-06-05T13:46:13.315303Z",
+  "updated": "2026-06-08T14:40:45.692453Z",
   "count": 51,
   "items": [
+    {
+      "title": "Quantum Space to go public in SPAC deal",
+      "link": "https://spacenews.com/quantum-space-to-go-public-in-spac-deal/",
+      "pubDate": "2026-06-08T14:19:44Z",
+      "snippet": "Quantum Space, a company led by a former NASA administrator developing highly maneuverable spacecraft for national security missions, will go public by merging with a special purpose acquisition compa...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "WRC-27: the next arena for U.S.-China space competition",
+      "link": "https://spacenews.com/wrc-27-the-next-arena-for-u-s-china-space-competition/",
+      "pubDate": "2026-06-08T13:00:00Z",
+      "snippet": "For anyone who wasn\u2019t sure whether China was in it to win the space race and dominate the rapidly growing space economy, its filings in December for 200,000 more satellites [&#8230;]\nThe post WRC-27: ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "What is space-time? A mystery at the heart of reality",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260606075858.htm",
+      "pubDate": "2026-06-08T11:28:01Z",
+      "snippet": "What if our biggest idea about reality is built on a hidden misunderstanding? A new philosophical look at space-time challenges the popular view that the past, present, and future all exist together i...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Axiom and Prada advance design of spacesuit",
+      "link": "https://spacenews.com/axiom-and-prada-advance-design-of-spacesuit/",
+      "pubDate": "2026-06-08T11:23:20Z",
+      "snippet": "Axiom Space unveiled the design of another element of the lunar spacesuit it is developing for NASA in partnership with luxury designer Prada.\nThe post Axiom and Prada advance design of spacesuit appe...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Heat breaks the rules at the nanoscale and scientists used it to their advantage",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260606075511.htm",
+      "pubDate": "2026-06-08T11:17:50Z",
+      "snippet": "Scientists used nanoscale gold metamaterials to supercharge heat transfer across tiny gaps, achieving up to four times more energy flow than similar conventional systems. The breakthrough could lead t...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Speed as a Strategic Advantage in Border Monitoring",
+      "link": "https://spacenews.com/speed-as-a-strategic-advantage-in-border-monitoring/",
+      "pubDate": "2026-06-08T11:00:00Z",
+      "snippet": "Across Europe, border environments are becoming increasingly dynamic and complex. Activity can shift within hours\u2014vehicles reposition, staging areas disperse, small watercraft alter routes, and nodes ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "UK startup NewOrbit raises $18.5 million in Series A round",
+      "link": "https://spacenews.com/uk-startup-neworbit-raises-18-5-million-in-series-a-round/",
+      "pubDate": "2026-06-08T07:00:00Z",
+      "snippet": "SAN FRANCISCO \u2013 NewOrbit Space, a UK startup developing satellites for very low Earth orbit (VLEO), has raised $18.5 million in a Series A investment round. With the funding, announced [&#8230;]\nThe p...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "OQ Technology plans direct-to-smartphone demo with cellular spectrum",
+      "link": "https://spacenews.com/oq-technology-plans-direct-to-smartphone-demo-with-cellular-spectrum/",
+      "pubDate": "2026-06-08T06:30:00Z",
+      "snippet": "Luxembourg\u2019s OQ Technology plans to test direct-to-smartphone satellite connectivity next year in Germany using a local telco\u2019s cellular spectrum, setting up a challenge to U.S.-led services in the em...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NASA to select new headquarters building by end of year",
+      "link": "https://spacenews.com/nasa-to-select-new-headquarters-building-by-end-of-year/",
+      "pubDate": "2026-06-07T13:55:38Z",
+      "snippet": "NASA plans to find a new headquarters building by the end of this year while remaining in the Washington area.\nThe post NASA to select new headquarters building by end of year appeared first on SpaceN...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Rounding up the space unicorns",
+      "link": "https://spacenews.com/rounding-up-the-space-unicorns/",
+      "pubDate": "2026-06-07T11:03:54Z",
+      "snippet": "Once rare beasts, billion-dollar startups are multiplying across new orbital markets.\nThe post Rounding up the space unicorns appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NASA interested in Hubble reboost if costs can be reduced",
+      "link": "https://spacenews.com/nasa-interested-in-hubble-reboost-if-costs-can-be-reduced/",
+      "pubDate": "2026-06-07T00:52:07Z",
+      "snippet": "As NASA prepares an attempt to reboost an astronomy spacecraft in a decaying orbit, it is open to doing something similar for Hubble, if its operating costs can be reduced.\nThe post NASA interested in...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NASA concerns about Russian repairs prompted ISS safe haven decision",
+      "link": "https://spacenews.com/nasa-concerns-about-russian-repairs-prompted-iss-safe-haven-decision/",
+      "pubDate": "2026-06-06T17:33:35Z",
+      "snippet": "NASA directed astronauts on the ISS to shelter in a Crew Dragon spacecraft after Russian cosmonauts planned to perform repairs the agency thought created \u201celevated risk\u201d to the station.\nThe post NASA ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US strikes Iranian sites after Iran launches drones, in latest Gulf flare-up",
+      "link": "https://www.defensenews.com/flashpoints/middle-east/2026/06/06/us-strikes-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up/",
+      "pubDate": "2026-06-06T15:00:51Z",
+      "snippet": "U.S. forces struck Iranian coastal radar sites on Saturday after shooting down drones launched by Iran toward the Strait of Hormuz, the U.S.\u00a0military\u00a0said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "France to test its own AI-powered battlefield command in June NATO exercise",
+      "link": "https://www.defensenews.com/global/europe/2026/06/06/france-to-test-its-own-ai-powered-battlefield-command-in-june-nato-exercise/",
+      "pubDate": "2026-06-06T06:50:38Z",
+      "snippet": "The French Army has developed its own large-language model for staff officers, called Berthier, named after Napoleon\u2019s chief of staff.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "A tiny atomic shift gives scientists powerful control over metals",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260605023415.htm",
+      "pubDate": "2026-06-06T05:27:37Z",
+      "snippet": "A team at the University of Minnesota discovered that changing a metal film's thickness by just a few nanometers can dramatically alter how it behaves electronically. The finding reveals a surprising ...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Leaf Space partners with D-Orbit and EnduroSat to test connectivity service",
+      "link": "https://spacenews.com/leaf-space-partners-with-d-orbit-and-endurosat-to-test-connectivity-service/",
+      "pubDate": "2026-06-05T18:12:10Z",
+      "snippet": "MILAN \u2013 Italian ground segment operator Leaf Space unveiled a new space connectivity service May 27. The technology, named TreeNet, aims to make space communications more seamless by treating individu...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Astronauts briefly shelter in Dragon during ISS leak repair",
+      "link": "https://spacenews.com/astronauts-briefly-shelter-in-dragon-during-iss-leak-repair/",
+      "pubDate": "2026-06-05T16:29:16Z",
+      "snippet": "NASA instructed astronauts on the International Space Station to briefly shelter in a Dragon spacecraft June 5 as cosmonauts attempted to repair an air leak in a Russian module.\nThe post Astronauts br...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Next Ariane 6 launch to carry 36 Amazon Leo satellites using upgraded boosters",
+      "link": "https://spacenews.com/next-ariane-6-launch-to-carry-36-amazon-leo-satellites-using-upgraded-boosters/",
+      "pubDate": "2026-06-05T14:02:31Z",
+      "snippet": "Amazon will fly its largest number of broadband satellites to date later this month on the first Ariane 6 launch to use upgraded boosters.\nThe post Next Ariane 6 launch to carry 36 Amazon Leo satellit...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Let\u2019s build the moon base, but not lose sight of Mars",
       "link": "https://spacenews.com/lets-build-the-moon-base-but-not-lose-sight-of-mars/",
@@ -84,15 +246,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Delian Asparouhov and Philip Johnston on making the case for orbital data centers",
-      "link": "https://spacenews.com/delian-asparouhov-and-philip-johnston-on-making-the-case-for-orbital-data-centers/",
-      "pubDate": "2026-06-04T15:03:40Z",
-      "snippet": "This episode of Space Minds is from SpaceNews\u2019 recent event on orbital data centers. There, Jeff Foust talks with talks with Founders Fund\u2019s Delian Asparouhov about why he\u2019s warming to [&#8230;]\nThe p...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Hidden chemical weapons sites emerge in Syria amid fragile security transition",
       "link": "https://www.defensenews.com/global/mideast-africa/2026/06/04/hidden-chemical-weapons-sites-emerge-in-syria-amid-fragile-security-transition/",
       "pubDate": "2026-06-04T15:02:01Z",
@@ -111,60 +264,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "NASA working to streamline development of nuclear electric propulsion demo mission",
-      "link": "https://spacenews.com/nasa-working-to-streamline-development-of-nuclear-electric-propulsion-demo-mission/",
-      "pubDate": "2026-06-04T10:55:56Z",
-      "snippet": "NASA is working on a streamlined management approach for a nuclear electric propulsion demonstration mission the agency wants to launch in two and a half years.\nThe post NASA working to streamline dev...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "China builds institutional framework for space computing push",
-      "link": "https://spacenews.com/china-builds-institutional-framework-for-space-computing-push/",
-      "pubDate": "2026-06-04T09:51:01Z",
-      "snippet": "China is establishing an industrial policy framework to support a push to build space-based computing infrastructure, with the emergence of influential coordinating bodies.\nThe post China builds insti...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "SpaceX to raise at least $75 billion in IPO",
-      "link": "https://spacenews.com/spacex-to-raise-at-least-75-billion-in-ipo/",
-      "pubDate": "2026-06-04T02:54:32Z",
-      "snippet": "SpaceX plans to raise at least $75 billion in its initial public offering, valuing the company at more than $1.75 trillion.\nThe post SpaceX to raise at least $75 billion in IPO appeared first on Space...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NASA declares end to MAVEN Mars mission",
-      "link": "https://spacenews.com/nasa-declares-end-to-maven-mars-mission/",
-      "pubDate": "2026-06-04T00:20:49Z",
-      "snippet": "NASA has formally ended a Mars mission that has been out of contact for six months while the investigation into the spacecraft\u2019s demise continues.\nThe post NASA declares end to MAVEN Mars mission appe...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "AST SpaceMobile sees New Glenn setback delaying initial commercial service into 2027",
-      "link": "https://spacenews.com/ast-spacemobile-sees-new-glenn-setback-delaying-initial-commercial-service-into-2027/",
-      "pubDate": "2026-06-03T21:12:58Z",
-      "snippet": "AST SpaceMobile expects Blue Origin\u2019s recent launchpad explosion will delay its direct-to-smartphone constellation by three to six months, investment bank William Blair said in an equity research note...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "After cooperation on SMILE mission, ESA and China chart parallel but separate paths",
-      "link": "https://spacenews.com/after-cooperation-on-smile-mission-esa-and-china-chart-parallel-but-separate-paths/",
-      "pubDate": "2026-06-03T18:20:34Z",
-      "snippet": "ESA and China recently launched the joint SMILE magnetosphere mission after a decade of cooperation, but despite similar goals, another collaboration appears distant.\nThe post After cooperation on SMI...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Lockheed\u2019s GRIZZLY C-UAS system downs attack drone in live-fire demo",
       "link": "https://www.defensenews.com/news/your-military/2026/06/03/lockheeds-grizzly-c-uas-system-downs-attack-drone-in-live-fire-demo/",
       "pubDate": "2026-06-03T15:34:13Z",
@@ -172,15 +271,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Electronics manufacturer Murata to explore Xona satellite timing service for telecom, data centers",
-      "link": "https://spacenews.com/electronics-manufacturer-murata-to-explore-xona-satellite-timing-service-for-telecom-data-centers/",
-      "pubDate": "2026-06-03T15:19:56Z",
-      "snippet": "Xona is developing a low Earth orbit network to provide backup to GPS-dependent systems\nThe post Electronics manufacturer Murata to explore Xona satellite timing service for telecom, data centers appe...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Gulf tensions escalate as Iran hits Kuwait, US strikes near Hormuz",
@@ -192,24 +282,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Europe is rearming together \u2014 except in space",
-      "link": "https://spacenews.com/europe-is-rearming-together-except-in-space/",
-      "pubDate": "2026-06-03T13:00:00Z",
-      "snippet": "Europe is rapidly rewriting its security architecture. Faced with Russian aggression, mounting doubts about long-term American commitment and growing pressure to shoulder more of its own defense burde...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Muon Space unveils Starship-class satellite platform for orbital data centers",
-      "link": "https://spacenews.com/muon-space-unveils-starship-class-satellite-platform-for-orbital-data-centers/",
-      "pubDate": "2026-06-03T11:39:41Z",
-      "snippet": "Muon Space announced a Starship-class satellite platform June 3 designed from the ground up to meet the demands of the emerging orbital data center market, with an initial launch slated for 2028 after...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "At a NATO range in Latvia, hits and misses mark Europe\u2019s counter-drone journey",
       "link": "https://www.defensenews.com/global/europe/2026/06/03/at-a-nato-range-in-latvia-hits-and-misses-mark-europes-counter-drone-journey/",
       "pubDate": "2026-06-03T11:33:30Z",
@@ -219,15 +291,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Blue Origin seeks to resume New Glenn launches by year\u2019s end",
-      "link": "https://spacenews.com/blue-origin-seeks-to-resume-new-glenn-launches-by-years-end/",
-      "pubDate": "2026-06-03T10:39:28Z",
-      "snippet": "Blue Origin\u2019s CEO says damage to its New Glenn launch pad is not as bad as feared and the rocket could return to flight by the end of the year.\nThe post Blue Origin seeks to resume New Glenn launches ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "The US military wants to showcase battle-ready laser weapons by 2028",
       "link": "https://www.defensenews.com/industry/techwatch/2026/06/02/the-us-military-wants-to-showcase-battle-ready-laser-weapons-by-2028/",
       "pubDate": "2026-06-02T23:46:29Z",
@@ -235,24 +298,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "NRO nominee says commercial space, AI are reshaping spy satellite agency",
-      "link": "https://spacenews.com/nro-nominee-says-commercial-space-ai-are-reshaping-spy-satellite-agency/",
-      "pubDate": "2026-06-02T22:22:44Z",
-      "snippet": "In a confirmation hearing, Roger Mason said clear government demand signals are needed as private investment transforms the space intelligence market\nThe post NRO nominee says commercial space, AI are...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Global SSA Market to Reach $61B as Governments Prioritize Space Security, Resilience, and Orbital Safety",
-      "link": "https://spacenews.com/global-ssa-market-to-reach-61b-as-governments-prioritize-space-security-resilience-and-orbital-safety/",
-      "pubDate": "2026-06-02T15:11:48Z",
-      "snippet": "Paris, France \u2013 May 2026 \u2013 The 2nd edition of Novaspace\u2019s Space Situational Awareness (SSA) report points to a pivotal decade ahead, with cumulative global spending projected to reach $61 [&#8230;]\nTh...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "US Navy selects companies for at-sea MUSV prototype testing",
@@ -282,15 +327,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "US military seeks cultural advisors in Somalia amid regional strikes",
-      "link": "https://www.defensenews.com/news/your-military/2026/06/01/us-military-seeks-cultural-advisors-in-somalia-amid-regional-strikes/",
-      "pubDate": "2026-06-01T16:36:26Z",
-      "snippet": "The U.S. special operations task force in Somalia is looking for contractors to advise troops on Somali politics, culture and tribal dynamics.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "NASA\u2019s X-59 is about to break the sound barrier for the first time",
       "link": "https://www.sciencedaily.com/releases/2026/06/260601025338.htm",
       "pubDate": "2026-06-01T11:48:14Z",
@@ -298,15 +334,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Poland spends $16.5 billion in EU-backed loans on heavy army weapons",
-      "link": "https://www.defensenews.com/global/europe/2026/06/01/poland-spends-165-billion-in-eu-backed-loans-on-heavy-army-weapons/",
-      "pubDate": "2026-06-01T11:11:44Z",
-      "snippet": "Amid political infighting over the funding mechanism, the government has  tapped local companies to make fighting vehicles, howitzers and ammunition.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "This strange crystal acts like metal and glass at the same time",
@@ -430,33 +457,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/04/260424233214.htm",
       "pubDate": "2026-04-25T14:47:27Z",
       "snippet": "A major physics experiment has uncovered evidence for a strange new form of matter, where a fleeting particle gets trapped inside a nucleus. This exotic state may reveal how mass is generated, suggest...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "AI just discovered new physics in the fourth state of matter",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260422044635.htm",
-      "pubDate": "2026-04-23T13:38:47Z",
-      "snippet": "Physicists have taken a major step toward using AI not just to analyze data, but to uncover entirely new laws of nature. By combining a specially designed neural network with precise 3D tracking of pa...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "After 200 years scientists finally crack the \u201cdolomite problem\u201d",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260420015840.htm",
-      "pubDate": "2026-04-20T06:28:54Z",
-      "snippet": "After two centuries of failed attempts, scientists have finally grown dolomite in the lab, cracking a long-standing geological puzzle. They discovered that the mineral\u2019s growth stalls because of tiny ...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "\u201cGiant superatoms\u201d could finally solve quantum computing\u2019s biggest problem",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260413043155.htm",
-      "pubDate": "2026-04-13T12:38:46Z",
-      "snippet": "In the pursuit of powerful and stable quantum computers, researchers at Chalmers University of Technology, Sweden, have developed the theory for an entirely new quantum system \u2013 based on the novel con...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
