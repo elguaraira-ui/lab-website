@@ -1,7 +1,133 @@
 {
-  "updated": "2026-06-08T14:40:45.692453Z",
-  "count": 51,
+  "updated": "2026-06-09T13:34:42.584289Z",
+  "count": 54,
   "items": [
+    {
+      "title": "BlackSky to accelerate broad-area collection work under NRO contract modification",
+      "link": "https://spacenews.com/blacksky-to-accelerate-broad-area-collection-work-under-nro-contract-modification/",
+      "pubDate": "2026-06-09T12:30:00Z",
+      "snippet": "SAN FRANCISCO \u2013 The National Reconnaissance Office awarded a contract modification to BlackSky Technology to accelerate development of AROS broad-area-collection satellites. \u201cThe effort funds a direct...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "New Glenn forced an explosive rewrite for NASA\u2019s plans to build a moon base",
+      "link": "https://spacenews.com/new-glenn-forced-an-explosive-rewrite-for-nasas-plans-to-build-a-moon-base/",
+      "pubDate": "2026-06-09T12:00:00Z",
+      "snippet": "NASA unveiled plans in March to develop a lunar base as part of its \u201cIgnition\u201d event that outlined the agency\u2019s new direction in human spaceflight. The plans, though, were rather [&#8230;]\nThe post Ne...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Airbus-led alliance lobbies Germany on fighter jet project",
+      "link": "https://www.defensenews.com/global/europe/2026/06/09/airbus-led-alliance-lobbies-germany-on-fighter-jet-project/",
+      "pubDate": "2026-06-09T11:48:32Z",
+      "snippet": "Industry sources said the move did not\u00a0amount to an attempt\u00a0to launch a new fighter project\u00a0following\u00a0the collapse\u00a0of the Franco-German\u00a0FCAS program.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Iceye raises 1 billion euros to expand SAR satellite systems",
+      "link": "https://spacenews.com/iceye-raises-1-billion-euros-to-expand-sar-satellite-systems/",
+      "pubDate": "2026-06-09T11:24:30Z",
+      "snippet": "Iceye, a Finnish company that develops and operates radar imaging satellites, has raised more than 1 billion euros in a round that values it at more than 10 billion euros.\nThe post Iceye raises 1 bill...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Isar Aerospace raises 270 million euros for global launch expansion",
+      "link": "https://spacenews.com/isar-aerospace-raises-270-million-euros-for-global-launch-expansion/",
+      "pubDate": "2026-06-09T10:34:29Z",
+      "snippet": "European launch company Isar Aerospace has raised 270 million euros ($312 million) to support its global expansion as it prepares for its next launch attempt.\nThe post Isar Aerospace raises 270 millio...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Commercial launch providers shortlisted for China\u2019s low-cost cargo spacecraft",
+      "link": "https://spacenews.com/commercial-launch-providers-shortlisted-for-chinas-low-cost-cargo-spacecraft/",
+      "pubDate": "2026-06-09T10:02:10Z",
+      "snippet": "China is expanding the role of its commercial rocket companies by shortlisting four such entities for launches of a new space station cargo transport system.\nThe post Commercial launch providers short...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Let\u2019s procure in-orbit services like Earth observation data and services",
+      "link": "https://spacenews.com/lets-procure-in-orbit-services-like-earth-observation-data-and-services/",
+      "pubDate": "2026-06-09T10:00:00Z",
+      "snippet": "The Chinese company MizarVision recently gained attention with its open source Earth observation data analysis over the Middle East which showed images of F-35s&#160; gathering 24 hours before Operati...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "FCC lets Amazon Leo miss deployment deadline with temporary spectrum penalty",
+      "link": "https://spacenews.com/fcc-lets-amazon-leo-miss-deployment-deadline-with-temporary-spectrum-penalty/",
+      "pubDate": "2026-06-08T18:39:51Z",
+      "snippet": "Amazon no longer faces a July 30 cutoff for deploying half its planned 3,232 broadband satellites, but the reprieve comes with a temporary loss of spectrum priority that could give SpaceX and other ri...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US approves Kuwait request to buy nearly $2 billion of counter-drone platforms",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/06/08/us-approves-kuwait-request-to-buy-nearly-2-billion-of-counter-drone-platforms/",
+      "pubDate": "2026-06-08T17:46:16Z",
+      "snippet": "Following recent Iranian strikes on Kuwait, the U.S. approved a potential foreign military sale of counter-UAS platforms made by Anduril.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Navy F/A-18 Super Hornet strikes, disables oil tanker in Gulf of Oman",
+      "link": "https://www.defensenews.com/flashpoints/2026/06/08/us-navy-fa-18-super-hornet-strikes-disables-oil-tanker-in-gulf-of-oman/",
+      "pubDate": "2026-06-08T17:16:38Z",
+      "snippet": "An F/A-18 Super Hornet assigned to the aircraft carrier USS Abraham Lincoln fired a precision munition into the vessel's engineering and steering spaces.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US must learn lessons from Ukraine, innovate faster and cheaper: Anduril president",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/06/08/us-must-learn-lessons-from-ukraine-innovate-faster-and-cheaper-anduril-president/",
+      "pubDate": "2026-06-08T16:02:50Z",
+      "snippet": "Anduril President Christian Brose discussed the need to develop cheaper weapons systems at scale to avoid quick depletion of exquisite munitions.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Polish-Ukrainian startup develops radar to track elusive, low-flying drones",
+      "link": "https://www.defensenews.com/global/europe/2026/06/08/polish-ukrainian-startup-develops-radar-to-track-elusive-low-flying-drones/",
+      "pubDate": "2026-06-08T15:12:32Z",
+      "snippet": "The technology aims to find small, low-flying drones, including those connected to operators via long, fiber-optic command wires.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Russia is jamming GPS from space",
+      "link": "https://spacenews.com/russia-is-jamming-gps-from-space/",
+      "pubDate": "2026-06-08T15:00:00Z",
+      "snippet": "\u201cAmerica is at risk of high impact GPS jamming and spoofing from space\u201d was the title of my SpaceNews opinion article in October 2024. Little did I know that its [&#8230;]\nThe post Russia is jamming G...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "French jet on NATO mission shoots down drone in Latvian airspace",
+      "link": "https://www.defensenews.com/global/europe/2026/06/08/french-jet-on-nato-mission-shoots-down-drone-in-latvian-airspace/",
+      "pubDate": "2026-06-08T14:39:28Z",
+      "snippet": "Military drones straying into the airspace of Russia\u2019s neighbors have stoked concerns that Russia\u2019s war in Ukraine is spilling over NATO\u2019s borders.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Quantum Space to go public in SPAC deal",
       "link": "https://spacenews.com/quantum-space-to-go-public-in-spac-deal/",
@@ -156,24 +282,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Next Ariane 6 launch to carry 36 Amazon Leo satellites using upgraded boosters",
-      "link": "https://spacenews.com/next-ariane-6-launch-to-carry-36-amazon-leo-satellites-using-upgraded-boosters/",
-      "pubDate": "2026-06-05T14:02:31Z",
-      "snippet": "Amazon will fly its largest number of broadband satellites to date later this month on the first Ariane 6 launch to use upgraded boosters.\nThe post Next Ariane 6 launch to carry 36 Amazon Leo satellit...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Let\u2019s build the moon base, but not lose sight of Mars",
-      "link": "https://spacenews.com/lets-build-the-moon-base-but-not-lose-sight-of-mars/",
-      "pubDate": "2026-06-05T13:00:00Z",
-      "snippet": "These are heady days for NASA and the space industry. The Artemis 2 crew flew around the moon, traveling farther into space than any humans previously had; NASA announced an [&#8230;]\nThe post Let\u2019s b...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "US forces board sanctioned tanker in Indian Ocean, Pentagon says",
       "link": "https://www.defensenews.com/news/your-military/2026/06/05/us-forces-board-sanctioned-tanker-in-indian-ocean-pentagon-says/",
       "pubDate": "2026-06-05T12:49:44Z",
@@ -190,60 +298,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Qianfan constellation deployment hits 200 satellites with Long March 8 and 6A launches",
-      "link": "https://spacenews.com/qianfan-constellation-deployment-hits-200-satellites-with-long-march-8-and-6a-launches/",
-      "pubDate": "2026-06-05T10:46:32Z",
-      "snippet": "Construction of the Shanghai-led Qianfan constellation continued to accelerate this week with a pair of Long March launches, following on from two recent experimental flights.\nThe post Qianfan constel...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Satellite maker Apex\u2019s valuation rises to $2.3 billion after latest $200 million raise",
-      "link": "https://spacenews.com/satellite-maker-apexs-valuation-rises-to-2-3-billion-after-latest-200-million-raise/",
-      "pubDate": "2026-06-05T09:15:00Z",
-      "snippet": "Apex has raised more than $200 million to expand in-house satellite production capabilities, announcing a funding round June 5 it says nearly doubled the four-year-old manufacturer\u2019s valuation to $2.3...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "The Exploration Company completes drop test of Nyx capsule",
-      "link": "https://spacenews.com/the-exploration-company-completes-drop-test-of-nyx-capsule/",
-      "pubDate": "2026-06-05T08:30:24Z",
-      "snippet": "The Exploration Company performed a drop test of the Nyx spacecraft it is developing to transport cargo to low Earth orbit ahead of a 2028 test flight.\nThe post The Exploration Company completes drop ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Axiom Space adds more than $175 million to funding round",
-      "link": "https://spacenews.com/axiom-space-adds-more-than-175-million-to-funding-round/",
-      "pubDate": "2026-06-05T07:03:24Z",
-      "snippet": "Axiom Space announced June 4 that it added more than $175 million to its latest funding round, with Japan\u2019s largest bank joining the company\u2019s investors.\nThe post Axiom Space adds more than $175 milli...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "HASC NDAA markup challenges Space Force on satellite programs",
-      "link": "https://spacenews.com/hasc-ndaa-markup-challenges-space-force-on-satellite-programs/",
-      "pubDate": "2026-06-04T22:32:04Z",
-      "snippet": "House Armed Services Committee seeks to preserve a missile-warning satellite program the Pentagon wants to cancel. It also criticizes a recent tactical communications satellite procurement and GPS ove...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "AstroForge completes DeepSpace-2 spacecraft",
-      "link": "https://spacenews.com/astroforge-completes-deepspace-2-spacecraft/",
-      "pubDate": "2026-06-04T16:03:25Z",
-      "snippet": "Asteroid mining startup AstroForge has completed assembly of its latest spacecraft for launch later this year, incorporating lessons from a failed mission last year.\nThe post AstroForge completes Deep...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Hidden chemical weapons sites emerge in Syria amid fragile security transition",
@@ -291,24 +345,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "The US military wants to showcase battle-ready laser weapons by 2028",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/06/02/the-us-military-wants-to-showcase-battle-ready-laser-weapons-by-2028/",
-      "pubDate": "2026-06-02T23:46:29Z",
-      "snippet": "A directed energy demonstration is expected to occur during the summer of 2028, as part of a series of planned Golden Dome-related events.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Navy selects companies for at-sea MUSV prototype testing",
-      "link": "https://www.defensenews.com/news/your-navy/2026/06/02/us-navy-selects-companies-for-at-sea-musv-prototype-testing/",
-      "pubDate": "2026-06-02T14:45:07Z",
-      "snippet": "The U.S. Navy announced on Friday that it had selected seven companies to compete to secure the service\u2019s Medium Unmanned Surface Vessel contract.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "New light-powered chip could accelerate AI and quantum computing",
       "link": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
       "pubDate": "2026-06-02T04:30:26Z",
@@ -316,15 +352,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Pentagon chief sounds \u2018alarm\u2019 over China\u2019s buildup, urges allies to boost defense spending",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/06/01/pentagon-chief-sounds-alarm-over-chinas-buildup-urges-allies-to-boost-defense-spending/",
-      "pubDate": "2026-06-01T22:06:11Z",
-      "snippet": "Hegseth urged Asian allies to ramp up military spending to counter China\u2019s growing power.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "NASA\u2019s X-59 is about to break the sound barrier for the first time",
