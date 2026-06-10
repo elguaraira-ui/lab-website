@@ -1,7 +1,124 @@
 {
-  "updated": "2026-06-09T13:34:42.584289Z",
-  "count": 54,
+  "updated": "2026-06-10T14:14:45.329342Z",
+  "count": 55,
   "items": [
+    {
+      "title": "UK startup Applied Atomics to enter US market with focus on military space mobility",
+      "link": "https://spacenews.com/uk-startup-applied-atomics-to-enter-us-market-with-focus-on-military-space-mobility/",
+      "pubDate": "2026-06-10T14:00:00Z",
+      "snippet": "Company opens Virginia office, announces $4 million pre-seed funding \nThe post UK startup Applied Atomics to enter US market with focus on military space mobility appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Orbital raises $5 million to join orbital data center race",
+      "link": "https://spacenews.com/orbital-raises-5-million-to-join-orbital-data-center-race/",
+      "pubDate": "2026-06-10T12:44:49Z",
+      "snippet": "A Los Angeles-based startup has raised $5 million to fund an in-orbit computing demonstration next year, ahead of plans to deploy more than 100,000 orbital data centers to meet surging demand for AI i...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "LeoLabs deploys mobile space-tracking radar in Indo-Pacific",
+      "link": "https://spacenews.com/leolabs-deploys-mobile-space-tracking-radar-in-indo-pacific/",
+      "pubDate": "2026-06-10T12:30:00Z",
+      "snippet": "The transportable sensor is designed to maintain continuous tracking of maneuvering spacecraft in orbit\nThe post LeoLabs deploys mobile space-tracking radar in Indo-Pacific\u00a0 appeared first on SpaceNew...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Arkadia Space to supply thrusters for Reflex Aerospace satellite",
+      "link": "https://spacenews.com/arkadia-space-to-supply-thrusters-for-reflex-aerospace-satellite/",
+      "pubDate": "2026-06-10T12:26:04Z",
+      "snippet": "Spacecraft propulsion startup Arkadia Space has signed a deal to provide thrusters for a satellite being built by Reflex Aerospace.\nThe post Arkadia Space to supply thrusters for Reflex Aerospace sate...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "The US usually sells weapons to Taiwan \u2013 with drones, expect the reverse",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/06/10/the-us-usually-sells-weapons-to-taiwan-with-drones-expect-the-reverse/",
+      "pubDate": "2026-06-10T12:00:22Z",
+      "snippet": "Taiwan's biggest appeal is the lack of China in the manufacturing supply chain, one analyst said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Spaceport crunch reviving interest in sea-based launch",
+      "link": "https://spacenews.com/spaceport-crunch-reviving-interest-in-sea-based-launch/",
+      "pubDate": "2026-06-10T12:00:00Z",
+      "snippet": "Proponents see offshore launch as an answer to crowded ranges, military resilience concerns.\nThe post Spaceport crunch reviving interest in sea-based launch appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "MIT\u2019s new spacecraft engine could send tiny satellites to Mars",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260610003051.htm",
+      "pubDate": "2026-06-10T11:24:15Z",
+      "snippet": "MIT researchers have shown that one fuel can power both chemical and electric spacecraft thrusters, potentially transforming what small satellites can do. The approach combines quick bursts of speed w...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "After the launch: Why Europe\u2019s space ambitions depend on what comes next",
+      "link": "https://spacenews.com/after-the-launch-why-europes-space-ambitions-depend-on-what-comes-next/",
+      "pubDate": "2026-06-10T11:00:00Z",
+      "snippet": "Satellites have become essential infrastructure. Financial markets rely on their timing signals. Military operations depend on their communications and surveillance. Navigation, disaster response, log...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NASA names crew for Artemis 3 mission to test lunar landers",
+      "link": "https://spacenews.com/nasa-names-crew-for-artemis-3-mission-to-test-lunar-landers/",
+      "pubDate": "2026-06-09T19:57:51Z",
+      "snippet": "NASA has named the astronauts who will fly the next Artemis mission, a test flight in low Earth orbit where Orion will attempt to dock with two lunar lander prototypes.\nThe post NASA names crew for Ar...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "After FCAS demise, Germany\u2019s options include ordering more F-35 warplanes",
+      "link": "https://www.defensenews.com/global/europe/2026/06/09/after-fcas-demise-germanys-options-include-ordering-more-f-35-warplanes/",
+      "pubDate": "2026-06-09T15:39:53Z",
+      "snippet": "\u201cKnowing what we know today, we wouldn\u2019t set up a program in this way again,\u201d Pistorius said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Warren AI\u2122 Risk analysis engine Is now Live: Building The Risk Intelligence Infrastructure Layer for The Space Economy",
+      "link": "https://spacenews.com/warren-ai-risk-analysis-engine-is-now-live-building-the-risk-intelligence-infrastructure-layer-for-the-space-economy/",
+      "pubDate": "2026-06-09T15:12:20Z",
+      "snippet": "The space economy is accelerating faster than ever before.&#160; Thousands of satellites are being launched. Commercial space stations are emerging. Space manufacturing is on the horizon. Governments,...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Pentagon reveals preferred munitions for one-way attack drones",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/06/09/pentagon-reveals-preferred-munitions-for-one-way-attack-drones/",
+      "pubDate": "2026-06-09T13:56:44Z",
+      "snippet": "The list includes Northrop Grumman and several startups competing to supply low-cost payloads compatible with any drone design.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US soldiers rescued by drone after Apache helicopter goes down near the coast of Oman",
+      "link": "https://www.defensenews.com/news/your-military/2026/06/09/us-soldiers-rescued-after-apache-helicopter-goes-down-near-the-coast-of-oman/",
+      "pubDate": "2026-06-09T13:08:52Z",
+      "snippet": "U.S. Naval Forces Central Command's Task Force 59 and the Army's 82nd Airborne Division led the rescue, with Air Force assets assisting, as well.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "BlackSky to accelerate broad-area collection work under NRO contract modification",
       "link": "https://spacenews.com/blacksky-to-accelerate-broad-area-collection-work-under-nro-contract-modification/",
@@ -183,60 +300,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "UK startup NewOrbit raises $18.5 million in Series A round",
-      "link": "https://spacenews.com/uk-startup-neworbit-raises-18-5-million-in-series-a-round/",
-      "pubDate": "2026-06-08T07:00:00Z",
-      "snippet": "SAN FRANCISCO \u2013 NewOrbit Space, a UK startup developing satellites for very low Earth orbit (VLEO), has raised $18.5 million in a Series A investment round. With the funding, announced [&#8230;]\nThe p...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "OQ Technology plans direct-to-smartphone demo with cellular spectrum",
-      "link": "https://spacenews.com/oq-technology-plans-direct-to-smartphone-demo-with-cellular-spectrum/",
-      "pubDate": "2026-06-08T06:30:00Z",
-      "snippet": "Luxembourg\u2019s OQ Technology plans to test direct-to-smartphone satellite connectivity next year in Germany using a local telco\u2019s cellular spectrum, setting up a challenge to U.S.-led services in the em...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NASA to select new headquarters building by end of year",
-      "link": "https://spacenews.com/nasa-to-select-new-headquarters-building-by-end-of-year/",
-      "pubDate": "2026-06-07T13:55:38Z",
-      "snippet": "NASA plans to find a new headquarters building by the end of this year while remaining in the Washington area.\nThe post NASA to select new headquarters building by end of year appeared first on SpaceN...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Rounding up the space unicorns",
-      "link": "https://spacenews.com/rounding-up-the-space-unicorns/",
-      "pubDate": "2026-06-07T11:03:54Z",
-      "snippet": "Once rare beasts, billion-dollar startups are multiplying across new orbital markets.\nThe post Rounding up the space unicorns appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NASA interested in Hubble reboost if costs can be reduced",
-      "link": "https://spacenews.com/nasa-interested-in-hubble-reboost-if-costs-can-be-reduced/",
-      "pubDate": "2026-06-07T00:52:07Z",
-      "snippet": "As NASA prepares an attempt to reboost an astronomy spacecraft in a decaying orbit, it is open to doing something similar for Hubble, if its operating costs can be reduced.\nThe post NASA interested in...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NASA concerns about Russian repairs prompted ISS safe haven decision",
-      "link": "https://spacenews.com/nasa-concerns-about-russian-repairs-prompted-iss-safe-haven-decision/",
-      "pubDate": "2026-06-06T17:33:35Z",
-      "snippet": "NASA directed astronauts on the ISS to shelter in a Crew Dragon spacecraft after Russian cosmonauts planned to perform repairs the agency thought created \u201celevated risk\u201d to the station.\nThe post NASA ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "US strikes Iranian sites after Iran launches drones, in latest Gulf flare-up",
       "link": "https://www.defensenews.com/flashpoints/middle-east/2026/06/06/us-strikes-iranian-sites-after-iran-launches-drones-in-latest-gulf-flare-up/",
       "pubDate": "2026-06-06T15:00:51Z",
@@ -262,24 +325,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Leaf Space partners with D-Orbit and EnduroSat to test connectivity service",
-      "link": "https://spacenews.com/leaf-space-partners-with-d-orbit-and-endurosat-to-test-connectivity-service/",
-      "pubDate": "2026-06-05T18:12:10Z",
-      "snippet": "MILAN \u2013 Italian ground segment operator Leaf Space unveiled a new space connectivity service May 27. The technology, named TreeNet, aims to make space communications more seamless by treating individu...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Astronauts briefly shelter in Dragon during ISS leak repair",
-      "link": "https://spacenews.com/astronauts-briefly-shelter-in-dragon-during-iss-leak-repair/",
-      "pubDate": "2026-06-05T16:29:16Z",
-      "snippet": "NASA instructed astronauts on the International Space Station to briefly shelter in a Dragon spacecraft June 5 as cosmonauts attempted to repair an air leak in a Russian module.\nThe post Astronauts br...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "US forces board sanctioned tanker in Indian Ocean, Pentagon says",
@@ -316,33 +361,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Lockheed\u2019s GRIZZLY C-UAS system downs attack drone in live-fire demo",
-      "link": "https://www.defensenews.com/news/your-military/2026/06/03/lockheeds-grizzly-c-uas-system-downs-attack-drone-in-live-fire-demo/",
-      "pubDate": "2026-06-03T15:34:13Z",
-      "snippet": "The live-fire demonstration paired the radars, Sanctum software and launcher to destroy the target at Yuma Proving Ground, Arizona.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Gulf tensions escalate as Iran hits Kuwait, US strikes near Hormuz",
-      "link": "https://www.defensenews.com/news/your-military/2026/06/03/gulf-tensions-escalate-as-iran-hits-kuwait-us-strikes-near-hormuz/",
-      "pubDate": "2026-06-03T15:09:44Z",
-      "snippet": "CENTCOM said it had carried out a new round of defensive strikes in southern Iran, while an Iranian drone attack on the Kuwait airport killed one person.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "At a NATO range in Latvia, hits and misses mark Europe\u2019s counter-drone journey",
-      "link": "https://www.defensenews.com/global/europe/2026/06/03/at-a-nato-range-in-latvia-hits-and-misses-mark-europes-counter-drone-journey/",
-      "pubDate": "2026-06-03T11:33:30Z",
-      "snippet": "Drone technology is \u201ca couple of steps ahead\u201d of countermeasures, one officer said, with interceptors having to work every time to prevent losses.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "New light-powered chip could accelerate AI and quantum computing",
@@ -475,15 +493,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/04/260424233215.htm",
       "pubDate": "2026-04-25T15:27:49Z",
       "snippet": "Scientists have created tiny \u201coptical tornadoes\u201d \u2014 swirling beams of light that twist like miniature whirlwinds \u2014 using a surprisingly simple setup based on liquid crystals. Instead of relying on comp...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "This exotic particle could finally explain why matter has mass",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260424233214.htm",
-      "pubDate": "2026-04-25T14:47:27Z",
-      "snippet": "A major physics experiment has uncovered evidence for a strange new form of matter, where a fleeting particle gets trapped inside a nucleus. This exotic state may reveal how mass is generated, suggest...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
