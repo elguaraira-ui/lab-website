@@ -1,7 +1,160 @@
 {
-  "updated": "2026-06-10T14:14:45.329342Z",
-  "count": 55,
+  "updated": "2026-06-11T14:26:56.830016Z",
+  "count": 56,
   "items": [
+    {
+      "title": "German, Spanish FCAS companies rally to preserve breakthrough fighter tech",
+      "link": "https://www.defensenews.com/global/europe/2026/06/11/german-spanish-fcas-companies-rally-to-preserve-breakthrough-fighter-tech/",
+      "pubDate": "2026-06-11T14:00:23Z",
+      "snippet": "With existing FCAS contracts ending this year, the companies want the government to keep spending money on a sixth-generation warplane.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "K2 Space, Rocket Lab win key supplier roles in Space Force satcom program",
+      "link": "https://spacenews.com/k2-space-rocket-lab-win-key-supplier-roles-in-space-force-satcom-program/",
+      "pubDate": "2026-06-11T14:00:00Z",
+      "snippet": "K2 Space and Rocket Lab will supply spacecraft buses to SES and Viasat for the military's next-generation protected satcom program\nThe post K2 Space, Rocket Lab win key supplier roles in Space Force s...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Scientists built a battery-free device that turns sunlight into fuel",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260611024601.htm",
+      "pubDate": "2026-06-11T13:44:58Z",
+      "snippet": "Scientists have developed an artificial photosynthesis system that essentially regulates itself, eliminating the need for batteries used in many current designs. The key innovation is an electrolyzer ...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "GEO cancellations complicate space insurance recovery",
+      "link": "https://spacenews.com/geo-cancellations-complicate-space-insurance-recovery/",
+      "pubDate": "2026-06-11T13:00:00Z",
+      "snippet": "The recent cancellation of three geostationary satellites is another blow for insurers hoping their legacy cash cows would bring home much-needed income following a bruising run of claims. SES disclos...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Open Cosmos seeks deadline extension for broadband constellation",
+      "link": "https://spacenews.com/open-cosmos-seeks-deadline-extension-for-broadband-constellation/",
+      "pubDate": "2026-06-11T12:43:41Z",
+      "snippet": "British small satellite specialist Open Cosmos is seeking more time to deploy its proposed sovereign broadband constellation for Europe after running into launch issues.\nThe post Open Cosmos seeks dea...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Scientists discover a strange property in rice and turn it into a smart material",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm",
+      "pubDate": "2026-06-11T12:29:52Z",
+      "snippet": "Scientists discovered that rice behaves in a highly unusual way: it weakens under rapid compression but stays stronger when pressure is applied slowly. Using this effect, they engineered a new materia...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "ESA awards contract for next-generation radar imaging satellites",
+      "link": "https://spacenews.com/esa-awards-contract-for-next-generation-radar-imaging-satellites/",
+      "pubDate": "2026-06-11T11:49:18Z",
+      "snippet": "Thales Alenia Space and Airbus Defence and Space won contracts to build the next generation of radar imaging satellites for Europe\u2019s Copernicus Earth observation program.\nThe post ESA awards contract ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats",
+      "link": "https://spacenews.com/long-march-5-launches-classified-satellite-zhuque-2e-lofts-direct-to-device-test-sats/",
+      "pubDate": "2026-06-11T11:36:39Z",
+      "snippet": "China has conducted a pair of launches to advance its communications capabilities, using the country\u2019s largest rocket and a commercial launcher.\nThe post Long March 5 launches classified satellite, Zh...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Missile defense in the age of saturation warfare",
+      "link": "https://spacenews.com/missile-defense-in-the-age-of-saturation-warfare/",
+      "pubDate": "2026-06-11T11:00:00Z",
+      "snippet": "With the evolution of new military technologies, the trajectory of war has undergone a massive change. Historically, wars were fought through direct confrontation on the battlefield, while contemporar...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "AI could uncover new physics faster but there\u2019s a surprising catch",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260611024557.htm",
+      "pubDate": "2026-06-11T09:16:15Z",
+      "snippet": "Scientists found that transfer learning can make the search for new physics in the universe much faster, slashing the need for expensive simulations. Yet the approach can backfire when AI relies too h...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Artemis 3 commander confident crew will be ready for 2027 mission",
+      "link": "https://spacenews.com/artemis-3-commander-confident-crew-will-be-ready-for-2027-mission/",
+      "pubDate": "2026-06-10T22:22:07Z",
+      "snippet": "The astronaut named commander of Artemis 3 is confident that his crew will be ready for what NASA has called one of its most complex missions in just a year.\nThe post Artemis 3 commander confident cre...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "House appropriators back $55.5 billion Space Force budget, omit reconciliation funds",
+      "link": "https://spacenews.com/house-appropriators-back-55-5-billion-space-force-budget-omit-reconciliation-funds/",
+      "pubDate": "2026-06-10T19:39:20Z",
+      "snippet": "Draft defense bill funds Pentagon at requested discretionary levels but excludes $350 billion in proposed reconciliation spending, casting doubt on Golden Dome and other space programs\nThe post House ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "\u2018They got very lucky,\u2019 Trump says of downed Apache helicopter\u2019s crew",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/06/10/they-got-very-lucky-trump-says-of-downed-apache-helicopters-crew/",
+      "pubDate": "2026-06-10T19:31:04Z",
+      "snippet": "After a U.S. Army Apache helicopter was downed by an Iranian drone, President Donald Trump said the rescued aviators \u201cgot very lucky.\u201d",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Army astronaut tapped for NASA\u2019s Artemis III mission",
+      "link": "https://www.defensenews.com/news/your-military/2026/06/10/us-army-astronaut-tapped-for-nasas-artemis-iii-mission/",
+      "pubDate": "2026-06-10T18:54:48Z",
+      "snippet": "The U.S. Army is launching into space again by way of Col. Frank Rubio, who will be part of the 2027 Artemis III mission, NASA announced Tuesday.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Qatari-donated Air Force One now sports red, white and blue paint job",
+      "link": "https://www.defensenews.com/news/your-military/2026/06/10/qatari-donated-air-force-one-now-sports-red-white-and-blue-paint-job/",
+      "pubDate": "2026-06-10T17:28:13Z",
+      "snippet": "The interim Air Force One VC-25B Bridge aircraft is undergoing its final modifications ahead of a summer rollout.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Commercial Space Federation (CSF) Welcomes Two New Space Supply Chain Members",
+      "link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-space-supply-chain-members/",
+      "pubDate": "2026-06-10T15:00:00Z",
+      "snippet": "June 8, 2026 \u2013 Washington, D.C.\u2014The Commercial Space Federation (CSF) is pleased to welcome Besxar and Charter Space as new space supply chain members, adding expertise in space-based semiconductor ma...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Spire to pursue space-based missile warning in partnership with German defense firm",
+      "link": "https://spacenews.com/spire-to-pursue-space-based-missile-warning-in-partnership-with-german-defense-firm/",
+      "pubDate": "2026-06-10T15:00:00Z",
+      "snippet": "Diehl Defence will explore using Spire\u2019s constellation for detection of ballistic and hypersonic missile threats \nThe post Spire to pursue space-based missile warning in partnership with German defens...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "UK startup Applied Atomics to enter US market with focus on military space mobility",
       "link": "https://spacenews.com/uk-startup-applied-atomics-to-enter-us-market-with-focus-on-military-space-mobility/",
@@ -147,51 +300,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Iceye raises 1 billion euros to expand SAR satellite systems",
-      "link": "https://spacenews.com/iceye-raises-1-billion-euros-to-expand-sar-satellite-systems/",
-      "pubDate": "2026-06-09T11:24:30Z",
-      "snippet": "Iceye, a Finnish company that develops and operates radar imaging satellites, has raised more than 1 billion euros in a round that values it at more than 10 billion euros.\nThe post Iceye raises 1 bill...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Isar Aerospace raises 270 million euros for global launch expansion",
-      "link": "https://spacenews.com/isar-aerospace-raises-270-million-euros-for-global-launch-expansion/",
-      "pubDate": "2026-06-09T10:34:29Z",
-      "snippet": "European launch company Isar Aerospace has raised 270 million euros ($312 million) to support its global expansion as it prepares for its next launch attempt.\nThe post Isar Aerospace raises 270 millio...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Commercial launch providers shortlisted for China\u2019s low-cost cargo spacecraft",
-      "link": "https://spacenews.com/commercial-launch-providers-shortlisted-for-chinas-low-cost-cargo-spacecraft/",
-      "pubDate": "2026-06-09T10:02:10Z",
-      "snippet": "China is expanding the role of its commercial rocket companies by shortlisting four such entities for launches of a new space station cargo transport system.\nThe post Commercial launch providers short...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Let\u2019s procure in-orbit services like Earth observation data and services",
-      "link": "https://spacenews.com/lets-procure-in-orbit-services-like-earth-observation-data-and-services/",
-      "pubDate": "2026-06-09T10:00:00Z",
-      "snippet": "The Chinese company MizarVision recently gained attention with its open source Earth observation data analysis over the Middle East which showed images of F-35s&#160; gathering 24 hours before Operati...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "FCC lets Amazon Leo miss deployment deadline with temporary spectrum penalty",
-      "link": "https://spacenews.com/fcc-lets-amazon-leo-miss-deployment-deadline-with-temporary-spectrum-penalty/",
-      "pubDate": "2026-06-08T18:39:51Z",
-      "snippet": "Amazon no longer faces a July 30 cutoff for deploying half its planned 3,232 broadband satellites, but the reprieve comes with a temporary loss of spectrum priority that could give SpaceX and other ri...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "US approves Kuwait request to buy nearly $2 billion of counter-drone platforms",
       "link": "https://www.defensenews.com/industry/techwatch/2026/06/08/us-approves-kuwait-request-to-buy-nearly-2-billion-of-counter-drone-platforms/",
       "pubDate": "2026-06-08T17:46:16Z",
@@ -228,15 +336,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Russia is jamming GPS from space",
-      "link": "https://spacenews.com/russia-is-jamming-gps-from-space/",
-      "pubDate": "2026-06-08T15:00:00Z",
-      "snippet": "\u201cAmerica is at risk of high impact GPS jamming and spoofing from space\u201d was the title of my SpaceNews opinion article in October 2024. Little did I know that its [&#8230;]\nThe post Russia is jamming G...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "French jet on NATO mission shoots down drone in Latvian airspace",
       "link": "https://www.defensenews.com/global/europe/2026/06/08/french-jet-on-nato-mission-shoots-down-drone-in-latvian-airspace/",
       "pubDate": "2026-06-08T14:39:28Z",
@@ -244,24 +343,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Quantum Space to go public in SPAC deal",
-      "link": "https://spacenews.com/quantum-space-to-go-public-in-spac-deal/",
-      "pubDate": "2026-06-08T14:19:44Z",
-      "snippet": "Quantum Space, a company led by a former NASA administrator developing highly maneuverable spacecraft for national security missions, will go public by merging with a special purpose acquisition compa...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "WRC-27: the next arena for U.S.-China space competition",
-      "link": "https://spacenews.com/wrc-27-the-next-arena-for-u-s-china-space-competition/",
-      "pubDate": "2026-06-08T13:00:00Z",
-      "snippet": "For anyone who wasn\u2019t sure whether China was in it to win the space race and dominate the rapidly growing space economy, its filings in December for 200,000 more satellites [&#8230;]\nThe post WRC-27: ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "What is space-time? A mystery at the heart of reality",
@@ -273,15 +354,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "Axiom and Prada advance design of spacesuit",
-      "link": "https://spacenews.com/axiom-and-prada-advance-design-of-spacesuit/",
-      "pubDate": "2026-06-08T11:23:20Z",
-      "snippet": "Axiom Space unveiled the design of another element of the lunar spacesuit it is developing for NASA in partnership with luxury designer Prada.\nThe post Axiom and Prada advance design of spacesuit appe...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Heat breaks the rules at the nanoscale and scientists used it to their advantage",
       "link": "https://www.sciencedaily.com/releases/2026/06/260606075511.htm",
       "pubDate": "2026-06-08T11:17:50Z",
@@ -289,15 +361,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Speed as a Strategic Advantage in Border Monitoring",
-      "link": "https://spacenews.com/speed-as-a-strategic-advantage-in-border-monitoring/",
-      "pubDate": "2026-06-08T11:00:00Z",
-      "snippet": "Across Europe, border environments are becoming increasingly dynamic and complex. Activity can shift within hours\u2014vehicles reposition, staging areas disperse, small watercraft alter routes, and nodes ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "US strikes Iranian sites after Iran launches drones, in latest Gulf flare-up",
@@ -325,33 +388,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "US forces board sanctioned tanker in Indian Ocean, Pentagon says",
-      "link": "https://www.defensenews.com/news/your-military/2026/06/05/us-forces-board-sanctioned-tanker-in-indian-ocean-pentagon-says/",
-      "pubDate": "2026-06-05T12:49:44Z",
-      "snippet": "U.S. forces have intercepted multiple commercial and oil tankers in the Indian Ocean in recent months.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "The US Army wants thousands of air defense missiles to replace the Stinger",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/06/05/the-us-army-wants-thousands-of-air-defense-missiles-to-replace-the-stinger/",
-      "pubDate": "2026-06-05T12:10:45Z",
-      "snippet": "A new Army Request for Information seeks to identify companies that can deliver 11,000 next-gen, short range interceptors beginning in Fiscal Year 2028.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Hidden chemical weapons sites emerge in Syria amid fragile security transition",
-      "link": "https://www.defensenews.com/global/mideast-africa/2026/06/04/hidden-chemical-weapons-sites-emerge-in-syria-amid-fragile-security-transition/",
-      "pubDate": "2026-06-04T15:02:01Z",
-      "snippet": "Over a decade after Syria agreed to dismantle its arsenal, international inspectors have uncovered scores of previously hidden chemical weapons materials.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "After 20 years, scientists finally shrink a powerful laser onto a chip",
@@ -466,33 +502,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/05/260505234611.htm",
       "pubDate": "2026-05-06T21:00:24Z",
       "snippet": "A powerful new electromagnetic thruster has taken a major step forward after a successful high-energy test at NASA\u2019s Jet Propulsion Laboratory. Fueled by lithium vapor and driven by intense magnetic f...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "MIT scientists finally reveal the hidden structure of a mysterious high-tech material",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260504023831.htm",
-      "pubDate": "2026-05-04T13:14:10Z",
-      "snippet": "For decades, relaxor ferroelectrics have powered everything from medical ultrasounds to sonar systems, yet their inner atomic structure remained a mystery\u2014until now. Researchers have finally mapped th...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Physicists just found a tiny flaw in time itself",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260502233918.htm",
-      "pubDate": "2026-05-03T13:40:13Z",
-      "snippet": "Physicists are rethinking one of quantum mechanics\u2019 biggest puzzles: how fuzzy possibilities become definite reality. New research suggests that spontaneous \u201ccollapse\u201d processes\u2014possibly linked to gra...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "New \u201coptical tornado\u201d technology could transform quantum communication",
-      "link": "https://www.sciencedaily.com/releases/2026/04/260424233215.htm",
-      "pubDate": "2026-04-25T15:27:49Z",
-      "snippet": "Scientists have created tiny \u201coptical tornadoes\u201d \u2014 swirling beams of light that twist like miniature whirlwinds \u2014 using a surprisingly simple setup based on liquid crystals. Instead of relying on comp...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
