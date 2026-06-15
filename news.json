@@ -1,7 +1,151 @@
 {
-  "updated": "2026-06-12T13:56:40.342711Z",
-  "count": 57,
+  "updated": "2026-06-15T16:10:42.623949Z",
+  "count": 54,
   "items": [
+    {
+      "title": "DARPA to explore ways to rapidly rebuild satellite networks if attacked",
+      "link": "https://spacenews.com/darpa-to-explore-ways-to-rapidly-rebuild-satellite-networks-if-attacked/",
+      "pubDate": "2026-06-15T13:55:04Z",
+      "snippet": "The agency is seeking novel concepts to restore critical satellite services within hours or weeks\nThe post DARPA to explore ways to rapidly rebuild satellite networks if attacked appeared first on Spa...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "What\u2019s the Best Way to Monetize Space Energy?",
+      "link": "https://spacenews.com/whats-the-best-way-to-monetize-space-energy/",
+      "pubDate": "2026-06-15T13:06:16Z",
+      "snippet": "By Marc Berte, Founder and CEO of Overview Energy AI is making energy valuable enough that we&#8217;re reconsidering where infrastructure should live. Space is increasingly where that conversation lea...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Sustained maneuver has a propulsion problem",
+      "link": "https://spacenews.com/sustained-maneuver-has-a-propulsion-problem/",
+      "pubDate": "2026-06-15T13:00:00Z",
+      "snippet": "For years, space architecture was treated mostly as a question of placement: where to put a spacecraft, and how reliably it could hold position. That framing is now too narrow. [&#8230;]\nThe post Sust...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "France picks MBDA-Safran combo to supply multiple rocket launcher",
+      "link": "https://www.defensenews.com/global/europe/2026/06/15/france-picks-mbda-safran-combo-to-supply-multiple-rocket-launcher/",
+      "pubDate": "2026-06-15T12:14:11Z",
+      "snippet": "Paris snubbed competing offers from Thales and ArianeGroup, as well as from U.S. defense giant Lockheed Martin and South Korea's Hanwha Aerospace.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "This strange material can become strong or fall apart in seconds",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm",
+      "pubDate": "2026-06-15T11:54:43Z",
+      "snippet": "Scientists have found that staple-shaped particles can tangle together to create a material that is both strong and flexible. Unlike conventional materials, these particles can be locked into a sturdy...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "French army shows Leclerc tank with once-mocked anti-drone cage",
+      "link": "https://www.defensenews.com/global/europe/2026/06/15/french-army-shows-leclerc-tank-with-once-mocked-anti-drone-cage/",
+      "pubDate": "2026-06-15T07:48:14Z",
+      "snippet": "Once derided as primitive, roof-mounted armor variants have been adopted by both Russian and Ukrainian forces as drone threats proliferate.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Oxford physicists just made Schr\u00f6dinger\u2019s cat even stranger",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260614011848.htm",
+      "pubDate": "2026-06-15T07:29:46Z",
+      "snippet": "Oxford physicists have created an entirely new type of Schr\u00f6dinger\u2019s cat-like quantum state using components that are themselves highly quantum in nature. The advance could open new possibilities for ...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "France prepares Ukraine-inspired \u2018kill web\u2019 for battlefield awareness",
+      "link": "https://www.defensenews.com/global/europe/2026/06/15/france-prepares-ukraine-inspired-kill-web-for-battlefield-awareness/",
+      "pubDate": "2026-06-15T06:18:58Z",
+      "snippet": "The kill web will be part of the broader Arcadia AI-powered battlefield command and control structure, a top French commander said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Interview: French Army chief Schill talks technology, surprise and \u2018archaic\u2019 combat",
+      "link": "https://www.defensenews.com/global/europe/2026/06/14/interview-french-army-chief-schill-talks-technology-surprise-and-archaic-combat/",
+      "pubDate": "2026-06-14T06:55:16Z",
+      "snippet": "\"We should avoid excessive analogies. France is not Ukraine,\" said Gen. Pierre Schill in an interview ahead of the Eurosatory defense expo near Paris.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Missile production push runs into solid rocket motor bottleneck",
+      "link": "https://spacenews.com/missile-production-push-runs-into-solid-rocket-motor-bottleneck/",
+      "pubDate": "2026-06-14T04:00:00Z",
+      "snippet": "A new CSIS report says planned 2027 interceptor buys will test a supply chain still recovering from years of consolidation\nThe post Missile production push runs into solid rocket motor bottleneck appe...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Revised Artemis lunar lander plans take shape",
+      "link": "https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/",
+      "pubDate": "2026-06-13T17:19:56Z",
+      "snippet": "NASA has provided more details about the revised approaches that Blue Origin and SpaceX are taking to accelerate work on Artemis lunar landers.\nThe post Revised Artemis lunar lander plans take shape a...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "SpaceX shares rise nearly 20% in historic IPO",
+      "link": "https://spacenews.com/spacex-shares-rise-nearly-20-in-historic-ipo/",
+      "pubDate": "2026-06-12T21:06:39Z",
+      "snippet": "SpaceX shares rose on the first day of trading as the company went public in a milestone event for both the company and the broader space industry.\nThe post SpaceX shares rise nearly 20% in historic I...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Avanti trims GEO exposure with Hylas-3 sale",
+      "link": "https://spacenews.com/avanti-trims-geo-exposure-with-hylas-3-sale/",
+      "pubDate": "2026-06-12T20:43:16Z",
+      "snippet": "TAMPA, Fla. \u2014 Avanti Communications is moving to close a chapter on the debt-fueled geostationary expansion that once defined the British satellite operator, with plans to sell the youngest payload [&...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Astronomers fear orbital data centers will interfere with observations",
+      "link": "https://spacenews.com/astronomers-fear-orbital-data-centers-will-interfere-with-observations/",
+      "pubDate": "2026-06-12T19:49:45Z",
+      "snippet": "As SpaceX gears up to start launching orbital data center spacecraft as soon as next year, astronomers warn those satellites could cause serious interference with their observations.\nThe post Astronom...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Army commissions second cohort of tech executives into innovation unit",
+      "link": "https://www.defensenews.com/news/your-military/2026/06/12/us-army-commissions-second-cohort-of-tech-executives-into-innovation-unit/",
+      "pubDate": "2026-06-12T16:01:06Z",
+      "snippet": "This week, the Army added three more technology executives to Detachment 201, a unit intended to bridge the gap between the commercial sector and military.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Ukraine\u2019s defense AI chief predicts \u2018new paradigm\u2019 of warfare",
+      "link": "https://www.defensenews.com/global/europe/2026/06/12/ukraines-defense-ai-chief-predicts-new-paradigm-of-warfare/",
+      "pubDate": "2026-06-12T14:38:09Z",
+      "snippet": "\u201cThe system that possesses more data and better understands that data, proposes solutions \u2014 that system will gain the advantage over the other.\"",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "US plans major cut to jets, warships for NATO operations in Europe, NYT reports",
       "link": "https://www.defensenews.com/pentagon/2026/06/12/us-plans-major-cut-to-jets-warships-for-nato-operations-in-europe-nyt-reports/",
@@ -156,15 +300,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Open Cosmos seeks deadline extension for broadband constellation",
-      "link": "https://spacenews.com/open-cosmos-seeks-deadline-extension-for-broadband-constellation/",
-      "pubDate": "2026-06-11T12:43:41Z",
-      "snippet": "British small satellite specialist Open Cosmos is seeking more time to deploy its proposed sovereign broadband constellation for Europe after running into launch issues.\nThe post Open Cosmos seeks dea...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Scientists discover a strange property in rice and turn it into a smart material",
       "link": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm",
       "pubDate": "2026-06-11T12:29:52Z",
@@ -174,33 +309,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "ESA awards contract for next-generation radar imaging satellites",
-      "link": "https://spacenews.com/esa-awards-contract-for-next-generation-radar-imaging-satellites/",
-      "pubDate": "2026-06-11T11:49:18Z",
-      "snippet": "Thales Alenia Space and Airbus Defence and Space won contracts to build the next generation of radar imaging satellites for Europe\u2019s Copernicus Earth observation program.\nThe post ESA awards contract ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Long March 5 launches classified satellite, Zhuque-2E lofts direct-to-device test sats",
-      "link": "https://spacenews.com/long-march-5-launches-classified-satellite-zhuque-2e-lofts-direct-to-device-test-sats/",
-      "pubDate": "2026-06-11T11:36:39Z",
-      "snippet": "China has conducted a pair of launches to advance its communications capabilities, using the country\u2019s largest rocket and a commercial launcher.\nThe post Long March 5 launches classified satellite, Zh...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Missile defense in the age of saturation warfare",
-      "link": "https://spacenews.com/missile-defense-in-the-age-of-saturation-warfare/",
-      "pubDate": "2026-06-11T11:00:00Z",
-      "snippet": "With the evolution of new military technologies, the trajectory of war has undergone a massive change. Historically, wars were fought through direct confrontation on the battlefield, while contemporar...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "AI could uncover new physics faster but there\u2019s a surprising catch",
       "link": "https://www.sciencedaily.com/releases/2026/06/260611024557.htm",
       "pubDate": "2026-06-11T09:16:15Z",
@@ -208,24 +316,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Artemis 3 commander confident crew will be ready for 2027 mission",
-      "link": "https://spacenews.com/artemis-3-commander-confident-crew-will-be-ready-for-2027-mission/",
-      "pubDate": "2026-06-10T22:22:07Z",
-      "snippet": "The astronaut named commander of Artemis 3 is confident that his crew will be ready for what NASA has called one of its most complex missions in just a year.\nThe post Artemis 3 commander confident cre...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "House appropriators back $55.5 billion Space Force budget, omit reconciliation funds",
-      "link": "https://spacenews.com/house-appropriators-back-55-5-billion-space-force-budget-omit-reconciliation-funds/",
-      "pubDate": "2026-06-10T19:39:20Z",
-      "snippet": "Draft defense bill funds Pentagon at requested discretionary levels but excludes $350 billion in proposed reconciliation spending, casting doubt on Golden Dome and other space programs\nThe post House ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "\u2018They got very lucky,\u2019 Trump says of downed Apache helicopter\u2019s crew",
@@ -255,24 +345,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Commercial Space Federation (CSF) Welcomes Two New Space Supply Chain Members",
-      "link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-space-supply-chain-members/",
-      "pubDate": "2026-06-10T15:00:00Z",
-      "snippet": "June 8, 2026 \u2013 Washington, D.C.\u2014The Commercial Space Federation (CSF) is pleased to welcome Besxar and Charter Space as new space supply chain members, adding expertise in space-based semiconductor ma...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Spire to pursue space-based missile warning in partnership with German defense firm",
-      "link": "https://spacenews.com/spire-to-pursue-space-based-missile-warning-in-partnership-with-german-defense-firm/",
-      "pubDate": "2026-06-10T15:00:00Z",
-      "snippet": "Diehl Defence will explore using Spire\u2019s constellation for detection of ballistic and hypersonic missile threats \nThe post Spire to pursue space-based missile warning in partnership with German defens...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "The US usually sells weapons to Taiwan \u2013 with drones, expect the reverse",
       "link": "https://www.defensenews.com/global/asia-pacific/2026/06/10/the-us-usually-sells-weapons-to-taiwan-with-drones-expect-the-reverse/",
       "pubDate": "2026-06-10T12:00:22Z",
@@ -289,87 +361,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "After FCAS demise, Germany\u2019s options include ordering more F-35 warplanes",
-      "link": "https://www.defensenews.com/global/europe/2026/06/09/after-fcas-demise-germanys-options-include-ordering-more-f-35-warplanes/",
-      "pubDate": "2026-06-09T15:39:53Z",
-      "snippet": "\u201cKnowing what we know today, we wouldn\u2019t set up a program in this way again,\u201d Pistorius said.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon reveals preferred munitions for one-way attack drones",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/06/09/pentagon-reveals-preferred-munitions-for-one-way-attack-drones/",
-      "pubDate": "2026-06-09T13:56:44Z",
-      "snippet": "The list includes Northrop Grumman and several startups competing to supply low-cost payloads compatible with any drone design.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US soldiers rescued by drone after Apache helicopter goes down near the coast of Oman",
-      "link": "https://www.defensenews.com/news/your-military/2026/06/09/us-soldiers-rescued-after-apache-helicopter-goes-down-near-the-coast-of-oman/",
-      "pubDate": "2026-06-09T13:08:52Z",
-      "snippet": "U.S. Naval Forces Central Command's Task Force 59 and the Army's 82nd Airborne Division led the rescue, with Air Force assets assisting, as well.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Airbus-led alliance lobbies Germany on fighter jet project",
-      "link": "https://www.defensenews.com/global/europe/2026/06/09/airbus-led-alliance-lobbies-germany-on-fighter-jet-project/",
-      "pubDate": "2026-06-09T11:48:32Z",
-      "snippet": "Industry sources said the move did not\u00a0amount to an attempt\u00a0to launch a new fighter project\u00a0following\u00a0the collapse\u00a0of the Franco-German\u00a0FCAS program.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US approves Kuwait request to buy nearly $2 billion of counter-drone platforms",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/06/08/us-approves-kuwait-request-to-buy-nearly-2-billion-of-counter-drone-platforms/",
-      "pubDate": "2026-06-08T17:46:16Z",
-      "snippet": "Following recent Iranian strikes on Kuwait, the U.S. approved a potential foreign military sale of counter-UAS platforms made by Anduril.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Navy F/A-18 Super Hornet strikes, disables oil tanker in Gulf of Oman",
-      "link": "https://www.defensenews.com/flashpoints/2026/06/08/us-navy-fa-18-super-hornet-strikes-disables-oil-tanker-in-gulf-of-oman/",
-      "pubDate": "2026-06-08T17:16:38Z",
-      "snippet": "An F/A-18 Super Hornet assigned to the aircraft carrier USS Abraham Lincoln fired a precision munition into the vessel's engineering and steering spaces.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US must learn lessons from Ukraine, innovate faster and cheaper: Anduril president",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/06/08/us-must-learn-lessons-from-ukraine-innovate-faster-and-cheaper-anduril-president/",
-      "pubDate": "2026-06-08T16:02:50Z",
-      "snippet": "Anduril President Christian Brose discussed the need to develop cheaper weapons systems at scale to avoid quick depletion of exquisite munitions.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Polish-Ukrainian startup develops radar to track elusive, low-flying drones",
-      "link": "https://www.defensenews.com/global/europe/2026/06/08/polish-ukrainian-startup-develops-radar-to-track-elusive-low-flying-drones/",
-      "pubDate": "2026-06-08T15:12:32Z",
-      "snippet": "The technology aims to find small, low-flying drones, including those connected to operators via long, fiber-optic command wires.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "French jet on NATO mission shoots down drone in Latvian airspace",
-      "link": "https://www.defensenews.com/global/europe/2026/06/08/french-jet-on-nato-mission-shoots-down-drone-in-latvian-airspace/",
-      "pubDate": "2026-06-08T14:39:28Z",
-      "snippet": "Military drones straying into the airspace of Russia\u2019s neighbors have stoked concerns that Russia\u2019s war in Ukraine is spilling over NATO\u2019s borders.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "What is space-time? A mystery at the heart of reality",
@@ -428,7 +419,7 @@
     {
       "title": "This strange crystal acts like metal and glass at the same time",
       "link": "https://www.sciencedaily.com/releases/2026/06/260601025322.htm",
-      "pubDate": "2026-06-01T07:25:09Z",
+      "pubDate": "2026-06-01T06:53:22Z",
       "snippet": "A remarkable crystal called molybdenum oxychloride could help make futuristic technologies like smart contact lenses and ultrathin AR glasses a reality. Scientists have created the first detailed expe...",
       "source": "ScienceDaily",
       "category": "engineering",
@@ -493,24 +484,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
       "pubDate": "2026-05-10T11:39:45Z",
       "snippet": "A team at the University of Hong Kong has developed a new \u201csuper steel\u201d that can survive the harsh conditions needed to make green hydrogen from seawater. The material uses an unexpected double-protec...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "The hidden atomic gap that could break next-generation computer chips",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260508003125.htm",
-      "pubDate": "2026-05-09T22:48:13Z",
-      "snippet": "A major obstacle may be standing in the way of the next generation of ultra-tiny computer chips. Researchers discovered that many promising 2D materials lose their advantages because an invisible atom...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "NASA just tested a powerful new thruster that could send humans to Mars",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260505234611.htm",
-      "pubDate": "2026-05-06T21:00:24Z",
-      "snippet": "A powerful new electromagnetic thruster has taken a major step forward after a successful high-energy test at NASA\u2019s Jet Propulsion Laboratory. Fueled by lithium vapor and driven by intense magnetic f...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
