@@ -1,7 +1,133 @@
 {
-  "updated": "2026-06-15T16:10:42.623949Z",
-  "count": 54,
+  "updated": "2026-06-16T15:47:15.137840Z",
+  "count": 57,
   "items": [
+    {
+      "title": "Katalyst Space raises $12 million for GEO servicing demo mission",
+      "link": "https://spacenews.com/katalyst-space-raises-12-million-for-geo-servicing-demo-mission/",
+      "pubDate": "2026-06-16T15:30:00Z",
+      "snippet": "Satellite servicing startup Katalyst Space Technologies has raised $12 million for a geosynchronous orbit demonstration as its mission to boost the orbit of a NASA observatory nears launch.\nThe post K...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "MBDA advances land version of its naval missile as European strike weapon",
+      "link": "https://www.defensenews.com/global/europe/2026/06/16/mbda-advances-land-version-of-its-naval-missile-as-european-strike-weapon/",
+      "pubDate": "2026-06-16T14:40:32Z",
+      "snippet": "Europe lacks long-range strike options that provide deterrence by holding Russian assets at risk, a gap that countries are trying to patch.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Rheinmetall pitches shipping container that can spit out swarms of attack drones",
+      "link": "https://www.defensenews.com/global/europe/2026/06/16/rheinmetall-pitches-shipping-container-that-can-spit-out-swarms-of-attack-drones/",
+      "pubDate": "2026-06-16T14:31:21Z",
+      "snippet": "One container can hold 18 of the company\u2019s FV-014 munitions, meant to plop out of the container by way of rocket-assisted start.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "PiLogic partners with Air Force lab to test satellite fault-prediction software",
+      "link": "https://spacenews.com/pilogic-partners-with-air-force-lab-to-test-satellite-fault-prediction-software/",
+      "pubDate": "2026-06-16T14:00:00Z",
+      "snippet": "The startup uses probabilistic reasoning to diagnose spacecraft anomalies \nThe post PiLogic partners with Air Force lab to test satellite fault-prediction software appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "A UN agency that works for US space",
+      "link": "https://spacenews.com/a-un-agency-that-works-for-us-space/",
+      "pubDate": "2026-06-16T13:00:00Z",
+      "snippet": "If United States policymakers deride the wider United Nations, they still spend on the International Telecommunication Union (ITU) because it amplifies the commercial reach of U.S. standards. This inc...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Geospatial industry launches maritime initiative",
+      "link": "https://spacenews.com/geospatial-industry-launches-maritime-initiative/",
+      "pubDate": "2026-06-16T12:00:00Z",
+      "snippet": "Growing demand from defense agencies and commercial shipping sectors is driving investment in maritime domain awareness technologies\nThe post Geospatial industry launches maritime initiative appeared ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Deep Space Network antenna mishap blamed on poor training and procedures",
+      "link": "https://spacenews.com/deep-space-network-antenna-mishap-blamed-on-poor-training-and-procedures/",
+      "pubDate": "2026-06-16T11:25:35Z",
+      "snippet": "A NASA investigation blamed millions of dollars in damage to one of its largest Deep Space Network (DSN) antennas on poor training and procedures.\nThe post Deep Space Network antenna mishap blamed on ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking",
+      "link": "https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/",
+      "pubDate": "2026-06-16T10:30:08Z",
+      "snippet": "China\u2019s Tianwen-2 spacecraft has carried out a series of small propulsive maneuvers following a main burn June 7, setting up an asteroid rendezvous in July.\nThe post Tianwen-2 makes series of burns on...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "KNDS proposes mixed French-German tank to replace France\u2019s Leclerc",
+      "link": "https://www.defensenews.com/global/europe/2026/06/16/knds-proposes-mixed-french-german-tank-to-replace-frances-leclerc/",
+      "pubDate": "2026-06-16T09:02:51Z",
+      "snippet": "The French-Germany company plans for an in-house active protection system and the ability to change out the 120mm gun with a 140mm variant.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Ukraine\u2019s demand for tiny drone laser-targeting systems spurs new product launches",
+      "link": "https://www.defensenews.com/global/europe/2026/06/16/ukraines-demand-for-tiny-drone-laser-targeting-systems-spurs-new-product-launches/",
+      "pubDate": "2026-06-16T06:36:16Z",
+      "snippet": "Companies rush to miniaturize the technology for marking targets on the battlefield, making it suitable to ride on small unmanned aerial vehicles.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "India touts new ballistic missile defense prowess after tests",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/06/16/india-touts-new-ballistic-missile-defense-prowess-after-tests/",
+      "pubDate": "2026-06-16T05:38:37Z",
+      "snippet": "India aims to joint a small club of countries capable of bringing down incoming missiles with technology made domestically.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "General Atomics awarded US Army contract for extended-range artillery round",
+      "link": "https://www.defensenews.com/news/your-military/2026/06/15/general-atomics-awarded-us-army-contract-for-extended-range-artillery/",
+      "pubDate": "2026-06-15T23:04:13Z",
+      "snippet": "During a test last year, the company's projectile hit targets more than 74 miles away after being fired from an M777 howitzer.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Gilat to buy Comtech satcoms business six years after failed merger",
+      "link": "https://spacenews.com/gilat-to-buy-comtech-satcoms-business-six-years-after-failed-merger/",
+      "pubDate": "2026-06-15T20:54:05Z",
+      "snippet": "Israel\u2019s Gilat Satellite Networks plans to expand its defense capabilities by acquiring most of Comtech\u2019s space-related communications business, six years after the U.S. company\u2019s own takeover bid col...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Space Force orders two more GPS satellites from Lockheed Martin for $514 million",
+      "link": "https://spacenews.com/space-force-orders-two-more-gps-satellites-from-lockheed-martin-for-514-million/",
+      "pubDate": "2026-06-15T20:27:15Z",
+      "snippet": "Contract brings GPS 3F orders to 14 satellites that add anti-jam features, digital payloads and upgraded civilian navigation signals\nThe post Space Force orders two more GPS satellites from Lockheed M...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "DARPA to explore ways to rapidly rebuild satellite networks if attacked",
       "link": "https://spacenews.com/darpa-to-explore-ways-to-rapidly-rebuild-satellite-networks-if-attacked/",
@@ -201,51 +327,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Vandenberg offers new launch site for small and medium rockets",
-      "link": "https://spacenews.com/vandenberg-offers-new-launch-site-for-small-and-medium-rockets/",
-      "pubDate": "2026-06-11T19:56:01Z",
-      "snippet": "The U.S. Space Force is seeking potential users of a new launch site at Vandenberg Space Force Base reserved for smaller rockets.\nThe post Vandenberg offers new launch site for small and medium rocket...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Understanding what\u2019s next for orbital data centers",
-      "link": "https://spacenews.com/understanding-whats-next-for-orbital-data-centers/",
-      "pubDate": "2026-06-11T19:38:03Z",
-      "snippet": "This episode of Space Minds is from SpaceNews\u2019 recent event on orbital data centers. There, SpaceNews journalists talk with industry leaders and analysts about what\u2019s driving interest in the technolog...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Senate NDAA backs plan to fold SDA, Space RCO into Space Force",
-      "link": "https://spacenews.com/senate-ndaa-backs-plan-to-fold-sda-space-rco-into-space-force/",
-      "pubDate": "2026-06-11T18:40:55Z",
-      "snippet": "The committee's 2027 defense bill would eliminate separate statutory requirements for the two acquisition organizations while advancing broader Pentagon procurement reforms\nThe post Senate NDAA backs ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "ESA astronaut assignment on Artemis 3 part of negotiations on revised Artemis roles",
-      "link": "https://spacenews.com/esa-astronaut-assignment-on-artemis-3-part-of-negotiations-on-revised-artemis-roles/",
-      "pubDate": "2026-06-11T17:33:50Z",
-      "snippet": "The assignment of an ESA astronaut to Artemis 3 is part of negotiations for revised roles in the overall effort, with a goal of getting its astronauts on the moon.\nThe post ESA astronaut assignment on...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "HyImpulse signs letter of intent with Oman\u2019s spaceport",
-      "link": "https://spacenews.com/hyimpulse-signs-letter-of-intent-with-omans-spaceport/",
-      "pubDate": "2026-06-11T16:43:48Z",
-      "snippet": "MILAN \u2014 Etlaq Spaceport, Oman\u2019s commercial spaceport, and German-based small launch provider HyImpulse have signed a letter of intent to explore future launch-related activities and a potential operat...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "UK defense secretary resigns in protest of government spending plan",
       "link": "https://www.defensenews.com/global/europe/2026/06/11/uk-defense-secretary-resigns-over-government-spending-plan/",
       "pubDate": "2026-06-11T15:02:17Z",
@@ -253,15 +334,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Tilebox Launches Verifiable AI Workflows for Satellite Data",
-      "link": "https://spacenews.com/tilebox-launches-verifiable-ai-workflows-for-satellite-data/",
-      "pubDate": "2026-06-11T15:00:00Z",
-      "snippet": "DOVER, DELAWARE \u2014 JUNE 11, 2026 \u2014 Tilebox today announced infrastructure for verifiable AI workflows on Earth observation data, giving teams a way to use agents through governed data, repeatable [&#82...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "German, Spanish FCAS companies rally to preserve breakthrough fighter tech",
@@ -273,15 +345,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "K2 Space, Rocket Lab win key supplier roles in Space Force satcom program",
-      "link": "https://spacenews.com/k2-space-rocket-lab-win-key-supplier-roles-in-space-force-satcom-program/",
-      "pubDate": "2026-06-11T14:00:00Z",
-      "snippet": "K2 Space and Rocket Lab will supply spacecraft buses to SES and Viasat for the military's next-generation protected satcom program\nThe post K2 Space, Rocket Lab win key supplier roles in Space Force s...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Scientists built a battery-free device that turns sunlight into fuel",
       "link": "https://www.sciencedaily.com/releases/2026/06/260611024601.htm",
       "pubDate": "2026-06-11T13:44:58Z",
@@ -289,15 +352,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "GEO cancellations complicate space insurance recovery",
-      "link": "https://spacenews.com/geo-cancellations-complicate-space-insurance-recovery/",
-      "pubDate": "2026-06-11T13:00:00Z",
-      "snippet": "The recent cancellation of three geostationary satellites is another blow for insurers hoping their legacy cash cows would bring home much-needed income following a bruising run of claims. SES disclos...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Scientists discover a strange property in rice and turn it into a smart material",
@@ -322,33 +376,6 @@
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/06/10/they-got-very-lucky-trump-says-of-downed-apache-helicopters-crew/",
       "pubDate": "2026-06-10T19:31:04Z",
       "snippet": "After a U.S. Army Apache helicopter was downed by an Iranian drone, President Donald Trump said the rescued aviators \u201cgot very lucky.\u201d",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army astronaut tapped for NASA\u2019s Artemis III mission",
-      "link": "https://www.defensenews.com/news/your-military/2026/06/10/us-army-astronaut-tapped-for-nasas-artemis-iii-mission/",
-      "pubDate": "2026-06-10T18:54:48Z",
-      "snippet": "The U.S. Army is launching into space again by way of Col. Frank Rubio, who will be part of the 2027 Artemis III mission, NASA announced Tuesday.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Qatari-donated Air Force One now sports red, white and blue paint job",
-      "link": "https://www.defensenews.com/news/your-military/2026/06/10/qatari-donated-air-force-one-now-sports-red-white-and-blue-paint-job/",
-      "pubDate": "2026-06-10T17:28:13Z",
-      "snippet": "The interim Air Force One VC-25B Bridge aircraft is undergoing its final modifications ahead of a summer rollout.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "The US usually sells weapons to Taiwan \u2013 with drones, expect the reverse",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/06/10/the-us-usually-sells-weapons-to-taiwan-with-drones-expect-the-reverse/",
-      "pubDate": "2026-06-10T12:00:22Z",
-      "snippet": "Taiwan's biggest appeal is the lack of China in the manufacturing supply chain, one analyst said.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
