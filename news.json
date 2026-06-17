@@ -1,7 +1,115 @@
 {
-  "updated": "2026-06-16T15:47:15.137840Z",
-  "count": 57,
+  "updated": "2026-06-17T14:21:27.411683Z",
+  "count": 58,
   "items": [
+    {
+      "title": "Fair winds, INDOPACOM: Pentagon returns command name to US Pacific Command",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/06/17/fair-winds-indopacom-pentagon-returns-command-name-to-us-pacific-command/",
+      "pubDate": "2026-06-17T13:01:48Z",
+      "snippet": "U.S. Pacific Command was the formation's official name until 2018, when it was changed to U.S. Indo-Pacific Command.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "America\u2019s next economic frontier is 240,000 miles away",
+      "link": "https://spacenews.com/americas-next-economic-frontier-is-240000-miles-away/",
+      "pubDate": "2026-06-17T13:00:00Z",
+      "snippet": "Humans have always gazed up at the moon in wonder. A generation ago, NASA astronauts did the extraordinary and touched down on its surface, planting an American flag and igniting [&#8230;]\nThe post Am...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Poland weighs joining X-BAT autonomous vertical-takeoff fighter program",
+      "link": "https://www.defensenews.com/global/europe/2026/06/17/poland-weighs-joining-x-bat-autonomous-vertical-takeoff-fighter-program/",
+      "pubDate": "2026-06-17T12:34:54Z",
+      "snippet": "The announcement comes as the Polish government is mulling plans to acquire up to 32 new fighter jets.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "China conducts 4 launches in 3 days, but silence follows Kuaizhou\u201311 launch",
+      "link": "https://spacenews.com/china-conducts-4-launches-in-3-days-but-silence-follows-kuaizhou-11-launch/",
+      "pubDate": "2026-06-17T12:18:53Z",
+      "snippet": "China continued its accelerated launch pace with a series of missions, but long silence followed liftoff of a Kuaizhou-11 solid rocket Wednesday, suggesting potential issues.\nThe post China conducts 4...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Dawn Aerospace raises $25 million",
+      "link": "https://spacenews.com/dawn-aerospace-raises-25-million/",
+      "pubDate": "2026-06-17T11:29:32Z",
+      "snippet": "Dawn Aerospace has raised $25 million to scale up its work in both in-space transportation and suborbital spaceplanes.\nThe post Dawn Aerospace raises $25 million appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Look Up and Skynopy partner on automated satellite collision avoidance service",
+      "link": "https://spacenews.com/look-up-and-skynopy-partner-on-automated-satellite-collision-avoidance-service/",
+      "pubDate": "2026-06-17T11:23:13Z",
+      "snippet": "Space surveillance venture Look Up plans to use Skynopy\u2019s ground station network to help automate its proposed low Earth orbit collision avoidance service, the French startups announced June 17.\nThe p...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "June 25:  Golden Dome: How Could Sensors Protect the United States?",
+      "link": "https://spacenews.com/golden-dome-sensors-event-june-25/",
+      "pubDate": "2026-06-17T01:10:41Z",
+      "snippet": "Join us as we explore the technologies behind Golden Dome, what\u2019s necessary to make them operate at a high level and what possibilities could be in the works for the satellites involved.\nThe post June...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Astrobotic unveils Griffin-1 lunar lander",
+      "link": "https://spacenews.com/astrobotic-unveils-griffin-1-lunar-lander/",
+      "pubDate": "2026-06-16T20:48:57Z",
+      "snippet": "Astrobotic showed off the lunar lander it plans to launch later this year that will be the vanguard of NASA\u2019s new lunar base ambitions.\nThe post Astrobotic unveils Griffin-1 lunar lander appeared firs...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Renault teams up with Thales to boost France\u2019s drone production",
+      "link": "https://www.defensenews.com/unmanned/2026/06/16/renault-teams-up-with-thales-to-boost-frances-drone-production/",
+      "pubDate": "2026-06-16T20:30:01Z",
+      "snippet": "The carmaker will build Thales\u2019 Toutatis remotely operated loitering munitions at one of its factories, with estimated production of 1,000 units a month.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Swiss decision to not contribute to Copernicus tests program\u2019s value model",
+      "link": "https://spacenews.com/swiss-decision-to-not-contribute-to-copernicus-tests-programs-value-model/",
+      "pubDate": "2026-06-16T18:16:54Z",
+      "snippet": "MILAN \u2014 Switzerland\u2019s decision not to participate in the European Union\u2019s Copernicus Earth observation program during the 2028\u20132034 funding cycle has revived a broader debate over the value of contrib...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "The SpaceNews space unicorn tracker",
+      "link": "https://spacenews.com/space-unicorns-spacenews-billion-valuation/",
+      "pubDate": "2026-06-16T16:05:57Z",
+      "snippet": "Our ongoing list of current private space companies with a valuation of $1 billion or more.\nThe post The SpaceNews space unicorn tracker appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "As Europe rearms, \u2018wingman\u2019 aircraft take center stage",
+      "link": "https://www.defensenews.com/unmanned/2026/06/16/as-europe-rearms-wingman-aircraft-take-center-stage/",
+      "pubDate": "2026-06-16T15:51:40Z",
+      "snippet": "European and U.S. defense forces are rapidly developing their own AI-powered drones to complement their fighter jets and carry extra battlefield tech.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Katalyst Space raises $12 million for GEO servicing demo mission",
       "link": "https://spacenews.com/katalyst-space-raises-12-million-for-geo-servicing-demo-mission/",
@@ -219,42 +327,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Revised Artemis lunar lander plans take shape",
-      "link": "https://spacenews.com/revised-artemis-lunar-lander-plans-take-shape/",
-      "pubDate": "2026-06-13T17:19:56Z",
-      "snippet": "NASA has provided more details about the revised approaches that Blue Origin and SpaceX are taking to accelerate work on Artemis lunar landers.\nThe post Revised Artemis lunar lander plans take shape a...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "SpaceX shares rise nearly 20% in historic IPO",
-      "link": "https://spacenews.com/spacex-shares-rise-nearly-20-in-historic-ipo/",
-      "pubDate": "2026-06-12T21:06:39Z",
-      "snippet": "SpaceX shares rose on the first day of trading as the company went public in a milestone event for both the company and the broader space industry.\nThe post SpaceX shares rise nearly 20% in historic I...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Avanti trims GEO exposure with Hylas-3 sale",
-      "link": "https://spacenews.com/avanti-trims-geo-exposure-with-hylas-3-sale/",
-      "pubDate": "2026-06-12T20:43:16Z",
-      "snippet": "TAMPA, Fla. \u2014 Avanti Communications is moving to close a chapter on the debt-fueled geostationary expansion that once defined the British satellite operator, with plans to sell the youngest payload [&...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Astronomers fear orbital data centers will interfere with observations",
-      "link": "https://spacenews.com/astronomers-fear-orbital-data-centers-will-interfere-with-observations/",
-      "pubDate": "2026-06-12T19:49:45Z",
-      "snippet": "As SpaceX gears up to start launching orbital data center spacecraft as soon as next year, astronomers warn those satellites could cause serious interference with their observations.\nThe post Astronom...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "US Army commissions second cohort of tech executives into innovation unit",
       "link": "https://www.defensenews.com/news/your-military/2026/06/12/us-army-commissions-second-cohort-of-tech-executives-into-innovation-unit/",
       "pubDate": "2026-06-12T16:01:06Z",
@@ -282,64 +354,10 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "All in on AI at Astra",
-      "link": "https://spacenews.com/all-in-on-ai-at-astra/",
-      "pubDate": "2026-06-12T13:00:00Z",
-      "snippet": "Chris Kemp thinks he could be the last person left working at Astra \u2014 but not for the reason most people might think. His company rode the SPAC boom five [&#8230;]\nThe post All in on AI at Astra appea...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Humvee maker AM General to pitch unmanned ground vehicle at Eurosatory trade show",
       "link": "https://www.defensenews.com/land/2026/06/12/humvee-maker-am-general-to-pitch-unmanned-ground-vehicle-at-eurosatory-trade-show/",
       "pubDate": "2026-06-12T12:25:27Z",
       "snippet": "The Ukrainian military aims to contract 25,000 unmanned ground platforms in the first half of this year, more than doubling its 2025 total.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "H3 successfully returns to flight",
-      "link": "https://spacenews.com/h3-successfully-returns-to-flight/",
-      "pubDate": "2026-06-12T12:15:09Z",
-      "snippet": "Japan\u2019s H3 rocket launched June 11 on its first flight since a failure in December, placing six smallsats in orbit.\nThe post H3 successfully returns to flight appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "In aerospace, AI isn\u2019t replacing workers. It\u2019s filling a shortage",
-      "link": "https://spacenews.com/in-aerospace-ai-isnt-replacing-workers-its-filling-a-shortage/",
-      "pubDate": "2026-06-12T10:00:00Z",
-      "snippet": "Aerospace executives see AI not as a replacement for workers but as a necessary tool for helping an overstretched industrial base\nThe post In aerospace, AI isn\u2019t replacing workers. It\u2019s filling a shor...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "AAC Clyde Space wins ESA contract to complete maritime-monitoring constellation",
-      "link": "https://spacenews.com/aac-clyde-space-wins-esa-contract-to-complete-maritime-monitoring-constellation/",
-      "pubDate": "2026-06-12T00:06:06Z",
-      "snippet": "SAN FRANCISCO \u2013 The European Space Agency awarded AAC Clyde Space a 10.9 million euro ($12.6 million) contract to complete development and demonstrate VHF Data Exchange System (VDES) satellites for [&...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "UK defense secretary resigns in protest of government spending plan",
-      "link": "https://www.defensenews.com/global/europe/2026/06/11/uk-defense-secretary-resigns-over-government-spending-plan/",
-      "pubDate": "2026-06-11T15:02:17Z",
-      "snippet": "In his resignation letter to Starmer, Healey said he had now seen the defense funding plan, and it \u201cfalls well short of what is required.\"",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "German, Spanish FCAS companies rally to preserve breakthrough fighter tech",
-      "link": "https://www.defensenews.com/global/europe/2026/06/11/german-spanish-fcas-companies-rally-to-preserve-breakthrough-fighter-tech/",
-      "pubDate": "2026-06-11T14:00:23Z",
-      "snippet": "With existing FCAS contracts ending this year, the companies want the government to keep spending money on a sixth-generation warplane.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -370,15 +388,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "\u2018They got very lucky,\u2019 Trump says of downed Apache helicopter\u2019s crew",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/06/10/they-got-very-lucky-trump-says-of-downed-apache-helicopters-crew/",
-      "pubDate": "2026-06-10T19:31:04Z",
-      "snippet": "After a U.S. Army Apache helicopter was downed by an Iranian drone, President Donald Trump said the rescued aviators \u201cgot very lucky.\u201d",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "MIT\u2019s new spacecraft engine could send tiny satellites to Mars",
