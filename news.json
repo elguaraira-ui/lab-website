@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-17T14:21:27.411683Z",
-  "count": 58,
+  "updated": "2026-06-18T13:54:47.506961Z",
+  "count": 54,
   "items": [
+    {
+      "title": "What the satellite servicing economy can borrow from carbon credits",
+      "link": "https://spacenews.com/what-the-satellite-servicing-economy-can-borrow-from-carbon-credits/",
+      "pubDate": "2026-06-18T13:00:00Z",
+      "snippet": "In January 2026 alone, the Federal Communications Commission authorized 15,000 Starlink Gen2 satellites. Starcloud has filed for 88,000 orbital data center satellites. SpaceX has filed for 1 million. ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Boeing demonstrates quantum protocol in payload set for 2027 launch",
+      "link": "https://spacenews.com/boeing-demonstrates-quantum-protocol-in-payload-set-for-2027-launch/",
+      "pubDate": "2026-06-18T12:30:00Z",
+      "snippet": "PORTLAND, Ore. \u2013 Boeing demonstrated a key quantum networking protocol in ground testing of a compact payload ahead of on-orbit experiment in 2027. \u201cHigh-fidelity entanglement swapping\u201d was demonstrat...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Swift reboost mission ready for launch",
+      "link": "https://spacenews.com/swift-reboost-mission-ready-for-launch/",
+      "pubDate": "2026-06-18T12:04:37Z",
+      "snippet": "A high-risk mission to raise the orbit of a NASA astrophysics spacecraft is set to launch later this month after less than a year of development.\nThe post Swift reboost mission ready for launch appear...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Blue Origin begins rebuilding New Glenn pad",
+      "link": "https://spacenews.com/blue-origin-begins-rebuilding-new-glenn-pad/",
+      "pubDate": "2026-06-18T11:01:48Z",
+      "snippet": "Blue Origin has started rebuilding a launch pad severely damaged in a New Glenn explosion less than three weeks ago as it works to resume launches by year\u2019s end\nThe post Blue Origin begins rebuilding ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Quantum Space wins Pentagon contract to develop orbital refueling spacecraft",
+      "link": "https://spacenews.com/quantum-space-wins-pentagon-contract-to-develop-orbital-refueling-spacecraft/",
+      "pubDate": "2026-06-18T11:00:00Z",
+      "snippet": "The company plans to deliver a fuel-transfer vehicle to the U.S. Space Force by 2028\nThe post Quantum Space wins Pentagon contract to develop orbital refueling spacecraft appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Relativity Space to privately develop Mars orbiter mission",
+      "link": "https://spacenews.com/relativity-space-to-privately-develop-mars-orbiter-mission/",
+      "pubDate": "2026-06-17T20:45:04Z",
+      "snippet": "Relativity Space plans to launch a Mars orbiter in 2028 as part of a new initiative to privately develop planetary missions.\nThe post Relativity Space to privately develop Mars orbiter mission appeare...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Upgraded Ariane 6 launches Amazon Leo satellites",
+      "link": "https://spacenews.com/upgraded-ariane-6-launches-amazon-leo-satellites/",
+      "pubDate": "2026-06-17T19:13:40Z",
+      "snippet": "An Ariane 6 with upgraded solid rocket boosters successfully launched three dozen Amazon Leo satellites June 17 as ESA weighs options for increasing the vehicle\u2019s launch rate.\nThe post Upgraded Ariane...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Fair winds, INDOPACOM: Pentagon returns command name to US Pacific Command",
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/06/17/fair-winds-indopacom-pentagon-returns-command-name-to-us-pacific-command/",
@@ -174,15 +237,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Tianwen-2 makes series of burns on approach to asteroid, according to radio tracking",
-      "link": "https://spacenews.com/tianwen-2-makes-series-of-burns-on-approach-to-asteroid-according-to-radio-tracking/",
-      "pubDate": "2026-06-16T10:30:08Z",
-      "snippet": "China\u2019s Tianwen-2 spacecraft has carried out a series of small propulsive maneuvers following a main burn June 7, setting up an asteroid rendezvous in July.\nThe post Tianwen-2 makes series of burns on...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "KNDS proposes mixed French-German tank to replace France\u2019s Leclerc",
       "link": "https://www.defensenews.com/global/europe/2026/06/16/knds-proposes-mixed-french-german-tank-to-replace-frances-leclerc/",
       "pubDate": "2026-06-16T09:02:51Z",
@@ -217,51 +271,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Gilat to buy Comtech satcoms business six years after failed merger",
-      "link": "https://spacenews.com/gilat-to-buy-comtech-satcoms-business-six-years-after-failed-merger/",
-      "pubDate": "2026-06-15T20:54:05Z",
-      "snippet": "Israel\u2019s Gilat Satellite Networks plans to expand its defense capabilities by acquiring most of Comtech\u2019s space-related communications business, six years after the U.S. company\u2019s own takeover bid col...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Space Force orders two more GPS satellites from Lockheed Martin for $514 million",
-      "link": "https://spacenews.com/space-force-orders-two-more-gps-satellites-from-lockheed-martin-for-514-million/",
-      "pubDate": "2026-06-15T20:27:15Z",
-      "snippet": "Contract brings GPS 3F orders to 14 satellites that add anti-jam features, digital payloads and upgraded civilian navigation signals\nThe post Space Force orders two more GPS satellites from Lockheed M...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "DARPA to explore ways to rapidly rebuild satellite networks if attacked",
-      "link": "https://spacenews.com/darpa-to-explore-ways-to-rapidly-rebuild-satellite-networks-if-attacked/",
-      "pubDate": "2026-06-15T13:55:04Z",
-      "snippet": "The agency is seeking novel concepts to restore critical satellite services within hours or weeks\nThe post DARPA to explore ways to rapidly rebuild satellite networks if attacked appeared first on Spa...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "What\u2019s the Best Way to Monetize Space Energy?",
-      "link": "https://spacenews.com/whats-the-best-way-to-monetize-space-energy/",
-      "pubDate": "2026-06-15T13:06:16Z",
-      "snippet": "By Marc Berte, Founder and CEO of Overview Energy AI is making energy valuable enough that we&#8217;re reconsidering where infrastructure should live. Space is increasingly where that conversation lea...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Sustained maneuver has a propulsion problem",
-      "link": "https://spacenews.com/sustained-maneuver-has-a-propulsion-problem/",
-      "pubDate": "2026-06-15T13:00:00Z",
-      "snippet": "For years, space architecture was treated mostly as a question of placement: where to put a spacecraft, and how reliably it could hold position. That framing is now too narrow. [&#8230;]\nThe post Sust...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "France picks MBDA-Safran combo to supply multiple rocket launcher",
@@ -313,51 +322,6 @@
       "link": "https://www.defensenews.com/global/europe/2026/06/14/interview-french-army-chief-schill-talks-technology-surprise-and-archaic-combat/",
       "pubDate": "2026-06-14T06:55:16Z",
       "snippet": "\"We should avoid excessive analogies. France is not Ukraine,\" said Gen. Pierre Schill in an interview ahead of the Eurosatory defense expo near Paris.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Missile production push runs into solid rocket motor bottleneck",
-      "link": "https://spacenews.com/missile-production-push-runs-into-solid-rocket-motor-bottleneck/",
-      "pubDate": "2026-06-14T04:00:00Z",
-      "snippet": "A new CSIS report says planned 2027 interceptor buys will test a supply chain still recovering from years of consolidation\nThe post Missile production push runs into solid rocket motor bottleneck appe...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "US Army commissions second cohort of tech executives into innovation unit",
-      "link": "https://www.defensenews.com/news/your-military/2026/06/12/us-army-commissions-second-cohort-of-tech-executives-into-innovation-unit/",
-      "pubDate": "2026-06-12T16:01:06Z",
-      "snippet": "This week, the Army added three more technology executives to Detachment 201, a unit intended to bridge the gap between the commercial sector and military.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Ukraine\u2019s defense AI chief predicts \u2018new paradigm\u2019 of warfare",
-      "link": "https://www.defensenews.com/global/europe/2026/06/12/ukraines-defense-ai-chief-predicts-new-paradigm-of-warfare/",
-      "pubDate": "2026-06-12T14:38:09Z",
-      "snippet": "\u201cThe system that possesses more data and better understands that data, proposes solutions \u2014 that system will gain the advantage over the other.\"",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US plans major cut to jets, warships for NATO operations in Europe, NYT reports",
-      "link": "https://www.defensenews.com/pentagon/2026/06/12/us-plans-major-cut-to-jets-warships-for-nato-operations-in-europe-nyt-reports/",
-      "pubDate": "2026-06-12T13:05:31Z",
-      "snippet": "The United States reportedly plans to significantly reduce the aircraft and warships it makes available for NATO operations in Europe.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Humvee maker AM General to pitch unmanned ground vehicle at Eurosatory trade show",
-      "link": "https://www.defensenews.com/land/2026/06/12/humvee-maker-am-general-to-pitch-unmanned-ground-vehicle-at-eurosatory-trade-show/",
-      "pubDate": "2026-06-12T12:25:27Z",
-      "snippet": "The Ukrainian military aims to contract 25,000 unmanned ground platforms in the first half of this year, more than doubling its 2025 total.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
