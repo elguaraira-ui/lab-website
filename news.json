@@ -1,7 +1,142 @@
 {
-  "updated": "2026-06-18T13:54:47.506961Z",
-  "count": 54,
+  "updated": "2026-06-19T13:57:21.009758Z",
+  "count": 56,
   "items": [
+    {
+      "title": "The MEO durability crisis: why LEO hardware will fail the new orbital economy",
+      "link": "https://spacenews.com/the-meo-durability-crisis-why-leo-hardware-will-fail-the-new-orbital-economy/",
+      "pubDate": "2026-06-19T13:00:00Z",
+      "snippet": "To some, space is the final frontier. But the reality is that once you leave Earth&#8217;s atmosphere, you\u2019re not entering a single, uniform void. There are several frontiers up there [&#8230;]\nThe po...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NASA selects mission to study space weather interaction with Earth\u2019s atmosphere",
+      "link": "https://spacenews.com/nasa-selects-mission-to-study-space-weather-interaction-with-earths-atmosphere/",
+      "pubDate": "2026-06-19T12:00:38Z",
+      "snippet": "NASA has selected for development a space science mission that will study how space weather interacts with Earth\u2019s atmosphere.\nThe post NASA selects mission to study space weather interaction with Ear...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Japan joins the global craze to field interceptor drones",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/06/19/japan-joins-the-global-craze-to-field-interceptor-drones/",
+      "pubDate": "2026-06-19T11:27:50Z",
+      "snippet": "The interceptor drone systems are expected to be installed by 2027 near radar sites, bases, vessels and other critical locations, the agency stated.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Chinese university-led mission to study asteroid Apophis during close encounter with Earth",
+      "link": "https://spacenews.com/chinese-university-led-mission-to-study-asteroid-apophis-during-close-encounter-with-earth/",
+      "pubDate": "2026-06-19T10:32:14Z",
+      "snippet": "A spacecraft developed by Tsinghua University is set to join international missions to study the asteroid Apophis during its close approach to Earth in 2029.\nThe post Chinese university-led mission to...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Mu-g Technologies enters the parabolic flight business",
+      "link": "https://spacenews.com/mu-g-technologies-enters-the-parabolic-flight-business/",
+      "pubDate": "2026-06-19T10:30:49Z",
+      "snippet": "A startup has acquired an aircraft to offer commercial parabolic flight services even as NASA seeks to acquire its own aircraft for reduced-gravity research.\nThe post Mu-g Technologies enters the para...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Italy rejects aid scheme that buys US weapons for Ukraine\u2019s defense",
+      "link": "https://www.defensenews.com/global/europe/2026/06/19/italy-rejects-aid-scheme-that-buys-us-weapons-for-ukraines-defense/",
+      "pubDate": "2026-06-19T10:03:56Z",
+      "snippet": "NATO has said the Prioritised Ukraine Requirements List (PURL) mechanism has helped fund the purchase of air-defense systems, in particular.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Austrian propulsion startup joins sovereign space funding surge",
+      "link": "https://spacenews.com/austrian-propulsion-startup-joins-sovereign-space-funding-surge/",
+      "pubDate": "2026-06-19T07:00:00Z",
+      "snippet": "Austrian satellite propulsion startup Gate Space has won 6.3 million euros in funding from Europe\u2019s government-backed accelerator program, joining a wave of European companies attracting capital for g...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Pentagon open to Poland\u2019s offer to host permanent U.S. base, Polish minister says",
+      "link": "https://www.defensenews.com/pentagon/2026/06/18/pentagon-open-to-polands-offer-to-host-permanent-us-base-polish-minister-says/",
+      "pubDate": "2026-06-18T20:00:00Z",
+      "snippet": "Poland has been pushing for a bigger allied presence on NATO\u2019s eastern flank after Russia\u2019s invasion of neighboring Ukraine in 2022.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "EQT to acquire Exolaunch",
+      "link": "https://spacenews.com/eqt-to-acquire-exolaunch/",
+      "pubDate": "2026-06-18T19:45:25Z",
+      "snippet": "Private equity firm EQT is acquiring Exolaunch, a company that has handled the rideshare launches of hundreds of satellites, to help it meet growing launch demand.\nThe post EQT to acquire Exolaunch ap...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Air Force awards first CCA production contracts to General Atomics, Anduril",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/06/18/us-air-force-awards-first-cca-production-contracts-to-general-atomics-anduril/",
+      "pubDate": "2026-06-18T18:02:24Z",
+      "snippet": "The U.S. Air Force has cleared its first Collaborative Combat Aircraft to enter production.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Space Force\u2019s rapid acquisition office director moves to Air Force Nuclear Weapons Center",
+      "link": "https://spacenews.com/space-forces-rapid-acquisition-office-director-moves-to-air-force-nuclear-weapons-center/",
+      "pubDate": "2026-06-18T17:57:55Z",
+      "snippet": "Kelly Hammett\u2019s departure comes as the Space Rapid Capabilities Office is being realigned under the Space Force \nThe post Space Force&#8217;s rapid acquisition office director moves to Air Force Nucle...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Ukraine hits Moscow refinery in major drone attack on Russian capital",
+      "link": "https://www.defensenews.com/global/europe/2026/06/18/ukraine-hits-moscow-refinery-in-major-drone-attack-on-russian-capital/",
+      "pubDate": "2026-06-18T16:38:59Z",
+      "snippet": "Ukrainian drones hit the Russian capital\u2019s oil refinery for the second time this week.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Chinese startup Spark Space tests engine, raises funds for electric-pump rocket",
+      "link": "https://spacenews.com/chinese-startup-spark-space-tests-engine-raises-funds-for-electric-pump-rocket/",
+      "pubDate": "2026-06-18T14:37:46Z",
+      "snippet": "Chinese startup Spark Space has secured a series of funding rounds for what it claims will be the world's largest electric-pump-fed rocket, following engine tests.\nThe post Chinese startup Spark Space...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "A legacy to help solve the space workforce pipeline",
+      "link": "https://spacenews.com/a-legacy-to-help-solve-the-space-workforce-pipeline/",
+      "pubDate": "2026-06-18T14:37:23Z",
+      "snippet": "In this episode of Space Minds, David Ariosto talks with Mike Kincaid, president and chief executive of the Challenger Center. They discuss the space workforce pipeline and the center\u2019s role [&#8230;]...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Apache going down near Oman a sign of air combat evolution, analysts warn",
+      "link": "https://www.defensenews.com/news/your-military/2026/06/18/apache-going-down-near-oman-a-sign-of-air-combat-evolution-analysts-warn/",
+      "pubDate": "2026-06-18T14:30:28Z",
+      "snippet": "Experts say the U.S. Army Apache that went down near Oman offers a snapshot into how air assets must now contend with cheaper, rapidly evolving drones.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "What the satellite servicing economy can borrow from carbon credits",
       "link": "https://spacenews.com/what-the-satellite-servicing-economy-can-borrow-from-carbon-credits/",
@@ -120,24 +255,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "June 25:  Golden Dome: How Could Sensors Protect the United States?",
-      "link": "https://spacenews.com/golden-dome-sensors-event-june-25/",
-      "pubDate": "2026-06-17T01:10:41Z",
-      "snippet": "Join us as we explore the technologies behind Golden Dome, what\u2019s necessary to make them operate at a high level and what possibilities could be in the works for the satellites involved.\nThe post June...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Astrobotic unveils Griffin-1 lunar lander",
-      "link": "https://spacenews.com/astrobotic-unveils-griffin-1-lunar-lander/",
-      "pubDate": "2026-06-16T20:48:57Z",
-      "snippet": "Astrobotic showed off the lunar lander it plans to launch later this year that will be the vanguard of NASA\u2019s new lunar base ambitions.\nThe post Astrobotic unveils Griffin-1 lunar lander appeared firs...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Renault teams up with Thales to boost France\u2019s drone production",
       "link": "https://www.defensenews.com/unmanned/2026/06/16/renault-teams-up-with-thales-to-boost-frances-drone-production/",
       "pubDate": "2026-06-16T20:30:01Z",
@@ -147,24 +264,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Swiss decision to not contribute to Copernicus tests program\u2019s value model",
-      "link": "https://spacenews.com/swiss-decision-to-not-contribute-to-copernicus-tests-programs-value-model/",
-      "pubDate": "2026-06-16T18:16:54Z",
-      "snippet": "MILAN \u2014 Switzerland\u2019s decision not to participate in the European Union\u2019s Copernicus Earth observation program during the 2028\u20132034 funding cycle has revived a broader debate over the value of contrib...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "The SpaceNews space unicorn tracker",
-      "link": "https://spacenews.com/space-unicorns-spacenews-billion-valuation/",
-      "pubDate": "2026-06-16T16:05:57Z",
-      "snippet": "Our ongoing list of current private space companies with a valuation of $1 billion or more.\nThe post The SpaceNews space unicorn tracker appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "As Europe rearms, \u2018wingman\u2019 aircraft take center stage",
       "link": "https://www.defensenews.com/unmanned/2026/06/16/as-europe-rearms-wingman-aircraft-take-center-stage/",
       "pubDate": "2026-06-16T15:51:40Z",
@@ -172,15 +271,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Katalyst Space raises $12 million for GEO servicing demo mission",
-      "link": "https://spacenews.com/katalyst-space-raises-12-million-for-geo-servicing-demo-mission/",
-      "pubDate": "2026-06-16T15:30:00Z",
-      "snippet": "Satellite servicing startup Katalyst Space Technologies has raised $12 million for a geosynchronous orbit demonstration as its mission to boost the orbit of a NASA observatory nears launch.\nThe post K...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "MBDA advances land version of its naval missile as European strike weapon",
@@ -199,42 +289,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "PiLogic partners with Air Force lab to test satellite fault-prediction software",
-      "link": "https://spacenews.com/pilogic-partners-with-air-force-lab-to-test-satellite-fault-prediction-software/",
-      "pubDate": "2026-06-16T14:00:00Z",
-      "snippet": "The startup uses probabilistic reasoning to diagnose spacecraft anomalies \nThe post PiLogic partners with Air Force lab to test satellite fault-prediction software appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "A UN agency that works for US space",
-      "link": "https://spacenews.com/a-un-agency-that-works-for-us-space/",
-      "pubDate": "2026-06-16T13:00:00Z",
-      "snippet": "If United States policymakers deride the wider United Nations, they still spend on the International Telecommunication Union (ITU) because it amplifies the commercial reach of U.S. standards. This inc...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Geospatial industry launches maritime initiative",
-      "link": "https://spacenews.com/geospatial-industry-launches-maritime-initiative/",
-      "pubDate": "2026-06-16T12:00:00Z",
-      "snippet": "Growing demand from defense agencies and commercial shipping sectors is driving investment in maritime domain awareness technologies\nThe post Geospatial industry launches maritime initiative appeared ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Deep Space Network antenna mishap blamed on poor training and procedures",
-      "link": "https://spacenews.com/deep-space-network-antenna-mishap-blamed-on-poor-training-and-procedures/",
-      "pubDate": "2026-06-16T11:25:35Z",
-      "snippet": "A NASA investigation blamed millions of dollars in damage to one of its largest Deep Space Network (DSN) antennas on poor training and procedures.\nThe post Deep Space Network antenna mishap blamed on ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "KNDS proposes mixed French-German tank to replace France\u2019s Leclerc",
@@ -273,15 +327,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "France picks MBDA-Safran combo to supply multiple rocket launcher",
-      "link": "https://www.defensenews.com/global/europe/2026/06/15/france-picks-mbda-safran-combo-to-supply-multiple-rocket-launcher/",
-      "pubDate": "2026-06-15T12:14:11Z",
-      "snippet": "Paris snubbed competing offers from Thales and ArianeGroup, as well as from U.S. defense giant Lockheed Martin and South Korea's Hanwha Aerospace.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "This strange material can become strong or fall apart in seconds",
       "link": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm",
       "pubDate": "2026-06-15T11:54:43Z",
@@ -291,15 +336,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "French army shows Leclerc tank with once-mocked anti-drone cage",
-      "link": "https://www.defensenews.com/global/europe/2026/06/15/french-army-shows-leclerc-tank-with-once-mocked-anti-drone-cage/",
-      "pubDate": "2026-06-15T07:48:14Z",
-      "snippet": "Once derided as primitive, roof-mounted armor variants have been adopted by both Russian and Ukrainian forces as drone threats proliferate.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Oxford physicists just made Schr\u00f6dinger\u2019s cat even stranger",
       "link": "https://www.sciencedaily.com/releases/2026/06/260614011848.htm",
       "pubDate": "2026-06-15T07:29:46Z",
@@ -307,24 +343,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "France prepares Ukraine-inspired \u2018kill web\u2019 for battlefield awareness",
-      "link": "https://www.defensenews.com/global/europe/2026/06/15/france-prepares-ukraine-inspired-kill-web-for-battlefield-awareness/",
-      "pubDate": "2026-06-15T06:18:58Z",
-      "snippet": "The kill web will be part of the broader Arcadia AI-powered battlefield command and control structure, a top French commander said.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Interview: French Army chief Schill talks technology, surprise and \u2018archaic\u2019 combat",
-      "link": "https://www.defensenews.com/global/europe/2026/06/14/interview-french-army-chief-schill-talks-technology-surprise-and-archaic-combat/",
-      "pubDate": "2026-06-14T06:55:16Z",
-      "snippet": "\"We should avoid excessive analogies. France is not Ukraine,\" said Gen. Pierre Schill in an interview ahead of the Eurosatory defense expo near Paris.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Scientists built a battery-free device that turns sunlight into fuel",
