@@ -1,7 +1,124 @@
 {
-  "updated": "2026-06-19T13:57:21.009758Z",
-  "count": 56,
+  "updated": "2026-06-22T15:46:13.663808Z",
+  "count": 54,
   "items": [
+    {
+      "title": "Kyiv\u2019s drone leverage moved the US. Moscow could be next, a top Ukrainian official says.",
+      "link": "https://www.defensenews.com/pentagon/2026/06/22/kyivs-drone-leverage-moved-the-us-moscow-could-be-next-a-top-ukrainian-official-says/",
+      "pubDate": "2026-06-22T15:06:54Z",
+      "snippet": "After years of needing Western weapons, Kyiv is approaching negotiations with battlefield tech the U.S. now wants \u2014 and a possible ceasefire looming.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "America is about to cede Africa\u2019s space industry to China, and nobody\u2019s talking about it.",
+      "link": "https://spacenews.com/america-is-about-to-cede-africas-space-industry-to-china-and-nobodys-talking-about-it/",
+      "pubDate": "2026-06-22T13:00:00Z",
+      "snippet": "If the Trump administration is serious about executing its \u201cAmerica First in Africa\u201d policy and transforming American engagement on the continent, it needs to focus on sectors where it still [&#8230;]...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Can China\u2019s latest air-to-air missile take on its US equivalent? Definitely maybe, experts say.",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/06/22/can-chinas-latest-air-to-air-missile-take-on-its-us-equivalent-definitely-maybe-experts-say/",
+      "pubDate": "2026-06-22T12:20:33Z",
+      "snippet": "The PL-16\u2019s specs would let it chase large, slower-moving aircraft, one analyst said, though its effectiveness against smaller, faster planes is unclear.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Astroscale raises funding to support growth strategy",
+      "link": "https://spacenews.com/astroscale-raises-funding-to-support-growth-strategy/",
+      "pubDate": "2026-06-22T12:13:11Z",
+      "snippet": "Satellite servicing company Astroscale is working to transition from technology demonstrations to a regular series of missions, bolstered by a recent capital infusion.\nThe post Astroscale raises fundi...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Ukraine launches \u2018TrophyLab\u2019 platform to share captured Russian weapons with allies",
+      "link": "https://www.defensenews.com/global/europe/2026/06/22/ukraine-launches-trophylab-platform-to-share-captured-russian-weapons-with-allies/",
+      "pubDate": "2026-06-22T09:27:55Z",
+      "snippet": "Among the listed items available for study are, for example, a Kinzhal hypersonic missile and a T-90M tank.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Astrobotic says sale to Voyager will allow it to scale up",
+      "link": "https://spacenews.com/astrobotic-says-sale-to-voyager-will-allow-it-to-scale-up/",
+      "pubDate": "2026-06-20T19:51:45Z",
+      "snippet": "Lunar lander developer Astrobotic decided to sell to Voyager Technologies so it could quickly scale up to meet the projected demands of NASA\u2019s lunar base initiative.\nThe post Astrobotic says sale to V...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Army launches new Indo-Pacific multi-domain command",
+      "link": "https://www.defensenews.com/news/your-military/2026/06/19/army-launches-new-indo-pacific-multi-domain-command/",
+      "pubDate": "2026-06-19T21:57:00Z",
+      "snippet": "The move combines traditional formations with some of the service\u2019s cyber, space, unmanned systems and electronic warfare capabilities.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Air Force One begins commissioning flights, final step before presidential use",
+      "link": "https://www.defensenews.com/news/your-military/2026/06/19/air-force-one-begins-commissioning-flights-final-step-before-presidential-use/",
+      "pubDate": "2026-06-19T21:06:11Z",
+      "snippet": "The service announced the delivery of the Qatari-donated aircraft to Joint Base Andrews on Friday and the kickoff of its commissioning flights.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon tells lawmakers it needs $80 billion for Iran war, other expenses: WSJ",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/06/19/pentagon-tells-lawmakers-it-needs-80-billion-for-iran-war-other-expenses-wsj/",
+      "pubDate": "2026-06-19T20:23:18Z",
+      "snippet": "The full cost of the conflict, which the U.S. launched alongside Israel on Feb. 28, has remained an open question on Capitol Hill.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "India\u2019s Jio lays out sovereign LEO constellation plan ahead of IPO",
+      "link": "https://spacenews.com/indias-jio-lays-out-sovereign-leo-constellation-plan-ahead-of-ipo/",
+      "pubDate": "2026-06-19T19:27:00Z",
+      "snippet": "Jio Platforms, which owns India\u2019s largest telco, is looking to lease broadband capacity from satellite constellations to jumpstart its own sovereign LEO network in the country.\nThe post India\u2019s Jio la...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market",
+      "link": "https://spacenews.com/mda-space-to-buy-blue-canyon-technologies-to-gain-foothold-in-u-s-market/",
+      "pubDate": "2026-06-19T16:03:50Z",
+      "snippet": "MDA Space is buying smallsat manufacturer Blue Canyon Technologies (BCT) for $620 million, giving the Canadian company greater access to the lucrative U.S. government market.\nThe post MDA Space to buy...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million",
+      "link": "https://spacenews.com/elevationspace-secures-us-40-million-in-series-b-funding-bringing-total-raised-to-us-63-5-million/",
+      "pubDate": "2026-06-19T14:52:11Z",
+      "snippet": "ElevationSpace Inc. (CEO: Ryohei Kobayashi), a company developing Space-to-Earth transportation as well as a Space Environment Utilization and Recovery Platform, has raised a total of US $40 million i...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Northrop Grumman says industry ready to scale solid rocket production, with longer contracts",
+      "link": "https://spacenews.com/northrop-grumman-says-industry-ready-to-scale-solid-rocket-production-with-longer-contracts/",
+      "pubDate": "2026-06-19T14:00:00Z",
+      "snippet": "Billions in private investment have created room for growth, but suppliers need predictable demand, says the head of Northrop Grumman\u2019s solid rocket motor business\nThe post Northrop Grumman says indus...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "The MEO durability crisis: why LEO hardware will fail the new orbital economy",
       "link": "https://spacenews.com/the-meo-durability-crisis-why-leo-hardware-will-fail-the-new-orbital-economy/",
@@ -174,33 +291,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Quantum Space wins Pentagon contract to develop orbital refueling spacecraft",
-      "link": "https://spacenews.com/quantum-space-wins-pentagon-contract-to-develop-orbital-refueling-spacecraft/",
-      "pubDate": "2026-06-18T11:00:00Z",
-      "snippet": "The company plans to deliver a fuel-transfer vehicle to the U.S. Space Force by 2028\nThe post Quantum Space wins Pentagon contract to develop orbital refueling spacecraft appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Relativity Space to privately develop Mars orbiter mission",
-      "link": "https://spacenews.com/relativity-space-to-privately-develop-mars-orbiter-mission/",
-      "pubDate": "2026-06-17T20:45:04Z",
-      "snippet": "Relativity Space plans to launch a Mars orbiter in 2028 as part of a new initiative to privately develop planetary missions.\nThe post Relativity Space to privately develop Mars orbiter mission appeare...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Upgraded Ariane 6 launches Amazon Leo satellites",
-      "link": "https://spacenews.com/upgraded-ariane-6-launches-amazon-leo-satellites/",
-      "pubDate": "2026-06-17T19:13:40Z",
-      "snippet": "An Ariane 6 with upgraded solid rocket boosters successfully launched three dozen Amazon Leo satellites June 17 as ESA weighs options for increasing the vehicle\u2019s launch rate.\nThe post Upgraded Ariane...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Fair winds, INDOPACOM: Pentagon returns command name to US Pacific Command",
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/06/17/fair-winds-indopacom-pentagon-returns-command-name-to-us-pacific-command/",
       "pubDate": "2026-06-17T13:01:48Z",
@@ -210,118 +300,10 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "America\u2019s next economic frontier is 240,000 miles away",
-      "link": "https://spacenews.com/americas-next-economic-frontier-is-240000-miles-away/",
-      "pubDate": "2026-06-17T13:00:00Z",
-      "snippet": "Humans have always gazed up at the moon in wonder. A generation ago, NASA astronauts did the extraordinary and touched down on its surface, planting an American flag and igniting [&#8230;]\nThe post Am...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Poland weighs joining X-BAT autonomous vertical-takeoff fighter program",
       "link": "https://www.defensenews.com/global/europe/2026/06/17/poland-weighs-joining-x-bat-autonomous-vertical-takeoff-fighter-program/",
       "pubDate": "2026-06-17T12:34:54Z",
       "snippet": "The announcement comes as the Polish government is mulling plans to acquire up to 32 new fighter jets.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "China conducts 4 launches in 3 days, but silence follows Kuaizhou\u201311 launch",
-      "link": "https://spacenews.com/china-conducts-4-launches-in-3-days-but-silence-follows-kuaizhou-11-launch/",
-      "pubDate": "2026-06-17T12:18:53Z",
-      "snippet": "China continued its accelerated launch pace with a series of missions, but long silence followed liftoff of a Kuaizhou-11 solid rocket Wednesday, suggesting potential issues.\nThe post China conducts 4...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Dawn Aerospace raises $25 million",
-      "link": "https://spacenews.com/dawn-aerospace-raises-25-million/",
-      "pubDate": "2026-06-17T11:29:32Z",
-      "snippet": "Dawn Aerospace has raised $25 million to scale up its work in both in-space transportation and suborbital spaceplanes.\nThe post Dawn Aerospace raises $25 million appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Look Up and Skynopy partner on automated satellite collision avoidance service",
-      "link": "https://spacenews.com/look-up-and-skynopy-partner-on-automated-satellite-collision-avoidance-service/",
-      "pubDate": "2026-06-17T11:23:13Z",
-      "snippet": "Space surveillance venture Look Up plans to use Skynopy\u2019s ground station network to help automate its proposed low Earth orbit collision avoidance service, the French startups announced June 17.\nThe p...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Renault teams up with Thales to boost France\u2019s drone production",
-      "link": "https://www.defensenews.com/unmanned/2026/06/16/renault-teams-up-with-thales-to-boost-frances-drone-production/",
-      "pubDate": "2026-06-16T20:30:01Z",
-      "snippet": "The carmaker will build Thales\u2019 Toutatis remotely operated loitering munitions at one of its factories, with estimated production of 1,000 units a month.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "As Europe rearms, \u2018wingman\u2019 aircraft take center stage",
-      "link": "https://www.defensenews.com/unmanned/2026/06/16/as-europe-rearms-wingman-aircraft-take-center-stage/",
-      "pubDate": "2026-06-16T15:51:40Z",
-      "snippet": "European and U.S. defense forces are rapidly developing their own AI-powered drones to complement their fighter jets and carry extra battlefield tech.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "MBDA advances land version of its naval missile as European strike weapon",
-      "link": "https://www.defensenews.com/global/europe/2026/06/16/mbda-advances-land-version-of-its-naval-missile-as-european-strike-weapon/",
-      "pubDate": "2026-06-16T14:40:32Z",
-      "snippet": "Europe lacks long-range strike options that provide deterrence by holding Russian assets at risk, a gap that countries are trying to patch.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Rheinmetall pitches shipping container that can spit out swarms of attack drones",
-      "link": "https://www.defensenews.com/global/europe/2026/06/16/rheinmetall-pitches-shipping-container-that-can-spit-out-swarms-of-attack-drones/",
-      "pubDate": "2026-06-16T14:31:21Z",
-      "snippet": "One container can hold 18 of the company\u2019s FV-014 munitions, meant to plop out of the container by way of rocket-assisted start.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "KNDS proposes mixed French-German tank to replace France\u2019s Leclerc",
-      "link": "https://www.defensenews.com/global/europe/2026/06/16/knds-proposes-mixed-french-german-tank-to-replace-frances-leclerc/",
-      "pubDate": "2026-06-16T09:02:51Z",
-      "snippet": "The French-Germany company plans for an in-house active protection system and the ability to change out the 120mm gun with a 140mm variant.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Ukraine\u2019s demand for tiny drone laser-targeting systems spurs new product launches",
-      "link": "https://www.defensenews.com/global/europe/2026/06/16/ukraines-demand-for-tiny-drone-laser-targeting-systems-spurs-new-product-launches/",
-      "pubDate": "2026-06-16T06:36:16Z",
-      "snippet": "Companies rush to miniaturize the technology for marking targets on the battlefield, making it suitable to ride on small unmanned aerial vehicles.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "India touts new ballistic missile defense prowess after tests",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/06/16/india-touts-new-ballistic-missile-defense-prowess-after-tests/",
-      "pubDate": "2026-06-16T05:38:37Z",
-      "snippet": "India aims to joint a small club of countries capable of bringing down incoming missiles with technology made domestically.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "General Atomics awarded US Army contract for extended-range artillery round",
-      "link": "https://www.defensenews.com/news/your-military/2026/06/15/general-atomics-awarded-us-army-contract-for-extended-range-artillery/",
-      "pubDate": "2026-06-15T23:04:13Z",
-      "snippet": "During a test last year, the company's projectile hit targets more than 74 miles away after being fired from an M777 howitzer.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
