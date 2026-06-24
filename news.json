@@ -1,7 +1,124 @@
 {
-  "updated": "2026-06-23T13:33:32.002849Z",
-  "count": 55,
+  "updated": "2026-06-24T13:08:49.034966Z",
+  "count": 57,
   "items": [
+    {
+      "title": "York satellite demonstrates two-way UHF communications from low Earth orbit",
+      "link": "https://spacenews.com/york-satellite-demonstrates-two-way-uhf-communications-from-low-earth-orbit/",
+      "pubDate": "2026-06-24T13:02:31Z",
+      "snippet": "WASHINGTON \u2014 York Space Systems said June 24 that a satellite it built for the U.S. Space Force successfully demonstrated two-way tactical communications using ultra-high-frequency (UHF) links from lo...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Vantor selects BAE Systems to build next-generation imaging satellites",
+      "link": "https://spacenews.com/vantor-selects-bae-systems-to-build-next-generation-imaging-satellites/",
+      "pubDate": "2026-06-24T12:30:00Z",
+      "snippet": "WASHINGTON \u2014 Vantor has chosen BAE Systems to build its next generation of high-resolution imaging satellites. The selection reunites Vantor with the former Ball Aerospace business that helped develop...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "SpaceX launches secretive Starfall reentry demo mission",
+      "link": "https://spacenews.com/spacex-launches-secretive-starfall-reentry-demo-mission/",
+      "pubDate": "2026-06-24T11:39:59Z",
+      "snippet": "SpaceX launched the first test flight of its Starfall reentry capsule June 23, but the mission remained as secretive as the program itself.\nThe post SpaceX launches secretive Starfall reentry demo mis...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Germany scraps F126 frigate program, pivots to MEKO warships amid cost and contractor chaos",
+      "link": "https://www.defensenews.com/global/europe/2026/06/24/germany-scraps-f126-frigate-program-pivots-to-meko-warships-amid-cost-and-contractor-chaos/",
+      "pubDate": "2026-06-24T10:28:27Z",
+      "snippet": "Germany Navy leaders have already blessed the fallback ships as capable of meeting NATO capability requirements, but an alliance deadline looms.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "NGSO trade association launches without industry giant SpaceX",
+      "link": "https://spacenews.com/ngso-trade-association-launches-without-industry-giant-spacex/",
+      "pubDate": "2026-06-24T10:00:00Z",
+      "snippet": "Amazon and several other non-geostationary satellite operators have formed a trade association to represent their fast-growing market, with SpaceX notably absent despite having by far the largest NGSO...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "OHB raises funding for expansion, acquisitions",
+      "link": "https://spacenews.com/ohb-raises-funding-for-expansion-acquisitions/",
+      "pubDate": "2026-06-24T03:09:48Z",
+      "snippet": "German space company OHB will raise about half a billion euros through a stock sale to allow the company to expand facilities and pursue potential acquisitions.\nThe post OHB raises funding for expansi...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NASA\u2019s inspector general warns launch sites nearing capacity",
+      "link": "https://spacenews.com/nasas-inspector-general-warns-launch-sites-nearing-capacity/",
+      "pubDate": "2026-06-23T22:15:48Z",
+      "snippet": "A report by NASA\u2019s inspector general is the latest to highlight the problems that the increasing number of launches is posing to spaceports.\nThe post NASA\u2019s inspector general warns launch sites nearin...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Boeing wins $2 billion Space Force contract for communications satellites",
+      "link": "https://spacenews.com/boeing-wins-2-billion-space-force-contract-for-communications-satellites/",
+      "pubDate": "2026-06-23T22:07:36Z",
+      "snippet": "WASHINGTON \u2014 Boeing won a contract worth up to $2 billion to build two next-generation military communications satellites for the U.S. Space Force, prevailing over Lockheed Martin in a competition [&#...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Army tests fire control software that helps moving vehicles kill drones",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/06/23/us-army-tests-fire-control-software-that-helps-moving-vehicles-kill-drones/",
+      "pubDate": "2026-06-23T19:15:49Z",
+      "snippet": "The Army has successfully tested software designed to help vehicle-mounted weapons shoot down drones while both the target and the vehicle are moving.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Commercial Space Federation (CSF) Welcomes New Associate Member",
+      "link": "https://spacenews.com/commercial-space-federation-csf-welcomes-new-associate-member/",
+      "pubDate": "2026-06-23T19:00:00Z",
+      "snippet": "June 23, 2026 \u2013 Washington, D.C.\u2014The Commercial Space Federation (CSF) is pleased to welcome Sophia Space, a company advancing orbital computing infrastructure for the next generation of space-based d...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Ubotica raises $11 million to scale maritime-intelligence platform",
+      "link": "https://spacenews.com/ubotica-raises-11-million-to-scale-maritime-intelligence-platform/",
+      "pubDate": "2026-06-23T17:48:22Z",
+      "snippet": "SAN FRANCISCO \u2013 Ubotica Technologies, an Irish company focused on artificial intelligence for spacecraft, has raised $11 million to expand commercial sales of its maritime-intelligence platform. The p...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Sophia selects Apex bus for on-orbit computing demonstration",
+      "link": "https://spacenews.com/sophia-selects-apex-bus-for-on-orbit-computing-demonstration/",
+      "pubDate": "2026-06-23T15:56:58Z",
+      "snippet": "SAN FRANCISCO \u2013 Sophia Space announced the selection June 22 of an Apex bus for its first orbital computing node. Pasadena, California-based Sophia plans to demonstrate its Thermal Integrated LEO [&#8...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Frustrating Israel, fiber-optic killer drone technology has arrived in southern Lebanon",
+      "link": "https://www.defensenews.com/global/mideast-africa/2026/06/23/frustrating-israel-fiber-optic-killer-drone-technology-has-arrived-in-southern-lebanon/",
+      "pubDate": "2026-06-23T14:43:45Z",
+      "snippet": "Analysts believe that any military engaged in conflict will, in one form or another, encounter technologies first seen in Ukraine.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Loft Orbital to test AI models on spacecraft for Earth observation",
       "link": "https://spacenews.com/loft-orbital-to-test-ai-models-on-spacecraft-for-earth-observation/",
@@ -156,15 +273,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Astrobotic says sale to Voyager will allow it to scale up",
-      "link": "https://spacenews.com/astrobotic-says-sale-to-voyager-will-allow-it-to-scale-up/",
-      "pubDate": "2026-06-20T19:51:45Z",
-      "snippet": "Lunar lander developer Astrobotic decided to sell to Voyager Technologies so it could quickly scale up to meet the projected demands of NASA\u2019s lunar base initiative.\nThe post Astrobotic says sale to V...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "US Army launches new Indo-Pacific multi-domain command",
       "link": "https://www.defensenews.com/news/your-military/2026/06/19/army-launches-new-indo-pacific-multi-domain-command/",
       "pubDate": "2026-06-19T21:57:00Z",
@@ -192,60 +300,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "India\u2019s Jio lays out sovereign LEO constellation plan ahead of IPO",
-      "link": "https://spacenews.com/indias-jio-lays-out-sovereign-leo-constellation-plan-ahead-of-ipo/",
-      "pubDate": "2026-06-19T19:27:00Z",
-      "snippet": "Jio Platforms, which owns India\u2019s largest telco, is looking to lease broadband capacity from satellite constellations to jumpstart its own sovereign LEO network in the country.\nThe post India\u2019s Jio la...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "MDA Space to buy Blue Canyon Technologies to gain foothold in U.S. market",
-      "link": "https://spacenews.com/mda-space-to-buy-blue-canyon-technologies-to-gain-foothold-in-u-s-market/",
-      "pubDate": "2026-06-19T16:03:50Z",
-      "snippet": "MDA Space is buying smallsat manufacturer Blue Canyon Technologies (BCT) for $620 million, giving the Canadian company greater access to the lucrative U.S. government market.\nThe post MDA Space to buy...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "ElevationSpace Secures US $40 Million in Series B Funding, Bringing Total Raised to US $63.5 Million",
-      "link": "https://spacenews.com/elevationspace-secures-us-40-million-in-series-b-funding-bringing-total-raised-to-us-63-5-million/",
-      "pubDate": "2026-06-19T14:52:11Z",
-      "snippet": "ElevationSpace Inc. (CEO: Ryohei Kobayashi), a company developing Space-to-Earth transportation as well as a Space Environment Utilization and Recovery Platform, has raised a total of US $40 million i...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Northrop Grumman says industry ready to scale solid rocket production, with longer contracts",
-      "link": "https://spacenews.com/northrop-grumman-says-industry-ready-to-scale-solid-rocket-production-with-longer-contracts/",
-      "pubDate": "2026-06-19T14:00:00Z",
-      "snippet": "Billions in private investment have created room for growth, but suppliers need predictable demand, says the head of Northrop Grumman\u2019s solid rocket motor business\nThe post Northrop Grumman says indus...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "The MEO durability crisis: why LEO hardware will fail the new orbital economy",
-      "link": "https://spacenews.com/the-meo-durability-crisis-why-leo-hardware-will-fail-the-new-orbital-economy/",
-      "pubDate": "2026-06-19T13:00:00Z",
-      "snippet": "To some, space is the final frontier. But the reality is that once you leave Earth&#8217;s atmosphere, you\u2019re not entering a single, uniform void. There are several frontiers up there [&#8230;]\nThe po...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NASA selects mission to study space weather interaction with Earth\u2019s atmosphere",
-      "link": "https://spacenews.com/nasa-selects-mission-to-study-space-weather-interaction-with-earths-atmosphere/",
-      "pubDate": "2026-06-19T12:00:38Z",
-      "snippet": "NASA has selected for development a space science mission that will study how space weather interacts with Earth\u2019s atmosphere.\nThe post NASA selects mission to study space weather interaction with Ear...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Japan joins the global craze to field interceptor drones",
       "link": "https://www.defensenews.com/global/asia-pacific/2026/06/19/japan-joins-the-global-craze-to-field-interceptor-drones/",
       "pubDate": "2026-06-19T11:27:50Z",
@@ -255,24 +309,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Chinese university-led mission to study asteroid Apophis during close encounter with Earth",
-      "link": "https://spacenews.com/chinese-university-led-mission-to-study-asteroid-apophis-during-close-encounter-with-earth/",
-      "pubDate": "2026-06-19T10:32:14Z",
-      "snippet": "A spacecraft developed by Tsinghua University is set to join international missions to study the asteroid Apophis during its close approach to Earth in 2029.\nThe post Chinese university-led mission to...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Mu-g Technologies enters the parabolic flight business",
-      "link": "https://spacenews.com/mu-g-technologies-enters-the-parabolic-flight-business/",
-      "pubDate": "2026-06-19T10:30:49Z",
-      "snippet": "A startup has acquired an aircraft to offer commercial parabolic flight services even as NASA seeks to acquire its own aircraft for reduced-gravity research.\nThe post Mu-g Technologies enters the para...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Italy rejects aid scheme that buys US weapons for Ukraine\u2019s defense",
       "link": "https://www.defensenews.com/global/europe/2026/06/19/italy-rejects-aid-scheme-that-buys-us-weapons-for-ukraines-defense/",
       "pubDate": "2026-06-19T10:03:56Z",
@@ -280,15 +316,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Austrian propulsion startup joins sovereign space funding surge",
-      "link": "https://spacenews.com/austrian-propulsion-startup-joins-sovereign-space-funding-surge/",
-      "pubDate": "2026-06-19T07:00:00Z",
-      "snippet": "Austrian satellite propulsion startup Gate Space has won 6.3 million euros in funding from Europe\u2019s government-backed accelerator program, joining a wave of European companies attracting capital for g...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Pentagon open to Poland\u2019s offer to host permanent U.S. base, Polish minister says",
@@ -313,15 +340,6 @@
       "link": "https://www.defensenews.com/global/europe/2026/06/18/ukraine-hits-moscow-refinery-in-major-drone-attack-on-russian-capital/",
       "pubDate": "2026-06-18T16:38:59Z",
       "snippet": "Ukrainian drones hit the Russian capital\u2019s oil refinery for the second time this week.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Apache going down near Oman a sign of air combat evolution, analysts warn",
-      "link": "https://www.defensenews.com/news/your-military/2026/06/18/apache-going-down-near-oman-a-sign-of-air-combat-evolution-analysts-warn/",
-      "pubDate": "2026-06-18T14:30:28Z",
-      "snippet": "Experts say the U.S. Army Apache that went down near Oman offers a snapshot into how air assets must now contend with cheaper, rapidly evolving drones.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
