@@ -1,12 +1,129 @@
 {
-  "updated": "2026-06-24T13:08:49.034966Z",
+  "updated": "2026-06-25T13:08:09.443338Z",
   "count": 57,
   "items": [
+    {
+      "title": "House Appropriations Committee approves $55.5 billion for U.S. Space Force",
+      "link": "https://spacenews.com/house-appropriations-committee-approves-55-5-billion-for-u-s-space-force/",
+      "pubDate": "2026-06-25T11:17:40Z",
+      "snippet": "Committee urges more competition in satellite communications and criticizes reliance on reconciliation to fund Golden Dome\nThe post House Appropriations Committee approves $55.5 billion for U.S. Space...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Canceled NASA exploration projects suffered billions of dollars in overruns",
+      "link": "https://spacenews.com/canceled-nasa-exploration-projects-suffered-billions-of-dollars-in-overruns/",
+      "pubDate": "2026-06-25T11:02:47Z",
+      "snippet": "Four NASA exploration projects that the agency stopped earlier this year had suffered overruns that saw their costs more than double, with more than $1 billion in additional increases expected.\nThe po...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "China schedules Long March 10B rocket launch and recovery attempt",
+      "link": "https://spacenews.com/china-schedules-long-march-10b-rocket-launch-and-recovery-attempt/",
+      "pubDate": "2026-06-25T09:59:35Z",
+      "snippet": "HELSINKI \u2014 China is set for a debut flight of its Long March 10B rocket in July and attempt to recover the first stage at sea. Recently issued airspace and [&#8230;]\nThe post China schedules Long Marc...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "ICEYE to double radar-satellite capacity by late 2027 as demand surges",
+      "link": "https://www.defensenews.com/global/europe/2026/06/25/iceye-to-double-radar-satellite-capacity-by-late-2027-as-demand-surges/",
+      "pubDate": "2026-06-25T08:38:31Z",
+      "snippet": "The company's goal is to ramp up production to two satellites a week as it responds to surging demand from European militaries.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Poland buys V-BAT drones to boost Baltic Sea naval operations",
+      "link": "https://www.defensenews.com/global/europe/2026/06/25/poland-buys-v-bat-drones-to-boost-baltic-sea-naval-operations/",
+      "pubDate": "2026-06-25T08:20:43Z",
+      "snippet": "The deal puts Poland in line to become the first country on NATO\u2019s eastern flank to acquire the Shield AI-made drone.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Trump meets munitions makers amid push to replenish weapons stockpiles",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/06/25/trump-meets-munitions-makers-amid-push-to-replenish-weapons-stockpiles/",
+      "pubDate": "2026-06-25T03:01:22Z",
+      "snippet": "Pentagon negotiators are pressing contractors to move much faster to boost output.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Space Force seeks fresh bidders for satellite-control antennas",
+      "link": "https://spacenews.com/space-force-seeks-fresh-bidders-for-satellite-control-antennas/",
+      "pubDate": "2026-06-24T21:26:29Z",
+      "snippet": "After terminating $1.7 billion contract, Space Force to relaunch SCAR\nThe post Space Force seeks fresh bidders for satellite-control antennas appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Shield Space and ClearSpace partner to defend satellites from orbital threats",
+      "link": "https://spacenews.com/shield-space-and-clearspace-partner-to-defend-satellites-from-orbital-threats/",
+      "pubDate": "2026-06-24T21:10:40Z",
+      "snippet": "British startup Shield Space plans to combine its autonomous satellite operations software with ClearSpace\u2019s in-orbit servicing capabilities to address emerging orbital threats.\nThe post Shield Space ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "MDA Space wins contract for Radarsat replenishment satellite",
+      "link": "https://spacenews.com/mda-space-wins-contract-for-radarsat-replenishment-satellite/",
+      "pubDate": "2026-06-24T19:30:43Z",
+      "snippet": "MDA Space will build a radar imaging satellite for the Canadian Space Agency as the government studies options for a next-generation satellite system.\nThe post MDA Space wins contract for Radarsat rep...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "China studied US stealth aircraft \u2014 and learned the wrong lessons",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/06/24/china-studied-us-stealth-aircraft-and-learned-the-wrong-lessons/",
+      "pubDate": "2026-06-24T17:34:47Z",
+      "snippet": "An Air Force researcher said China's assessments of U.S. stealth capabilities \"diverge from technical reality and operational practice.\"",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Gen. Christopher Donahue to unexpectedly relinquish command of Army Europe and Africa",
+      "link": "https://www.defensenews.com/news/your-military/2026/06/24/gen-christopher-donahue-to-unexpectedly-relinquish-command-of-army-europe-and-africa/",
+      "pubDate": "2026-06-24T13:45:56Z",
+      "snippet": "U.S. Army Gen. Christopher Donahue will unexpectedly relinquish command next week after just 18 months in the role, the Pentagon confirmed Wednesday.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Vast signs additional partners for commercial space station microgravity research",
+      "link": "https://spacenews.com/vast-signs-additional-partners-for-commercial-space-station-microgravity-research/",
+      "pubDate": "2026-06-24T13:42:07Z",
+      "snippet": "Commercial space station company Vast announced June 24 the addition of several companies and organizations to its network of partners for microgravity research and manufacturing.\nThe post Vast signs ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "York satellite demonstrates two-way UHF communications from low Earth orbit",
       "link": "https://spacenews.com/york-satellite-demonstrates-two-way-uhf-communications-from-low-earth-orbit/",
       "pubDate": "2026-06-24T13:02:31Z",
       "snippet": "WASHINGTON \u2014 York Space Systems said June 24 that a satellite it built for the U.S. Space Force successfully demonstrated two-way tactical communications using ultra-high-frequency (UHF) links from lo...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "How space weather could bust the AI boom",
+      "link": "https://spacenews.com/how-space-weather-could-bust-the-ai-boom/",
+      "pubDate": "2026-06-24T13:00:00Z",
+      "snippet": "America&#8217;s electric grid is entering a period of unprecedented strain. Utilities across the country are scrambling to keep up as power-hungry AI data centers expand at a staggering pace, often [&...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
@@ -138,24 +255,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "China appears to be developing 7-meter-diameter reusable rockets",
-      "link": "https://spacenews.com/china-appears-to-be-developing-7-meter-diameter-reusable-rockets/",
-      "pubDate": "2026-06-23T10:07:57Z",
-      "snippet": "A state-funded tender for tank tooling, a delivered stainless steel forging and launch pad planning suggest that China is developing 7-meter-diameter reusable rockets.\nThe post China appears to be dev...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Report: U.S. needs framework for responding to hostile acts in space",
-      "link": "https://spacenews.com/report-u-s-needs-framework-for-responding-to-hostile-acts-in-space/",
-      "pubDate": "2026-06-23T10:00:00Z",
-      "snippet": "Mitchell Institute workshop participants found little consensus on where competition ends and conflict begins as China expands counterspace capabilities\nThe post Report: U.S. needs framework for respo...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Leonardo, Baykar tout in-flight control of Kizilelma drone from a M-346 jet trainer",
       "link": "https://www.defensenews.com/global/europe/2026/06/23/leonardo-baykar-tout-in-flight-control-of-kizilelma-drone-from-a-m-346-jet-trainer/",
       "pubDate": "2026-06-23T09:59:29Z",
@@ -174,15 +273,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "NASA and Boeing still uncertain about when Starliner will return to flight",
-      "link": "https://spacenews.com/nasa-and-boeing-still-uncertain-about-when-starliner-will-return-to-flight/",
-      "pubDate": "2026-06-23T01:48:42Z",
-      "snippet": "NASA\u2019s safety advisers say that while the agency and Boeing make progress in addressing problems with the CST-100 Starliner, it could be up to a year before it flies again.\nThe post NASA and Boeing st...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "US Marines in Okinawa receive first MADIS, NMESIS platforms",
       "link": "https://www.defensenews.com/industry/techwatch/2026/06/23/us-marines-in-okinawa-receive-first-madis-nmesis-platforms/",
       "pubDate": "2026-06-23T00:18:41Z",
@@ -190,33 +280,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Trump executive order directs NASA to plan quantum space applications",
-      "link": "https://spacenews.com/trump-signs-executive-order-to-accelerate-quantum-space-infrastructure/",
-      "pubDate": "2026-06-22T21:37:08Z",
-      "snippet": "The White House has issued an executive order aiming to unify and accelerate U.S. development of quantum technologies, including space systems that could enable next-generation navigation, sensing and...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Rocket Lab launches satellite for U.S. Space Force Victus Haze responsive space exercise",
-      "link": "https://spacenews.com/rocket-lab-launches-satellite-for-u-s-space-force-victus-haze-responsive-space-exercise/",
-      "pubDate": "2026-06-22T20:58:41Z",
-      "snippet": "The mission pairs Rocket Lab spacecraft with a True Anomaly vehicle in orbit to demonstrate rapid threat characterization and rendezvous operations\nThe post Rocket Lab launches satellite for U.S. Spac...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Chinese spaceplane releases object into orbit, according to commercial space surveillance",
-      "link": "https://spacenews.com/chinese-spaceplane-releases-object-into-orbit-according-to-commercial-space-surveillance/",
-      "pubDate": "2026-06-22T17:42:59Z",
-      "snippet": "China\u2019s secretive spaceplane has released an object into orbit during its ongoing fourth mission, according to space surveillance firm LeoLabs.\nThe post Chinese spaceplane releases object into orbit, ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "US Army tests autonomous boats during Philippine exercise",
@@ -237,15 +300,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "America is about to cede Africa\u2019s space industry to China, and nobody\u2019s talking about it.",
-      "link": "https://spacenews.com/america-is-about-to-cede-africas-space-industry-to-china-and-nobodys-talking-about-it/",
-      "pubDate": "2026-06-22T13:00:00Z",
-      "snippet": "If the Trump administration is serious about executing its \u201cAmerica First in Africa\u201d policy and transforming American engagement on the continent, it needs to focus on sectors where it still [&#8230;]...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Can China\u2019s latest air-to-air missile take on its US equivalent? Definitely maybe, experts say.",
       "link": "https://www.defensenews.com/global/asia-pacific/2026/06/22/can-chinas-latest-air-to-air-missile-take-on-its-us-equivalent-definitely-maybe-experts-say/",
       "pubDate": "2026-06-22T12:20:33Z",
@@ -253,15 +307,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Astroscale raises funding to support growth strategy",
-      "link": "https://spacenews.com/astroscale-raises-funding-to-support-growth-strategy/",
-      "pubDate": "2026-06-22T12:13:11Z",
-      "snippet": "Satellite servicing company Astroscale is working to transition from technology demonstrations to a regular series of missions, bolstered by a recent capital infusion.\nThe post Astroscale raises fundi...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Ukraine launches \u2018TrophyLab\u2019 platform to share captured Russian weapons with allies",
@@ -295,51 +340,6 @@
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/06/19/pentagon-tells-lawmakers-it-needs-80-billion-for-iran-war-other-expenses-wsj/",
       "pubDate": "2026-06-19T20:23:18Z",
       "snippet": "The full cost of the conflict, which the U.S. launched alongside Israel on Feb. 28, has remained an open question on Capitol Hill.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Japan joins the global craze to field interceptor drones",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/06/19/japan-joins-the-global-craze-to-field-interceptor-drones/",
-      "pubDate": "2026-06-19T11:27:50Z",
-      "snippet": "The interceptor drone systems are expected to be installed by 2027 near radar sites, bases, vessels and other critical locations, the agency stated.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Italy rejects aid scheme that buys US weapons for Ukraine\u2019s defense",
-      "link": "https://www.defensenews.com/global/europe/2026/06/19/italy-rejects-aid-scheme-that-buys-us-weapons-for-ukraines-defense/",
-      "pubDate": "2026-06-19T10:03:56Z",
-      "snippet": "NATO has said the Prioritised Ukraine Requirements List (PURL) mechanism has helped fund the purchase of air-defense systems, in particular.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon open to Poland\u2019s offer to host permanent U.S. base, Polish minister says",
-      "link": "https://www.defensenews.com/pentagon/2026/06/18/pentagon-open-to-polands-offer-to-host-permanent-us-base-polish-minister-says/",
-      "pubDate": "2026-06-18T20:00:00Z",
-      "snippet": "Poland has been pushing for a bigger allied presence on NATO\u2019s eastern flank after Russia\u2019s invasion of neighboring Ukraine in 2022.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Air Force awards first CCA production contracts to General Atomics, Anduril",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/06/18/us-air-force-awards-first-cca-production-contracts-to-general-atomics-anduril/",
-      "pubDate": "2026-06-18T18:02:24Z",
-      "snippet": "The U.S. Air Force has cleared its first Collaborative Combat Aircraft to enter production.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Ukraine hits Moscow refinery in major drone attack on Russian capital",
-      "link": "https://www.defensenews.com/global/europe/2026/06/18/ukraine-hits-moscow-refinery-in-major-drone-attack-on-russian-capital/",
-      "pubDate": "2026-06-18T16:38:59Z",
-      "snippet": "Ukrainian drones hit the Russian capital\u2019s oil refinery for the second time this week.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
