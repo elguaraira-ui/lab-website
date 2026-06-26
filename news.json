@@ -1,7 +1,151 @@
 {
-  "updated": "2026-06-25T13:08:09.443338Z",
-  "count": 57,
+  "updated": "2026-06-26T13:01:35.540033Z",
+  "count": 58,
   "items": [
+    {
+      "title": "Starlink veterans launch startup to broaden megaconstellation ownership",
+      "link": "https://spacenews.com/starlink-veterans-launch-startup-to-broaden-megaconstellation-ownership/",
+      "pubDate": "2026-06-26T12:00:00Z",
+      "snippet": "Former SpaceX engineers who helped build and scale Starlink have launched a startup aiming to deliver megaconstellations for governments and companies seeking more control over space-based infrastruct...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "ISS repair spacewalk highlights concerns about station health",
+      "link": "https://spacenews.com/iss-repair-spacewalk-highlights-concerns-about-station-health/",
+      "pubDate": "2026-06-26T11:57:53Z",
+      "snippet": "NASA astronauts on the International Space Station are preparing for a spacewalk to repair a robotic arm as advisers raise concerns about the long-term health of the station and spacesuits.\nThe post I...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Europe\u2019s next security challenge is in orbit",
+      "link": "https://spacenews.com/europes-next-security-challenge-is-in-orbit/",
+      "pubDate": "2026-06-26T11:00:00Z",
+      "snippet": "Across the European Union, satellite navigations alone is thought to underpin more than 10% of GDP. Satellite-dependent activity on the whole is responsible for much more. According to INSEE and [&#82...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "German Counter-drone startup Tytan eyes 3,000 interceptors per month in new factory",
+      "link": "https://www.defensenews.com/global/europe/2026/06/26/german-counter-drone-startup-tytan-eyes-3000-interceptors-per-month-in-new-factory/",
+      "pubDate": "2026-06-26T10:26:26Z",
+      "snippet": "Production at the new plant is scheduled to begin in August, according to the company's CEO.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Rocket Lab wins NASA award for three Electron launches",
+      "link": "https://spacenews.com/rocket-lab-wins-nasa-award-for-three-electron-launches/",
+      "pubDate": "2026-06-25T22:22:21Z",
+      "snippet": "NASA has selected Rocket Lab to launch a pair of science missions on three Electron rockets in 2027.\nThe post Rocket Lab wins NASA award for three Electron launches appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Weather Stream releases first light imagery from GEMS2 microwave radiometer",
+      "link": "https://spacenews.com/weather-stream-releases-first-light-imagery-from-gems2-microwave-radiometer/",
+      "pubDate": "2026-06-25T22:06:18Z",
+      "snippet": "SAN FRANCISCO \u2013 Weather Stream, a Boulder, Colorado, commercial weather satellite operator, is collecting global atmospheric observations with its GEMS2-Amethyst satellite. Launched March 30 aboard th...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Space Force\u2019s new MUOS satellites to use Boeing\u2019s 702MP spacecraft platform",
+      "link": "https://spacenews.com/space-forces-new-muos-satellites-to-use-boeings-702mp-spacecraft-platform/",
+      "pubDate": "2026-06-25T21:53:39Z",
+      "snippet": "Boeing's 702MP platform has been used for commercial and wideband military missions\nThe post Space Force&#8217;s new MUOS satellites to use Boeing&#8217;s 702MP spacecraft platform appeared first on S...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Ukraine\u2019s top strike-drone maker moves into ballistic missile defense",
+      "link": "https://www.defensenews.com/unmanned/2026/06/25/ukraines-top-strike-drone-maker-moves-into-ballistic-missile-defense/",
+      "pubDate": "2026-06-25T20:59:02Z",
+      "snippet": "Fire Point's drones already fly most of Kyiv's strikes inside Russia. With Germany's Hensoldt, the company is now building Freyja, a homegrown alternative.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Botswana signs the Artemis Accords",
+      "link": "https://spacenews.com/botswana-signs-the-artemis-accords/",
+      "pubDate": "2026-06-25T20:40:12Z",
+      "snippet": "The African nation of Botswana is the latest country to sign the Artemis Accords outlining best practices for space exploration.\nThe post Botswana signs the Artemis Accords appeared first on SpaceNews...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Ukraine\u2019s newest strike weapon drifts into Russia on the wind",
+      "link": "https://www.defensenews.com/global/europe/2026/06/25/ukraines-newest-strike-weapon-drifts-into-russia-on-the-wind/",
+      "pubDate": "2026-06-25T20:28:05Z",
+      "snippet": "The U.S. and Russia are fielding the same balloons used by Ukraine that bait air defenses and now launch missiles.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "The Pentagon\u2019s research infrastructure is \u2018deteriorating,\u2019 study finds",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/06/25/the-pentagons-research-infrastructure-is-deteriorating-study-finds/",
+      "pubDate": "2026-06-25T20:01:19Z",
+      "snippet": "Pentagon research has been hampered by backlogged security clearances, limited funds to build or refurbish labs and a slow and difficult hiring process.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "House backs $1.55 billion to revive E-7 Wedgetail, spares Navy Hawkeye",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/06/25/house-backs-155-billion-to-revive-e-7-wedgetail-spares-navy-hawkeye/",
+      "pubDate": "2026-06-25T16:50:55Z",
+      "snippet": "The White House budget office wants to raid a Navy radar-plane account and a classified Air Force line to pull the E-7 Wedgetail back from the dead.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Small satellite operators confront a bottleneck to space access",
+      "link": "https://spacenews.com/small-satellite-operators-confront-a-bottleneck-to-space-access/",
+      "pubDate": "2026-06-25T16:01:06Z",
+      "snippet": "For years, small satellite manufacturers have built their business plans around the idea that SpaceX could launch their payload to space. Through its Falcon 9 Transporter and Bandwagon rideshare missi...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Lockheed Martin wins over $35 billion contract to quadruple THAAD production",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/06/25/lockheed-martin-wins-over-35-billion-contract-to-quadruple-thaad-production/",
+      "pubDate": "2026-06-25T15:42:16Z",
+      "snippet": "As U.S. lawmakers worry over the munitions stockpile, Lockheed Martin announced a multiyear contract to increase THAAD production from 96 to 400 a year.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Finding solutions to jamming and spoofing",
+      "link": "https://spacenews.com/finding-solutions-to-jamming-and-spoofing/",
+      "pubDate": "2026-06-25T14:51:35Z",
+      "snippet": "In this episode of Space Minds, Mike Gruss talks with Iridium\u2019s Tim Last. They discuss competition in the direct-to-device and Internet-of-Things sector as well as solutions to GPS jamming problems [&...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Philippines deploys US-made Triton naval drones in its western waters to scout for intruders",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/06/25/philippines-deploys-us-made-triton-naval-drones-in-its-western-waters-to-scout-for-intruders/",
+      "pubDate": "2026-06-25T14:32:31Z",
+      "snippet": "The transfer comes after the military revealed that China discreetly deployed a 6x6 meter floating platform equipped with an antenna at Scarborough Shoal.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "House Appropriations Committee approves $55.5 billion for U.S. Space Force",
       "link": "https://spacenews.com/house-appropriations-committee-approves-55-5-billion-for-u-s-space-force/",
@@ -156,42 +300,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "NGSO trade association launches without industry giant SpaceX",
-      "link": "https://spacenews.com/ngso-trade-association-launches-without-industry-giant-spacex/",
-      "pubDate": "2026-06-24T10:00:00Z",
-      "snippet": "Amazon and several other non-geostationary satellite operators have formed a trade association to represent their fast-growing market, with SpaceX notably absent despite having by far the largest NGSO...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "OHB raises funding for expansion, acquisitions",
-      "link": "https://spacenews.com/ohb-raises-funding-for-expansion-acquisitions/",
-      "pubDate": "2026-06-24T03:09:48Z",
-      "snippet": "German space company OHB will raise about half a billion euros through a stock sale to allow the company to expand facilities and pursue potential acquisitions.\nThe post OHB raises funding for expansi...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NASA\u2019s inspector general warns launch sites nearing capacity",
-      "link": "https://spacenews.com/nasas-inspector-general-warns-launch-sites-nearing-capacity/",
-      "pubDate": "2026-06-23T22:15:48Z",
-      "snippet": "A report by NASA\u2019s inspector general is the latest to highlight the problems that the increasing number of launches is posing to spaceports.\nThe post NASA\u2019s inspector general warns launch sites nearin...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Boeing wins $2 billion Space Force contract for communications satellites",
-      "link": "https://spacenews.com/boeing-wins-2-billion-space-force-contract-for-communications-satellites/",
-      "pubDate": "2026-06-23T22:07:36Z",
-      "snippet": "WASHINGTON \u2014 Boeing won a contract worth up to $2 billion to build two next-generation military communications satellites for the U.S. Space Force, prevailing over Lockheed Martin in a competition [&#...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "US Army tests fire control software that helps moving vehicles kill drones",
       "link": "https://www.defensenews.com/industry/techwatch/2026/06/23/us-army-tests-fire-control-software-that-helps-moving-vehicles-kill-drones/",
       "pubDate": "2026-06-23T19:15:49Z",
@@ -201,33 +309,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Commercial Space Federation (CSF) Welcomes New Associate Member",
-      "link": "https://spacenews.com/commercial-space-federation-csf-welcomes-new-associate-member/",
-      "pubDate": "2026-06-23T19:00:00Z",
-      "snippet": "June 23, 2026 \u2013 Washington, D.C.\u2014The Commercial Space Federation (CSF) is pleased to welcome Sophia Space, a company advancing orbital computing infrastructure for the next generation of space-based d...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Ubotica raises $11 million to scale maritime-intelligence platform",
-      "link": "https://spacenews.com/ubotica-raises-11-million-to-scale-maritime-intelligence-platform/",
-      "pubDate": "2026-06-23T17:48:22Z",
-      "snippet": "SAN FRANCISCO \u2013 Ubotica Technologies, an Irish company focused on artificial intelligence for spacecraft, has raised $11 million to expand commercial sales of its maritime-intelligence platform. The p...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Sophia selects Apex bus for on-orbit computing demonstration",
-      "link": "https://spacenews.com/sophia-selects-apex-bus-for-on-orbit-computing-demonstration/",
-      "pubDate": "2026-06-23T15:56:58Z",
-      "snippet": "SAN FRANCISCO \u2013 Sophia Space announced the selection June 22 of an Apex bus for its first orbital computing node. Pasadena, California-based Sophia plans to demonstrate its Thermal Integrated LEO [&#8...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Frustrating Israel, fiber-optic killer drone technology has arrived in southern Lebanon",
       "link": "https://www.defensenews.com/global/mideast-africa/2026/06/23/frustrating-israel-fiber-optic-killer-drone-technology-has-arrived-in-southern-lebanon/",
       "pubDate": "2026-06-23T14:43:45Z",
@@ -235,24 +316,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Loft Orbital to test AI models on spacecraft for Earth observation",
-      "link": "https://spacenews.com/loft-orbital-to-test-ai-models-on-spacecraft-for-earth-observation/",
-      "pubDate": "2026-06-23T13:00:00Z",
-      "snippet": "Loft Orbital is working with NASA\u2019s Jet Propulsion Laboratory to test the use of artificial intelligence on spacecraft to improve Earth science monitoring.\nThe post Loft Orbital to test AI models on s...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Satellogic partners with SynMax to build intelligence services around upcoming Merlin constellation",
-      "link": "https://spacenews.com/satellogic-partners-with-synmax-to-build-intelligence-services-around-upcoming-merlin-constellation/",
-      "pubDate": "2026-06-23T12:00:00Z",
-      "snippet": "Companies are looking to fill demand from defense and intelligence agencies for persistent surveillance rather than one-off imagery purchases.\nThe post Satellogic partners with SynMax to build intelli...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Leonardo, Baykar tout in-flight control of Kizilelma drone from a M-346 jet trainer",
@@ -286,60 +349,6 @@
       "link": "https://www.defensenews.com/news/your-military/2026/06/22/us-army-tests-autonomous-boats-during-philippine-exercise/",
       "pubDate": "2026-06-22T16:00:31Z",
       "snippet": "Autonomous boats helped escort a U.S. Army vessel during a military exercise, in a demonstration of how uncrewed assets are changing maritime operations.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Kyiv\u2019s drone leverage moved the US. Moscow could be next, a top Ukrainian official says.",
-      "link": "https://www.defensenews.com/pentagon/2026/06/22/kyivs-drone-leverage-moved-the-us-moscow-could-be-next-a-top-ukrainian-official-says/",
-      "pubDate": "2026-06-22T15:06:54Z",
-      "snippet": "After years of needing Western weapons, Kyiv is approaching negotiations with battlefield tech the U.S. now wants \u2014 and a possible ceasefire looming.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Can China\u2019s latest air-to-air missile take on its US equivalent? Definitely maybe, experts say.",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/06/22/can-chinas-latest-air-to-air-missile-take-on-its-us-equivalent-definitely-maybe-experts-say/",
-      "pubDate": "2026-06-22T12:20:33Z",
-      "snippet": "The PL-16\u2019s specs would let it chase large, slower-moving aircraft, one analyst said, though its effectiveness against smaller, faster planes is unclear.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Ukraine launches \u2018TrophyLab\u2019 platform to share captured Russian weapons with allies",
-      "link": "https://www.defensenews.com/global/europe/2026/06/22/ukraine-launches-trophylab-platform-to-share-captured-russian-weapons-with-allies/",
-      "pubDate": "2026-06-22T09:27:55Z",
-      "snippet": "Among the listed items available for study are, for example, a Kinzhal hypersonic missile and a T-90M tank.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army launches new Indo-Pacific multi-domain command",
-      "link": "https://www.defensenews.com/news/your-military/2026/06/19/army-launches-new-indo-pacific-multi-domain-command/",
-      "pubDate": "2026-06-19T21:57:00Z",
-      "snippet": "The move combines traditional formations with some of the service\u2019s cyber, space, unmanned systems and electronic warfare capabilities.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Air Force One begins commissioning flights, final step before presidential use",
-      "link": "https://www.defensenews.com/news/your-military/2026/06/19/air-force-one-begins-commissioning-flights-final-step-before-presidential-use/",
-      "pubDate": "2026-06-19T21:06:11Z",
-      "snippet": "The service announced the delivery of the Qatari-donated aircraft to Joint Base Andrews on Friday and the kickoff of its commissioning flights.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon tells lawmakers it needs $80 billion for Iran war, other expenses: WSJ",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/06/19/pentagon-tells-lawmakers-it-needs-80-billion-for-iran-war-other-expenses-wsj/",
-      "pubDate": "2026-06-19T20:23:18Z",
-      "snippet": "The full cost of the conflict, which the U.S. launched alongside Israel on Feb. 28, has remained an open question on Capitol Hill.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
