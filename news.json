@@ -1,7 +1,115 @@
 {
-  "updated": "2026-06-26T13:01:35.540033Z",
-  "count": 58,
+  "updated": "2026-06-29T14:39:59.139842Z",
+  "count": 57,
   "items": [
+    {
+      "title": "Discovering the Universe \u2013 Astrophysics Flagship Space Observatories Offer Insights to Key Questions",
+      "link": "https://spacenews.com/discovering-the-universe-astrophysics-flagship-space-observatories-offer-insights-to-key-questions/",
+      "pubDate": "2026-06-29T14:27:57Z",
+      "snippet": "From observing distant galaxies to exploring exoplanets and their atmospheres, BAE Systems enables cutting-edge technology to expand our knowledge of the universe. As a major partner in each of NASA\u2019s...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Army wants up to 100 drone boats to fill watercraft gap in Pacific",
+      "link": "https://www.defensenews.com/news/your-military/2026/06/29/army-wants-up-to-100-drone-boats-to-fill-watercraft-gap-in-pacific/",
+      "pubDate": "2026-06-29T13:56:01Z",
+      "snippet": "As the Army contends with a shortage of boats in the Pacific, it's looking at autonomous watercraft to fill the gaps.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Quantum computing is about to become a national security problem in orbit",
+      "link": "https://spacenews.com/quantum-computing-is-about-to-become-a-national-security-problem-in-orbit/",
+      "pubDate": "2026-06-29T13:00:00Z",
+      "snippet": "Quantum computing is advancing fast, and nations are racing to field the first machines powerful enough to break modern encryption. This race has direct consequences for the commercial space industry,...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Rocket Lab to acquire Iridium",
+      "link": "https://spacenews.com/rocket-lab-to-acquire-iridium/",
+      "pubDate": "2026-06-29T12:10:49Z",
+      "snippet": "Rocket Lab is acquiring satellite telecommunications company Iridium for $8 billion as part of its effort to become an end-to-end space company.\nThe post Rocket Lab to acquire Iridium appeared first o...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Israel sells Spyder air defense systems to Romania for $2.3 billion",
+      "link": "https://www.defensenews.com/global/mideast-africa/2026/06/29/israel-sells-spyder-air-defense-systems-to-romania-for-23-billion/",
+      "pubDate": "2026-06-29T12:09:19Z",
+      "snippet": "According to manufacturer Rafael, it's the largest contract in its history.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "SatVu restarts commercial operations with HotSat-2",
+      "link": "https://spacenews.com/satvu-restarts-commercial-operations-with-hotsat-2/",
+      "pubDate": "2026-06-29T11:11:42Z",
+      "snippet": "British thermal imaging startup SatVu announced the start of commercial services June 29 for HotSat-2, marking a return to revenue-generating operations after its debut satellite failed in low Earth o...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Craft Prospect selected for The Sunday Times Scotland Fast 50",
+      "link": "https://spacenews.com/craft-prospect-selected-for-the-sunday-times-scotland-fast-50/",
+      "pubDate": "2026-06-29T09:00:00Z",
+      "snippet": "(Glasgow, UK) Glasgow-based space engineering company Craft Prospect has been selected for inclusion in the inaugural edition of The Sunday Times Scotland Fast 50, a new annual list recognising some [...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations",
+      "link": "https://spacenews.com/china-establishes-vleo-industry-alliance-as-satellites-demonstrate-sustained-low-orbit-operations/",
+      "pubDate": "2026-06-29T08:53:12Z",
+      "snippet": "HELSINKI \u2014 China has established a national very low Earth orbit industry alliance, as multiple satellites demonstrate sustained operations below 300 kilometers and propulsion startups attract investm...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Rocket Lab launches 10th Synspective satellite",
+      "link": "https://spacenews.com/rocket-lab-launches-10th-synspective-satellite/",
+      "pubDate": "2026-06-26T22:17:38Z",
+      "snippet": "Rocket Lab launched a radar-imaging satellite for Japanese company Synspective on June 26, a flight delayed by a responsive space mission.\nThe post Rocket Lab launches 10th Synspective satellite appea...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US strikes Iranian missile, drone, radar sites",
+      "link": "https://www.defensenews.com/news/your-military/2026/06/26/us-resumes-attacks-on-iran/",
+      "pubDate": "2026-06-26T22:08:28Z",
+      "snippet": "The U.S. struck Iranian missile, drone and radar sites on Friday, U.S. Central Command said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Spain-backed fund joins FOSSA\u2019s sovereign satellite communications push",
+      "link": "https://spacenews.com/spain-backed-fund-joins-fossas-sovereign-satellite-communications-push/",
+      "pubDate": "2026-06-26T20:59:57Z",
+      "snippet": "Spanish startup FOSSA Systems has raised about $10.5 million to expand its connectivity constellation in a funding round that included a technology investment vehicle backed by Spain\u2019s government.\nThe...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "101st soldiers use drones to drop grappling hooks, breach razor wire",
+      "link": "https://www.defensenews.com/news/your-army/2026/06/26/101st-soldiers-use-drones-to-drop-grappling-hooks-breach-razor-wire/",
+      "pubDate": "2026-06-26T16:38:09Z",
+      "snippet": "The Army should treat drones like ammo, one officer said, estimating a brigade needs between 1,000 to 1,500 drones per week in sustained combat operations.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Starlink veterans launch startup to broaden megaconstellation ownership",
       "link": "https://spacenews.com/starlink-veterans-launch-startup-to-broaden-megaconstellation-ownership/",
@@ -51,7 +159,7 @@
       "title": "Weather Stream releases first light imagery from GEMS2 microwave radiometer",
       "link": "https://spacenews.com/weather-stream-releases-first-light-imagery-from-gems2-microwave-radiometer/",
       "pubDate": "2026-06-25T22:06:18Z",
-      "snippet": "SAN FRANCISCO \u2013 Weather Stream, a Boulder, Colorado, commercial weather satellite operator, is collecting global atmospheric observations with its GEMS2-Amethyst satellite. Launched March 30 aboard th...",
+      "snippet": "Updated with comments from Weather Stream CEO Michael Hurowitz. SAN FRANCISCO \u2013 Weather Stream, a Boulder, Colorado, commercial weather satellite operator, is collecting global atmospheric observation...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
@@ -201,33 +309,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Space Force seeks fresh bidders for satellite-control antennas",
-      "link": "https://spacenews.com/space-force-seeks-fresh-bidders-for-satellite-control-antennas/",
-      "pubDate": "2026-06-24T21:26:29Z",
-      "snippet": "After terminating $1.7 billion contract, Space Force to relaunch SCAR\nThe post Space Force seeks fresh bidders for satellite-control antennas appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Shield Space and ClearSpace partner to defend satellites from orbital threats",
-      "link": "https://spacenews.com/shield-space-and-clearspace-partner-to-defend-satellites-from-orbital-threats/",
-      "pubDate": "2026-06-24T21:10:40Z",
-      "snippet": "British startup Shield Space plans to combine its autonomous satellite operations software with ClearSpace\u2019s in-orbit servicing capabilities to address emerging orbital threats.\nThe post Shield Space ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "MDA Space wins contract for Radarsat replenishment satellite",
-      "link": "https://spacenews.com/mda-space-wins-contract-for-radarsat-replenishment-satellite/",
-      "pubDate": "2026-06-24T19:30:43Z",
-      "snippet": "MDA Space will build a radar imaging satellite for the Canadian Space Agency as the government studies options for a next-generation satellite system.\nThe post MDA Space wins contract for Radarsat rep...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "China studied US stealth aircraft \u2014 and learned the wrong lessons",
       "link": "https://www.defensenews.com/global/asia-pacific/2026/06/24/china-studied-us-stealth-aircraft-and-learned-the-wrong-lessons/",
       "pubDate": "2026-06-24T17:34:47Z",
@@ -246,82 +327,10 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Vast signs additional partners for commercial space station microgravity research",
-      "link": "https://spacenews.com/vast-signs-additional-partners-for-commercial-space-station-microgravity-research/",
-      "pubDate": "2026-06-24T13:42:07Z",
-      "snippet": "Commercial space station company Vast announced June 24 the addition of several companies and organizations to its network of partners for microgravity research and manufacturing.\nThe post Vast signs ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "York satellite demonstrates two-way UHF communications from low Earth orbit",
-      "link": "https://spacenews.com/york-satellite-demonstrates-two-way-uhf-communications-from-low-earth-orbit/",
-      "pubDate": "2026-06-24T13:02:31Z",
-      "snippet": "WASHINGTON \u2014 York Space Systems said June 24 that a satellite it built for the U.S. Space Force successfully demonstrated two-way tactical communications using ultra-high-frequency (UHF) links from lo...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "How space weather could bust the AI boom",
-      "link": "https://spacenews.com/how-space-weather-could-bust-the-ai-boom/",
-      "pubDate": "2026-06-24T13:00:00Z",
-      "snippet": "America&#8217;s electric grid is entering a period of unprecedented strain. Utilities across the country are scrambling to keep up as power-hungry AI data centers expand at a staggering pace, often [&...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Vantor selects BAE Systems to build next-generation imaging satellites",
-      "link": "https://spacenews.com/vantor-selects-bae-systems-to-build-next-generation-imaging-satellites/",
-      "pubDate": "2026-06-24T12:30:00Z",
-      "snippet": "WASHINGTON \u2014 Vantor has chosen BAE Systems to build its next generation of high-resolution imaging satellites. The selection reunites Vantor with the former Ball Aerospace business that helped develop...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "SpaceX launches secretive Starfall reentry demo mission",
-      "link": "https://spacenews.com/spacex-launches-secretive-starfall-reentry-demo-mission/",
-      "pubDate": "2026-06-24T11:39:59Z",
-      "snippet": "SpaceX launched the first test flight of its Starfall reentry capsule June 23, but the mission remained as secretive as the program itself.\nThe post SpaceX launches secretive Starfall reentry demo mis...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Germany scraps F126 frigate program, pivots to MEKO warships amid cost and contractor chaos",
       "link": "https://www.defensenews.com/global/europe/2026/06/24/germany-scraps-f126-frigate-program-pivots-to-meko-warships-amid-cost-and-contractor-chaos/",
       "pubDate": "2026-06-24T10:28:27Z",
       "snippet": "Germany Navy leaders have already blessed the fallback ships as capable of meeting NATO capability requirements, but an alliance deadline looms.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army tests fire control software that helps moving vehicles kill drones",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/06/23/us-army-tests-fire-control-software-that-helps-moving-vehicles-kill-drones/",
-      "pubDate": "2026-06-23T19:15:49Z",
-      "snippet": "The Army has successfully tested software designed to help vehicle-mounted weapons shoot down drones while both the target and the vehicle are moving.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Frustrating Israel, fiber-optic killer drone technology has arrived in southern Lebanon",
-      "link": "https://www.defensenews.com/global/mideast-africa/2026/06/23/frustrating-israel-fiber-optic-killer-drone-technology-has-arrived-in-southern-lebanon/",
-      "pubDate": "2026-06-23T14:43:45Z",
-      "snippet": "Analysts believe that any military engaged in conflict will, in one form or another, encounter technologies first seen in Ukraine.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Leonardo, Baykar tout in-flight control of Kizilelma drone from a M-346 jet trainer",
-      "link": "https://www.defensenews.com/global/europe/2026/06/23/leonardo-baykar-tout-in-flight-control-of-kizilelma-drone-from-a-m-346-jet-trainer/",
-      "pubDate": "2026-06-23T09:59:29Z",
-      "snippet": "Following an autonomous taxi and take-off, the Kizilelma autonomously linked to the M-346 using \u201can advanced radio frequency data exchange system.\"",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -334,24 +343,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "US Marines in Okinawa receive first MADIS, NMESIS platforms",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/06/23/us-marines-in-okinawa-receive-first-madis-nmesis-platforms/",
-      "pubDate": "2026-06-23T00:18:41Z",
-      "snippet": "The delivery marks the service\u2019s latest integration of modernized defenses in the increasingly contested Indo-Pacific.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army tests autonomous boats during Philippine exercise",
-      "link": "https://www.defensenews.com/news/your-military/2026/06/22/us-army-tests-autonomous-boats-during-philippine-exercise/",
-      "pubDate": "2026-06-22T16:00:31Z",
-      "snippet": "Autonomous boats helped escort a U.S. Army vessel during a military exercise, in a demonstration of how uncrewed assets are changing maritime operations.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "This strange material can become strong or fall apart in seconds",
