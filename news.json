@@ -1,7 +1,70 @@
 {
-  "updated": "2026-06-29T14:39:59.139842Z",
+  "updated": "2026-06-30T13:01:01.450284Z",
   "count": 57,
   "items": [
+    {
+      "title": "SSC Space, Firefly set 2028 target for first orbital launch from Sweden\u2019s Esrange",
+      "link": "https://spacenews.com/ssc-space-firefly-set-2028-target-for-first-orbital-launch-from-swedens-esrange/",
+      "pubDate": "2026-06-30T12:21:56Z",
+      "snippet": "HELSINKI \u2014 SSC Space and Firefly have set a 2028 target for the first orbital launch from Esrange, with key infrastructure and regulatory pieces falling into place. The companies announced [&#8230;]\nT...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Orbital files plans for 100,000 orbital data centers",
+      "link": "https://spacenews.com/orbital-files-plans-for-100000-orbital-data-centers/",
+      "pubDate": "2026-06-30T11:58:27Z",
+      "snippet": "Five-month-old startup Orbital has asked the Federal Communications Commission for permission to deploy up to 100,000 data center satellites, aiming to bring 10 gigawatts of computing power from space...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Study argues bigger launch vehicles may not always be better",
+      "link": "https://spacenews.com/study-argues-bigger-launch-vehicles-may-not-always-be-better/",
+      "pubDate": "2026-06-30T01:45:20Z",
+      "snippet": "As SpaceX and others pursue the development of very large launch vehicles, a new study suggests that there may be such a thing as a rocket that is too large.\nThe post Study argues bigger launch vehicl...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "USMC awards $20 million contract for first autonomous ground vehicles",
+      "link": "https://www.defensenews.com/news/your-military/2026/06/29/usmc-awards-20-million-contract-for-first-autonomous-ground-vehicles/",
+      "pubDate": "2026-06-29T19:46:48Z",
+      "snippet": "The Marine Corps is pursuing a first-of-its-kind $20 million production contract for fully autonomous ground vehicles.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "As one Australian Army brigade bulks up with armor, its fuel and ammo needs spike",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/06/29/as-one-australian-army-brigade-bulks-up-with-armor-its-fuel-and-ammo-needs-spike/",
+      "pubDate": "2026-06-29T15:31:56Z",
+      "snippet": "The formation is expected to burn through 300,000 liters of diesel per day during high-intensity operations, compared with 40,000 liters previously.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "ESA to seek lunar mapping capability for Argonaut lander",
+      "link": "https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/",
+      "pubDate": "2026-06-29T15:24:51Z",
+      "snippet": "MILAN \u2014 The European Space Agency will rely on external lunar topographic data during the design phase of its Argonaut lunar lander, and possibly for its first mission, while working [&#8230;]\nThe pos...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Beck: Iridium acquisition the \u201clogical next step\u201d for Rocket Lab",
+      "link": "https://spacenews.com/beck-iridium-acquisition-the-logical-next-step-for-rocket-lab/",
+      "pubDate": "2026-06-29T15:20:45Z",
+      "snippet": "Rocket Lab\u2019s chief executive says the company\u2019s acquisition of Iridium was the \u201clogical next step\u201d in his ambitions to tap into the lucrative space services market.\nThe post Beck: Iridium acquisition ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Discovering the Universe \u2013 Astrophysics Flagship Space Observatories Offer Insights to Key Questions",
       "link": "https://spacenews.com/discovering-the-universe-astrophysics-flagship-space-observatories-offer-insights-to-key-questions/",
@@ -12,7 +75,7 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Army wants up to 100 drone boats to fill watercraft gap in Pacific",
+      "title": "US Army wants up to 100 drone boats to fill watercraft gap in Pacific",
       "link": "https://www.defensenews.com/news/your-military/2026/06/29/army-wants-up-to-100-drone-boats-to-fill-watercraft-gap-in-pacific/",
       "pubDate": "2026-06-29T13:56:01Z",
       "snippet": "As the Army contends with a shortage of boats in the Pacific, it's looking at autonomous watercraft to fill the gaps.",
@@ -219,15 +282,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Small satellite operators confront a bottleneck to space access",
-      "link": "https://spacenews.com/small-satellite-operators-confront-a-bottleneck-to-space-access/",
-      "pubDate": "2026-06-25T16:01:06Z",
-      "snippet": "For years, small satellite manufacturers have built their business plans around the idea that SpaceX could launch their payload to space. Through its Falcon 9 Transporter and Bandwagon rideshare missi...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Lockheed Martin wins over $35 billion contract to quadruple THAAD production",
       "link": "https://www.defensenews.com/industry/techwatch/2026/06/25/lockheed-martin-wins-over-35-billion-contract-to-quadruple-thaad-production/",
       "pubDate": "2026-06-25T15:42:16Z",
@@ -237,15 +291,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Finding solutions to jamming and spoofing",
-      "link": "https://spacenews.com/finding-solutions-to-jamming-and-spoofing/",
-      "pubDate": "2026-06-25T14:51:35Z",
-      "snippet": "In this episode of Space Minds, Mike Gruss talks with Iridium\u2019s Tim Last. They discuss competition in the direct-to-device and Internet-of-Things sector as well as solutions to GPS jamming problems [&...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Philippines deploys US-made Triton naval drones in its western waters to scout for intruders",
       "link": "https://www.defensenews.com/global/asia-pacific/2026/06/25/philippines-deploys-us-made-triton-naval-drones-in-its-western-waters-to-scout-for-intruders/",
       "pubDate": "2026-06-25T14:32:31Z",
@@ -253,33 +298,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "House Appropriations Committee approves $55.5 billion for U.S. Space Force",
-      "link": "https://spacenews.com/house-appropriations-committee-approves-55-5-billion-for-u-s-space-force/",
-      "pubDate": "2026-06-25T11:17:40Z",
-      "snippet": "Committee urges more competition in satellite communications and criticizes reliance on reconciliation to fund Golden Dome\nThe post House Appropriations Committee approves $55.5 billion for U.S. Space...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Canceled NASA exploration projects suffered billions of dollars in overruns",
-      "link": "https://spacenews.com/canceled-nasa-exploration-projects-suffered-billions-of-dollars-in-overruns/",
-      "pubDate": "2026-06-25T11:02:47Z",
-      "snippet": "Four NASA exploration projects that the agency stopped earlier this year had suffered overruns that saw their costs more than double, with more than $1 billion in additional increases expected.\nThe po...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "China schedules Long March 10B rocket launch and recovery attempt",
-      "link": "https://spacenews.com/china-schedules-long-march-10b-rocket-launch-and-recovery-attempt/",
-      "pubDate": "2026-06-25T09:59:35Z",
-      "snippet": "HELSINKI \u2014 China is set for a debut flight of its Long March 10B rocket in July and attempt to recover the first stage at sea. Recently issued airspace and [&#8230;]\nThe post China schedules Long Marc...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "ICEYE to double radar-satellite capacity by late 2027 as demand surges",
@@ -313,24 +331,6 @@
       "link": "https://www.defensenews.com/global/asia-pacific/2026/06/24/china-studied-us-stealth-aircraft-and-learned-the-wrong-lessons/",
       "pubDate": "2026-06-24T17:34:47Z",
       "snippet": "An Air Force researcher said China's assessments of U.S. stealth capabilities \"diverge from technical reality and operational practice.\"",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Gen. Christopher Donahue to unexpectedly relinquish command of Army Europe and Africa",
-      "link": "https://www.defensenews.com/news/your-military/2026/06/24/gen-christopher-donahue-to-unexpectedly-relinquish-command-of-army-europe-and-africa/",
-      "pubDate": "2026-06-24T13:45:56Z",
-      "snippet": "U.S. Army Gen. Christopher Donahue will unexpectedly relinquish command next week after just 18 months in the role, the Pentagon confirmed Wednesday.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Germany scraps F126 frigate program, pivots to MEKO warships amid cost and contractor chaos",
-      "link": "https://www.defensenews.com/global/europe/2026/06/24/germany-scraps-f126-frigate-program-pivots-to-meko-warships-amid-cost-and-contractor-chaos/",
-      "pubDate": "2026-06-24T10:28:27Z",
-      "snippet": "Germany Navy leaders have already blessed the fallback ships as capable of meeting NATO capability requirements, but an alliance deadline looms.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
