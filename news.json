@@ -1,7 +1,169 @@
 {
-  "updated": "2026-06-30T13:01:01.450284Z",
-  "count": 57,
+  "updated": "2026-07-01T13:29:56.490557Z",
+  "count": 59,
   "items": [
+    {
+      "title": "Unseen threats overhead: Drones endanger U.S. rocket launch sites",
+      "link": "https://spacenews.com/unseen-threats-overhead-drones-endanger-u-s-rocket-launch-sites/",
+      "pubDate": "2026-07-01T13:00:00Z",
+      "snippet": "One small, errant drone can scrub a space launch at the cost of millions of dollars in delays, with further repercussions spanning across multiple commercial and government launch service providers. [...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Ukraine is launching strike-drones from everything \u2013 including Black Sea robo-boats",
+      "link": "https://www.defensenews.com/global/europe/2026/07/01/ukraine-is-launching-strike-drones-from-everything-including-black-sea-robo-boats/",
+      "pubDate": "2026-07-01T12:45:55Z",
+      "snippet": "The Pentagon is studying the lesson as it shifts focus toward a possible conflict with China.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Vantor offers up-to-date imagery with WorldView 3D",
+      "link": "https://spacenews.com/vantor-offers-up-to-date-imagery-with-worldview-3d/",
+      "pubDate": "2026-07-01T12:30:00Z",
+      "snippet": "SAN FRANCISCO \u2013 Vantor, the company previously known as Maxar Intelligence, unveiled WorldView 3D July 1, to provide customers with updated and high-definition imagery. \u201cWorldView 3D is driving toward...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "EchoStar\u2019s satellite TV and wireless subsidiaries file for bankruptcy",
+      "link": "https://spacenews.com/echostars-satellite-tv-and-wireless-subsidiaries-file-for-bankruptcy/",
+      "pubDate": "2026-07-01T12:22:10Z",
+      "snippet": "EchoStar subsidiaries tied to its satellite TV and abandoned 5G network businesses have filed for Chapter 11 bankruptcy protection, advancing a prepackaged restructuring plan to repay debt early after...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Latitude plans to conduct first launch from Oman",
+      "link": "https://spacenews.com/latitude-plans-to-conduct-first-launch-from-oman/",
+      "pubDate": "2026-07-01T12:03:58Z",
+      "snippet": "French startup Latitude intends to perform the first launch of its small launch vehicle from a spaceport in Oman in late 2027.\nThe post Latitude plans to conduct first launch from Oman appeared first ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Germany expands its exoatmospheric missile shield with second Arrow-3 deployment",
+      "link": "https://www.defensenews.com/global/europe/2026/07/01/germany-expands-its-exoatmospheric-missile-shield-with-second-arrow-3-deployment/",
+      "pubDate": "2026-07-01T11:40:11Z",
+      "snippet": "Kaufbeuren will be home to the system\u2019s radar site, while the actual interceptor launchers for that battery are planned for nearby Fliegerhorst Lechfeld.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Blue Origin outlines new launch pad approach as it pushes to return New Glenn to flight",
+      "link": "https://spacenews.com/blue-origin-outlines-new-launch-pad-approach-as-it-pushes-to-return-new-glenn-to-flight/",
+      "pubDate": "2026-07-01T11:16:15Z",
+      "snippet": "A month after a devastating pad explosion, Blue Origin reiterated plans to return its New Glenn vehicle to flight from a rebuilt launch pad by the end of the year.\nThe post Blue Origin outlines new la...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "The SpaceX IPO tells one story. Here is the more important one.",
+      "link": "https://spacenews.com/the-spacex-ipo-tells-one-story-here-is-the-more-important-one/",
+      "pubDate": "2026-07-01T11:00:00Z",
+      "snippet": "When SpaceX publicly listed, the coverage focused on the rockets, the valuation, and the personalities. That\u2019s understandable. But the more important story is what the IPO signals about where the [&#8...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Israel tests Iron Dome with Iron Beam, pairing missiles with laser pulses for air defense",
+      "link": "https://www.defensenews.com/global/mideast-africa/2026/07/01/israel-tests-iron-dome-with-iron-beam-pairing-missiles-with-laser-pulses-for-air-defense/",
+      "pubDate": "2026-07-01T08:58:40Z",
+      "snippet": "The combination of technologies is meant to give Israel a leg up in shooting down high-volume swarms of incoming threats like drones or missiles.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "NASA awards nearly $600 million in lunar lander missions",
+      "link": "https://spacenews.com/nasa-awards-nearly-600-million-in-lunar-lander-missions/",
+      "pubDate": "2026-06-30T23:57:29Z",
+      "snippet": "NASA selected three companies to fly four lunar lander missions worth nearly $600 million as part of its lunar base ambitions, as it weighs also launching a spare Mars rover.\nThe post NASA awards near...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "TechnoMile Recognized among Notable Vendors in Contract Lifecycle Management Platforms Landscape Report",
+      "link": "https://spacenews.com/technomile-recognized-among-notable-vendors-in-contract-lifecycle-management-platforms-landscape-report/",
+      "pubDate": "2026-06-30T22:21:20Z",
+      "snippet": "TechnoMile, the leading AI solution that unifies growth, contracts, compliance, and security workflows, today announced it has been included in Forrester&#8217;s report, The Contract Lifecycle Managem...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Space Force fields mobile satellite-jamming system",
+      "link": "https://spacenews.com/space-force-fields-mobile-satellite-jamming-system/",
+      "pubDate": "2026-06-30T19:31:29Z",
+      "snippet": "The system known as Meadowlands is transitioning to operational use as the military places greater emphasis on electronic warfare \nThe post Space Force fields mobile satellite-jamming system\u00a0 appeared...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "In a first, Trump will travel aboard Qatari-donated Air Force One",
+      "link": "https://www.defensenews.com/news/your-military/2026/06/30/in-a-first-trump-will-travel-aboard-qatari-donated-air-force-one/",
+      "pubDate": "2026-06-30T18:06:08Z",
+      "snippet": "Trump will travel to North Dakota on Wednesday for the aircraft's inaugural presidential use over a week after its commissioning flights began.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Matthew Williams Joins the Commercial Space Federation as Senior Advisor, National Security",
+      "link": "https://spacenews.com/matthew-williams-joins-the-commercial-space-federation-as-senior-advisor-national-security/",
+      "pubDate": "2026-06-30T18:00:00Z",
+      "snippet": "June 30, 2026 &#8211; Washington, D.C. \u2014 The Commercial Space Federation (CSF) announced today that Matthew Williams, a former Principal Deputy Assistant Secretary of Defense and Chief of Staff to [&#...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "The US Army goes into the breach \u2014 without soldiers",
+      "link": "https://www.defensenews.com/news/your-military/2026/06/30/the-us-army-goes-into-the-breach-without-soldiers/",
+      "pubDate": "2026-06-30T17:55:31Z",
+      "snippet": "The phrase \u201cinto the breach,\u201d invokes one of the Army\u2019s most deadly missions. Now, instead of sending soldiers, the Army is experimenting with drones.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "SOCOM is seeking a long-range kamikaze drone",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/06/30/socom-is-seeking-a-long-range-kamikaze-drone/",
+      "pubDate": "2026-06-30T15:33:27Z",
+      "snippet": "Armed with loitering munitions, SOCOM MC-130J gunships and other aircraft would be able to hunt targets deep inside enemy lines.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Latvia and Ukraine to open drone factory right on Baltic nation\u2019s border with Russia",
+      "link": "https://www.defensenews.com/global/europe/2026/06/30/latvia-and-ukraine-to-open-drone-factory-right-on-baltic-nations-border-with-russia/",
+      "pubDate": "2026-06-30T14:55:30Z",
+      "snippet": "The Latgale region, where the new drone factory is to be built, is historically one of Latvia\u2019s most economically disadvantaged.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Vast names Isakowitz as a senior adviser",
+      "link": "https://spacenews.com/vast-names-isakowitz-as-a-senior-adviser/",
+      "pubDate": "2026-06-30T13:00:00Z",
+      "snippet": "Commercial space station developer Vast named the former president and chief executive of The Aerospace Corp. as an adviser while the company awaits the next phase of a NASA program.\nThe post Vast nam...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "SSC Space, Firefly set 2028 target for first orbital launch from Sweden\u2019s Esrange",
       "link": "https://spacenews.com/ssc-space-firefly-set-2028-target-for-first-orbital-launch-from-swedens-esrange/",
@@ -120,33 +282,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Craft Prospect selected for The Sunday Times Scotland Fast 50",
-      "link": "https://spacenews.com/craft-prospect-selected-for-the-sunday-times-scotland-fast-50/",
-      "pubDate": "2026-06-29T09:00:00Z",
-      "snippet": "(Glasgow, UK) Glasgow-based space engineering company Craft Prospect has been selected for inclusion in the inaugural edition of The Sunday Times Scotland Fast 50, a new annual list recognising some [...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "China establishes VLEO industry alliance as satellites demonstrate sustained low-orbit operations",
-      "link": "https://spacenews.com/china-establishes-vleo-industry-alliance-as-satellites-demonstrate-sustained-low-orbit-operations/",
-      "pubDate": "2026-06-29T08:53:12Z",
-      "snippet": "HELSINKI \u2014 China has established a national very low Earth orbit industry alliance, as multiple satellites demonstrate sustained operations below 300 kilometers and propulsion startups attract investm...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Rocket Lab launches 10th Synspective satellite",
-      "link": "https://spacenews.com/rocket-lab-launches-10th-synspective-satellite/",
-      "pubDate": "2026-06-26T22:17:38Z",
-      "snippet": "Rocket Lab launched a radar-imaging satellite for Japanese company Synspective on June 26, a flight delayed by a responsive space mission.\nThe post Rocket Lab launches 10th Synspective satellite appea...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "US strikes Iranian missile, drone, radar sites",
       "link": "https://www.defensenews.com/news/your-military/2026/06/26/us-resumes-attacks-on-iran/",
       "pubDate": "2026-06-26T22:08:28Z",
@@ -154,15 +289,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Spain-backed fund joins FOSSA\u2019s sovereign satellite communications push",
-      "link": "https://spacenews.com/spain-backed-fund-joins-fossas-sovereign-satellite-communications-push/",
-      "pubDate": "2026-06-26T20:59:57Z",
-      "snippet": "Spanish startup FOSSA Systems has raised about $10.5 million to expand its connectivity constellation in a funding round that included a technology investment vehicle backed by Spain\u2019s government.\nThe...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "101st soldiers use drones to drop grappling hooks, breach razor wire",
@@ -174,33 +300,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Starlink veterans launch startup to broaden megaconstellation ownership",
-      "link": "https://spacenews.com/starlink-veterans-launch-startup-to-broaden-megaconstellation-ownership/",
-      "pubDate": "2026-06-26T12:00:00Z",
-      "snippet": "Former SpaceX engineers who helped build and scale Starlink have launched a startup aiming to deliver megaconstellations for governments and companies seeking more control over space-based infrastruct...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "ISS repair spacewalk highlights concerns about station health",
-      "link": "https://spacenews.com/iss-repair-spacewalk-highlights-concerns-about-station-health/",
-      "pubDate": "2026-06-26T11:57:53Z",
-      "snippet": "NASA astronauts on the International Space Station are preparing for a spacewalk to repair a robotic arm as advisers raise concerns about the long-term health of the station and spacesuits.\nThe post I...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Europe\u2019s next security challenge is in orbit",
-      "link": "https://spacenews.com/europes-next-security-challenge-is-in-orbit/",
-      "pubDate": "2026-06-26T11:00:00Z",
-      "snippet": "Across the European Union, satellite navigations alone is thought to underpin more than 10% of GDP. Satellite-dependent activity on the whole is responsible for much more. According to INSEE and [&#82...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "German Counter-drone startup Tytan eyes 3,000 interceptors per month in new factory",
       "link": "https://www.defensenews.com/global/europe/2026/06/26/german-counter-drone-startup-tytan-eyes-3000-interceptors-per-month-in-new-factory/",
       "pubDate": "2026-06-26T10:26:26Z",
@@ -210,33 +309,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Rocket Lab wins NASA award for three Electron launches",
-      "link": "https://spacenews.com/rocket-lab-wins-nasa-award-for-three-electron-launches/",
-      "pubDate": "2026-06-25T22:22:21Z",
-      "snippet": "NASA has selected Rocket Lab to launch a pair of science missions on three Electron rockets in 2027.\nThe post Rocket Lab wins NASA award for three Electron launches appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Weather Stream releases first light imagery from GEMS2 microwave radiometer",
-      "link": "https://spacenews.com/weather-stream-releases-first-light-imagery-from-gems2-microwave-radiometer/",
-      "pubDate": "2026-06-25T22:06:18Z",
-      "snippet": "Updated with comments from Weather Stream CEO Michael Hurowitz. SAN FRANCISCO \u2013 Weather Stream, a Boulder, Colorado, commercial weather satellite operator, is collecting global atmospheric observation...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Space Force\u2019s new MUOS satellites to use Boeing\u2019s 702MP spacecraft platform",
-      "link": "https://spacenews.com/space-forces-new-muos-satellites-to-use-boeings-702mp-spacecraft-platform/",
-      "pubDate": "2026-06-25T21:53:39Z",
-      "snippet": "Boeing's 702MP platform has been used for commercial and wideband military missions\nThe post Space Force&#8217;s new MUOS satellites to use Boeing&#8217;s 702MP spacecraft platform appeared first on S...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Ukraine\u2019s top strike-drone maker moves into ballistic missile defense",
       "link": "https://www.defensenews.com/unmanned/2026/06/25/ukraines-top-strike-drone-maker-moves-into-ballistic-missile-defense/",
       "pubDate": "2026-06-25T20:59:02Z",
@@ -244,15 +316,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Botswana signs the Artemis Accords",
-      "link": "https://spacenews.com/botswana-signs-the-artemis-accords/",
-      "pubDate": "2026-06-25T20:40:12Z",
-      "snippet": "The African nation of Botswana is the latest country to sign the Artemis Accords outlining best practices for space exploration.\nThe post Botswana signs the Artemis Accords appeared first on SpaceNews...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Ukraine\u2019s newest strike weapon drifts into Russia on the wind",
@@ -286,51 +349,6 @@
       "link": "https://www.defensenews.com/industry/techwatch/2026/06/25/lockheed-martin-wins-over-35-billion-contract-to-quadruple-thaad-production/",
       "pubDate": "2026-06-25T15:42:16Z",
       "snippet": "As U.S. lawmakers worry over the munitions stockpile, Lockheed Martin announced a multiyear contract to increase THAAD production from 96 to 400 a year.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Philippines deploys US-made Triton naval drones in its western waters to scout for intruders",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/06/25/philippines-deploys-us-made-triton-naval-drones-in-its-western-waters-to-scout-for-intruders/",
-      "pubDate": "2026-06-25T14:32:31Z",
-      "snippet": "The transfer comes after the military revealed that China discreetly deployed a 6x6 meter floating platform equipped with an antenna at Scarborough Shoal.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "ICEYE to double radar-satellite capacity by late 2027 as demand surges",
-      "link": "https://www.defensenews.com/global/europe/2026/06/25/iceye-to-double-radar-satellite-capacity-by-late-2027-as-demand-surges/",
-      "pubDate": "2026-06-25T08:38:31Z",
-      "snippet": "The company's goal is to ramp up production to two satellites a week as it responds to surging demand from European militaries.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Poland buys V-BAT drones to boost Baltic Sea naval operations",
-      "link": "https://www.defensenews.com/global/europe/2026/06/25/poland-buys-v-bat-drones-to-boost-baltic-sea-naval-operations/",
-      "pubDate": "2026-06-25T08:20:43Z",
-      "snippet": "The deal puts Poland in line to become the first country on NATO\u2019s eastern flank to acquire the Shield AI-made drone.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Trump meets munitions makers amid push to replenish weapons stockpiles",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/06/25/trump-meets-munitions-makers-amid-push-to-replenish-weapons-stockpiles/",
-      "pubDate": "2026-06-25T03:01:22Z",
-      "snippet": "Pentagon negotiators are pressing contractors to move much faster to boost output.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "China studied US stealth aircraft \u2014 and learned the wrong lessons",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/06/24/china-studied-us-stealth-aircraft-and-learned-the-wrong-lessons/",
-      "pubDate": "2026-06-24T17:34:47Z",
-      "snippet": "An Air Force researcher said China's assessments of U.S. stealth capabilities \"diverge from technical reality and operational practice.\"",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
