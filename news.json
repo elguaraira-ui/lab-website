@@ -1,7 +1,79 @@
 {
-  "updated": "2026-07-01T13:29:56.490557Z",
-  "count": 59,
+  "updated": "2026-07-02T12:51:45.627146Z",
+  "count": 58,
   "items": [
+    {
+      "title": "Final Atlas 5 Amazon Leo mission launches",
+      "link": "https://spacenews.com/final-atlas-5-amazon-leo-mission-launches/",
+      "pubDate": "2026-07-02T09:54:25Z",
+      "snippet": "An Atlas 5 lifted off July 2 carrying a set of Amazon Leo satellites in the final launch by that vehicle to carry a satellite payload.\nThe post Final Atlas 5 Amazon Leo mission launches appeared first...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "In \u2018red hot\u2019 counter-drone market, Echodyne CEO sees radar demand boom",
+      "link": "https://www.defensenews.com/industry/2026/07/02/in-red-hot-counter-drone-market-echodyne-ceo-sees-radar-demand-boom/",
+      "pubDate": "2026-07-02T09:27:55Z",
+      "snippet": "Defeating drones starts with detection, and suppliers of relatively small and affordable radars are rushing to meet global demand.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Report links Starliner problems to overconfidence and unrealistic schedules",
+      "link": "https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/",
+      "pubDate": "2026-07-01T22:19:01Z",
+      "snippet": "A new report links the long-running technical problems with Boeing\u2019s CST-100 Starliner commercial crew vehicle to a combination of overconfidence, unrealistic schedules and NASA\u2019s lack of insight into...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "The US military wants a fleet of laser trucks. Here\u2019s what they might look like.",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/01/the-us-military-wants-a-fleet-of-laser-trucks-heres-what-they-might-look-like/",
+      "pubDate": "2026-07-01T19:47:37Z",
+      "snippet": "Two ground vehicles could define how the Pentagon fields high-energy laser weapons at scale.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "FCC to vote on satellite licensing overhaul July 22",
+      "link": "https://spacenews.com/fcc-to-vote-on-satellite-licensing-overhaul-july-22/",
+      "pubDate": "2026-07-01T19:45:36Z",
+      "snippet": "The FCC is set to vote July 22 on an order to overhaul its satellite application process, creating a \u201clicensing assembly line\u201d to keep up with increasingly large and complex constellation plans.\nThe p...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Pentagon\u2019s push to field weapons faster risks outrunning its own oversight, watchdog finds",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/01/pentagons-push-to-field-weapons-faster-risks-outrunning-its-own-oversight-watchdog-finds/",
+      "pubDate": "2026-07-01T17:34:53Z",
+      "snippet": "Workforce reductions meant that weapon systems reach warfighters with \u201cundocumented shortfalls related to effectiveness, suitability, [and] survivability.\"",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Video purportedly shows Ukrainian unit running down Russian Shahed. The US is paying attention.",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/01/video-shows-a-ukrainian-unit-running-down-a-russian-shahed-the-kind-of-kill-the-us-is-racing-to-reproduce/",
+      "pubDate": "2026-07-01T13:32:02Z",
+      "snippet": "An unverified video of Ukrainian unit taking down a Shahed drone with an American-made interceptor comes as the U.S. Army seeks to field drones at scale.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "UK defense plan to unlock fresh GCAP contract before Farnborough Airshow",
+      "link": "https://www.defensenews.com/global/europe/2026/07/01/uk-defense-plan-to-unlock-fresh-gcap-contract-before-farnborough-airshow/",
+      "pubDate": "2026-07-01T13:29:48Z",
+      "snippet": "The British government came up with essential funding on the day that cash flow for the jet was due to run out.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Unseen threats overhead: Drones endanger U.S. rocket launch sites",
       "link": "https://spacenews.com/unseen-threats-overhead-drones-endanger-u-s-rocket-launch-sites/",
@@ -246,24 +318,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Quantum computing is about to become a national security problem in orbit",
-      "link": "https://spacenews.com/quantum-computing-is-about-to-become-a-national-security-problem-in-orbit/",
-      "pubDate": "2026-06-29T13:00:00Z",
-      "snippet": "Quantum computing is advancing fast, and nations are racing to field the first machines powerful enough to break modern encryption. This race has direct consequences for the commercial space industry,...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Rocket Lab to acquire Iridium",
-      "link": "https://spacenews.com/rocket-lab-to-acquire-iridium/",
-      "pubDate": "2026-06-29T12:10:49Z",
-      "snippet": "Rocket Lab is acquiring satellite telecommunications company Iridium for $8 billion as part of its effort to become an end-to-end space company.\nThe post Rocket Lab to acquire Iridium appeared first o...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Israel sells Spyder air defense systems to Romania for $2.3 billion",
       "link": "https://www.defensenews.com/global/mideast-africa/2026/06/29/israel-sells-spyder-air-defense-systems-to-romania-for-23-billion/",
       "pubDate": "2026-06-29T12:09:19Z",
@@ -271,15 +325,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "SatVu restarts commercial operations with HotSat-2",
-      "link": "https://spacenews.com/satvu-restarts-commercial-operations-with-hotsat-2/",
-      "pubDate": "2026-06-29T11:11:42Z",
-      "snippet": "British thermal imaging startup SatVu announced the start of commercial services June 29 for HotSat-2, marking a return to revenue-generating operations after its debut satellite failed in low Earth o...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "US strikes Iranian missile, drone, radar sites",
@@ -295,60 +340,6 @@
       "link": "https://www.defensenews.com/news/your-army/2026/06/26/101st-soldiers-use-drones-to-drop-grappling-hooks-breach-razor-wire/",
       "pubDate": "2026-06-26T16:38:09Z",
       "snippet": "The Army should treat drones like ammo, one officer said, estimating a brigade needs between 1,000 to 1,500 drones per week in sustained combat operations.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "German Counter-drone startup Tytan eyes 3,000 interceptors per month in new factory",
-      "link": "https://www.defensenews.com/global/europe/2026/06/26/german-counter-drone-startup-tytan-eyes-3000-interceptors-per-month-in-new-factory/",
-      "pubDate": "2026-06-26T10:26:26Z",
-      "snippet": "Production at the new plant is scheduled to begin in August, according to the company's CEO.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Ukraine\u2019s top strike-drone maker moves into ballistic missile defense",
-      "link": "https://www.defensenews.com/unmanned/2026/06/25/ukraines-top-strike-drone-maker-moves-into-ballistic-missile-defense/",
-      "pubDate": "2026-06-25T20:59:02Z",
-      "snippet": "Fire Point's drones already fly most of Kyiv's strikes inside Russia. With Germany's Hensoldt, the company is now building Freyja, a homegrown alternative.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Ukraine\u2019s newest strike weapon drifts into Russia on the wind",
-      "link": "https://www.defensenews.com/global/europe/2026/06/25/ukraines-newest-strike-weapon-drifts-into-russia-on-the-wind/",
-      "pubDate": "2026-06-25T20:28:05Z",
-      "snippet": "The U.S. and Russia are fielding the same balloons used by Ukraine that bait air defenses and now launch missiles.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "The Pentagon\u2019s research infrastructure is \u2018deteriorating,\u2019 study finds",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/06/25/the-pentagons-research-infrastructure-is-deteriorating-study-finds/",
-      "pubDate": "2026-06-25T20:01:19Z",
-      "snippet": "Pentagon research has been hampered by backlogged security clearances, limited funds to build or refurbish labs and a slow and difficult hiring process.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "House backs $1.55 billion to revive E-7 Wedgetail, spares Navy Hawkeye",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/06/25/house-backs-155-billion-to-revive-e-7-wedgetail-spares-navy-hawkeye/",
-      "pubDate": "2026-06-25T16:50:55Z",
-      "snippet": "The White House budget office wants to raid a Navy radar-plane account and a classified Air Force line to pull the E-7 Wedgetail back from the dead.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Lockheed Martin wins over $35 billion contract to quadruple THAAD production",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/06/25/lockheed-martin-wins-over-35-billion-contract-to-quadruple-thaad-production/",
-      "pubDate": "2026-06-25T15:42:16Z",
-      "snippet": "As U.S. lawmakers worry over the munitions stockpile, Lockheed Martin announced a multiyear contract to increase THAAD production from 96 to 400 a year.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
