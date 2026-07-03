@@ -1,7 +1,97 @@
 {
-  "updated": "2026-07-02T12:51:45.627146Z",
+  "updated": "2026-07-03T12:50:05.899798Z",
   "count": 58,
   "items": [
+    {
+      "title": "Taiwan needs a \u2018hornet\u2019s nest\u2019 of drones to deter conflict, US diplomat says",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/03/taiwan-needs-a-hornets-nest-of-drones-to-deter-conflict-us-diplomat-says/",
+      "pubDate": "2026-07-03T12:30:00Z",
+      "snippet": "Taiwan\u00a0says it needs to bolster its defenses in the face of a stepped-up threat from China, which claims the island as its own territory.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Perovskite solar panel startup Verde Technologies shifts focus to space",
+      "link": "https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/",
+      "pubDate": "2026-07-02T19:27:36Z",
+      "snippet": "Verde Technologies is turning to space to commercialize perovskite-based solar panels, shifting its initial focus away from rooftops in a bet that the thin-film material can help power orbital data ce...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Hegseth creates powerful new drone office, pulling authority from the military services",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/02/hegseth-creates-powerful-new-drone-office-pulling-authority-from-the-military-services/",
+      "pubDate": "2026-07-02T19:02:28Z",
+      "snippet": "The reorganization is the latest step in Hegseth\u2019s push to field weapons faster.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Lithuania moves to end nuclear weapon ban as \u2018situation getting worse\u2019",
+      "link": "https://www.defensenews.com/global/europe/2026/07/02/lithuania-moves-to-end-nuclear-weapon-ban-as-situation-getting-worse/",
+      "pubDate": "2026-07-02T19:00:00Z",
+      "snippet": "Lithuania\u2019s parliamentary parties have agreed on a plan to lift a constitutional ban on nuclear weapons and foreign military bases in the Baltic nation.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Isar Aerospace to launch German-built Planet imaging satellite",
+      "link": "https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/",
+      "pubDate": "2026-07-02T18:20:48Z",
+      "snippet": "Isar Aerospace won a contract from Planet\u2019s German subsidiary to launch an imaging satellite, demonstrating an end-to-end space capability for the country.\nThe post Isar Aerospace to launch German-bui...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Polish space tech company Sybilla Technologies secures funds to enter U.S. market",
+      "link": "https://spacenews.com/polish-space-tech-company-sybilla-technologies-secures-funds-to-enter-u-s-market/",
+      "pubDate": "2026-07-02T17:38:50Z",
+      "snippet": "WARSAW, Poland \u2014 The Polish state-owned bank BGK and European venture capital firm 3TS Capital Partners have unveiled an investment of around 35 million zloty ($10 million) in Poland\u2019s space [&#8230;]...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Defense startups raid auto and fracking sectors for parts to speed weapons output",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/02/defense-startups-raid-auto-and-fracking-sectors-for-parts-to-speed-weapons-output/",
+      "pubDate": "2026-07-02T16:42:32Z",
+      "snippet": "Defense tech startups are repurposing automotive chips and pipes used in fracking in an effort to deliver weapons to the Pentagon faster and at lower cost.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Navy seeks to boost production of new anti-radar missile",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/02/us-navy-seeks-to-boost-production-of-new-anti-radar-missile/",
+      "pubDate": "2026-07-02T15:37:04Z",
+      "snippet": "Naval Air Systems Command is asking industry whether it is capable of supplying up to 600 Advanced Emission Suppression Missiles per year.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "UK ratchets up nuclear spending, with new warhead and delivery planes in the works",
+      "link": "https://www.defensenews.com/global/europe/2026/07/02/uk-ratchets-up-nuclear-spending-with-new-warhead-and-delivery-planes-in-the-works/",
+      "pubDate": "2026-07-02T14:59:33Z",
+      "snippet": "Central to the current package is Astraea, the warhead designated A21/Mk7 that the Atomic Weapons Establishment has been developing since 2020.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Making satellite communications more resilient",
+      "link": "https://spacenews.com/making-satellite-communications-more-resilient/",
+      "pubDate": "2026-07-02T13:50:47Z",
+      "snippet": "In this episode of Space Minds, Mike Gruss talks with Kymeta\u2019s Ryan Stevenson. They discuss the benefits and challenges of multi-orbit and multi-band connectivity in a single terminal. About Space [&#...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Final Atlas 5 Amazon Leo mission launches",
       "link": "https://spacenews.com/final-atlas-5-amazon-leo-mission-launches/",
@@ -253,96 +343,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "Study argues bigger launch vehicles may not always be better",
-      "link": "https://spacenews.com/study-argues-bigger-launch-vehicles-may-not-always-be-better/",
-      "pubDate": "2026-06-30T01:45:20Z",
-      "snippet": "As SpaceX and others pursue the development of very large launch vehicles, a new study suggests that there may be such a thing as a rocket that is too large.\nThe post Study argues bigger launch vehicl...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "USMC awards $20 million contract for first autonomous ground vehicles",
-      "link": "https://www.defensenews.com/news/your-military/2026/06/29/usmc-awards-20-million-contract-for-first-autonomous-ground-vehicles/",
-      "pubDate": "2026-06-29T19:46:48Z",
-      "snippet": "The Marine Corps is pursuing a first-of-its-kind $20 million production contract for fully autonomous ground vehicles.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "As one Australian Army brigade bulks up with armor, its fuel and ammo needs spike",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/06/29/as-one-australian-army-brigade-bulks-up-with-armor-its-fuel-and-ammo-needs-spike/",
-      "pubDate": "2026-06-29T15:31:56Z",
-      "snippet": "The formation is expected to burn through 300,000 liters of diesel per day during high-intensity operations, compared with 40,000 liters previously.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "ESA to seek lunar mapping capability for Argonaut lander",
-      "link": "https://spacenews.com/esa-to-seek-lunar-mapping-capability-for-argonaut-lander/",
-      "pubDate": "2026-06-29T15:24:51Z",
-      "snippet": "MILAN \u2014 The European Space Agency will rely on external lunar topographic data during the design phase of its Argonaut lunar lander, and possibly for its first mission, while working [&#8230;]\nThe pos...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Beck: Iridium acquisition the \u201clogical next step\u201d for Rocket Lab",
-      "link": "https://spacenews.com/beck-iridium-acquisition-the-logical-next-step-for-rocket-lab/",
-      "pubDate": "2026-06-29T15:20:45Z",
-      "snippet": "Rocket Lab\u2019s chief executive says the company\u2019s acquisition of Iridium was the \u201clogical next step\u201d in his ambitions to tap into the lucrative space services market.\nThe post Beck: Iridium acquisition ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Discovering the Universe \u2013 Astrophysics Flagship Space Observatories Offer Insights to Key Questions",
-      "link": "https://spacenews.com/discovering-the-universe-astrophysics-flagship-space-observatories-offer-insights-to-key-questions/",
-      "pubDate": "2026-06-29T14:27:57Z",
-      "snippet": "From observing distant galaxies to exploring exoplanets and their atmospheres, BAE Systems enables cutting-edge technology to expand our knowledge of the universe. As a major partner in each of NASA\u2019s...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "US Army wants up to 100 drone boats to fill watercraft gap in Pacific",
-      "link": "https://www.defensenews.com/news/your-military/2026/06/29/army-wants-up-to-100-drone-boats-to-fill-watercraft-gap-in-pacific/",
-      "pubDate": "2026-06-29T13:56:01Z",
-      "snippet": "As the Army contends with a shortage of boats in the Pacific, it's looking at autonomous watercraft to fill the gaps.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Israel sells Spyder air defense systems to Romania for $2.3 billion",
-      "link": "https://www.defensenews.com/global/mideast-africa/2026/06/29/israel-sells-spyder-air-defense-systems-to-romania-for-23-billion/",
-      "pubDate": "2026-06-29T12:09:19Z",
-      "snippet": "According to manufacturer Rafael, it's the largest contract in its history.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US strikes Iranian missile, drone, radar sites",
-      "link": "https://www.defensenews.com/news/your-military/2026/06/26/us-resumes-attacks-on-iran/",
-      "pubDate": "2026-06-26T22:08:28Z",
-      "snippet": "The U.S. struck Iranian missile, drone and radar sites on Friday, U.S. Central Command said.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "101st soldiers use drones to drop grappling hooks, breach razor wire",
-      "link": "https://www.defensenews.com/news/your-army/2026/06/26/101st-soldiers-use-drones-to-drop-grappling-hooks-breach-razor-wire/",
-      "pubDate": "2026-06-26T16:38:09Z",
-      "snippet": "The Army should treat drones like ammo, one officer said, estimating a brigade needs between 1,000 to 1,500 drones per week in sustained combat operations.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "NASA\u2019s Cold Atom Lab is creating one of the weirdest forms of matter in space",
