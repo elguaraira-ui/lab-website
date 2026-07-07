@@ -1,7 +1,124 @@
 {
-  "updated": "2026-07-06T14:17:35.036606Z",
+  "updated": "2026-07-07T13:08:56.826426Z",
   "count": 56,
   "items": [
+    {
+      "title": "Simera Sense to provide imagers for Canary Islands constellation",
+      "link": "https://spacenews.com/simera-sense-to-provide-imagers-for-canary-islands-constellation/",
+      "pubDate": "2026-07-07T12:01:41Z",
+      "snippet": "Belgium\u2019s Simera Sense has won a contract to provide multispectral imagers for a small constellation being designed to track wildfires, volcanic activity and other regional priorities for the Canary I...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Germany set to become first international site for ATACMS missile production",
+      "link": "https://www.defensenews.com/global/europe/2026/07/07/germany-set-to-become-first-international-site-for-atacms-missile-production/",
+      "pubDate": "2026-07-07T11:54:05Z",
+      "snippet": "The move addresses a bottleneck, as Lockheed Martin has been winding down ATACMS output at its Camden, Arkansas, site while prioritizing newer missiles.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "SpaceX satellite wins test Pentagon\u2019s commitment to competition",
+      "link": "https://spacenews.com/spacexs-wins-test-pentagons-commitment-to-competition/",
+      "pubDate": "2026-07-07T11:00:00Z",
+      "snippet": "As the military rushes to deploy proliferated networks, SpaceX\u2019s dominance is attracting congressional scrutiny \nThe post SpaceX satellite wins test Pentagon\u2019s commitment to competition appeared first...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Polish defense giant PGZ to produce Anduril\u2019s Barracuda cruise missile",
+      "link": "https://www.defensenews.com/global/europe/2026/07/07/polish-defense-giant-pgz-to-produce-andurils-barracuda-cruise-missile/",
+      "pubDate": "2026-07-07T10:33:42Z",
+      "snippet": "Local production could make the weapon eligible for purchases by other European nations through a European Union lending scheme, according to PGZ.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "NATO to add up to five Northrop Grumman Triton drones for maritime surveillance",
+      "link": "https://www.defensenews.com/global/europe/2026/07/07/nato-to-add-up-to-five-northrop-grumman-triton-drones-for-maritime-surveillance/",
+      "pubDate": "2026-07-07T09:42:08Z",
+      "snippet": "\u201cIt is genuinely made in NATO and is creating jobs on both sides of the Atlantic,\u201d alliance Secretary-General Mark Rutte said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Isar Aerospace signs agreement for Canadian launch site",
+      "link": "https://spacenews.com/isar-aerospace-signs-agreement-for-canadian-launch-site/",
+      "pubDate": "2026-07-07T08:00:00Z",
+      "snippet": "Isar Aerospace has signed a contract to develop a Canadian launch site for its Spectrum rocket, an agreement linked to a deal to sell submarines to the Canadian military.\nThe post Isar Aerospace signs...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Blue Origin continues work on lunar landers during recovery from New Glenn explosion",
+      "link": "https://spacenews.com/blue-origin-continues-work-on-lunar-landers-during-recovery-from-new-glenn-explosion/",
+      "pubDate": "2026-07-06T20:09:47Z",
+      "snippet": "Blue Origin is continuing to develop its Blue Moon lunar landers, with seven vehicles in production, while recovering from the New Glenn pad explosion more than a month ago.\nThe post Blue Origin conti...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Iridium folds Aireon aviation safety service into Rocket Lab-bound business",
+      "link": "https://spacenews.com/iridium-folds-aireon-aviation-safety-service-into-rocket-lab-bound-business/",
+      "pubDate": "2026-07-06T19:02:32Z",
+      "snippet": "Iridium Communications has completed its takeover of Aireon, bringing the aircraft-tracking venture fully in-house ahead of the satellite operator\u2019s planned $8 billion sale to Rocket Lab.\nThe post Iri...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NASA adds three European firms to the commercial data program",
+      "link": "https://spacenews.com/nasa-adds-three-european-firms-to-the-commercial-data-program/",
+      "pubDate": "2026-07-06T15:57:10Z",
+      "snippet": "MILAN \u2014 NASA\u2019s Commercial Satellite Data Acquisition program (CSDA) announced June 23 contract awards with eight new commercial satellite data providers, three of which are European: Kuva Space (Finla...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Thales to buy French underwater-drone maker Exail in $4.5 billion deal",
+      "link": "https://www.defensenews.com/global/europe/2026/07/06/thales-to-buy-french-underwater-drone-maker-exail-in-45-billion-deal/",
+      "pubDate": "2026-07-06T15:19:55Z",
+      "snippet": "Industry champions in France and Italy move to consolidate their positions in a growing market for unmanned underwater naval equipment.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Russian strikes kill 20, exposing Ukraine\u2019s air-defense shortage",
+      "link": "https://www.defensenews.com/global/europe/2026/07/06/russian-strikes-kill-20-exposing-ukraines-air-defense-shortage/",
+      "pubDate": "2026-07-06T15:05:12Z",
+      "snippet": "President Volodymyr Zelenskyy has repeatedly pleaded for more interceptors \u2014 the only weapon in its arsenal that can shoot down ballistic projectiles.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon\u2019s top new weapons programs are 12 years behind schedule: Watchdog",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/06/pentagons-top-new-weapons-programs-are-12-years-behind-schedule-watchdog/",
+      "pubDate": "2026-07-06T14:50:05Z",
+      "snippet": "A new GAO report examined 104 of the Pentagon\u2019s most expensive weapons programs.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon launches \u2018War Force\u2019 campaign in push for software engineers",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/06/pentagon-launches-war-force-campaign-in-push-for-software-engineers/",
+      "pubDate": "2026-07-06T14:12:26Z",
+      "snippet": "The Defense Department describes it as part of an overall strategy to automate and improve government technology.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "The term \u2018dual-use\u2019 is misleading and dangerous",
       "link": "https://spacenews.com/the-term-dual-use-is-misleading-and-dangerous/",
@@ -210,127 +327,10 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Final Atlas 5 Amazon Leo mission launches",
-      "link": "https://spacenews.com/final-atlas-5-amazon-leo-mission-launches/",
-      "pubDate": "2026-07-02T09:54:25Z",
-      "snippet": "An Atlas 5 lifted off July 2 carrying a set of Amazon Leo satellites in the final launch by that vehicle to carry a satellite payload.\nThe post Final Atlas 5 Amazon Leo mission launches appeared first...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "In \u2018red hot\u2019 counter-drone market, Echodyne CEO sees radar demand boom",
       "link": "https://www.defensenews.com/industry/2026/07/02/in-red-hot-counter-drone-market-echodyne-ceo-sees-radar-demand-boom/",
       "pubDate": "2026-07-02T09:27:55Z",
       "snippet": "Defeating drones starts with detection, and suppliers of relatively small and affordable radars are rushing to meet global demand.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Report links Starliner problems to overconfidence and unrealistic schedules",
-      "link": "https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/",
-      "pubDate": "2026-07-01T22:19:01Z",
-      "snippet": "A new report links the long-running technical problems with Boeing\u2019s CST-100 Starliner commercial crew vehicle to a combination of overconfidence, unrealistic schedules and NASA\u2019s lack of insight into...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "The US military wants a fleet of laser trucks. Here\u2019s what they might look like.",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/01/the-us-military-wants-a-fleet-of-laser-trucks-heres-what-they-might-look-like/",
-      "pubDate": "2026-07-01T19:47:37Z",
-      "snippet": "Two ground vehicles could define how the Pentagon fields high-energy laser weapons at scale.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "FCC to vote on satellite licensing overhaul July 22",
-      "link": "https://spacenews.com/fcc-to-vote-on-satellite-licensing-overhaul-july-22/",
-      "pubDate": "2026-07-01T19:45:36Z",
-      "snippet": "The FCC is set to vote July 22 on an order to overhaul its satellite application process, creating a \u201clicensing assembly line\u201d to keep up with increasingly large and complex constellation plans.\nThe p...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Pentagon\u2019s push to field weapons faster risks outrunning its own oversight, watchdog finds",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/01/pentagons-push-to-field-weapons-faster-risks-outrunning-its-own-oversight-watchdog-finds/",
-      "pubDate": "2026-07-01T17:34:53Z",
-      "snippet": "Workforce reductions meant that weapon systems reach warfighters with \u201cundocumented shortfalls related to effectiveness, suitability, [and] survivability.\"",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Video purportedly shows Ukrainian unit running down Russian Shahed. The US is paying attention.",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/01/video-shows-a-ukrainian-unit-running-down-a-russian-shahed-the-kind-of-kill-the-us-is-racing-to-reproduce/",
-      "pubDate": "2026-07-01T13:32:02Z",
-      "snippet": "An unverified video of Ukrainian unit taking down a Shahed drone with an American-made interceptor comes as the U.S. Army seeks to field drones at scale.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "UK defense plan to unlock fresh GCAP contract before Farnborough Airshow",
-      "link": "https://www.defensenews.com/global/europe/2026/07/01/uk-defense-plan-to-unlock-fresh-gcap-contract-before-farnborough-airshow/",
-      "pubDate": "2026-07-01T13:29:48Z",
-      "snippet": "The British government came up with essential funding on the day that cash flow for the jet was due to run out.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Unseen threats overhead: Drones endanger U.S. rocket launch sites",
-      "link": "https://spacenews.com/unseen-threats-overhead-drones-endanger-u-s-rocket-launch-sites/",
-      "pubDate": "2026-07-01T13:00:00Z",
-      "snippet": "One small, errant drone can scrub a space launch at the cost of millions of dollars in delays, with further repercussions spanning across multiple commercial and government launch service providers. [...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Ukraine is launching strike-drones from everything \u2013 including Black Sea robo-boats",
-      "link": "https://www.defensenews.com/global/europe/2026/07/01/ukraine-is-launching-strike-drones-from-everything-including-black-sea-robo-boats/",
-      "pubDate": "2026-07-01T12:45:55Z",
-      "snippet": "The Pentagon is studying the lesson as it shifts focus toward a possible conflict with China.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Vantor offers up-to-date imagery with WorldView 3D",
-      "link": "https://spacenews.com/vantor-offers-up-to-date-imagery-with-worldview-3d/",
-      "pubDate": "2026-07-01T12:30:00Z",
-      "snippet": "SAN FRANCISCO \u2013 Vantor, the company previously known as Maxar Intelligence, unveiled WorldView 3D July 1, to provide customers with updated and high-definition imagery. \u201cWorldView 3D is driving toward...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "EchoStar\u2019s satellite TV and wireless subsidiaries file for bankruptcy",
-      "link": "https://spacenews.com/echostars-satellite-tv-and-wireless-subsidiaries-file-for-bankruptcy/",
-      "pubDate": "2026-07-01T12:22:10Z",
-      "snippet": "EchoStar subsidiaries tied to its satellite TV and abandoned 5G network businesses have filed for Chapter 11 bankruptcy protection, advancing a prepackaged restructuring plan to repay debt early after...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Germany expands its exoatmospheric missile shield with second Arrow-3 deployment",
-      "link": "https://www.defensenews.com/global/europe/2026/07/01/germany-expands-its-exoatmospheric-missile-shield-with-second-arrow-3-deployment/",
-      "pubDate": "2026-07-01T11:40:11Z",
-      "snippet": "Kaufbeuren will be home to the system\u2019s radar site, while the actual interceptor launchers for that battery are planned for nearby Fliegerhorst Lechfeld.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Israel tests Iron Dome with Iron Beam, pairing missiles with laser pulses for air defense",
-      "link": "https://www.defensenews.com/global/mideast-africa/2026/07/01/israel-tests-iron-dome-with-iron-beam-pairing-missiles-with-laser-pulses-for-air-defense/",
-      "pubDate": "2026-07-01T08:58:40Z",
-      "snippet": "The combination of technologies is meant to give Israel a leg up in shooting down high-volume swarms of incoming threats like drones or missiles.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
