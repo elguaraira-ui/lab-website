@@ -1,7 +1,151 @@
 {
-  "updated": "2026-07-07T13:08:56.826426Z",
-  "count": 56,
+  "updated": "2026-07-08T12:11:08.451771Z",
+  "count": 58,
   "items": [
+    {
+      "title": "Venus Aerospace raises $91 million to scale rocket engine technology",
+      "link": "https://spacenews.com/venus-aerospace-raises-91-million-to-scale-rocket-engine-technology/",
+      "pubDate": "2026-07-08T12:00:00Z",
+      "snippet": "Funding will support development and production of the company\u2019s rotating detonation rocket engine\nThe post Venus Aerospace raises $91 million to scale rocket engine technology appeared first on Space...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "The government\u2019s options to address strained spaceports",
+      "link": "https://spacenews.com/the-governments-options-to-address-strained-spaceports/",
+      "pubDate": "2026-07-08T11:00:00Z",
+      "snippet": "The May 28 explosion of a Blue Origin New Glenn rocket at Cape Canaveral\u2019s Launch Complex 36 did more than destroy a rocket and severely damage a launch pad. The [&#8230;]\nThe post The government&#821...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "China shows snazzy clip of DF-17 missile on state TV in show of force",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/07/08/china-shows-snazzy-clip-of-df-17-missile-on-state-tv-in-show-of-force/",
+      "pubDate": "2026-07-08T08:49:14Z",
+      "snippet": "Experts say the broadcast answers Asia-Pacific military exercises by other countries, warning the U.S. that the weapons could cause pain in any war.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Space Force adds Relativity, Impulse Space to national security launch program",
+      "link": "https://spacenews.com/space-force-adds-relativity-impulse-space-to-national-security-launch-program/",
+      "pubDate": "2026-07-08T07:48:02Z",
+      "snippet": "The NSSL Phase 3 Lane 1 program opens door to newer companies competing for military missions\nThe post Space Force adds Relativity, Impulse Space to national security launch program appeared first on ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Skyroot prepares for first orbital launch attempt",
+      "link": "https://spacenews.com/skyroot-prepares-for-first-orbital-launch-attempt/",
+      "pubDate": "2026-07-08T02:10:30Z",
+      "snippet": "Indian launch startup Skyroot Aerospace is preparing for its first orbital launch attempt as soon as July 12, with plans to quickly scale up to monthly launches.\nThe post Skyroot prepares for first or...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "D-Orbit signs launch-services contract with ArkEdge Space",
+      "link": "https://spacenews.com/d-orbit-signs-launch-services-contract-with-arkedge-space/",
+      "pubDate": "2026-07-08T01:00:00Z",
+      "snippet": "SAN FRANCISCO \u2013 Italian space logistics specialist D-Orbit will provide a series of launches aboard its ION Satellite Carrier for Japanese startup ArkEdge Space, under a contract announced July 8 [&#8...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Orbit Fab hires new CEO and raises funding to support satellite refueling business",
+      "link": "https://spacenews.com/orbit-fab-hires-new-ceo-and-raises-funding-to-support-satellite-refueling-business/",
+      "pubDate": "2026-07-07T22:45:09Z",
+      "snippet": "With a new chief executive and funding round, satellite refueling company Orbit Fab hopes to make the transition from technology development to operations.\nThe post Orbit Fab hires new CEO and raises ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Army tests autonomous mass mine-laying",
+      "link": "https://www.defensenews.com/news/your-military/2026/07/07/us-army-tests-autonomous-mass-mine-laying/",
+      "pubDate": "2026-07-07T21:25:41Z",
+      "snippet": "The Army\u2019s Volcano mine dispenser can blanket 32 acres of terrain with up to 960 mines. Now, the Army is testing an autonomous version.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Navy fears ballistic missile subs can be hit by drones, anti-tank rockets",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/07/us-navy-fears-ballistic-missile-subs-can-be-hit-by-drones-anti-tank-rockets/",
+      "pubDate": "2026-07-07T19:10:20Z",
+      "snippet": "The U.S. Navy is searching for better methods of protecting its missile subs, as well as the shore installations that support them.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs",
+      "link": "https://spacenews.com/spirit-electronics-announces-managed-access-to-u-s-based-advanced-semiconductor-manufacturing-for-aerospace-and-defense-programs/",
+      "pubDate": "2026-07-07T18:46:40Z",
+      "snippet": "PHOENIX, AZ \u2014 June 09, 2026 \u2014&#160;Spirit Electronics today announced a new managed-access offering that provides aerospace and defense customers with a secure pathway to advanced, U.S.-based semicond...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Apolink makes contact with first relay satellite",
+      "link": "https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/",
+      "pubDate": "2026-07-07T18:11:41Z",
+      "snippet": "Apolink has made contact with its first satellite after launching on SpaceX\u2019s July 7 rideshare mission, clearing the way for a data relay demonstration using a novel experimental license from the Fede...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Arianespace opens door to GEO rideshare opportunities from 2029",
+      "link": "https://spacenews.com/arianespace-opens-door-to-geo-rideshare-opportunities-from-2029/",
+      "pubDate": "2026-07-07T17:52:30Z",
+      "snippet": "MILAN \u2014 Arianespace has signed a Memorandum of Understanding with French in-orbit servicing company Infinite Orbits to explore future collaboration on multiple direct-to-GEO rideshare launch services,...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "SpaceX launches Transporter-17 amid concerns about rideshare program\u2019s future",
+      "link": "https://spacenews.com/spacex-launches-transporter-17-amid-concerns-about-rideshare-programs-future/",
+      "pubDate": "2026-07-07T15:31:35Z",
+      "snippet": "SpaceX launched the latest in its Transporter series of rideshare missions July 7 as industry concerns about the program\u2019s future reach what one rival company executive called a panic.\nThe post SpaceX...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Eight NATO allies launch HALO satellite constellation initiative",
+      "link": "https://www.defensenews.com/space/2026/07/07/eight-nato-allies-launch-halo-satellite-constellation-initiative/",
+      "pubDate": "2026-07-07T15:30:56Z",
+      "snippet": "The project aims to stitch together spacecraft managed by individual member countries into one mega-constellation, alliance officials said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Chinese ballistic missile test is said to undermine nuclear weapons-free zone in South Pacific",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/07/07/chinese-ballistic-missile-test-is-said-to-undermine-nuclear-weapons-free-zone-in-south-pacific/",
+      "pubDate": "2026-07-07T14:49:04Z",
+      "snippet": "China has repeatedly called out the AUKUS nuclear submarine deal between Australia, the U.S. and the U.K. as violating the treaty.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US will lift sanctions on Turkey, possibly sell F-35 fighter jets, Trump says",
+      "link": "https://www.defensenews.com/global/europe/2026/07/07/us-will-lift-sanctions-on-turkey-possibly-sell-f-35-fighter-jets-trump-says/",
+      "pubDate": "2026-07-07T14:49:03Z",
+      "snippet": "The sanctions were imposed in 2020 over the country's purchase of Russian defense missiles.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Simera Sense to provide imagers for Canary Islands constellation",
       "link": "https://spacenews.com/simera-sense-to-provide-imagers-for-canary-islands-constellation/",
@@ -46,6 +190,15 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
+    },
+    {
+      "title": "Quantum sensor breakthrough could reveal dark matter and ancient gravitational waves",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260622014303.htm",
+      "pubDate": "2026-07-07T09:22:35Z",
+      "snippet": "Scientists have taken an important step toward building quantum detectors that could reveal some of the universe\u2019s biggest secrets. Using a prototype device with two clouds of ultracold atoms, researc...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
     },
     {
       "title": "Isar Aerospace signs agreement for Canadian launch site",
@@ -156,24 +309,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Tianwen-2 arrives at asteroid Kamo\u2019oalewa, first image revealed",
-      "link": "https://spacenews.com/tianwen-2-arrives-at-asteroid-kamooalewa-first-image-revealed/",
-      "pubDate": "2026-07-06T09:14:36Z",
-      "snippet": "HELSINKI \u2014 China\u2019s Tianwen-2 sample return spacecraft has arrived at Kamo\u02bboalewa, revealing the near Earth asteroid to be a small, elongated rocky body. Tianwen-2 launched May 29, 2025, and traveled [...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NASA and Small Business Administration partner on funding key space technologies",
-      "link": "https://spacenews.com/nasa-and-small-business-administration-partner-on-funding-key-space-technologies/",
-      "pubDate": "2026-07-06T01:43:42Z",
-      "snippet": "NASA is partnering with the U.S. Small Business Administration (SBA) on an effort to attract capital to invest in companies producing critical space components.\nThe post NASA and Small Business Admini...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
       "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
       "pubDate": "2026-07-05T18:13:44Z",
@@ -181,33 +316,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Airbus to build Aeolus-2 wind-monitoring satellite",
-      "link": "https://spacenews.com/airbus-to-build-aeolus-2-wind-monitoring-satellite/",
-      "pubDate": "2026-07-05T15:17:47Z",
-      "snippet": "The European Space Agency has selected Airbus Defence and Space to start work on the successor to a wind-monitoring satellite.\nThe post Airbus to build Aeolus-2 wind-monitoring satellite appeared firs...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "GAO flags satellite costs, launch risks in Space Force portfolio",
-      "link": "https://spacenews.com/gao-flags-satellite-costs-launch-risks-in-space-force-portfolio/",
-      "pubDate": "2026-07-04T10:17:06Z",
-      "snippet": "Watchdog cites growing costs for missile-warning satellites, digital engineering gaps and workforce reductions that could slow national security launches\nThe post GAO flags satellite costs, launch ris...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Pegasus launches Swift reboost mission",
-      "link": "https://spacenews.com/pegasus-launches-swift-reboost-mission/",
-      "pubDate": "2026-07-03T20:55:34Z",
-      "snippet": "A Pegasus XL launched a mission to reboost a NASA astrophysics spacecraft on what may be the final flight of that rocket.\nThe post Pegasus launches Swift reboost mission appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Multibillion-dollar contract secures \u2018major step forward\u2019 for GCAP fighter jet",
@@ -228,15 +336,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Chinese satellite manufacturer Hongqing raises $191 million",
-      "link": "https://spacenews.com/chinese-satellite-manufacturer-hongqing-raises-191-million/",
-      "pubDate": "2026-07-03T13:10:37Z",
-      "snippet": "HELSINKI \u2014 Hongqing Technology, the satellite manufacturing affiliate of launch firm Landspace, has secured one of the largest single raises for a Chinese commercial satellite maker. The funding round...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Taiwan needs a \u2018hornet\u2019s nest\u2019 of drones to deter conflict, US diplomat says",
       "link": "https://www.defensenews.com/industry/techwatch/2026/07/03/taiwan-needs-a-hornets-nest-of-drones-to-deter-conflict-us-diplomat-says/",
       "pubDate": "2026-07-03T12:30:00Z",
@@ -244,15 +343,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Perovskite solar panel startup Verde Technologies shifts focus to space",
-      "link": "https://spacenews.com/perovskite-solar-panel-startup-verde-technologies-shifts-focus-to-space/",
-      "pubDate": "2026-07-02T19:27:36Z",
-      "snippet": "Verde Technologies is turning to space to commercialize perovskite-based solar panels, shifting its initial focus away from rooftops in a bet that the thin-film material can help power orbital data ce...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Hegseth creates powerful new drone office, pulling authority from the military services",
@@ -268,69 +358,6 @@
       "link": "https://www.defensenews.com/global/europe/2026/07/02/lithuania-moves-to-end-nuclear-weapon-ban-as-situation-getting-worse/",
       "pubDate": "2026-07-02T19:00:00Z",
       "snippet": "Lithuania\u2019s parliamentary parties have agreed on a plan to lift a constitutional ban on nuclear weapons and foreign military bases in the Baltic nation.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Isar Aerospace to launch German-built Planet imaging satellite",
-      "link": "https://spacenews.com/isar-aerospace-to-launch-german-built-planet-imaging-satellite/",
-      "pubDate": "2026-07-02T18:20:48Z",
-      "snippet": "Isar Aerospace won a contract from Planet\u2019s German subsidiary to launch an imaging satellite, demonstrating an end-to-end space capability for the country.\nThe post Isar Aerospace to launch German-bui...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Polish space tech company Sybilla Technologies secures funds to enter U.S. market",
-      "link": "https://spacenews.com/polish-space-tech-company-sybilla-technologies-secures-funds-to-enter-u-s-market/",
-      "pubDate": "2026-07-02T17:38:50Z",
-      "snippet": "WARSAW, Poland \u2014 The Polish state-owned bank BGK and European venture capital firm 3TS Capital Partners have unveiled an investment of around 35 million zloty ($10 million) in Poland\u2019s space [&#8230;]...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Defense startups raid auto and fracking sectors for parts to speed weapons output",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/02/defense-startups-raid-auto-and-fracking-sectors-for-parts-to-speed-weapons-output/",
-      "pubDate": "2026-07-02T16:42:32Z",
-      "snippet": "Defense tech startups are repurposing automotive chips and pipes used in fracking in an effort to deliver weapons to the Pentagon faster and at lower cost.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Navy seeks to boost production of new anti-radar missile",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/02/us-navy-seeks-to-boost-production-of-new-anti-radar-missile/",
-      "pubDate": "2026-07-02T15:37:04Z",
-      "snippet": "Naval Air Systems Command is asking industry whether it is capable of supplying up to 600 Advanced Emission Suppression Missiles per year.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "UK ratchets up nuclear spending, with new warhead and delivery planes in the works",
-      "link": "https://www.defensenews.com/global/europe/2026/07/02/uk-ratchets-up-nuclear-spending-with-new-warhead-and-delivery-planes-in-the-works/",
-      "pubDate": "2026-07-02T14:59:33Z",
-      "snippet": "Central to the current package is Astraea, the warhead designated A21/Mk7 that the Atomic Weapons Establishment has been developing since 2020.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Making satellite communications more resilient",
-      "link": "https://spacenews.com/making-satellite-communications-more-resilient/",
-      "pubDate": "2026-07-02T13:50:47Z",
-      "snippet": "In this episode of Space Minds, Mike Gruss talks with Kymeta\u2019s Ryan Stevenson. They discuss the benefits and challenges of multi-orbit and multi-band connectivity in a single terminal. About Space [&#...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "In \u2018red hot\u2019 counter-drone market, Echodyne CEO sees radar demand boom",
-      "link": "https://www.defensenews.com/industry/2026/07/02/in-red-hot-counter-drone-market-echodyne-ceo-sees-radar-demand-boom/",
-      "pubDate": "2026-07-02T09:27:55Z",
-      "snippet": "Defeating drones starts with detection, and suppliers of relatively small and affordable radars are rushing to meet global demand.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -493,15 +520,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/05/260521072404.htm",
       "pubDate": "2026-05-22T09:17:29Z",
       "snippet": "Researchers have discovered how to fine-tune a futuristic type of porous glass that can trap gases like CO2 and hydrogen. Inspired by centuries-old glassmaking techniques, the team added sodium and li...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "AI reveals the invisible magnetic chaos wasting energy inside electric motors",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260517211433.htm",
-      "pubDate": "2026-05-18T04:02:36Z",
-      "snippet": "Electric vehicles are pushing scientists to tackle one of the biggest hidden energy drains inside electric motors: magnetic energy loss. Now, researchers in Japan have developed a powerful AI-driven p...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
