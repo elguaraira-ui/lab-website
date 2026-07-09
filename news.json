@@ -1,7 +1,133 @@
 {
-  "updated": "2026-07-08T12:11:08.451771Z",
+  "updated": "2026-07-09T13:40:53.416199Z",
   "count": 58,
   "items": [
+    {
+      "title": "Space Force awards Pulse Space $40 million to advance laser power technology",
+      "link": "https://spacenews.com/space-force-awards-pulse-space-40-million-to-advance-laser-power-technology/",
+      "pubDate": "2026-07-09T13:00:00Z",
+      "snippet": "The startup is developing laser systems that transmit power and data between spacecraft\nThe post Space Force awards Pulse Space $40 million to advance laser power technology appeared first on SpaceNew...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Golden Dome and the search for new space markets",
+      "link": "https://spacenews.com/golden-dome-and-the-search-for-new-space-markets/",
+      "pubDate": "2026-07-09T12:00:00Z",
+      "snippet": "Even as many details of Golden Dome remain unsettled, the missile-defense program has become a focal point for space and defense startups looking for new markets\nThe post Golden Dome and the search fo...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Blue Origin seeks to raise $10 billion in outside capital",
+      "link": "https://spacenews.com/blue-origin-seeks-to-raise-10-billion-in-outside-capital/",
+      "pubDate": "2026-07-09T11:57:38Z",
+      "snippet": "Blue Origin is planning to raise $10 billion in the company\u2019s first outside investment to support its ambitions in launch services and satellite constellations.\nThe post Blue Origin seeks to raise $10...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "MDA Space buys French Earth data analytics company CLS",
+      "link": "https://spacenews.com/mda-space-buys-french-earth-data-analytics-company-cls/",
+      "pubDate": "2026-07-09T11:18:22Z",
+      "snippet": "Canadian company MDA Space is buying a French Earth data analytics company in its second big acquisition in recent weeks, part of wave of mergers and acquisitions in the industry.\nThe post MDA Space b...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Scientists finally solved a 150-year-old gallium mystery",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260707054119.htm",
+      "pubDate": "2026-07-09T07:40:57Z",
+      "snippet": "Scientists have rewritten the story of gallium after discovering that its unusual atomic bonds re-form at high temperatures, contradicting decades of accepted theory. The finding changes how researche...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "New Singapore space agency seeks to build up the country\u2019s space industry",
+      "link": "https://spacenews.com/new-singapore-space-agency-seeks-to-build-up-the-countrys-space-industry/",
+      "pubDate": "2026-07-09T03:31:50Z",
+      "snippet": "Singapore\u2019s new space agency signed a cooperation agreement with its Japanese counterpart as part of its efforts to build up the country\u2019s space industry.\nThe post New Singapore space agency seeks to ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Scientists used AI to crack one of water's biggest mysteries",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
+      "pubDate": "2026-07-08T22:31:30Z",
+      "snippet": "Water\u2019s odd behavior becomes even more dramatic when it is supercooled, but scientists have struggled to compare the many different ways of describing its microscopic structure. Researchers at the Uni...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "ispace to send larger payloads to the moon on SpaceX\u2019s Starship",
+      "link": "https://spacenews.com/ispace-to-send-larger-payloads-to-the-moon-on-spacexs-starship/",
+      "pubDate": "2026-07-08T21:28:16Z",
+      "snippet": "Japanese lunar exploration company ispace is buying space on a future Starship lunar lander mission to deliver larger payloads to the moon.\nThe post ispace to send larger payloads to the moon on Space...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Is this the year for a NASA authorization bill?",
+      "link": "https://spacenews.com/is-this-the-year-for-a-nasa-authorization-bill/",
+      "pubDate": "2026-07-08T18:06:39Z",
+      "snippet": "Appropriators, like fans of hard-luck sports teams, say every year that this year will be different. That this will be the year that \u201cregular order\u201d returns to the appropriations process, [&#8230;]\nTh...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Pentagon to explore cheaper replacements for the MQ-9 Reaper",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/08/pentagon-to-explore-cheaper-replacements-for-the-mq-9-reaper/",
+      "pubDate": "2026-07-08T16:07:31Z",
+      "snippet": "The Massed Modular Aircraft project aims to develop a drone that can operate in such large numbers that it can absorb losses and still overwhelm defenses.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "The US military is not organized for cyber war",
+      "link": "https://www.defensenews.com/opinion/2026/07/08/the-us-military-is-not-organized-for-cyber-war/",
+      "pubDate": "2026-07-08T15:34:53Z",
+      "snippet": "Too much of this debate treats a new service as a judgment on Cyber Command\u2019s performance. It is not.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Ukraine to get \u2018license\u2019 for making Patriot interceptors, Trump pledges",
+      "link": "https://www.defensenews.com/global/europe/2026/07/08/ukraine-to-get-license-for-making-patriot-interceptors-trump-pledges/",
+      "pubDate": "2026-07-08T14:25:06Z",
+      "snippet": "\"It\u2019s a defensive weapon, which I like better than an offensive weapon,\u201d Trump said. Russian media quickly picked up on the announcement.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Fi expands Starlink direct-to-device capability into dog-tracking",
+      "link": "https://spacenews.com/fi-expands-starlink-direct-to-device-capability-into-dog-tracking/",
+      "pubDate": "2026-07-08T13:00:00Z",
+      "snippet": "Pet technology company Fi launched a dog tracker July 8 that uses T-Mobile\u2019s Starlink-enabled T-Satellite service to remain connected across the United States, even outside the telco\u2019s terrestrial net...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "The satellite industry\u2019s most expensive problem isn\u2019t in orbit",
+      "link": "https://spacenews.com/the-satellite-industrys-most-expensive-problem-isnt-in-orbit/",
+      "pubDate": "2026-07-08T13:00:00Z",
+      "snippet": "AST SpaceMobile recently deployed three more BlueBird satellites into low Earth orbit as it advances plans for a space-based cellular broadband network of 45 to 60 satellites by the end [&#8230;]\nThe ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Venus Aerospace raises $91 million to scale rocket engine technology",
       "link": "https://spacenews.com/venus-aerospace-raises-91-million-to-scale-rocket-engine-technology/",
@@ -66,7 +192,7 @@
       "color": "#1a6da8"
     },
     {
-      "title": "US Army tests autonomous mass mine-laying",
+      "title": "US Army tests autonomous mass minelaying",
       "link": "https://www.defensenews.com/news/your-military/2026/07/07/us-army-tests-autonomous-mass-mine-laying/",
       "pubDate": "2026-07-07T21:25:41Z",
       "snippet": "The Army\u2019s Volcano mine dispenser can blanket 32 acres of terrain with up to 960 mines. Now, the Army is testing an autonomous version.",
@@ -87,7 +213,7 @@
       "title": "Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs",
       "link": "https://spacenews.com/spirit-electronics-announces-managed-access-to-u-s-based-advanced-semiconductor-manufacturing-for-aerospace-and-defense-programs/",
       "pubDate": "2026-07-07T18:46:40Z",
-      "snippet": "PHOENIX, AZ \u2014 June 09, 2026 \u2014&#160;Spirit Electronics today announced a new managed-access offering that provides aerospace and defense customers with a secure pathway to advanced, U.S.-based semicond...",
+      "snippet": "PHOENIX, AZ \u2014 June 09, 2026 \u2014\u00a0Spirit Electronics today announced a new managed-access offering that provides aerospace and defense customers with a secure pathway to advanced, U.S.-based semiconductor...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
@@ -165,15 +291,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "SpaceX satellite wins test Pentagon\u2019s commitment to competition",
-      "link": "https://spacenews.com/spacexs-wins-test-pentagons-commitment-to-competition/",
-      "pubDate": "2026-07-07T11:00:00Z",
-      "snippet": "As the military rushes to deploy proliferated networks, SpaceX\u2019s dominance is attracting congressional scrutiny \nThe post SpaceX satellite wins test Pentagon\u2019s commitment to competition appeared first...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Polish defense giant PGZ to produce Anduril\u2019s Barracuda cruise missile",
       "link": "https://www.defensenews.com/global/europe/2026/07/07/polish-defense-giant-pgz-to-produce-andurils-barracuda-cruise-missile/",
       "pubDate": "2026-07-07T10:33:42Z",
@@ -199,42 +316,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Isar Aerospace signs agreement for Canadian launch site",
-      "link": "https://spacenews.com/isar-aerospace-signs-agreement-for-canadian-launch-site/",
-      "pubDate": "2026-07-07T08:00:00Z",
-      "snippet": "Isar Aerospace has signed a contract to develop a Canadian launch site for its Spectrum rocket, an agreement linked to a deal to sell submarines to the Canadian military.\nThe post Isar Aerospace signs...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Blue Origin continues work on lunar landers during recovery from New Glenn explosion",
-      "link": "https://spacenews.com/blue-origin-continues-work-on-lunar-landers-during-recovery-from-new-glenn-explosion/",
-      "pubDate": "2026-07-06T20:09:47Z",
-      "snippet": "Blue Origin is continuing to develop its Blue Moon lunar landers, with seven vehicles in production, while recovering from the New Glenn pad explosion more than a month ago.\nThe post Blue Origin conti...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Iridium folds Aireon aviation safety service into Rocket Lab-bound business",
-      "link": "https://spacenews.com/iridium-folds-aireon-aviation-safety-service-into-rocket-lab-bound-business/",
-      "pubDate": "2026-07-06T19:02:32Z",
-      "snippet": "Iridium Communications has completed its takeover of Aireon, bringing the aircraft-tracking venture fully in-house ahead of the satellite operator\u2019s planned $8 billion sale to Rocket Lab.\nThe post Iri...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NASA adds three European firms to the commercial data program",
-      "link": "https://spacenews.com/nasa-adds-three-european-firms-to-the-commercial-data-program/",
-      "pubDate": "2026-07-06T15:57:10Z",
-      "snippet": "MILAN \u2014 NASA\u2019s Commercial Satellite Data Acquisition program (CSDA) announced June 23 contract awards with eight new commercial satellite data providers, three of which are European: Kuva Space (Finla...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Thales to buy French underwater-drone maker Exail in $4.5 billion deal",
@@ -273,42 +354,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "The term \u2018dual-use\u2019 is misleading and dangerous",
-      "link": "https://spacenews.com/the-term-dual-use-is-misleading-and-dangerous/",
-      "pubDate": "2026-07-06T13:00:00Z",
-      "snippet": "There is only technology. How it is employed is a question of intent, context and political will, not of the technology itself. A precision optical payload captures imagery whether the [&#8230;]\nThe p...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "BAE microchip designed for strategic defense missions passes radiation test",
-      "link": "https://spacenews.com/bae-microchip-designed-for-strategic-defense-missions-passes-radiation-test/",
-      "pubDate": "2026-07-06T13:00:00Z",
-      "snippet": "The company is positioning its Endura computing for classified and missile-defense satellite programs\nThe post BAE microchip designed for strategic defense missions passes radiation test appeared firs...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Connected Aircraft Fleet Set to Exceed 70,000 by 2035",
-      "link": "https://spacenews.com/connected-aircraft-fleet-set-to-exceed-70000-by-2035/",
-      "pubDate": "2026-07-06T12:00:00Z",
-      "snippet": "Paris, France\u00a0&#124; May 2026 \u2013\u00a0Novaspace\u2019s\u00a0latest\u00a0In-Flight Connectivity\u00a0report points to sustained, long-term growth in the In-Flight Connectivity (IFC) market, with\u00a0connected\u00a0aircraft\u00a0numbers to\u00a0ex...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Centre for Space Futures, Novaspace and SpaceTech Gulf  Sign Agreement to Develop Global Space Capability Mapping Dashboard",
-      "link": "https://spacenews.com/centre-for-space-futures-novaspace-and-spacetech-gulf-sign-agreement-to-develop-global-space-capability-mapping-dashboard/",
-      "pubDate": "2026-07-06T10:00:00Z",
-      "snippet": "Riyadh, Saudi Arabia \u2013 June, 2026 The Centre for Space Futures (CSF), together with leading international partners including Novaspace, and SpaceTech Gulf, have signed a Memorandum of Cooperation (MoC...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
       "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
       "pubDate": "2026-07-05T18:13:44Z",
@@ -331,33 +376,6 @@
       "link": "https://www.defensenews.com/global/europe/2026/07/03/poland-teams-up-with-spain-to-double-tanker-aircraft-purchase/",
       "pubDate": "2026-07-03T15:09:25Z",
       "snippet": "The agreement with Madrid will allow Warsaw to increase its tanker order to four units.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Taiwan needs a \u2018hornet\u2019s nest\u2019 of drones to deter conflict, US diplomat says",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/03/taiwan-needs-a-hornets-nest-of-drones-to-deter-conflict-us-diplomat-says/",
-      "pubDate": "2026-07-03T12:30:00Z",
-      "snippet": "Taiwan\u00a0says it needs to bolster its defenses in the face of a stepped-up threat from China, which claims the island as its own territory.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Hegseth creates powerful new drone office, pulling authority from the military services",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/02/hegseth-creates-powerful-new-drone-office-pulling-authority-from-the-military-services/",
-      "pubDate": "2026-07-02T19:02:28Z",
-      "snippet": "The reorganization is the latest step in Hegseth\u2019s push to field weapons faster.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Lithuania moves to end nuclear weapon ban as \u2018situation getting worse\u2019",
-      "link": "https://www.defensenews.com/global/europe/2026/07/02/lithuania-moves-to-end-nuclear-weapon-ban-as-situation-getting-worse/",
-      "pubDate": "2026-07-02T19:00:00Z",
-      "snippet": "Lithuania\u2019s parliamentary parties have agreed on a plan to lift a constitutional ban on nuclear weapons and foreign military bases in the Baltic nation.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -502,24 +520,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/05/260525000501.htm",
       "pubDate": "2026-05-26T13:09:27Z",
       "snippet": "A new AI-powered chip from UC Davis can analyze light and chemicals using a device tiny enough to fit almost anywhere. By combining smart silicon sensors with machine learning, it achieves lab-style s...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Ordinary WiFi can now identify people with near perfect accuracy",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260522023127.htm",
-      "pubDate": "2026-05-23T03:03:54Z",
-      "snippet": "Scientists in Germany have demonstrated a startling new form of surveillance: identifying people using nothing more than ordinary WiFi signals. By analyzing how radio waves bounce around a room, resea...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Ancient chemistry trick unlocks new type of glass that traps CO2 and hydrogen",
-      "link": "https://www.sciencedaily.com/releases/2026/05/260521072404.htm",
-      "pubDate": "2026-05-22T09:17:29Z",
-      "snippet": "Researchers have discovered how to fine-tune a futuristic type of porous glass that can trap gases like CO2 and hydrogen. Inspired by centuries-old glassmaking techniques, the team added sodium and li...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
