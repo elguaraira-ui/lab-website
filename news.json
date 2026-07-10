@@ -1,7 +1,151 @@
 {
-  "updated": "2026-07-09T13:40:53.416199Z",
-  "count": 58,
+  "updated": "2026-07-10T13:02:33.050441Z",
+  "count": 60,
   "items": [
+    {
+      "title": "Startup testing nuclear battery technology in orbit",
+      "link": "https://spacenews.com/startup-testing-nuclear-battery-technology-in-orbit/",
+      "pubDate": "2026-07-10T13:00:00Z",
+      "snippet": "A City Labs mission aims to validate a tritium-powered electrical source for satellites and lunar systems that could operate where solar power falls short\nThe post Startup testing nuclear battery tech...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Space capitalism needs more than a bull market",
+      "link": "https://spacenews.com/space-capitalism-needs-more-than-a-bull-market/",
+      "pubDate": "2026-07-10T13:00:00Z",
+      "snippet": "By most measures, commercial space is thriving. Washington produced a flurry of activity over the past year: two major executive orders, a raft of directives, and &#8220;space superiority&#8221; eleva...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "ElevationSpace advances work on commercial reentry vehicle",
+      "link": "https://spacenews.com/elevationspace-advances-work-on-commercial-reentry-vehicle/",
+      "pubDate": "2026-07-10T11:25:14Z",
+      "snippet": "A Japanese startup developing reentry vehicles is signing up customers and preparing for its first mission while keeping a watchful eye on SpaceX\u2019s entry into the market.\nThe post ElevationSpace advan...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Rheinmetall, MBDA to develop laser weapon for German Navy",
+      "link": "https://www.defensenews.com/global/europe/2026/07/10/rheinmetall-mbda-to-develop-laser-weapon-for-german-navy/",
+      "pubDate": "2026-07-10T10:59:02Z",
+      "snippet": "Rheinmetall and MBDA aim to field an operational laser weapon for the German Navy in 2029.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "China becomes second country to recover orbital booster with Long March 10B",
+      "link": "https://spacenews.com/china-becomes-second-country-to-recover-orbital-booster-with-long-march-10b/",
+      "pubDate": "2026-07-10T06:55:42Z",
+      "snippet": "HELSINKI \u2014 China launched its Long March 10B rocket early Friday and successfully recovered the first stage, marking a huge step for the country\u2019s reusable rocket efforts. The first Long [&#8230;]\nThe...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "\u2018Testing is now underway\u2019: Zelenskyy confirms progress on major US defense deals",
+      "link": "https://www.defensenews.com/global/europe/2026/07/10/testing-is-now-underway-zelenskyy-confirms-progress-on-major-us-defense-deals/",
+      "pubDate": "2026-07-10T00:54:47Z",
+      "snippet": "On the heels of a Patriot license pledge, Ukrainian President Volodymyr Zelensky confirmed progress on billion-dollar defense tech deals with the U.S.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Interior Department requests information on offshore launch options",
+      "link": "https://spacenews.com/interior-department-requests-information-on-offshore-launch-options/",
+      "pubDate": "2026-07-09T23:20:58Z",
+      "snippet": "An office of the U.S. Department of the Interior is seeking information on concepts for performing offshore orbital launches, part of a broader effort to reduce congestion at existing spaceports.\nThe ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "SDA TAP Lab Evolves Into BMC3I TAP Lab And In Partnership With Catalyst Campus Launches A New Multi-Phased Program To Accelerate Mission-Focused Technology Development",
+      "link": "https://spacenews.com/sda-tap-lab-evolves-into-bmc3i-tap-lab-and-in-partnership-with-catalyst-campus-launches-a-new-multi-phased-program-to-accelerate-mission-focused-technology-development/",
+      "pubDate": "2026-07-09T22:35:28Z",
+      "snippet": "Catalyst Campus for Technology and Innovation (CCTI) and the BMC3I TAP Lab Colorado are excited to announce a new multi-phased program designed to strengthen collaboration between commercial innovator...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "The Exploration Company establishes US entity to pursue government contracts",
+      "link": "https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/",
+      "pubDate": "2026-07-09T20:12:33Z",
+      "snippet": "JOHANNESBURG \u2014 The Exploration Company, a space transportation company based in Germany, established TEC Federal, a United States-based entity that will enable it to compete for government programs an...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Environmental groups urge FCC to pause orbital data center applications",
+      "link": "https://spacenews.com/environmental-groups-seek-fcc-pause-on-orbital-data-center-constellations/",
+      "pubDate": "2026-07-09T19:39:42Z",
+      "snippet": "Environmental and scientific groups are calling for a halt to processing orbital data center applications, arguing the rush to move computing infrastructure into space has raised the stakes in a broad...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Xona unveils program to verify Pulsar-compatible devices",
+      "link": "https://spacenews.com/xona-unveils-program-to-verify-pulsar-compatible-devices/",
+      "pubDate": "2026-07-09T15:00:00Z",
+      "snippet": "SAN FRANCISCO \u2013 Xona, the Silicon Valley startup establishing Pulsar, a precision positioning, navigation and timing (PNT) constellation, announced a high-profile roster of partners developing compati...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Volatility is often the price of ambition",
+      "link": "https://spacenews.com/volatility-is-often-the-price-of-ambition/",
+      "pubDate": "2026-07-09T15:00:00Z",
+      "snippet": "For the growing number of constellations being designed around Starship, the wild ups and downs in the early days of SpaceX\u2019s historic IPO have a familiar rhythm. While some of [&#8230;]\nThe post Vola...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Maintaining leadership in space with Victoria Coleman",
+      "link": "https://spacenews.com/maintaining-leadership-in-space-with-victoria-coleman/",
+      "pubDate": "2026-07-09T14:47:03Z",
+      "snippet": "In this episode of the Space Minds podcast, David Ariosto talks with Victoria Coleman, the former chief scientist for the U.S. Air Force who now serves as associate provost of [&#8230;]\nThe post Maint...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "UK eyes $50 billion in pooled NATO funds for new long-range strike initiative",
+      "link": "https://www.defensenews.com/global/europe/2026/07/09/uk-eyes-50-billion-in-pooled-nato-funds-for-new-long-range-strike-initiative/",
+      "pubDate": "2026-07-09T14:33:09Z",
+      "snippet": "Details were scant about a project that may amount to another European weapons-coordination umbrella rather than new technology development.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Space Force completes procurement reorganization, creating nine acquisition portfolios",
+      "link": "https://spacenews.com/space-force-completes-procurement-reorganization-creating-nine-acquisition-portfolios/",
+      "pubDate": "2026-07-09T14:30:56Z",
+      "snippet": "New portfolio acquisition executives will control requirements and modernization decisions across major mission areas\nThe post Space Force completes procurement reorganization, creating nine acquisiti...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Germany to buy US Tomahawks in shift toward own long-range capability",
+      "link": "https://www.defensenews.com/global/europe/2026/07/09/germany-to-buy-us-tomahawks-in-shift-toward-own-long-range-capability/",
+      "pubDate": "2026-07-09T13:36:46Z",
+      "snippet": "Germany will purchase Tomahawk cruise missiles from the United States and station them on German soil.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Space Force awards Pulse Space $40 million to advance laser power technology",
       "link": "https://spacenews.com/space-force-awards-pulse-space-40-million-to-advance-laser-power-technology/",
@@ -120,33 +264,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "The satellite industry\u2019s most expensive problem isn\u2019t in orbit",
-      "link": "https://spacenews.com/the-satellite-industrys-most-expensive-problem-isnt-in-orbit/",
-      "pubDate": "2026-07-08T13:00:00Z",
-      "snippet": "AST SpaceMobile recently deployed three more BlueBird satellites into low Earth orbit as it advances plans for a space-based cellular broadband network of 45 to 60 satellites by the end [&#8230;]\nThe ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Venus Aerospace raises $91 million to scale rocket engine technology",
-      "link": "https://spacenews.com/venus-aerospace-raises-91-million-to-scale-rocket-engine-technology/",
-      "pubDate": "2026-07-08T12:00:00Z",
-      "snippet": "Funding will support development and production of the company\u2019s rotating detonation rocket engine\nThe post Venus Aerospace raises $91 million to scale rocket engine technology appeared first on Space...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "The government\u2019s options to address strained spaceports",
-      "link": "https://spacenews.com/the-governments-options-to-address-strained-spaceports/",
-      "pubDate": "2026-07-08T11:00:00Z",
-      "snippet": "The May 28 explosion of a Blue Origin New Glenn rocket at Cape Canaveral\u2019s Launch Complex 36 did more than destroy a rocket and severely damage a launch pad. The [&#8230;]\nThe post The government&#821...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "China shows snazzy clip of DF-17 missile on state TV in show of force",
       "link": "https://www.defensenews.com/global/asia-pacific/2026/07/08/china-shows-snazzy-clip-of-df-17-missile-on-state-tv-in-show-of-force/",
       "pubDate": "2026-07-08T08:49:14Z",
@@ -154,42 +271,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Space Force adds Relativity, Impulse Space to national security launch program",
-      "link": "https://spacenews.com/space-force-adds-relativity-impulse-space-to-national-security-launch-program/",
-      "pubDate": "2026-07-08T07:48:02Z",
-      "snippet": "The NSSL Phase 3 Lane 1 program opens door to newer companies competing for military missions\nThe post Space Force adds Relativity, Impulse Space to national security launch program appeared first on ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Skyroot prepares for first orbital launch attempt",
-      "link": "https://spacenews.com/skyroot-prepares-for-first-orbital-launch-attempt/",
-      "pubDate": "2026-07-08T02:10:30Z",
-      "snippet": "Indian launch startup Skyroot Aerospace is preparing for its first orbital launch attempt as soon as July 12, with plans to quickly scale up to monthly launches.\nThe post Skyroot prepares for first or...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "D-Orbit signs launch-services contract with ArkEdge Space",
-      "link": "https://spacenews.com/d-orbit-signs-launch-services-contract-with-arkedge-space/",
-      "pubDate": "2026-07-08T01:00:00Z",
-      "snippet": "SAN FRANCISCO \u2013 Italian space logistics specialist D-Orbit will provide a series of launches aboard its ION Satellite Carrier for Japanese startup ArkEdge Space, under a contract announced July 8 [&#8...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Orbit Fab hires new CEO and raises funding to support satellite refueling business",
-      "link": "https://spacenews.com/orbit-fab-hires-new-ceo-and-raises-funding-to-support-satellite-refueling-business/",
-      "pubDate": "2026-07-07T22:45:09Z",
-      "snippet": "With a new chief executive and funding round, satellite refueling company Orbit Fab hopes to make the transition from technology development to operations.\nThe post Orbit Fab hires new CEO and raises ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "US Army tests autonomous mass minelaying",
@@ -208,42 +289,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Spirit Electronics Announces Managed Access to U.S.-Based Advanced Semiconductor Manufacturing for Aerospace and Defense Programs",
-      "link": "https://spacenews.com/spirit-electronics-announces-managed-access-to-u-s-based-advanced-semiconductor-manufacturing-for-aerospace-and-defense-programs/",
-      "pubDate": "2026-07-07T18:46:40Z",
-      "snippet": "PHOENIX, AZ \u2014 June 09, 2026 \u2014\u00a0Spirit Electronics today announced a new managed-access offering that provides aerospace and defense customers with a secure pathway to advanced, U.S.-based semiconductor...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Apolink makes contact with first relay satellite",
-      "link": "https://spacenews.com/apolink-makes-contact-with-first-relay-satellite/",
-      "pubDate": "2026-07-07T18:11:41Z",
-      "snippet": "Apolink has made contact with its first satellite after launching on SpaceX\u2019s July 7 rideshare mission, clearing the way for a data relay demonstration using a novel experimental license from the Fede...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Arianespace opens door to GEO rideshare opportunities from 2029",
-      "link": "https://spacenews.com/arianespace-opens-door-to-geo-rideshare-opportunities-from-2029/",
-      "pubDate": "2026-07-07T17:52:30Z",
-      "snippet": "MILAN \u2014 Arianespace has signed a Memorandum of Understanding with French in-orbit servicing company Infinite Orbits to explore future collaboration on multiple direct-to-GEO rideshare launch services,...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "SpaceX launches Transporter-17 amid concerns about rideshare program\u2019s future",
-      "link": "https://spacenews.com/spacex-launches-transporter-17-amid-concerns-about-rideshare-programs-future/",
-      "pubDate": "2026-07-07T15:31:35Z",
-      "snippet": "SpaceX launched the latest in its Transporter series of rideshare missions July 7 as industry concerns about the program\u2019s future reach what one rival company executive called a panic.\nThe post SpaceX...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Eight NATO allies launch HALO satellite constellation initiative",
@@ -271,15 +316,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Simera Sense to provide imagers for Canary Islands constellation",
-      "link": "https://spacenews.com/simera-sense-to-provide-imagers-for-canary-islands-constellation/",
-      "pubDate": "2026-07-07T12:01:41Z",
-      "snippet": "Belgium\u2019s Simera Sense has won a contract to provide multispectral imagers for a small constellation being designed to track wildfires, volcanic activity and other regional priorities for the Canary I...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Germany set to become first international site for ATACMS missile production",
@@ -361,24 +397,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Multibillion-dollar contract secures \u2018major step forward\u2019 for GCAP fighter jet",
-      "link": "https://www.defensenews.com/global/europe/2026/07/03/multibillion-dollar-contract-secures-major-step-forward-for-gcap-fighter-jet/",
-      "pubDate": "2026-07-03T16:13:36Z",
-      "snippet": "Japan, Italy and the U.K. have handed a \u00a34.6 billion ($6.1 billion) development contract to their national champions building the GCAP jet.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Poland teams up with Spain to double tanker aircraft purchase",
-      "link": "https://www.defensenews.com/global/europe/2026/07/03/poland-teams-up-with-spain-to-double-tanker-aircraft-purchase/",
-      "pubDate": "2026-07-03T15:09:25Z",
-      "snippet": "The agreement with Madrid will allow Warsaw to increase its tanker order to four units.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "NASA\u2019s Cold Atom Lab is creating one of the weirdest forms of matter in space",
