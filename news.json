@@ -1,7 +1,97 @@
 {
-  "updated": "2026-07-13T13:12:53.728682Z",
-  "count": 60,
+  "updated": "2026-07-14T12:03:31.292549Z",
+  "count": 59,
   "items": [
+    {
+      "title": "Ukraine agrees on plan to acquire 16 Rafale jets, France\u2019s Macron says",
+      "link": "https://www.defensenews.com/global/europe/2026/07/14/ukraine-agrees-on-plan-to-acquire-16-rafale-jets-frances-macron-says/",
+      "pubDate": "2026-07-14T08:35:31Z",
+      "snippet": "Ukraine has agreed on a plan to acquire 16 Rafale fighter jets from France together with the accompanying weapon systems, along with air-defense equipment.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "9 nations back Ukraine\u2019s Patriot alternative, Freyja \u2014 and want it flying in a year",
+      "link": "https://www.defensenews.com/global/europe/2026/07/14/9-nations-back-ukraines-patriot-alternative-freyja-and-want-it-flying-in-a-year/",
+      "pubDate": "2026-07-14T01:07:14Z",
+      "snippet": "Ballistic missiles are the one threat Ukraine can't stop with a weapon it makes itself.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Flexell Space raises $20 Million in Series A round",
+      "link": "https://spacenews.com/flexell-space-raises-20-million-in-series-a-round/",
+      "pubDate": "2026-07-14T00:00:00Z",
+      "snippet": "UIWANG, South Korea, July 14 \u2014 FLEXELL SPACE, a developer of next-generation space solar solutions, announced that it has completed a $20 million Series A funding round. Completed approximately two [&...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Defense spending lifts Europe\u2019s space economy",
+      "link": "https://spacenews.com/defense-spending-lifts-europes-space-economy/",
+      "pubDate": "2026-07-13T22:18:50Z",
+      "snippet": "European government space spending jumped 12% to about $15.4 billion in 2025, according to a July 13 European Space Agency report, bucking a 3% global decline on the back of rising national defense bu...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network",
+      "link": "https://spacenews.com/l3harris-sierra-space-to-build-36-satellites-to-expand-u-s-missile-tracking-network/",
+      "pubDate": "2026-07-13T21:08:02Z",
+      "snippet": "The Space Development Agency awarded the companies a combined $1.75 billion for next batch of missile-tracking satellites\nThe post L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Lawmakers demand Pentagon release findings from probe of Iran school strike",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/13/lawmakers-demand-pentagon-release-findings-from-probe-of-iran-school-strike/",
+      "pubDate": "2026-07-13T20:35:10Z",
+      "snippet": "Lawmakers demanded Monday that the Pentagon release its findings from an investigation into the Feb. 28 strike at a girls\u2019 school in Iran.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Poland to host new ESA center as government boosts investments in space",
+      "link": "https://spacenews.com/poland-to-host-new-esa-center-as-government-boosts-investments-in-space/",
+      "pubDate": "2026-07-13T19:12:00Z",
+      "snippet": "WARSAW, Poland \u2014 Poland will host the first European Space Agency (ESA) center located in an eastern flank member state, one that will be focused on civil security and resilience. [&#8230;]\nThe post P...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Sea drones strike Iranian port in combat first for US",
+      "link": "https://www.defensenews.com/news/your-military/2026/07/13/sea-drones-strike-iranian-port-in-combat-first-for-us-navy/",
+      "pubDate": "2026-07-13T17:07:19Z",
+      "snippet": "U.S. Central Command utilized three Corsair unmanned surface vessels to strike a submarine and ship maintenance facility in Iran.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US industrial base is becoming stronger for wartime production, study finds",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/13/us-industrial-base-is-becoming-stronger-for-wartime-production-study-finds/",
+      "pubDate": "2026-07-13T15:43:22Z",
+      "snippet": "As recent conflicts consume weapons at a ferocious rate, America\u2019s defense industrial base is becoming more prepared to sustain a major war.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Accel and Prosus backed QOSMIC raises $3.33 Million to Build Optical Ground Stations for the Orbital Data Economy",
+      "link": "https://spacenews.com/accel-and-prosus-backed-qosmic-raises-3-33-million-to-build-optical-ground-stations-for-the-orbital-data-economy/",
+      "pubDate": "2026-07-13T15:10:08Z",
+      "snippet": "BENGALURU, India / July 15, 2026 &#8212; QOSMIC has raised $3.33 million in seed funding co-led by Accel and Prosus, with participation from South Park Commons, ARTPARK, and angel investor [&#8230;]\nT...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Reditus Space completes first reentry vehicle",
       "link": "https://spacenews.com/reditus-space-completes-first-reentry-vehicle/",
@@ -219,51 +309,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "SDA TAP Lab Evolves Into BMC3I TAP Lab And In Partnership With Catalyst Campus Launches A New Multi-Phased Program To Accelerate Mission-Focused Technology Development",
-      "link": "https://spacenews.com/sda-tap-lab-evolves-into-bmc3i-tap-lab-and-in-partnership-with-catalyst-campus-launches-a-new-multi-phased-program-to-accelerate-mission-focused-technology-development/",
-      "pubDate": "2026-07-09T22:35:28Z",
-      "snippet": "Catalyst Campus for Technology and Innovation (CCTI) and the BMC3I TAP Lab Colorado are excited to announce a new multi-phased program designed to strengthen collaboration between commercial innovator...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "The Exploration Company establishes US entity to pursue government contracts",
-      "link": "https://spacenews.com/the-exploration-company-establishes-us-entity-to-pursue-government-contracts/",
-      "pubDate": "2026-07-09T20:12:33Z",
-      "snippet": "JOHANNESBURG \u2014 The Exploration Company, a space transportation company based in Germany, established TEC Federal, a United States-based entity that will enable it to compete for government programs an...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Environmental groups urge FCC to pause orbital data center applications",
-      "link": "https://spacenews.com/environmental-groups-seek-fcc-pause-on-orbital-data-center-constellations/",
-      "pubDate": "2026-07-09T19:39:42Z",
-      "snippet": "Environmental and scientific groups are calling for a halt to processing orbital data center applications, arguing the rush to move computing infrastructure into space has raised the stakes in a broad...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Xona unveils program to verify Pulsar-compatible devices",
-      "link": "https://spacenews.com/xona-unveils-program-to-verify-pulsar-compatible-devices/",
-      "pubDate": "2026-07-09T15:00:00Z",
-      "snippet": "SAN FRANCISCO \u2013 Xona, the Silicon Valley startup establishing Pulsar, a precision positioning, navigation and timing (PNT) constellation, announced a high-profile roster of partners developing compati...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Volatility is often the price of ambition",
-      "link": "https://spacenews.com/volatility-is-often-the-price-of-ambition/",
-      "pubDate": "2026-07-09T15:00:00Z",
-      "snippet": "For the growing number of constellations being designed around Starship, the wild ups and downs in the early days of SpaceX\u2019s historic IPO have a familiar rhythm. While some of [&#8230;]\nThe post Vola...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "UK eyes $50 billion in pooled NATO funds for new long-range strike initiative",
       "link": "https://www.defensenews.com/global/europe/2026/07/09/uk-eyes-50-billion-in-pooled-nato-funds-for-new-long-range-strike-initiative/",
       "pubDate": "2026-07-09T14:33:09Z",
@@ -340,60 +385,6 @@
       "link": "https://www.defensenews.com/news/your-military/2026/07/07/us-army-tests-autonomous-mass-mine-laying/",
       "pubDate": "2026-07-07T21:25:41Z",
       "snippet": "The Army\u2019s Volcano mine dispenser can blanket 32 acres of terrain with up to 960 mines. Now, the Army is testing an autonomous version.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Navy fears ballistic missile subs can be hit by drones, anti-tank rockets",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/07/us-navy-fears-ballistic-missile-subs-can-be-hit-by-drones-anti-tank-rockets/",
-      "pubDate": "2026-07-07T19:10:20Z",
-      "snippet": "The U.S. Navy is searching for better methods of protecting its missile subs, as well as the shore installations that support them.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Eight NATO allies launch HALO satellite constellation initiative",
-      "link": "https://www.defensenews.com/space/2026/07/07/eight-nato-allies-launch-halo-satellite-constellation-initiative/",
-      "pubDate": "2026-07-07T15:30:56Z",
-      "snippet": "The project aims to stitch together spacecraft managed by individual member countries into one mega-constellation, alliance officials said.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Chinese ballistic missile test is said to undermine nuclear weapons-free zone in South Pacific",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/07/07/chinese-ballistic-missile-test-is-said-to-undermine-nuclear-weapons-free-zone-in-south-pacific/",
-      "pubDate": "2026-07-07T14:49:04Z",
-      "snippet": "China has repeatedly called out the AUKUS nuclear submarine deal between Australia, the U.S. and the U.K. as violating the treaty.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US will lift sanctions on Turkey, possibly sell F-35 fighter jets, Trump says",
-      "link": "https://www.defensenews.com/global/europe/2026/07/07/us-will-lift-sanctions-on-turkey-possibly-sell-f-35-fighter-jets-trump-says/",
-      "pubDate": "2026-07-07T14:49:03Z",
-      "snippet": "The sanctions were imposed in 2020 over the country's purchase of Russian defense missiles.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Germany set to become first international site for ATACMS missile production",
-      "link": "https://www.defensenews.com/global/europe/2026/07/07/germany-set-to-become-first-international-site-for-atacms-missile-production/",
-      "pubDate": "2026-07-07T11:54:05Z",
-      "snippet": "The move addresses a bottleneck, as Lockheed Martin has been winding down ATACMS output at its Camden, Arkansas, site while prioritizing newer missiles.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Polish defense giant PGZ to produce Anduril\u2019s Barracuda cruise missile",
-      "link": "https://www.defensenews.com/global/europe/2026/07/07/polish-defense-giant-pgz-to-produce-andurils-barracuda-cruise-missile/",
-      "pubDate": "2026-07-07T10:33:42Z",
-      "snippet": "Local production could make the weapon eligible for purchases by other European nations through a European Union lending scheme, according to PGZ.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
