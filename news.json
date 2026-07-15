@@ -1,7 +1,88 @@
 {
-  "updated": "2026-07-14T12:03:31.292549Z",
-  "count": 59,
+  "updated": "2026-07-15T12:08:17.110929Z",
+  "count": 57,
   "items": [
+    {
+      "title": "Satellite investment sets annual record halfway through 2026",
+      "link": "https://spacenews.com/satellite-investment-sets-annual-record-halfway-through-2026/",
+      "pubDate": "2026-07-15T11:06:12Z",
+      "snippet": "Investment in satellite companies reached $8.1 billion in the first half of 2026, already surpassing every previous annual total tracked by early-stage investor Space Capital.\nThe post Satellite inves...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Japan seeks to ramp up launch activity",
+      "link": "https://spacenews.com/japan-seeks-to-ramp-up-launch-activity/",
+      "pubDate": "2026-07-15T10:27:58Z",
+      "snippet": "The Japanese government wants to sharply increase the number of launches despite struggles with both current and new launch vehicles.\nThe post Japan seeks to ramp up launch activity appeared first on ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Israeli firm wants to convert commercial ships into floating drone bases",
+      "link": "https://www.defensenews.com/global/mideast-africa/2026/07/15/israeli-firm-wants-to-convert-commercial-ships-into-floating-drone-bases/",
+      "pubDate": "2026-07-15T10:27:52Z",
+      "snippet": "Elbit Systems detailed a new maritime concept centered on its Hermes 650 Spark unmanned aircraft, envisioning the conversion of commercial surface ships.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Isaacman attends Soyuz launch of ISS crew",
+      "link": "https://spacenews.com/isaacman-attends-soyuz-launch-of-iss-crew/",
+      "pubDate": "2026-07-15T09:21:37Z",
+      "snippet": "A new crew arrived at the International Space Station on July 14 on a launch witnessed in person by NASA Administrator Jared Isaacman.\nThe post Isaacman attends Soyuz launch of ISS crew appeared first...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "European firms plan exo-atmospheric interceptor for 2027 test",
+      "link": "https://www.defensenews.com/global/europe/2026/07/15/european-firms-plan-exo-atmospheric-interceptor-for-2027-test/",
+      "pubDate": "2026-07-15T09:21:01Z",
+      "snippet": "Bliksem EXO is meant to defeat ballistic threats including Russia\u2019s intermediate-range Oreshnik missile with separating and maneuvering re-entry vehicles.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "The US Navy is eyeing next-gen carrier-based drones. Here\u2019s what they might do.",
+      "link": "https://www.defensenews.com/news/your-navy/2026/07/14/the-us-navy-is-eyeing-next-gen-carrier-based-drones-heres-what-they-might-do/",
+      "pubDate": "2026-07-14T23:56:55Z",
+      "snippet": "The Navy wants its next-gen carrier-based drones to handle a wide range of missions, from strikes and anti-submarine warfare to aerial refueling and more.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Space acquisition and NRO picks face SASC",
+      "link": "https://spacenews.com/space-acquisition-and-nro-picks-face-sasc/",
+      "pubDate": "2026-07-14T19:06:33Z",
+      "snippet": "Erich Hernandez-Baquero, nominated to become the Air Force\u2019s top civilian space acquisition official, and Roger Mason, the administration\u2019s choice to lead the National Reconnaissance Office, appeared ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Antaris\u2122 Establishes Aeonyx\u2122 to Advance All-Domain Mission Virtualization for Defense",
+      "link": "https://spacenews.com/antaris-establishes-aeonyx-to-advance-all-domain-mission-virtualization-for-defense/",
+      "pubDate": "2026-07-14T14:56:28Z",
+      "snippet": "Antaris\u2122 today announced a strategic reorganization establishing Aeonyx\u2122, a mission virtualization company focused on helping defense organizations evaluate architectures, validate operational concept...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "U.K. government preparing to release new space strategy",
+      "link": "https://spacenews.com/u-k-government-preparing-to-release-new-space-strategy/",
+      "pubDate": "2026-07-14T12:07:19Z",
+      "snippet": "The British government is preparing to release a new space strategy that will provide a \u201cwhole-of-government\u201d approach for space in the country.\nThe post U.K. government preparing to release new space...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Ukraine agrees on plan to acquire 16 Rafale jets, France\u2019s Macron says",
       "link": "https://www.defensenews.com/global/europe/2026/07/14/ukraine-agrees-on-plan-to-acquire-16-rafale-jets-frances-macron-says/",
@@ -237,42 +318,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "The space industry is weighing ambitious hiring against heritage",
-      "link": "https://spacenews.com/the-space-industry-is-weighing-ambitious-hiring-against-heritage/",
-      "pubDate": "2026-07-10T14:05:00Z",
-      "snippet": "Space is hard, as the decades-old adage goes. For much of the industry\u2019s history, \u201crocket science\u201d was as much a barrier to entry as a byword for difficulty. But now [&#8230;]\nThe post The space indus...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Startup testing nuclear battery technology in orbit",
-      "link": "https://spacenews.com/startup-testing-nuclear-battery-technology-in-orbit/",
-      "pubDate": "2026-07-10T13:00:00Z",
-      "snippet": "A City Labs mission aims to validate a tritium-powered electrical source for satellites and lunar systems that could operate where solar power falls short\nThe post Startup testing nuclear battery tech...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Space capitalism needs more than a bull market",
-      "link": "https://spacenews.com/space-capitalism-needs-more-than-a-bull-market/",
-      "pubDate": "2026-07-10T13:00:00Z",
-      "snippet": "By most measures, commercial space is thriving. Washington produced a flurry of activity over the past year: two major executive orders, a raft of directives, and &#8220;space superiority&#8221; eleva...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "ElevationSpace advances work on commercial reentry vehicle",
-      "link": "https://spacenews.com/elevationspace-advances-work-on-commercial-reentry-vehicle/",
-      "pubDate": "2026-07-10T11:25:14Z",
-      "snippet": "A Japanese startup developing reentry vehicles is signing up customers and preparing for its first mission while keeping a watchful eye on SpaceX\u2019s entry into the market.\nThe post ElevationSpace advan...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Rheinmetall, MBDA to develop laser weapon for German Navy",
       "link": "https://www.defensenews.com/global/europe/2026/07/10/rheinmetall-mbda-to-develop-laser-weapon-for-german-navy/",
       "pubDate": "2026-07-10T10:59:02Z",
@@ -282,15 +327,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "China becomes second country to recover orbital booster with Long March 10B",
-      "link": "https://spacenews.com/china-becomes-second-country-to-recover-orbital-booster-with-long-march-10b/",
-      "pubDate": "2026-07-10T06:55:42Z",
-      "snippet": "HELSINKI \u2014 China launched its Long March 10B rocket early Friday and successfully recovered the first stage, marking a huge step for the country\u2019s reusable rocket efforts. The first Long [&#8230;]\nThe...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "\u2018Testing is now underway\u2019: Zelenskyy confirms progress on major US defense deals",
       "link": "https://www.defensenews.com/global/europe/2026/07/10/testing-is-now-underway-zelenskyy-confirms-progress-on-major-us-defense-deals/",
       "pubDate": "2026-07-10T00:54:47Z",
@@ -298,15 +334,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Interior Department requests information on offshore launch options",
-      "link": "https://spacenews.com/interior-department-requests-information-on-offshore-launch-options/",
-      "pubDate": "2026-07-09T23:20:58Z",
-      "snippet": "An office of the U.S. Department of the Interior is seeking information on concepts for performing offshore orbital launches, part of a broader effort to reduce congestion at existing spaceports.\nThe ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "UK eyes $50 billion in pooled NATO funds for new long-range strike initiative",
@@ -343,51 +370,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Pentagon to explore cheaper replacements for the MQ-9 Reaper",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/08/pentagon-to-explore-cheaper-replacements-for-the-mq-9-reaper/",
-      "pubDate": "2026-07-08T16:07:31Z",
-      "snippet": "The Massed Modular Aircraft project aims to develop a drone that can operate in such large numbers that it can absorb losses and still overwhelm defenses.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "The US military is not organized for cyber war",
-      "link": "https://www.defensenews.com/opinion/2026/07/08/the-us-military-is-not-organized-for-cyber-war/",
-      "pubDate": "2026-07-08T15:34:53Z",
-      "snippet": "Too much of this debate treats a new service as a judgment on Cyber Command\u2019s performance. It is not.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Ukraine to get \u2018license\u2019 for making Patriot interceptors, Trump pledges",
-      "link": "https://www.defensenews.com/global/europe/2026/07/08/ukraine-to-get-license-for-making-patriot-interceptors-trump-pledges/",
-      "pubDate": "2026-07-08T14:25:06Z",
-      "snippet": "\"It\u2019s a defensive weapon, which I like better than an offensive weapon,\u201d Trump said. Russian media quickly picked up on the announcement.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "China shows snazzy clip of DF-17 missile on state TV in show of force",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/07/08/china-shows-snazzy-clip-of-df-17-missile-on-state-tv-in-show-of-force/",
-      "pubDate": "2026-07-08T08:49:14Z",
-      "snippet": "Experts say the broadcast answers Asia-Pacific military exercises by other countries, warning the U.S. that the weapons could cause pain in any war.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army tests autonomous mass minelaying",
-      "link": "https://www.defensenews.com/news/your-military/2026/07/07/us-army-tests-autonomous-mass-mine-laying/",
-      "pubDate": "2026-07-07T21:25:41Z",
-      "snippet": "The Army\u2019s Volcano mine dispenser can blanket 32 acres of terrain with up to 960 mines. Now, the Army is testing an autonomous version.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Quantum sensor breakthrough could reveal dark matter and ancient gravitational waves",
