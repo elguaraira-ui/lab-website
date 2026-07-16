@@ -1,7 +1,124 @@
 {
-  "updated": "2026-07-15T12:08:17.110929Z",
-  "count": 57,
+  "updated": "2026-07-16T12:12:03.244344Z",
+  "count": 58,
   "items": [
+    {
+      "title": "Office of Space Commerce makes its case for mission authorization",
+      "link": "https://spacenews.com/office-of-space-commerce-makes-its-case-for-mission-authorization/",
+      "pubDate": "2026-07-16T12:06:00Z",
+      "snippet": "The Office of Space Commerce defended its proposal for a mission authorization scheme for novel space activities, arguing it would provide certainty for companies while limiting regulatory burdens.\nTh...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Bluestaq Launches BLUESTAQ / ARQ Defense-Grade Data Infrastructure Now Available for Commercial, Government, and Enterprise Organizations",
+      "link": "https://spacenews.com/bluestaq-launches-bluestaq-arq-defense-grade-data-infrastructure-now-available-for-commercial-government-and-enterprise-organizations/",
+      "pubDate": "2026-07-16T12:00:00Z",
+      "snippet": "COLORADO SPRINGS, CO, July 16, 2026 &#8211; Bluestaq today announced the launch of BLUESTAQ / ARQ, the company&#8217;s commercial data infrastructure platform.&#160; / ARQ is built for organizations i...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Swissto12 raises $70 million to accelerate small GEO satellite production",
+      "link": "https://spacenews.com/swissto12-raises-70-million-to-accelerate-small-geo-satellite-production/",
+      "pubDate": "2026-07-16T07:00:00Z",
+      "snippet": "Swissto12 said it has raised $70 million in fresh funding to keep up with growing demand for its small geostationary satellite manufacturing business.\nThe post Swissto12 raises $70 million to accelera...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Air Force turns to cheaper cruise missiles it can buy by the thousands",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/15/us-air-force-turns-to-cheaper-cruise-missiles-it-can-buy-by-the-thousand/",
+      "pubDate": "2026-07-15T19:48:09Z",
+      "snippet": "The U.S. Air Force is turning to cruise missiles it can buy by the thousand, cheap enough to shoot many for less than it once cost to shoot one.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Space Force awards Slingshot $69 million for AI-enabled training technology",
+      "link": "https://spacenews.com/space-force-awards-slingshot-69-million-for-ai-enabled-training-technology/",
+      "pubDate": "2026-07-15T19:04:17Z",
+      "snippet": "The 4\u00bd-year award will fund simulated satellite-defense scenarios \nThe post Space Force awards Slingshot $69 million for AI-enabled training technology appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Saltzman\u2019s farewell warning: Prepare for war in space to preserve peace",
+      "link": "https://spacenews.com/saltzmans-farewell-warning-prepare-for-war-in-space-to-preserve-peace/",
+      "pubDate": "2026-07-15T18:14:20Z",
+      "snippet": "In his final public speech as Space Force chief, Gen. Chance Saltzman called for combat credibility, stronger alliances and realism about the limits of procurement reform\nThe post Saltzman\u2019s farewell ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Commercial Space Federation Launches State and Local Council to Align States on National Space Capacity and Strengthen the U.S. Industrial Base",
+      "link": "https://spacenews.com/commercial-space-federation-launches-state-and-local-council-to-align-states-on-national-space-capacity-and-strengthen-the-u-s-industrial-base/",
+      "pubDate": "2026-07-15T18:00:00Z",
+      "snippet": "Washington, D.C. \u2014 July 15, 2026 \u2014 The Commercial Space Federation (CSF), the leading trade association representing the commercial space industry, today announced the launch of its State and Local [&...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "MBDA appoints Airbus executive Jean-Brice Dumont as new CEO",
+      "link": "https://www.defensenews.com/global/europe/2026/07/15/mbda-appoints-airbus-executive-jean-brice-dumont-as-new-ceo/",
+      "pubDate": "2026-07-15T16:38:38Z",
+      "snippet": "MBDA, Europe\u2019s largest missile maker, appointed Airbus Defence and Space executive Jean-Brice Dumont as its new chief executive officer effective Nov. 1.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "First the coast guard, then an ICBM: China tests new, long-term ways to hold off rivals in Asia",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/07/15/first-the-coast-guard-then-an-icbm-china-tests-new-long-term-ways-to-hold-off-rivals-in-asia/",
+      "pubDate": "2026-07-15T15:25:02Z",
+      "snippet": "Experts say Beijing used both methods to try out new, attention-grabbing and long-term ways to deter others from challenging its territorial claims.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pressure mounts on US defense executives to boost weapons production",
+      "link": "https://www.defensenews.com/news/your-military/2026/07/15/pressure-mounts-on-defense-executives-to-boost-weapons-production/",
+      "pubDate": "2026-07-15T14:33:15Z",
+      "snippet": "Defense executives face pressure to boost production as prolonged conflicts have consumed large quantities of missiles, interceptors and other weapons.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Startup working with University of Texas focuses on trapping small debris",
+      "link": "https://spacenews.com/new-startup-working-with-university-of-texas-seeks-to-trap-small-debris/",
+      "pubDate": "2026-07-15T14:00:00Z",
+      "snippet": "NAPA, Calif. \u2013 Florida startup Satellite Orbital Access and Removal (SOAR) announced a partnership July 15 with the University of Texas, El Paso, (UTEP) to develop a passive system to [&#8230;]\nThe po...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Icarus Robotics taps KULR to provide batteries for Space Station robots",
+      "link": "https://spacenews.com/icarus-robotics-taps-kulr-to-provide-batteries-for-space-station-robots/",
+      "pubDate": "2026-07-15T13:00:00Z",
+      "snippet": "NAPA, Calif. \u2013 Icarus Robotics, the New York startup developing dexterous mobile robots for space missions, selected KULR Technology Group to provide batteries for Joy, a free-flying platform destined...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Laying the groundwork for the first human mission to Mars",
+      "link": "https://spacenews.com/laying-the-groundwork-for-the-first-human-mission-to-mars/",
+      "pubDate": "2026-07-15T13:00:00Z",
+      "snippet": "Sending humans to Mars and returning them safely to Earth would be one of the most complex endeavors that humans have ever carried out. The number of issues that must [&#8230;]\nThe post Laying the gro...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Satellite investment sets annual record halfway through 2026",
       "link": "https://spacenews.com/satellite-investment-sets-annual-record-halfway-through-2026/",
@@ -174,33 +291,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Reditus Space completes first reentry vehicle",
-      "link": "https://spacenews.com/reditus-space-completes-first-reentry-vehicle/",
-      "pubDate": "2026-07-13T13:02:00Z",
-      "snippet": "Reditus Space, a startup developing recoverable and reusable spacecraft, has completed its first vehicle for launch later this year.\nThe post Reditus Space completes first reentry vehicle appeared fir...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Voyager completes acquisition of Astrobotic",
-      "link": "https://spacenews.com/voyager-completes-acquisition-of-astrobotic/",
-      "pubDate": "2026-07-13T13:01:00Z",
-      "snippet": "Voyager Technologies has completed its acquisition of lunar infrastructure company Astrobotic Technology, weeks after Astrobotic won two NASA lunar lander missions.\nThe post Voyager completes acquisit...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Getting ready for lunar planetary defense",
-      "link": "https://spacenews.com/getting-ready-for-lunar-planetary-defense/",
-      "pubDate": "2026-07-13T13:00:00Z",
-      "snippet": "Development in space is gaining serious momentum. Impressively, NASA recently\u00a0unveiled plans\u00a0for a new moon base \u2014 the first concrete step toward permanently moving human civilization off Earth. Howev...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Helsing raises $1.8 billion in Europe\u2019s biggest defense-startup round",
       "link": "https://www.defensenews.com/global/europe/2026/07/13/helsing-raises-18-billion-in-europes-biggest-defense-startup-round/",
       "pubDate": "2026-07-13T10:49:09Z",
@@ -228,24 +318,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "China lines up methalox Long March 10C as commercial workhorse after first booster recovery",
-      "link": "https://spacenews.com/china-lines-up-methalox-long-march-10c-as-commercial-workhorse-after-first-booster-recovery/",
-      "pubDate": "2026-07-13T08:29:21Z",
-      "snippet": "HELSINKI \u2014 China confirmed a methalox Long March 10C as its commercial workhorse following its first successful booster recovery, while injecting fresh capital into commercial rocket ventures. The Chi...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "SpaceX gears up for Starship Flight 13",
-      "link": "https://spacenews.com/spacex-gears-up-for-starship-flight-13/",
-      "pubDate": "2026-07-13T01:44:44Z",
-      "snippet": "SpaceX plans to conduct its next Starship launch as soon as July 16 to test fixes to issues from the previous flight and deploy functioning Starlink satellites.\nThe post SpaceX gears up for Starship F...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Physicists recreate black hole energy extraction in the lab",
       "link": "https://www.sciencedaily.com/releases/2026/07/260711010120.htm",
       "pubDate": "2026-07-12T12:28:41Z",
@@ -253,15 +325,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Parabilis tests propulsion system for maneuverable cubesats",
-      "link": "https://spacenews.com/parabilis-tests-propulsion-system-for-maneuverable-cubesats/",
-      "pubDate": "2026-07-11T13:39:38Z",
-      "snippet": "The Space Force is backing the development of the company\u2019s hybrid engine technology for small satellites\nThe post Parabilis tests propulsion system for maneuverable cubesats appeared first on SpaceNe...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "This electric field trick boosted heat flow by nearly 300%",
@@ -273,24 +336,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "FCC approves first Reflect Orbital satellite",
-      "link": "https://spacenews.com/fcc-approves-first-reflect-orbital-satellite/",
-      "pubDate": "2026-07-11T00:29:25Z",
-      "snippet": "The Federal Communications Commission has given its approval for a satellite that will test the ability to reflect sunlight into nighttime regions, a project sharply criticized by astronomers and envi...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Earth observation satellites pass telecom in European space industry sales",
-      "link": "https://spacenews.com/earth-observation-satellites-pass-telecom-in-european-space-industry-sales/",
-      "pubDate": "2026-07-10T18:12:24Z",
-      "snippet": "MILAN &#8211; European space industry sales rebounded in 2025 after a contraction in 2024, Eurospace reported in its latest Facts and Figures report, presented July 7. The growth is driven [&#8230;]\nT...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Zelenskyy taps European allies to build Freya, a cheaper Patriot-alternative to Russia\u2019s ballistic missiles",
       "link": "https://www.defensenews.com/industry/techwatch/2026/07/10/zelenskyy-taps-european-allies-to-build-freya-a-cheaper-patriot-alternative-to-russias-ballistic-missiles/",
       "pubDate": "2026-07-10T17:33:27Z",
@@ -298,15 +343,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "China unveils members of state-backed commercial space consortium",
-      "link": "https://spacenews.com/china-unveils-members-of-state-backed-commercial-space-consortium/",
-      "pubDate": "2026-07-10T17:07:56Z",
-      "snippet": "HELSINKI \u2014 A Chinese government body has published a national commercial space consortium membership list, offering a rare indication of which companies the state considers established players. The li...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "US Marines successfully test-fire new medium-range air defense system",
@@ -322,33 +358,6 @@
       "link": "https://www.defensenews.com/global/europe/2026/07/10/rheinmetall-mbda-to-develop-laser-weapon-for-german-navy/",
       "pubDate": "2026-07-10T10:59:02Z",
       "snippet": "Rheinmetall and MBDA aim to field an operational laser weapon for the German Navy in 2029.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "\u2018Testing is now underway\u2019: Zelenskyy confirms progress on major US defense deals",
-      "link": "https://www.defensenews.com/global/europe/2026/07/10/testing-is-now-underway-zelenskyy-confirms-progress-on-major-us-defense-deals/",
-      "pubDate": "2026-07-10T00:54:47Z",
-      "snippet": "On the heels of a Patriot license pledge, Ukrainian President Volodymyr Zelensky confirmed progress on billion-dollar defense tech deals with the U.S.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "UK eyes $50 billion in pooled NATO funds for new long-range strike initiative",
-      "link": "https://www.defensenews.com/global/europe/2026/07/09/uk-eyes-50-billion-in-pooled-nato-funds-for-new-long-range-strike-initiative/",
-      "pubDate": "2026-07-09T14:33:09Z",
-      "snippet": "Details were scant about a project that may amount to another European weapons-coordination umbrella rather than new technology development.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Germany to buy US Tomahawks in shift toward own long-range capability",
-      "link": "https://www.defensenews.com/global/europe/2026/07/09/germany-to-buy-us-tomahawks-in-shift-toward-own-long-range-capability/",
-      "pubDate": "2026-07-09T13:36:46Z",
-      "snippet": "Germany will purchase Tomahawk cruise missiles from the United States and station them on German soil.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
