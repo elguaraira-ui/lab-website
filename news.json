@@ -1,7 +1,106 @@
 {
-  "updated": "2026-07-16T12:12:03.244344Z",
+  "updated": "2026-07-17T12:01:00.734053Z",
   "count": 58,
   "items": [
+    {
+      "title": "Serbia signs the Artemis Accords",
+      "link": "https://spacenews.com/serbia-signs-the-artemis-accords/",
+      "pubDate": "2026-07-17T10:15:48Z",
+      "snippet": "Serbia is the latest nation to sign the Artemis Accords, joining the U.S.-led effort more than two years after signing on to China\u2019s lunar base project.\nThe post Serbia signs the Artemis Accords appea...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Scientists built a camera that can track invisible particles in 3D",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
+      "pubDate": "2026-07-17T06:04:57Z",
+      "snippet": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, a...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "SpaceX aborts Starship Flight 13 launch attempt",
+      "link": "https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/",
+      "pubDate": "2026-07-17T00:40:05Z",
+      "snippet": "SpaceX aborted the launch of its latest Starship test flight July 16 when some of the vehicle\u2019s engines failed to ignite.\nThe post SpaceX aborts Starship Flight 13 launch attempt appeared first on Spa...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "2 defense tech companies sue US Navy after losing out on MUSV program",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/16/2-defense-tech-companies-sue-us-navy-after-losing-out-on-musv-program/",
+      "pubDate": "2026-07-16T22:10:12Z",
+      "snippet": "Two defense tech companies sued the U.S. government, alleging they were unfairly excluded from the Navy's Medium Unmanned Surface Vessel program.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "SpaceX launches 21 satellites for military data network",
+      "link": "https://spacenews.com/spacex-launches-21-satellites-for-military-data-network/",
+      "pubDate": "2026-07-16T21:00:10Z",
+      "snippet": "With the launch of 21 York Space Systems satellites, the Space Development Agency has now placed half of its planned Tranche 1 Transport Layer constellation in orbit\nThe post SpaceX launches 21 satell...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Nature study identifies a new way to spot nuclear weapons in orbit",
+      "link": "https://spacenews.com/nature-study-identifies-a-new-way-to-spot-nuclear-weapons-in-orbit/",
+      "pubDate": "2026-07-16T20:36:12Z",
+      "snippet": "NEW YORK \u2014 A study published last week in Nature Astronomy has proposed a new satellite design and technique to detect thermonuclear warheads in space. Funded in part by the [&#8230;]\nThe post Nature ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Defense Innovation Unit seeks commercial path to deliver electrical power from orbit",
+      "link": "https://spacenews.com/defense-innovation-unit-seeks-commercial-path-to-deliver-electrical-power-from-orbit/",
+      "pubDate": "2026-07-16T15:29:45Z",
+      "snippet": "DIU solicitation aims to move long-studied technology toward military use by fiscal 2030\nThe post Defense Innovation Unit seeks commercial path to deliver electrical power from orbit appeared first on...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Building the infrastructure for a shifting space economy with Massi Ladovaz",
+      "link": "https://spacenews.com/building-the-infrastructure-for-a-shifting-space-economy-with-massi-ladovaz/",
+      "pubDate": "2026-07-16T15:24:00Z",
+      "snippet": "In this episode, David Ariosto speaks with SpinLaunch CEO Massi Ladovaz. They discuss what attracted Ladovaz to reimagining how to launch spacecraft, the changing needs and challenges of building cons...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Trump\u2019s pick to lead Space Force defends plan to more than double budget",
+      "link": "https://spacenews.com/trumps-pick-to-lead-space-force-defends-plan-to-more-than-double-budget/",
+      "pubDate": "2026-07-16T15:03:16Z",
+      "snippet": "Lt. Gen. Douglas Schiess, to be the next chief of space operations of the U.S. Space Force, testified July 16 before the Senate Armed Services Committee in a confirmation hearing\nThe post Trump&#8217;...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Saab to supply sensors and combat systems for new German warships after F126 scrapped",
+      "link": "https://www.defensenews.com/global/europe/2026/07/16/saab-to-supply-sensors-and-combat-systems-for-new-german-warships-after-f126-scrapped/",
+      "pubDate": "2026-07-16T14:45:26Z",
+      "snippet": "Swedish defense firm Saab has secured an 8.7 billion kronor ($900 million) contract to supply combat systems and sensors for the German Navy\u2019s MEKO ships.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Franco-German defense cooperation under strain as Macron, Merz meet",
+      "link": "https://www.defensenews.com/global/europe/2026/07/16/franco-german-defense-cooperation-under-strain-as-macron-merz-meet/",
+      "pubDate": "2026-07-16T13:47:38Z",
+      "snippet": "The meetings come weeks after industrial rivalries forced Paris and Berlin to scrap the landmark Future Combat Air System (FCAS) fighter jet program.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Office of Space Commerce makes its case for mission authorization",
       "link": "https://spacenews.com/office-of-space-commerce-makes-its-case-for-mission-authorization/",
@@ -183,24 +282,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Antaris\u2122 Establishes Aeonyx\u2122 to Advance All-Domain Mission Virtualization for Defense",
-      "link": "https://spacenews.com/antaris-establishes-aeonyx-to-advance-all-domain-mission-virtualization-for-defense/",
-      "pubDate": "2026-07-14T14:56:28Z",
-      "snippet": "Antaris\u2122 today announced a strategic reorganization establishing Aeonyx\u2122, a mission virtualization company focused on helping defense organizations evaluate architectures, validate operational concept...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "U.K. government preparing to release new space strategy",
-      "link": "https://spacenews.com/u-k-government-preparing-to-release-new-space-strategy/",
-      "pubDate": "2026-07-14T12:07:19Z",
-      "snippet": "The British government is preparing to release a new space strategy that will provide a \u201cwhole-of-government\u201d approach for space in the country.\nThe post U.K. government preparing to release new space...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Ukraine agrees on plan to acquire 16 Rafale jets, France\u2019s Macron says",
       "link": "https://www.defensenews.com/global/europe/2026/07/14/ukraine-agrees-on-plan-to-acquire-16-rafale-jets-frances-macron-says/",
       "pubDate": "2026-07-14T08:35:31Z",
@@ -219,33 +300,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Flexell Space raises $20 Million in Series A round",
-      "link": "https://spacenews.com/flexell-space-raises-20-million-in-series-a-round/",
-      "pubDate": "2026-07-14T00:00:00Z",
-      "snippet": "UIWANG, South Korea, July 14 \u2014 FLEXELL SPACE, a developer of next-generation space solar solutions, announced that it has completed a $20 million Series A funding round. Completed approximately two [&...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Defense spending lifts Europe\u2019s space economy",
-      "link": "https://spacenews.com/defense-spending-lifts-europes-space-economy/",
-      "pubDate": "2026-07-13T22:18:50Z",
-      "snippet": "European government space spending jumped 12% to about $15.4 billion in 2025, according to a July 13 European Space Agency report, bucking a 3% global decline on the back of rising national defense bu...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-tracking network",
-      "link": "https://spacenews.com/l3harris-sierra-space-to-build-36-satellites-to-expand-u-s-missile-tracking-network/",
-      "pubDate": "2026-07-13T21:08:02Z",
-      "snippet": "The Space Development Agency awarded the companies a combined $1.75 billion for next batch of missile-tracking satellites\nThe post L3Harris, Sierra Space to build 36 satellites to expand U.S. missile-...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Lawmakers demand Pentagon release findings from probe of Iran school strike",
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/13/lawmakers-demand-pentagon-release-findings-from-probe-of-iran-school-strike/",
       "pubDate": "2026-07-13T20:35:10Z",
@@ -253,15 +307,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Poland to host new ESA center as government boosts investments in space",
-      "link": "https://spacenews.com/poland-to-host-new-esa-center-as-government-boosts-investments-in-space/",
-      "pubDate": "2026-07-13T19:12:00Z",
-      "snippet": "WARSAW, Poland \u2014 Poland will host the first European Space Agency (ESA) center located in an eastern flank member state, one that will be focused on civil security and resilience. [&#8230;]\nThe post P...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Sea drones strike Iranian port in combat first for US",
@@ -280,15 +325,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Accel and Prosus backed QOSMIC raises $3.33 Million to Build Optical Ground Stations for the Orbital Data Economy",
-      "link": "https://spacenews.com/accel-and-prosus-backed-qosmic-raises-3-33-million-to-build-optical-ground-stations-for-the-orbital-data-economy/",
-      "pubDate": "2026-07-13T15:10:08Z",
-      "snippet": "BENGALURU, India / July 15, 2026 &#8212; QOSMIC has raised $3.33 million in seed funding co-led by Accel and Prosus, with participation from South Park Commons, ARTPARK, and angel investor [&#8230;]\nT...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Helsing raises $1.8 billion in Europe\u2019s biggest defense-startup round",
@@ -334,33 +370,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Zelenskyy taps European allies to build Freya, a cheaper Patriot-alternative to Russia\u2019s ballistic missiles",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/10/zelenskyy-taps-european-allies-to-build-freya-a-cheaper-patriot-alternative-to-russias-ballistic-missiles/",
-      "pubDate": "2026-07-10T17:33:27Z",
-      "snippet": "Ukraine will hold its first coalition meeting on a homegrown ballistic missile defense system in France \u201cin the coming days.\u201d",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Marines successfully test-fire new medium-range air defense system",
-      "link": "https://www.defensenews.com/news/your-military/2026/07/10/us-marines-successfully-test-fire-new-medium-range-air-defense-system/",
-      "pubDate": "2026-07-10T15:19:17Z",
-      "snippet": "U.S. Marines on Guam successfully fired the service's new Medium-Range Intercept Capability system during Exercise Valiant Shield.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Rheinmetall, MBDA to develop laser weapon for German Navy",
-      "link": "https://www.defensenews.com/global/europe/2026/07/10/rheinmetall-mbda-to-develop-laser-weapon-for-german-navy/",
-      "pubDate": "2026-07-10T10:59:02Z",
-      "snippet": "Rheinmetall and MBDA aim to field an operational laser weapon for the German Navy in 2029.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Scientists finally solved a 150-year-old gallium mystery",
@@ -511,15 +520,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/06/260601025338.htm",
       "pubDate": "2026-06-01T11:48:14Z",
       "snippet": "NASA\u2019s futuristic X-59 jet is about to face its biggest challenge yet: breaking the sound barrier for the first time. After a successful series of test flights that pushed the aircraft to near-superso...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "This strange crystal acts like metal and glass at the same time",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260601025322.htm",
-      "pubDate": "2026-06-01T06:53:22Z",
-      "snippet": "A remarkable crystal called molybdenum oxychloride could help make futuristic technologies like smart contact lenses and ultrathin AR glasses a reality. Scientists have created the first detailed expe...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
