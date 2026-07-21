@@ -1,7 +1,160 @@
 {
-  "updated": "2026-07-20T12:58:57.186337Z",
-  "count": 56,
+  "updated": "2026-07-21T12:17:06.414678Z",
+  "count": 59,
   "items": [
+    {
+      "title": "UK and Florida commit $400,000 to joint space projects",
+      "link": "https://spacenews.com/uk-and-florida-commit-400000-to-joint-space-projects/",
+      "pubDate": "2026-07-21T12:00:00Z",
+      "snippet": "The British government and Florida\u2019s space-focused economic development agency have each committed $200,000 to support joint research, innovation and commercialization projects.\nThe post UK and Florid...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "German component supplier deltaVision raises 10.2 million euros",
+      "link": "https://spacenews.com/german-component-supplier-deltavision-raises-10-2-million-euros/",
+      "pubDate": "2026-07-21T11:57:21Z",
+      "snippet": "German spacecraft component developer deltaVision has raised 10.2 million euros ($11.6 million) to expand production of valves and related equipment, with a focus on enabling in-space refueling.\nThe p...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Marine Corps turns to AI-powered Bullfrog as drone threats expand",
+      "link": "https://www.defensenews.com/news/your-military/2026/07/21/us-marine-corps-turns-to-ai-powered-bullfrog-as-drone-threats-expand/",
+      "pubDate": "2026-07-21T11:30:00Z",
+      "snippet": "Allen Control Systems announced Monday that the Marine Corps has chosen the Bullfrog autonomous weapon system to integrate into its airborne defenses.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Agile Space Industries Appoints new CTO and Board member.",
+      "link": "https://spacenews.com/agile-space-industries-appoints-new-cto-and-board-member/",
+      "pubDate": "2026-07-21T11:00:00Z",
+      "snippet": "Durango, Co \u2013 July 21, 2026 &#8211; Agile Space Industries today announced the appointment of Jake Mills as Chief Technology Officer (CTO) and Mark Pasquale as an independent member of [&#8230;]\nThe p...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "X-Bow out to tackle cost quandary with sub-$100,000 drone interceptor",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/21/x-bow-out-to-tackle-cost-quandary-with-sub-100000-drone-interceptor/",
+      "pubDate": "2026-07-21T10:56:33Z",
+      "snippet": "X-Bow Systems is launching what it hopes will be a remedy to the ongoing conundrum of combating cheap drones with multimillion dollar interceptors.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "KBR organizes defense technology business to pursue Golden Dome work",
+      "link": "https://spacenews.com/kbr-organizes-defense-technology-business-to-pursue-golden-dome-work/",
+      "pubDate": "2026-07-21T10:00:00Z",
+      "snippet": "Company points to digital engineering, space tracking and missile-defense experience \nThe post KBR organizes defense technology business to pursue Golden Dome work appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "From depot to detonation: the case for a unified logistics picture",
+      "link": "https://www.defensenews.com/opinion/2026/07/21/from-depot-to-detonation-the-case-for-a-unified-logistics-picture/",
+      "pubDate": "2026-07-21T08:47:26Z",
+      "snippet": "\"We have the technology for that comprehensive, near real-time common operating picture (COP), we just need to link it,\" writes LMI's Robert Yon.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "IHI explores Kuva hyperspectral satellites for Japan\u2019s multi-sensor constellation",
+      "link": "https://spacenews.com/ihi-explores-kuva-hyperspectral-satellites-for-japans-multi-sensor-constellation/",
+      "pubDate": "2026-07-21T07:00:00Z",
+      "snippet": "Japan\u2019s IHI is considering adding next-generation hyperspectral satellites from Finnish startup Kuva Space to its planned 100-strong, multi-sensor sovereign Earth observation constellation.\nThe post I...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Italian startup ORiS raises funding for laser power-beaming technology",
+      "link": "https://spacenews.com/italian-startup-oris-raises-funding-for-laser-power-beaming-technology/",
+      "pubDate": "2026-07-21T04:01:41Z",
+      "snippet": "Italian startup ORiS has raised 5 million euros ($5.7 million) to help it develop wireless power-beaming technology for satellites using lasers.\nThe post Italian startup ORiS raises funding for laser ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "New executive order tightens defense supply chain waiver rules",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/20/new-executive-order-tightens-defense-supply-chain-waiver-rules/",
+      "pubDate": "2026-07-20T20:30:11Z",
+      "snippet": "A new executive order aims to make it harder for U.S. defense contractors to buy critical minerals and other materials from prohibited foreign suppliers.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Air Force begins piloted flights, autonomy tests for modified F-16s",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/20/air-force-begins-piloted-flights-autonomy-tests-for-modified-f-16s/",
+      "pubDate": "2026-07-20T17:08:42Z",
+      "snippet": "Piloted flights and autonomy tests began recently for modified F-16s that allows artificial intelligence agents to fly the aircraft.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Doodle Labs eyes US, European production sites as demand soars for jam-resistant drones",
+      "link": "https://www.defensenews.com/industry/2026/07/20/doodle-labs-eyes-us-european-production-sites-as-demand-soars-for-jam-resistant-drones/",
+      "pubDate": "2026-07-20T16:00:52Z",
+      "snippet": "Doodle Labs hopes to turn its success in equipping jam-hardened drones in Ukraine into additional production sites in Europe and he United States.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon identifies American soldiers killed in Iranian attack in Jordan",
+      "link": "https://www.defensenews.com/flashpoints/middle-east/2026/07/20/pentagon-identifies-american-soliders-killed-in-iranian-attack-in-jordan/",
+      "pubDate": "2026-07-20T15:47:49Z",
+      "snippet": "1st Lt. Tyler James Feehan, 25, and Pvt. Isabella Gonzales, 19, were killed in action in an Iranian ballistic missile and drone attack in Jordan.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Lockheed Martin\u2019s Morfius X-Rotor built to fry 50 enemy drones in one flight",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/20/lockheed-martins-morfius-x-rotor-built-to-fry-50-enemy-drones-in-one-flight/",
+      "pubDate": "2026-07-20T15:04:49Z",
+      "snippet": "Lockheed Martin is rolling out the Morfius X-Rotor, a recoverable counter-drone system the company says can kill 50 enemy drones in one flight.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Lockheed Martin announces cheaper Patriot interceptor missile",
+      "link": "https://www.defensenews.com/news/your-military/2026/07/20/lockheed-martin-announces-cheaper-patriot-interceptor-missile/",
+      "pubDate": "2026-07-20T14:44:54Z",
+      "snippet": "Lockheed Martin introduced a cheaper Patriot interceptor as the U.S. and partner nations grapple with the exorbitant costs of shooting down cheap drones.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Israel\u2019s IAI unveils \u2018Hypnosis\u2019 system for confusing enemy drone swarms",
+      "link": "https://www.defensenews.com/industry/2026/07/20/israels-iai-unveils-hypnosis-system-for-confusing-enemy-drone-swarms/",
+      "pubDate": "2026-07-20T13:26:51Z",
+      "snippet": "The system, called Hypnosis, consists of an array of mobile \u201cstations\u201d around a defended area that send out jamming signals against drone swarms.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pipelines to payloads: risk management lessons for the space economy",
+      "link": "https://spacenews.com/pipelines-to-payloads-risk-management-lessons-for-the-space-economy/",
+      "pubDate": "2026-07-20T13:00:00Z",
+      "snippet": "The energy sector has spent decades learning how to manage complex disputes that touch on sovereign power, geopolitics, regulation and private capital. Those same dynamics are at play in the [&#8230;]...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "As fighter pilots prepare to command drone wingmen, BAE bets on new helmet tech",
       "link": "https://www.defensenews.com/news/your-military/2026/07/20/as-fighter-pilots-prepare-to-command-drone-wingmen-bae-bets-on-new-helmet-tech/",
@@ -192,15 +345,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Trump\u2019s pick to lead Space Force defends plan to more than double budget",
-      "link": "https://spacenews.com/trumps-pick-to-lead-space-force-defends-plan-to-more-than-double-budget/",
-      "pubDate": "2026-07-16T15:03:16Z",
-      "snippet": "Lt. Gen. Douglas Schiess, to be the next chief of space operations of the U.S. Space Force, testified July 16 before the Senate Armed Services Committee in a confirmation hearing\nThe post Trump&#8217;...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Saab to supply sensors and combat systems for new German warships after F126 scrapped",
       "link": "https://www.defensenews.com/global/europe/2026/07/16/saab-to-supply-sensors-and-combat-systems-for-new-german-warships-after-f126-scrapped/",
       "pubDate": "2026-07-16T14:45:26Z",
@@ -214,123 +358,6 @@
       "link": "https://www.defensenews.com/global/europe/2026/07/16/franco-german-defense-cooperation-under-strain-as-macron-merz-meet/",
       "pubDate": "2026-07-16T13:47:38Z",
       "snippet": "The meetings come weeks after industrial rivalries forced Paris and Berlin to scrap the landmark Future Combat Air System (FCAS) fighter jet program.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Office of Space Commerce makes its case for mission authorization",
-      "link": "https://spacenews.com/office-of-space-commerce-makes-its-case-for-mission-authorization/",
-      "pubDate": "2026-07-16T12:06:00Z",
-      "snippet": "The Office of Space Commerce defended its proposal for a mission authorization scheme for novel space activities, arguing it would provide certainty for companies while limiting regulatory burdens.\nTh...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Bluestaq Launches BLUESTAQ / ARQ Defense-Grade Data Infrastructure Now Available for Commercial, Government, and Enterprise Organizations",
-      "link": "https://spacenews.com/bluestaq-launches-bluestaq-arq-defense-grade-data-infrastructure-now-available-for-commercial-government-and-enterprise-organizations/",
-      "pubDate": "2026-07-16T12:00:00Z",
-      "snippet": "COLORADO SPRINGS, CO, July 16, 2026 &#8211; Bluestaq today announced the launch of BLUESTAQ / ARQ, the company&#8217;s commercial data infrastructure platform.&#160; / ARQ is built for organizations i...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Swissto12 raises $70 million to accelerate small GEO satellite production",
-      "link": "https://spacenews.com/swissto12-raises-70-million-to-accelerate-small-geo-satellite-production/",
-      "pubDate": "2026-07-16T07:00:00Z",
-      "snippet": "Swissto12 said it has raised $70 million in fresh funding to keep up with growing demand for its small geostationary satellite manufacturing business.\nThe post Swissto12 raises $70 million to accelera...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "US Air Force turns to cheaper cruise missiles it can buy by the thousands",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/15/us-air-force-turns-to-cheaper-cruise-missiles-it-can-buy-by-the-thousand/",
-      "pubDate": "2026-07-15T19:48:09Z",
-      "snippet": "The U.S. Air Force is turning to cruise missiles it can buy by the thousand, cheap enough to shoot many for less than it once cost to shoot one.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Space Force awards Slingshot $69 million for AI-enabled training technology",
-      "link": "https://spacenews.com/space-force-awards-slingshot-69-million-for-ai-enabled-training-technology/",
-      "pubDate": "2026-07-15T19:04:17Z",
-      "snippet": "The 4\u00bd-year award will fund simulated satellite-defense scenarios \nThe post Space Force awards Slingshot $69 million for AI-enabled training technology appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Saltzman\u2019s farewell warning: Prepare for war in space to preserve peace",
-      "link": "https://spacenews.com/saltzmans-farewell-warning-prepare-for-war-in-space-to-preserve-peace/",
-      "pubDate": "2026-07-15T18:14:20Z",
-      "snippet": "In his final public speech as Space Force chief, Gen. Chance Saltzman called for combat credibility, stronger alliances and realism about the limits of procurement reform\nThe post Saltzman\u2019s farewell ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Commercial Space Federation Launches State and Local Council to Align States on National Space Capacity and Strengthen the U.S. Industrial Base",
-      "link": "https://spacenews.com/commercial-space-federation-launches-state-and-local-council-to-align-states-on-national-space-capacity-and-strengthen-the-u-s-industrial-base/",
-      "pubDate": "2026-07-15T18:00:00Z",
-      "snippet": "Washington, D.C. \u2014 July 15, 2026 \u2014 The Commercial Space Federation (CSF), the leading trade association representing the commercial space industry, today announced the launch of its State and Local [&...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "MBDA appoints Airbus executive Jean-Brice Dumont as new CEO",
-      "link": "https://www.defensenews.com/global/europe/2026/07/15/mbda-appoints-airbus-executive-jean-brice-dumont-as-new-ceo/",
-      "pubDate": "2026-07-15T16:38:38Z",
-      "snippet": "MBDA, Europe\u2019s largest missile maker, appointed Airbus Defence and Space executive Jean-Brice Dumont as its new chief executive officer effective Nov. 1.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "First the coast guard, then an ICBM: China tests new, long-term ways to hold off rivals in Asia",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/07/15/first-the-coast-guard-then-an-icbm-china-tests-new-long-term-ways-to-hold-off-rivals-in-asia/",
-      "pubDate": "2026-07-15T15:25:02Z",
-      "snippet": "Experts say Beijing used both methods to try out new, attention-grabbing and long-term ways to deter others from challenging its territorial claims.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pressure mounts on US defense executives to boost weapons production",
-      "link": "https://www.defensenews.com/news/your-military/2026/07/15/pressure-mounts-on-defense-executives-to-boost-weapons-production/",
-      "pubDate": "2026-07-15T14:33:15Z",
-      "snippet": "Defense executives face pressure to boost production as prolonged conflicts have consumed large quantities of missiles, interceptors and other weapons.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Israeli firm wants to convert commercial ships into floating drone bases",
-      "link": "https://www.defensenews.com/global/mideast-africa/2026/07/15/israeli-firm-wants-to-convert-commercial-ships-into-floating-drone-bases/",
-      "pubDate": "2026-07-15T10:27:52Z",
-      "snippet": "Elbit Systems detailed a new maritime concept centered on its Hermes 650 Spark unmanned aircraft, envisioning the conversion of commercial surface ships.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "European firms plan exo-atmospheric interceptor for 2027 test",
-      "link": "https://www.defensenews.com/global/europe/2026/07/15/european-firms-plan-exo-atmospheric-interceptor-for-2027-test/",
-      "pubDate": "2026-07-15T09:21:01Z",
-      "snippet": "Bliksem EXO is meant to defeat ballistic threats including Russia\u2019s intermediate-range Oreshnik missile with separating and maneuvering re-entry vehicles.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "The US Navy is eyeing next-gen carrier-based drones. Here\u2019s what they might do.",
-      "link": "https://www.defensenews.com/news/your-navy/2026/07/14/the-us-navy-is-eyeing-next-gen-carrier-based-drones-heres-what-they-might-do/",
-      "pubDate": "2026-07-14T23:56:55Z",
-      "snippet": "The Navy wants its next-gen carrier-based drones to handle a wide range of missions, from strikes and anti-submarine warfare to aerial refueling and more.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
