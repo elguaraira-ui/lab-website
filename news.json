@@ -1,12 +1,138 @@
 {
-  "updated": "2026-07-21T12:17:06.414678Z",
-  "count": 59,
+  "updated": "2026-07-22T12:19:18.678120Z",
+  "count": 58,
   "items": [
+    {
+      "title": "Relativity Space to expand Terran R production in Florida",
+      "link": "https://spacenews.com/relativity-space-to-expand-terran-r-production-in-florida/",
+      "pubDate": "2026-07-22T11:58:49Z",
+      "snippet": "Relativity Space struck a deal with Space Florida to build manufacturing and test facilities for its Terran R rocket on Florida\u2019s Space Coast.\nThe post Relativity Space to expand Terran R production i...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Artemis 2 astronaut advocates for equatorial lunar landings",
+      "link": "https://spacenews.com/artemis-2-astronaut-advocates-for-equatorial-lunar-landings/",
+      "pubDate": "2026-07-22T10:01:12Z",
+      "snippet": "The pilot of Artemis 2 says NASA\u2019s return to the moon should start with human landings in less challenging equatorial regions rather than go directly to the south pole.\nThe post Artemis 2 astronaut ad...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Gravity-1 sea launch off Shanghai puts 9 satellites into orbit",
+      "link": "https://spacenews.com/gravity-1-sea-launch-off-shanghai-puts-9-satellites-into-orbit/",
+      "pubDate": "2026-07-22T09:32:11Z",
+      "snippet": "HELSINKI \u2014 Commercial launch firm Orienspace launched its third Gravity-1 solid rocket late Tuesday, sending nine satellites into orbit from waters off Shanghai. The 30-meter-long Gravity-1 solid rock...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Cost of Iran war rises to $37.5 billion, Pentagon requests $67.1 billion more",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/21/cost-of-iran-war-rises-to-375-billion-pentagon-requests-671-billion-more/",
+      "pubDate": "2026-07-21T23:13:23Z",
+      "snippet": "The Iran war has cost the DoD $37.5 billion to date, Hegseth told senators Tuesday, as he requested $67.1 billion more in emergency funding.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Zenno Astronautics to relocate to the United States",
+      "link": "https://spacenews.com/zenno-astronautics-to-relocate-to-the-united-states/",
+      "pubDate": "2026-07-21T22:11:49Z",
+      "snippet": "SAN FRANCISCO \u2013 Zenno Astronautics, a New Zealand startup focused on applying superconducting magnets for spacecraft attitude control and acceleration, plans to redomicile to the United States. \u201cIt is...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "SpaceX launches Northrop mission to extend the life of aging satellites",
+      "link": "https://spacenews.com/spacex-launches-northrop-mission-to-extend-the-life-of-aging-satellites/",
+      "pubDate": "2026-07-21T21:26:50Z",
+      "snippet": "DARPA-backed vehicle will install propulsion pods on three commercial satellites in geostationary orbit\nThe post SpaceX launches Northrop mission to extend the life of aging satellites appeared first ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Northrop adds to charges on Vulcan solid rocket motor program",
+      "link": "https://spacenews.com/northrop-adds-to-charges-on-vulcan-solid-rocket-motor-program/",
+      "pubDate": "2026-07-21T19:40:51Z",
+      "snippet": "Northrop Grumman took another charge for the solid rocket boosters it provides for the Vulcan Centaur and suggested updated motors might not be ready until the end of the year.\nThe post Northrop adds ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Commercial Space Federation (CSF) Welcomes\u00a0Three New Associate Members",
+      "link": "https://spacenews.com/commercial-space-federation-csf-welcomes-three-new-associate-members/",
+      "pubDate": "2026-07-21T19:00:00Z",
+      "snippet": "Washington, D.C.\u2014 July 21, 2026 \u2014The Commercial Space Federation (CSF) is pleased to welcome Overview Energy,&#160; Loft Orbital, and Star Catcher as new associate members \u2014 companies advancing space-...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "New British prime minister gains early defense win with Canada fighter jet tie-up",
+      "link": "https://www.defensenews.com/global/europe/2026/07/21/new-british-prime-minister-gains-early-defense-win-with-canada-fighter-jet-tie-up/",
+      "pubDate": "2026-07-21T16:45:09Z",
+      "snippet": "Canada has joined the GCAP fighter program as an observer, marking the first expansion beyond the founding members Britain, Italy and Japan.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Hanwha Philly Shipyard awarded $2 billion to build 2 missile-tracking vessels",
+      "link": "https://www.defensenews.com/pentagon/2026/07/21/hanwha-philly-shipyard-awarded-2-billion-to-build-2-missile-tracking-vessels/",
+      "pubDate": "2026-07-21T15:14:41Z",
+      "snippet": "The Hanwha Philly Shipyard was awarded $2 billion to build the missile-tracking vessels set to replace the aging Pacific Tracker and Pacific Collector.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Germany to study French cooperation offer on SAMP/T air-defense system",
+      "link": "https://www.defensenews.com/global/europe/2026/07/21/germany-to-study-french-cooperation-offer-on-sampt-air-defense-system/",
+      "pubDate": "2026-07-21T13:51:34Z",
+      "snippet": "German government leaders will study an offer by French President Emmanuel Macron to cooperate on the French-Italian SAMP/T air defense system.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "How startups are reshaping the Pentagon\u2019s drone industry",
+      "link": "https://www.defensenews.com/news/your-military/2026/07/21/how-startups-are-reshaping-the-pentagons-drone-industry/",
+      "pubDate": "2026-07-21T13:41:59Z",
+      "snippet": "Experts say the Drone Dominance competition reflects a broader shift in how the Pentagon acquires military technology and cultivates defense startups.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon identifies soldier killed in controlled detonation of Iranian drone",
+      "link": "https://www.defensenews.com/news/your-military/2026/07/21/pentagon-identifies-soldier-killed-in-controlled-detonation-of-iranian-drone/",
+      "pubDate": "2026-07-21T13:13:51Z",
+      "snippet": "Sgt. Michael Emmanuel Swinton, 30, was killed Saturday during the controlled detonation of unexploded ordnance from a downed Iranian one-way attack drone.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Russia may use captured Ukrainian drones against Poland and Baltics, Warsaw warns",
+      "link": "https://www.defensenews.com/global/europe/2026/07/21/russia-may-use-captured-ukrainian-drones-against-poland-and-baltics-warsaw-warns/",
+      "pubDate": "2026-07-21T12:49:52Z",
+      "snippet": "Russia has captured a large number of Ukrainian drones and may be planning to use them against NATO or to stage a false flag attack, Polish officials said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "UK and Florida commit $400,000 to joint space projects",
       "link": "https://spacenews.com/uk-and-florida-commit-400000-to-joint-space-projects/",
       "pubDate": "2026-07-21T12:00:00Z",
-      "snippet": "The British government and Florida\u2019s space-focused economic development agency have each committed $200,000 to support joint research, innovation and commercialization projects.\nThe post UK and Florid...",
+      "snippet": "The British government and the Space Florida aerospace finance and development authority have each committed $200,000 to support joint research, innovation and commercialization projects.\nThe post UK ...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
@@ -30,7 +156,7 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Agile Space Industries Appoints new CTO and Board member.",
+      "title": "Agile Space Industries Appoints new CTO and Board member",
       "link": "https://spacenews.com/agile-space-industries-appoints-new-cto-and-board-member/",
       "pubDate": "2026-07-21T11:00:00Z",
       "snippet": "Durango, Co \u2013 July 21, 2026 &#8211; Agile Space Industries today announced the appointment of Jake Mills as Chief Technology Officer (CTO) and Mark Pasquale as an independent member of [&#8230;]\nThe p...",
@@ -57,7 +183,7 @@
       "color": "#1a6da8"
     },
     {
-      "title": "From depot to detonation: the case for a unified logistics picture",
+      "title": "From depot to detonation: The case for a unified logistics picture",
       "link": "https://www.defensenews.com/opinion/2026/07/21/from-depot-to-detonation-the-case-for-a-unified-logistics-picture/",
       "pubDate": "2026-07-21T08:47:26Z",
       "snippet": "\"We have the technology for that comprehensive, near real-time common operating picture (COP), we just need to link it,\" writes LMI's Robert Yon.",
@@ -165,15 +291,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "US Air Force seeking air defense missile system to protect air bases",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/20/us-air-force-seeking-air-defense-missile-system-to-protect-air-bases/",
-      "pubDate": "2026-07-20T11:30:00Z",
-      "snippet": "The U.S. Air Force has put out a request for a new air defense missile system to defend the service\u2019s installations against cruise missiles and drones.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "AI rocket engine startup LegendSpace raises $29.5 million angel round",
       "link": "https://spacenews.com/ai-rocket-engine-startup-legendspace-raises-29-5-million-angel-round/",
       "pubDate": "2026-07-20T11:18:13Z",
@@ -190,15 +307,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "2 US troops killed, 1 missing after Iranian missile, drone attack in Jordan",
-      "link": "https://www.defensenews.com/flashpoints/2026/07/18/2-us-troops-killed-1-missing-after-iranian-missile-drone-attack-in-jordan/",
-      "pubDate": "2026-07-18T18:00:58Z",
-      "snippet": "Two U.S. service members were killed in action on Friday in an Iranian ballistic missile and drone attack on U.S. and partner forces in Jordan.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Space Force triples launch contract ceiling amid rising demand",
@@ -237,51 +345,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "US Navy 2 years behind on hypersonic missile installation on Zumwalt destroyers",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/17/us-navy-2-years-behind-on-hypersonic-missile-installation-on-zumwalt-destroyers/",
-      "pubDate": "2026-07-17T19:45:15Z",
-      "snippet": "The U.S. Navy\u2019s expensive effort to install hypersonic missiles on three Zumwalt-class destroyers is two years behind schedule.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Canada to spend $1.4 billion on armored combat support vehicles built locally",
-      "link": "https://www.defensenews.com/global/the-americas/2026/07/17/canada-to-spend-14-billion-on-armored-combat-support-vehicles-built-locally/",
-      "pubDate": "2026-07-17T17:35:36Z",
-      "snippet": "Canada is significantly expanding its armored fleet with a new contract to acquire 190 combat support vehicles over the next four years.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "SpaceX\u2019s only problem is finding more space to work with",
-      "link": "https://spacenews.com/spacexs-only-problem-is-finding-more-space-to-work-with/",
-      "pubDate": "2026-07-17T13:00:00Z",
-      "snippet": "SpaceX\u2019s IPO marks the moment the space dream became a mainstream capital markets story. For decades, it has sold a vision of interplanetary civilization on behalf of the wider space [&#8230;]\nThe pos...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Wars shift focus from jets to weapons at giant Farnborough Airshow",
-      "link": "https://www.defensenews.com/global/europe/2026/07/17/wars-shift-focus-from-jets-to-weapons-at-giant-farnborough-airshow/",
-      "pubDate": "2026-07-17T12:20:33Z",
-      "snippet": "Spiraling security risks are expected to push defense to the forefront of Britain\u2019s Farnborough Airshow next week.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Serbia signs the Artemis Accords",
-      "link": "https://spacenews.com/serbia-signs-the-artemis-accords/",
-      "pubDate": "2026-07-17T10:15:48Z",
-      "snippet": "Serbia is the latest nation to sign the Artemis Accords, joining the U.S.-led effort more than two years after signing on to China\u2019s lunar base project.\nThe post Serbia signs the Artemis Accords appea...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Scientists built a camera that can track invisible particles in 3D",
       "link": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
       "pubDate": "2026-07-17T06:04:57Z",
@@ -289,78 +352,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "SpaceX aborts Starship Flight 13 launch attempt",
-      "link": "https://spacenews.com/spacex-aborts-starship-flight-13-launch-attempt/",
-      "pubDate": "2026-07-17T00:40:05Z",
-      "snippet": "SpaceX aborted the launch of its latest Starship test flight July 16 when some of the vehicle\u2019s engines failed to ignite.\nThe post SpaceX aborts Starship Flight 13 launch attempt appeared first on Spa...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "2 defense tech companies sue US Navy after losing out on MUSV program",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/16/2-defense-tech-companies-sue-us-navy-after-losing-out-on-musv-program/",
-      "pubDate": "2026-07-16T22:10:12Z",
-      "snippet": "Two defense tech companies sued the U.S. government, alleging they were unfairly excluded from the Navy's Medium Unmanned Surface Vessel program.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "SpaceX launches 21 satellites for military data network",
-      "link": "https://spacenews.com/spacex-launches-21-satellites-for-military-data-network/",
-      "pubDate": "2026-07-16T21:00:10Z",
-      "snippet": "With the launch of 21 York Space Systems satellites, the Space Development Agency has now placed half of its planned Tranche 1 Transport Layer constellation in orbit\nThe post SpaceX launches 21 satell...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Nature study identifies a new way to spot nuclear weapons in orbit",
-      "link": "https://spacenews.com/nature-study-identifies-a-new-way-to-spot-nuclear-weapons-in-orbit/",
-      "pubDate": "2026-07-16T20:36:12Z",
-      "snippet": "NEW YORK \u2014 A study published last week in Nature Astronomy has proposed a new satellite design and technique to detect thermonuclear warheads in space. Funded in part by the [&#8230;]\nThe post Nature ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Defense Innovation Unit seeks commercial path to deliver electrical power from orbit",
-      "link": "https://spacenews.com/defense-innovation-unit-seeks-commercial-path-to-deliver-electrical-power-from-orbit/",
-      "pubDate": "2026-07-16T15:29:45Z",
-      "snippet": "DIU solicitation aims to move long-studied technology toward military use by fiscal 2030\nThe post Defense Innovation Unit seeks commercial path to deliver electrical power from orbit appeared first on...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Building the infrastructure for a shifting space economy with Massi Ladovaz",
-      "link": "https://spacenews.com/building-the-infrastructure-for-a-shifting-space-economy-with-massi-ladovaz/",
-      "pubDate": "2026-07-16T15:24:00Z",
-      "snippet": "In this episode, David Ariosto speaks with SpinLaunch CEO Massi Ladovaz. They discuss what attracted Ladovaz to reimagining how to launch spacecraft, the changing needs and challenges of building cons...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Saab to supply sensors and combat systems for new German warships after F126 scrapped",
-      "link": "https://www.defensenews.com/global/europe/2026/07/16/saab-to-supply-sensors-and-combat-systems-for-new-german-warships-after-f126-scrapped/",
-      "pubDate": "2026-07-16T14:45:26Z",
-      "snippet": "Swedish defense firm Saab has secured an 8.7 billion kronor ($900 million) contract to supply combat systems and sensors for the German Navy\u2019s MEKO ships.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Franco-German defense cooperation under strain as Macron, Merz meet",
-      "link": "https://www.defensenews.com/global/europe/2026/07/16/franco-german-defense-cooperation-under-strain-as-macron-merz-meet/",
-      "pubDate": "2026-07-16T13:47:38Z",
-      "snippet": "The meetings come weeks after industrial rivalries forced Paris and Berlin to scrap the landmark Future Combat Air System (FCAS) fighter jet program.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Physicists recreate black hole energy extraction in the lab",
