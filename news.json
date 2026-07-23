@@ -1,7 +1,106 @@
 {
-  "updated": "2026-07-22T12:19:18.678120Z",
-  "count": 58,
+  "updated": "2026-07-23T12:17:10.438490Z",
+  "count": 60,
   "items": [
+    {
+      "title": "Peace through secure supply chains",
+      "link": "https://www.defensenews.com/opinion/2026/07/23/peace-through-secure-supply-chains/",
+      "pubDate": "2026-07-23T12:00:01Z",
+      "snippet": "America cannot dominate the modern battlefield if the Pentagon does not know where its critical materials and components come from, Peter Navarro writes.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Airbus space business takes advantage of growing demand for satellite systems",
+      "link": "https://spacenews.com/airbus-space-business-takes-advantage-of-growing-demand-for-satellite-systems/",
+      "pubDate": "2026-07-23T11:55:22Z",
+      "snippet": "Airbus executives say the turnaround in the company\u2019s space business came just in time to tap growing demand, particularly from Europe, for space capabilities as it pursues a joint venture.\nThe post A...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Australia whips together a hybrid air defense weapon",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/07/23/australia-whips-together-a-hybrid-air-defense-weapon/",
+      "pubDate": "2026-07-23T10:35:33Z",
+      "snippet": "Australia successfully tested a \u201cFrankenstein\u201d medium-range air defense system last month harnessing existing and new capabilities in a novel way.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "China\u2019s Shijian-31 satellite is sweeping GEO using a unique orbit",
+      "link": "https://spacenews.com/chinas-shijian-31-satellite-is-sweeping-geo-using-a-unique-orbit/",
+      "pubDate": "2026-07-22T21:13:08Z",
+      "snippet": "HELSINKI \u2014 A classified satellite launched by China in June is operating in a creative orbit, giving it a unique vantage point over the geostationary belt. Shijian-31 launched on a [&#8230;]\nThe post ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Navy moving forward on West Coast dock for aircraft carriers",
+      "link": "https://www.defensenews.com/news/your-military/2026/07/22/us-navy-moving-forward-on-west-coast-dock-for-aircraft-carriers/",
+      "pubDate": "2026-07-22T19:26:26Z",
+      "snippet": "The U.S. Navy is moving forward with plans to build a new dock for aircraft carriers on the West Coast.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "FCC approves sweeping space reforms while clearing more C-band for 5G",
+      "link": "https://spacenews.com/fcc-approves-sweeping-space-reforms-while-clearing-more-c-band-for-5g/",
+      "pubDate": "2026-07-22T18:31:36Z",
+      "snippet": "The FCC voted July 22 to push satellite operators out of more C-band spectrum for a 5G auction next year, while approving a licensing overhaul aimed at accelerating the commercial space economy.\nThe p...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Who is Mykhailo Drapatyi? \u2018The Flying BMP\u2019 who now leads Ukraine\u2019s military",
+      "link": "https://www.defensenews.com/global/europe/2026/07/22/who-is-mykhailo-drapatyi-the-flying-bmp-who-now-leads-ukraines-military/",
+      "pubDate": "2026-07-22T17:35:54Z",
+      "snippet": "Zelenskyy names reform-minded Drapatyi as new commander-in-chief, replacing Syrsyki to bend to the largest protests of the war over the firing of Fedorov.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Boeing\u2019s MQ-28 Ghost Bat makes Farnborough Airshow debut",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/22/boeings-mq-28-ghost-bat-makes-farnborough-airshow-debut/",
+      "pubDate": "2026-07-22T15:44:10Z",
+      "snippet": "Boeing's MQ-28 Ghost Bat recently became the first collaborative combat aircraft to participate in a multinational, joint operational exercise.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Vast establishes division for national security projects",
+      "link": "https://spacenews.com/vast-establishes-division-for-national-security-projects/",
+      "pubDate": "2026-07-22T14:03:37Z",
+      "snippet": "Commercial space station and spacecraft developer Vast has established a new division intended to support work in national security space.\nThe post Vast establishes division for national security proj...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "UK\u2019s BAE enters uncrewed fighter competition with \u2018Brontanax\u2019",
+      "link": "https://www.defensenews.com/global/europe/2026/07/22/uks-bae-enters-uncrewed-fighter-competition-with-brontanax/",
+      "pubDate": "2026-07-22T13:28:20Z",
+      "snippet": "BAE Systems revealed a new unmanned fighter jet on Wednesday, boosting Britain\u2019s entry into one of the defense industry\u2019s hottest markets.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "The strategic competition with China:\u00a0winning the multi-domain race",
+      "link": "https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/",
+      "pubDate": "2026-07-22T13:00:00Z",
+      "snippet": "History demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete. The introduction of repeating rifles transfo...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Relativity Space to expand Terran R production in Florida",
       "link": "https://spacenews.com/relativity-space-to-expand-terran-r-production-in-florida/",
@@ -246,33 +345,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Lockheed Martin\u2019s Morfius X-Rotor built to fry 50 enemy drones in one flight",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/20/lockheed-martins-morfius-x-rotor-built-to-fry-50-enemy-drones-in-one-flight/",
-      "pubDate": "2026-07-20T15:04:49Z",
-      "snippet": "Lockheed Martin is rolling out the Morfius X-Rotor, a recoverable counter-drone system the company says can kill 50 enemy drones in one flight.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Lockheed Martin announces cheaper Patriot interceptor missile",
-      "link": "https://www.defensenews.com/news/your-military/2026/07/20/lockheed-martin-announces-cheaper-patriot-interceptor-missile/",
-      "pubDate": "2026-07-20T14:44:54Z",
-      "snippet": "Lockheed Martin introduced a cheaper Patriot interceptor as the U.S. and partner nations grapple with the exorbitant costs of shooting down cheap drones.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Israel\u2019s IAI unveils \u2018Hypnosis\u2019 system for confusing enemy drone swarms",
-      "link": "https://www.defensenews.com/industry/2026/07/20/israels-iai-unveils-hypnosis-system-for-confusing-enemy-drone-swarms/",
-      "pubDate": "2026-07-20T13:26:51Z",
-      "snippet": "The system, called Hypnosis, consists of an array of mobile \u201cstations\u201d around a defended area that send out jamming signals against drone swarms.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Pipelines to payloads: risk management lessons for the space economy",
       "link": "https://spacenews.com/pipelines-to-payloads-risk-management-lessons-for-the-space-economy/",
       "pubDate": "2026-07-20T13:00:00Z",
@@ -282,64 +354,10 @@
       "color": "#1a6da8"
     },
     {
-      "title": "As fighter pilots prepare to command drone wingmen, BAE bets on new helmet tech",
-      "link": "https://www.defensenews.com/news/your-military/2026/07/20/as-fighter-pilots-prepare-to-command-drone-wingmen-bae-bets-on-new-helmet-tech/",
-      "pubDate": "2026-07-20T11:59:54Z",
-      "snippet": "BAE Systems unveiled new helmet display technology designed to enable fighter pilots to be one-person command centers.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "AI rocket engine startup LegendSpace raises $29.5 million angel round",
       "link": "https://spacenews.com/ai-rocket-engine-startup-legendspace-raises-29-5-million-angel-round/",
       "pubDate": "2026-07-20T11:18:13Z",
       "snippet": "HELSINKI \u2014 A six-month-old Chinese startup aiming to use artificial intelligence to compress rocket engine development cycles has raised $29.5 million in angel funding. LegendSpace, full name Linjie H...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Mauritius becomes 70th nation to sign the Artemis Accords",
-      "link": "https://spacenews.com/mauritius-becomes-70th-nation-to-sign-the-artemis-accords/",
-      "pubDate": "2026-07-18T18:03:11Z",
-      "snippet": "The island nation of Mauritius signed the Artemis Accords July 17, becoming the 70th nation to do so in less than six years.\nThe post Mauritius becomes 70th nation to sign the Artemis Accords appeared...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Space Force triples launch contract ceiling amid rising demand",
-      "link": "https://spacenews.com/space-force-triples-launch-contract-ceiling-amid-rising-demand/",
-      "pubDate": "2026-07-18T17:40:06Z",
-      "snippet": "The maximum value of the National Security Space Launch Phase 3 Lane 1 contract was raised from $5.6 billion to $17 billion\nThe post Space Force triples launch contract ceiling amid rising demand appe...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Pentagon awards $7.1 million to expand U.S. production of cover glass for satellites",
-      "link": "https://spacenews.com/pentagon-awards-7-1-million-to-expand-u-s-production-of-cover-glass-for-satellites/",
-      "pubDate": "2026-07-18T16:59:56Z",
-      "snippet": "Defense Production Act funding was awarded to Martin Materials Solutions, a small business that makes radiation-resistant cover glass used on spacecraft solar arrays and thermal-control systems\nThe po...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Skyroot Aerospace reaches orbit on first Vikram-1 launch",
-      "link": "https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/",
-      "pubDate": "2026-07-18T08:03:59Z",
-      "snippet": "Skyroot Aerospace\u2019s Vikram-1 rocket successfully lifted off on its inaugural flight July 18, becoming the first commercial Indian rocket to reach orbit.\nThe post Skyroot Aerospace reaches orbit on fir...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NASA terminates Draper lunar lander mission",
-      "link": "https://spacenews.com/nasa-terminates-draper-lunar-lander-mission/",
-      "pubDate": "2026-07-18T00:00:20Z",
-      "snippet": "NASA and Draper have terminated plans for a lunar lander mission after significant delays in development of the spacecraft.\nThe post NASA terminates Draper lunar lander mission appeared first on Space...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
