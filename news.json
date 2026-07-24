@@ -1,7 +1,106 @@
 {
-  "updated": "2026-07-23T12:17:10.438490Z",
+  "updated": "2026-07-24T12:10:06.319606Z",
   "count": 60,
   "items": [
+    {
+      "title": "Office of Space Commerce to move ahead on mission authorization",
+      "link": "https://spacenews.com/office-of-space-commerce-to-move-ahead-on-mission-authorization/",
+      "pubDate": "2026-07-24T12:04:34Z",
+      "snippet": "The Commerce Department is moving ahead with plans to implement a voluntary mission authorization system for novel space activities that are not regulated by other agencies.\nThe post Office of Space C...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites",
+      "link": "https://spacenews.com/lightning-strikes-long-march-3b-after-liftoff-kinetica-1-launches-5-satellites/",
+      "pubDate": "2026-07-24T10:32:53Z",
+      "snippet": "HELSINKI \u2014 China conducted a pair of launches Thursday, including a Long March 3B rocket which delivered its payload to orbit despite a lightning strike. The Long March 3B rocket [&#8230;]\nThe post Li...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "EU delays release of Copernicus imagery over Gulf of Oman",
+      "link": "https://spacenews.com/eu-delays-release-of-copernicus-imagery-over-gulf-of-oman/",
+      "pubDate": "2026-07-24T10:00:00Z",
+      "snippet": "JOHANNESBURG \u2014 The European Union has ordered a 24-hour delay in the release of some Sentinel-1 and Sentinel-2 imagery following a request from the United States based on concerns that [&#8230;]\nThe p...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Indonesia orders Leonardo light fighters, eyes naval helicopters",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/07/24/indonesia-orders-leonardo-light-fighters-eyes-naval-helicopters/",
+      "pubDate": "2026-07-24T09:35:20Z",
+      "snippet": "The Indonesian Air Force is slated to get Leonardo M-346F light fighters, further diversifying an eclectic aircraft fleet.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Air Force takes over troubled military GPS receiver program",
+      "link": "https://spacenews.com/air-force-takes-over-troubled-military-gps-receiver-program/",
+      "pubDate": "2026-07-24T09:00:00Z",
+      "snippet": "The Air Force Life Cycle Management Center will oversee development, integration and sustainment of equipment used to access the military\u2019s encrypted GPS signal\nThe post Air Force takes over troubled ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NASA programs feel effects of workforce reductions",
+      "link": "https://spacenews.com/nasa-programs-feel-effects-of-workforce-reductions/",
+      "pubDate": "2026-07-23T21:31:29Z",
+      "snippet": "More than two dozen major NASA projects say they have been affected by the loss of a fifth of NASA\u2019s civil servant workforce in the last year.\nThe post NASA programs feel effects of workforce reductio...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Poland commits $745 million to EU\u2019s IRIS\u00b2 constellation project",
+      "link": "https://spacenews.com/poland-commits-745-million-to-eus-iris%c2%b2-constellation-project/",
+      "pubDate": "2026-07-23T21:14:49Z",
+      "snippet": "WARSAW, Poland \u2014 The Polish government has agreed to invest around $745 million in the development of the planned IRIS\u00b2 multi-orbit satellite internet constellation with the European Union.&#160; The ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "\u2018Incredible work\u2019: Ukrainian F-16 downs Russian fighter jet for first time",
+      "link": "https://www.defensenews.com/global/europe/2026/07/23/incredible-work-ukrainian-f-16-downs-russian-fighter-jet-for-first-time/",
+      "pubDate": "2026-07-23T20:07:36Z",
+      "snippet": "The kill, confirmed by the top U.S. general, is the latest sign of Kyiv's growing air power \u2014 pulled off by one of the oldest fighters in the sky.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech",
+      "link": "https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/",
+      "pubDate": "2026-07-23T19:23:13Z",
+      "snippet": "SAN FRANCISCO \u2013 Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space [&#82...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Will Bruey on rethinking the role of pharmaceuticals in low Earth orbit",
+      "link": "https://spacenews.com/will-bruey-on-rethinking-the-role-of-pharmaceuticals-in-low-earth-orbit/",
+      "pubDate": "2026-07-23T15:13:33Z",
+      "snippet": "In this episode, David Ariosto speaks with Varda CEO Will Bruey at the Ascend conference. They discuss how Varda hopes to play a role bridging medicine and low Earth orbit [&#8230;]\nThe post Will Brue...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Greece to buy $4 billion air defense system from Israel",
+      "link": "https://www.defensenews.com/global/europe/2026/07/23/greece-to-buy-4-billion-air-defence-system-from-israel/",
+      "pubDate": "2026-07-23T13:41:41Z",
+      "snippet": "Greece has approved the purchase of a multi-layer air defense system worth up to \u20ac3.5 billion ($4 billion) from Israel.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Peace through secure supply chains",
       "link": "https://www.defensenews.com/opinion/2026/07/23/peace-through-secure-supply-chains/",
@@ -228,24 +327,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "UK and Florida commit $400,000 to joint space projects",
-      "link": "https://spacenews.com/uk-and-florida-commit-400000-to-joint-space-projects/",
-      "pubDate": "2026-07-21T12:00:00Z",
-      "snippet": "The British government and the Space Florida aerospace finance and development authority have each committed $200,000 to support joint research, innovation and commercialization projects.\nThe post UK ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "German component supplier deltaVision raises 10.2 million euros",
-      "link": "https://spacenews.com/german-component-supplier-deltavision-raises-10-2-million-euros/",
-      "pubDate": "2026-07-21T11:57:21Z",
-      "snippet": "German spacecraft component developer deltaVision has raised 10.2 million euros ($11.6 million) to expand production of valves and related equipment, with a focus on enabling in-space refueling.\nThe p...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "US Marine Corps turns to AI-powered Bullfrog as drone threats expand",
       "link": "https://www.defensenews.com/news/your-military/2026/07/21/us-marine-corps-turns-to-ai-powered-bullfrog-as-drone-threats-expand/",
       "pubDate": "2026-07-21T11:30:00Z",
@@ -253,15 +334,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Agile Space Industries Appoints new CTO and Board member",
-      "link": "https://spacenews.com/agile-space-industries-appoints-new-cto-and-board-member/",
-      "pubDate": "2026-07-21T11:00:00Z",
-      "snippet": "Durango, Co \u2013 July 21, 2026 &#8211; Agile Space Industries today announced the appointment of Jake Mills as Chief Technology Officer (CTO) and Mark Pasquale as an independent member of [&#8230;]\nThe p...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "X-Bow out to tackle cost quandary with sub-$100,000 drone interceptor",
@@ -273,15 +345,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "KBR organizes defense technology business to pursue Golden Dome work",
-      "link": "https://spacenews.com/kbr-organizes-defense-technology-business-to-pursue-golden-dome-work/",
-      "pubDate": "2026-07-21T10:00:00Z",
-      "snippet": "Company points to digital engineering, space tracking and missile-defense experience \nThe post KBR organizes defense technology business to pursue Golden Dome work appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "From depot to detonation: The case for a unified logistics picture",
       "link": "https://www.defensenews.com/opinion/2026/07/21/from-depot-to-detonation-the-case-for-a-unified-logistics-picture/",
       "pubDate": "2026-07-21T08:47:26Z",
@@ -291,24 +354,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "IHI explores Kuva hyperspectral satellites for Japan\u2019s multi-sensor constellation",
-      "link": "https://spacenews.com/ihi-explores-kuva-hyperspectral-satellites-for-japans-multi-sensor-constellation/",
-      "pubDate": "2026-07-21T07:00:00Z",
-      "snippet": "Japan\u2019s IHI is considering adding next-generation hyperspectral satellites from Finnish startup Kuva Space to its planned 100-strong, multi-sensor sovereign Earth observation constellation.\nThe post I...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Italian startup ORiS raises funding for laser power-beaming technology",
-      "link": "https://spacenews.com/italian-startup-oris-raises-funding-for-laser-power-beaming-technology/",
-      "pubDate": "2026-07-21T04:01:41Z",
-      "snippet": "Italian startup ORiS has raised 5 million euros ($5.7 million) to help it develop wireless power-beaming technology for satellites using lasers.\nThe post Italian startup ORiS raises funding for laser ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "New executive order tightens defense supply chain waiver rules",
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/20/new-executive-order-tightens-defense-supply-chain-waiver-rules/",
       "pubDate": "2026-07-20T20:30:11Z",
@@ -316,51 +361,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "US Air Force begins piloted flights, autonomy tests for modified F-16s",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/20/air-force-begins-piloted-flights-autonomy-tests-for-modified-f-16s/",
-      "pubDate": "2026-07-20T17:08:42Z",
-      "snippet": "Piloted flights and autonomy tests began recently for modified F-16s that allows artificial intelligence agents to fly the aircraft.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Doodle Labs eyes US, European production sites as demand soars for jam-resistant drones",
-      "link": "https://www.defensenews.com/industry/2026/07/20/doodle-labs-eyes-us-european-production-sites-as-demand-soars-for-jam-resistant-drones/",
-      "pubDate": "2026-07-20T16:00:52Z",
-      "snippet": "Doodle Labs hopes to turn its success in equipping jam-hardened drones in Ukraine into additional production sites in Europe and he United States.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon identifies American soldiers killed in Iranian attack in Jordan",
-      "link": "https://www.defensenews.com/flashpoints/middle-east/2026/07/20/pentagon-identifies-american-soliders-killed-in-iranian-attack-in-jordan/",
-      "pubDate": "2026-07-20T15:47:49Z",
-      "snippet": "1st Lt. Tyler James Feehan, 25, and Pvt. Isabella Gonzales, 19, were killed in action in an Iranian ballistic missile and drone attack in Jordan.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pipelines to payloads: risk management lessons for the space economy",
-      "link": "https://spacenews.com/pipelines-to-payloads-risk-management-lessons-for-the-space-economy/",
-      "pubDate": "2026-07-20T13:00:00Z",
-      "snippet": "The energy sector has spent decades learning how to manage complex disputes that touch on sovereign power, geopolitics, regulation and private capital. Those same dynamics are at play in the [&#8230;]...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "AI rocket engine startup LegendSpace raises $29.5 million angel round",
-      "link": "https://spacenews.com/ai-rocket-engine-startup-legendspace-raises-29-5-million-angel-round/",
-      "pubDate": "2026-07-20T11:18:13Z",
-      "snippet": "HELSINKI \u2014 A six-month-old Chinese startup aiming to use artificial intelligence to compress rocket engine development cycles has raised $29.5 million in angel funding. LegendSpace, full name Linjie H...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Scientists built a camera that can track invisible particles in 3D",
