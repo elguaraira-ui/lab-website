@@ -1,7 +1,133 @@
 {
-  "updated": "2026-07-24T12:10:06.319606Z",
-  "count": 60,
+  "updated": "2026-07-27T13:30:41.264969Z",
+  "count": 57,
   "items": [
+    {
+      "title": "Orbes unveils Exo-ORB and agreement with Symphony Space",
+      "link": "https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/",
+      "pubDate": "2026-07-27T13:00:00Z",
+      "snippet": "SAN FRANCISCO \u2013 Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an uncrewed Symphony Space station. Exo-ORB, which is [&...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Intel debuts new chip for space computing",
+      "link": "https://spacenews.com/intel-debuts-new-chip-for-space-computing/",
+      "pubDate": "2026-07-27T13:00:00Z",
+      "snippet": "Starfire is designed to support onboard data processing and AI workloads.\nThe post Intel debuts new chip for space computing appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "SpaceNews Welcomes Max Aliprandi as Business Development Associate",
+      "link": "https://spacenews.com/spacenews-welcomes-max-aliprandi-as-business-development-associate/",
+      "pubDate": "2026-07-27T12:00:00Z",
+      "snippet": "SpaceNews today announced that Max Aliprandi has joined the company as Business Development Associate, strengthening the company&#8217;s sales, business development and product teams as SpaceNews cont...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Amazon files application for direct-to-device satellite constellation",
+      "link": "https://spacenews.com/amazon-files-application-for-direct-to-device-satellite-constellation/",
+      "pubDate": "2026-07-27T11:59:34Z",
+      "snippet": "Amazon has filed plans with the Federal Communications Commission for a constellation of more than 5,100 satellites that would provide direct-to-device (D2D) services using Globalstar spectrum.\nThe po...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Congress approves money for Taiwan defense. Does it mean Trump is done hesitating?",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/07/27/us-congress-approves-money-for-taiwan-defense-does-it-mean-trump-is-done-hesitating/",
+      "pubDate": "2026-07-27T11:00:46Z",
+      "snippet": "Lawmakers in Washington designated some money for arms sales to Taiwan, as U.S. President Donald Trump continues to hold up a major weapons package.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Blue Origin to test New Glenn upper stages at Stennis",
+      "link": "https://spacenews.com/blue-origin-to-test-new-glenn-upper-stages-at-stennis/",
+      "pubDate": "2026-07-27T10:48:56Z",
+      "snippet": "Blue Origin will use NASA\u2019s Stennis Space Center to test New Glenn upper stages as it rebuilds its Cape Canaveral launch complex.\nThe post Blue Origin to test New Glenn upper stages at Stennis appeare...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Rocket Lab to open Alaska launch site under $266 million Space Force deal",
+      "link": "https://spacenews.com/rocket-lab-to-open-alaska-launch-site-under-266-million-space-force-deal/",
+      "pubDate": "2026-07-27T10:48:31Z",
+      "snippet": "New Kodiak facility will support up to 18 suborbital missions for military testing\nThe post Rocket Lab to open Alaska launch site under $266 million Space Force deal appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "AI in orbit is a double-edged sword. Here\u2019s how to keep it from cutting space cooperation apart",
+      "link": "https://spacenews.com/ai-in-orbit-is-a-double-edged-sword-heres-how-to-keep-it-from-cutting-space-cooperation-apart/",
+      "pubDate": "2026-07-27T10:00:00Z",
+      "snippet": "When we talk about stopping an arms race in space, people usually say that we need treaties that every state must follow or agreements that states can choose to follow. [&#8230;]\nThe post AI in orbit ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NASA and ESA facilities avoid major damage from wildfires in Spain",
+      "link": "https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/",
+      "pubDate": "2026-07-26T02:15:37Z",
+      "snippet": "Key ground stations in Spain operated by NASA and the European Space Agency have avoided serious damage from major wildfires in the country.\nThe post NASA and ESA facilities avoid major damage from wi...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "SpaceX conducts 13th Starship test flight",
+      "link": "https://spacenews.com/spacex-conducts-13th-starship-test-flight/",
+      "pubDate": "2026-07-25T00:29:32Z",
+      "snippet": "SpaceX launched Starship on its 13th suborbital test flight July 24, correcting some of the issues seen on the previous flight while deploying functioning satellites for the first time.\nThe post Space...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "From steppe to sea, a Ukrainian drone unit hunts Russian ships",
+      "link": "https://www.defensenews.com/global/europe/2026/07/24/from-steppe-to-sea-a-ukrainian-drone-unit-hunts-russian-ships/",
+      "pubDate": "2026-07-24T20:59:44Z",
+      "snippet": "Drone units operating far behind the front line on Ukraine\u2019s sweeping steppe have hit more than 180 vessels and other sea-borne targets in recent weeks.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "ULA deals with financial challenges caused by Vulcan grounding",
+      "link": "https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/",
+      "pubDate": "2026-07-24T20:18:19Z",
+      "snippet": "United Launch Alliance\u2019s corporate parents have guaranteed a loan to the company as it addresses \u201cfinancial challenges\u201d caused by the grounding of its Vulcan Centaur rocket.\nThe post ULA deals with fi...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Pentagon nominates Lt. Gen. Admiral to command US Army Europe and Africa",
+      "link": "https://www.defensenews.com/news/your-military/2026/07/24/pentagon-nominates-lt-gen-admiral-to-command-us-army-europe-and-africa/",
+      "pubDate": "2026-07-24T18:09:52Z",
+      "snippet": "Lt. Gen. Kevin D. Admiral, who currently serves as the commander of III Corps and Fort Hood, Texas, was nominated to take over the top job on Thursday.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT",
+      "link": "https://spacenews.com/latconnect-60-unveils-proprietary-ai-capabilities-following-growing-indo-pacific-defence-interest-in-swirsat/",
+      "pubDate": "2026-07-24T14:59:27Z",
+      "snippet": "PERTH, Australia &#8211; 24 July 2026 &#8211; LatConnect 60 (&#8220;LC60&#8221;), an Australian satellite Earth observation and AI company, today unveiled a proprietary intelligence-fusion capability ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Office of Space Commerce to move ahead on mission authorization",
       "link": "https://spacenews.com/office-of-space-commerce-to-move-ahead-on-mission-authorization/",
@@ -129,15 +255,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "China\u2019s Shijian-31 satellite is sweeping GEO using a unique orbit",
-      "link": "https://spacenews.com/chinas-shijian-31-satellite-is-sweeping-geo-using-a-unique-orbit/",
-      "pubDate": "2026-07-22T21:13:08Z",
-      "snippet": "HELSINKI \u2014 A classified satellite launched by China in June is operating in a creative orbit, giving it a unique vantage point over the geostationary belt. Shijian-31 launched on a [&#8230;]\nThe post ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "US Navy moving forward on West Coast dock for aircraft carriers",
       "link": "https://www.defensenews.com/news/your-military/2026/07/22/us-navy-moving-forward-on-west-coast-dock-for-aircraft-carriers/",
       "pubDate": "2026-07-22T19:26:26Z",
@@ -145,15 +262,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "FCC approves sweeping space reforms while clearing more C-band for 5G",
-      "link": "https://spacenews.com/fcc-approves-sweeping-space-reforms-while-clearing-more-c-band-for-5g/",
-      "pubDate": "2026-07-22T18:31:36Z",
-      "snippet": "The FCC voted July 22 to push satellite operators out of more C-band spectrum for a 5G auction next year, while approving a licensing overhaul aimed at accelerating the commercial space economy.\nThe p...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Who is Mykhailo Drapatyi? \u2018The Flying BMP\u2019 who now leads Ukraine\u2019s military",
@@ -174,15 +282,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Vast establishes division for national security projects",
-      "link": "https://spacenews.com/vast-establishes-division-for-national-security-projects/",
-      "pubDate": "2026-07-22T14:03:37Z",
-      "snippet": "Commercial space station and spacecraft developer Vast has established a new division intended to support work in national security space.\nThe post Vast establishes division for national security proj...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "UK\u2019s BAE enters uncrewed fighter competition with \u2018Brontanax\u2019",
       "link": "https://www.defensenews.com/global/europe/2026/07/22/uks-bae-enters-uncrewed-fighter-competition-with-brontanax/",
       "pubDate": "2026-07-22T13:28:20Z",
@@ -192,42 +291,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "The strategic competition with China:\u00a0winning the multi-domain race",
-      "link": "https://spacenews.com/the-strategic-competition-with-china-winning-the-multi-domain-race/",
-      "pubDate": "2026-07-22T13:00:00Z",
-      "snippet": "History demonstrates military innovation continually rewrites the rules of combat, reshaping warfare and rendering strategies from past conflicts obsolete. The introduction of repeating rifles transfo...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Relativity Space to expand Terran R production in Florida",
-      "link": "https://spacenews.com/relativity-space-to-expand-terran-r-production-in-florida/",
-      "pubDate": "2026-07-22T11:58:49Z",
-      "snippet": "Relativity Space struck a deal with Space Florida to build manufacturing and test facilities for its Terran R rocket on Florida\u2019s Space Coast.\nThe post Relativity Space to expand Terran R production i...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Artemis 2 astronaut advocates for equatorial lunar landings",
-      "link": "https://spacenews.com/artemis-2-astronaut-advocates-for-equatorial-lunar-landings/",
-      "pubDate": "2026-07-22T10:01:12Z",
-      "snippet": "The pilot of Artemis 2 says NASA\u2019s return to the moon should start with human landings in less challenging equatorial regions rather than go directly to the south pole.\nThe post Artemis 2 astronaut ad...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Gravity-1 sea launch off Shanghai puts 9 satellites into orbit",
-      "link": "https://spacenews.com/gravity-1-sea-launch-off-shanghai-puts-9-satellites-into-orbit/",
-      "pubDate": "2026-07-22T09:32:11Z",
-      "snippet": "HELSINKI \u2014 Commercial launch firm Orienspace launched its third Gravity-1 solid rocket late Tuesday, sending nine satellites into orbit from waters off Shanghai. The 30-meter-long Gravity-1 solid rock...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Cost of Iran war rises to $37.5 billion, Pentagon requests $67.1 billion more",
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/21/cost-of-iran-war-rises-to-375-billion-pentagon-requests-671-billion-more/",
       "pubDate": "2026-07-21T23:13:23Z",
@@ -235,42 +298,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Zenno Astronautics to relocate to the United States",
-      "link": "https://spacenews.com/zenno-astronautics-to-relocate-to-the-united-states/",
-      "pubDate": "2026-07-21T22:11:49Z",
-      "snippet": "SAN FRANCISCO \u2013 Zenno Astronautics, a New Zealand startup focused on applying superconducting magnets for spacecraft attitude control and acceleration, plans to redomicile to the United States. \u201cIt is...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "SpaceX launches Northrop mission to extend the life of aging satellites",
-      "link": "https://spacenews.com/spacex-launches-northrop-mission-to-extend-the-life-of-aging-satellites/",
-      "pubDate": "2026-07-21T21:26:50Z",
-      "snippet": "DARPA-backed vehicle will install propulsion pods on three commercial satellites in geostationary orbit\nThe post SpaceX launches Northrop mission to extend the life of aging satellites appeared first ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Northrop adds to charges on Vulcan solid rocket motor program",
-      "link": "https://spacenews.com/northrop-adds-to-charges-on-vulcan-solid-rocket-motor-program/",
-      "pubDate": "2026-07-21T19:40:51Z",
-      "snippet": "Northrop Grumman took another charge for the solid rocket boosters it provides for the Vulcan Centaur and suggested updated motors might not be ready until the end of the year.\nThe post Northrop adds ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Commercial Space Federation (CSF) Welcomes\u00a0Three New Associate Members",
-      "link": "https://spacenews.com/commercial-space-federation-csf-welcomes-three-new-associate-members/",
-      "pubDate": "2026-07-21T19:00:00Z",
-      "snippet": "Washington, D.C.\u2014 July 21, 2026 \u2014The Commercial Space Federation (CSF) is pleased to welcome Overview Energy,&#160; Loft Orbital, and Star Catcher as new associate members \u2014 companies advancing space-...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "New British prime minister gains early defense win with Canada fighter jet tie-up",
@@ -304,60 +331,6 @@
       "link": "https://www.defensenews.com/news/your-military/2026/07/21/how-startups-are-reshaping-the-pentagons-drone-industry/",
       "pubDate": "2026-07-21T13:41:59Z",
       "snippet": "Experts say the Drone Dominance competition reflects a broader shift in how the Pentagon acquires military technology and cultivates defense startups.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon identifies soldier killed in controlled detonation of Iranian drone",
-      "link": "https://www.defensenews.com/news/your-military/2026/07/21/pentagon-identifies-soldier-killed-in-controlled-detonation-of-iranian-drone/",
-      "pubDate": "2026-07-21T13:13:51Z",
-      "snippet": "Sgt. Michael Emmanuel Swinton, 30, was killed Saturday during the controlled detonation of unexploded ordnance from a downed Iranian one-way attack drone.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Russia may use captured Ukrainian drones against Poland and Baltics, Warsaw warns",
-      "link": "https://www.defensenews.com/global/europe/2026/07/21/russia-may-use-captured-ukrainian-drones-against-poland-and-baltics-warsaw-warns/",
-      "pubDate": "2026-07-21T12:49:52Z",
-      "snippet": "Russia has captured a large number of Ukrainian drones and may be planning to use them against NATO or to stage a false flag attack, Polish officials said.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Marine Corps turns to AI-powered Bullfrog as drone threats expand",
-      "link": "https://www.defensenews.com/news/your-military/2026/07/21/us-marine-corps-turns-to-ai-powered-bullfrog-as-drone-threats-expand/",
-      "pubDate": "2026-07-21T11:30:00Z",
-      "snippet": "Allen Control Systems announced Monday that the Marine Corps has chosen the Bullfrog autonomous weapon system to integrate into its airborne defenses.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "X-Bow out to tackle cost quandary with sub-$100,000 drone interceptor",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/21/x-bow-out-to-tackle-cost-quandary-with-sub-100000-drone-interceptor/",
-      "pubDate": "2026-07-21T10:56:33Z",
-      "snippet": "X-Bow Systems is launching what it hopes will be a remedy to the ongoing conundrum of combating cheap drones with multimillion dollar interceptors.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "From depot to detonation: The case for a unified logistics picture",
-      "link": "https://www.defensenews.com/opinion/2026/07/21/from-depot-to-detonation-the-case-for-a-unified-logistics-picture/",
-      "pubDate": "2026-07-21T08:47:26Z",
-      "snippet": "\"We have the technology for that comprehensive, near real-time common operating picture (COP), we just need to link it,\" writes LMI's Robert Yon.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "New executive order tightens defense supply chain waiver rules",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/20/new-executive-order-tightens-defense-supply-chain-waiver-rules/",
-      "pubDate": "2026-07-20T20:30:11Z",
-      "snippet": "A new executive order aims to make it harder for U.S. defense contractors to buy critical minerals and other materials from prohibited foreign suppliers.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
