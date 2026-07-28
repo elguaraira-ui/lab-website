@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-27T13:30:41.264969Z",
-  "count": 57,
+  "updated": "2026-07-28T12:28:28.748961Z",
+  "count": 56,
   "items": [
+    {
+      "title": "NASA selects successor to CAPSTONE lunar mission",
+      "link": "https://spacenews.com/nasa-selects-successor-to-capstone-lunar-mission/",
+      "pubDate": "2026-07-28T12:03:50Z",
+      "snippet": "NASA has selected Advanced Space to fly a successor to a cislunar smallsat mission that will test rendezvous and proximity operations around the moon.\nThe post NASA selects successor to CAPSTONE lunar...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Upper C-band auction offers another lift for GEO industry",
+      "link": "https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/",
+      "pubDate": "2026-07-27T20:11:07Z",
+      "snippet": "Satellite operators have welcomed the prospect of reaping more than $6 billion for quickly clearing upper C-band spectrum the FCC aims to auction next year, with billions more set to cover new geostat...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Sphinx Defense wins $287 million contract for strategic satellite communications software",
+      "link": "https://spacenews.com/sphinx-defense-wins-287-million-contract-for-strategic-satellite-communications-software/",
+      "pubDate": "2026-07-27T19:02:15Z",
+      "snippet": "Award covers mission planning software for ESS next-generation strategic communications satellites\nThe post Sphinx Defense wins $287 million contract for strategic satellite communications software ap...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Pentagon calls for cheaper long-range strike weapons,\u00a0with testing in just 3 months",
+      "link": "https://www.defensenews.com/news/2026/07/27/pentagon-calls-for-cheaper-long-range-strike-weapons-with-testing-in-just-3-months/",
+      "pubDate": "2026-07-27T18:55:04Z",
+      "snippet": "The Pentagon is seeking long-range weapons that cost less than $250,000 each and can be ready for demonstration within three months.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "India moves closer to a homegrown, long-range air defense",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/07/27/india-moves-closer-to-a-homegrown-long-range-air-defense/",
+      "pubDate": "2026-07-27T15:59:38Z",
+      "snippet": "A recent interceptor test marked the first demonstration of New Delhi\u2019s efforts to build a system that could rival the Russian-made S-400.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Orbes unveils Exo-ORB and agreement with Symphony Space",
       "link": "https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/",
@@ -201,24 +246,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech",
-      "link": "https://spacenews.com/mark-matossian-co-founds-whipsmart-ventures-for-space-and-deep-tech/",
-      "pubDate": "2026-07-23T19:23:13Z",
-      "snippet": "SAN FRANCISCO \u2013 Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space [&#82...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Will Bruey on rethinking the role of pharmaceuticals in low Earth orbit",
-      "link": "https://spacenews.com/will-bruey-on-rethinking-the-role-of-pharmaceuticals-in-low-earth-orbit/",
-      "pubDate": "2026-07-23T15:13:33Z",
-      "snippet": "In this episode, David Ariosto speaks with Varda CEO Will Bruey at the Ascend conference. They discuss how Varda hopes to play a role bridging medicine and low Earth orbit [&#8230;]\nThe post Will Brue...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Greece to buy $4 billion air defense system from Israel",
       "link": "https://www.defensenews.com/global/europe/2026/07/23/greece-to-buy-4-billion-air-defence-system-from-israel/",
       "pubDate": "2026-07-23T13:41:41Z",
@@ -235,15 +262,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Airbus space business takes advantage of growing demand for satellite systems",
-      "link": "https://spacenews.com/airbus-space-business-takes-advantage-of-growing-demand-for-satellite-systems/",
-      "pubDate": "2026-07-23T11:55:22Z",
-      "snippet": "Airbus executives say the turnaround in the company\u2019s space business came just in time to tap growing demand, particularly from Europe, for space capabilities as it pursues a joint venture.\nThe post A...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Australia whips together a hybrid air defense weapon",
@@ -304,33 +322,6 @@
       "link": "https://www.defensenews.com/global/europe/2026/07/21/new-british-prime-minister-gains-early-defense-win-with-canada-fighter-jet-tie-up/",
       "pubDate": "2026-07-21T16:45:09Z",
       "snippet": "Canada has joined the GCAP fighter program as an observer, marking the first expansion beyond the founding members Britain, Italy and Japan.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Hanwha Philly Shipyard awarded $2 billion to build 2 missile-tracking vessels",
-      "link": "https://www.defensenews.com/pentagon/2026/07/21/hanwha-philly-shipyard-awarded-2-billion-to-build-2-missile-tracking-vessels/",
-      "pubDate": "2026-07-21T15:14:41Z",
-      "snippet": "The Hanwha Philly Shipyard was awarded $2 billion to build the missile-tracking vessels set to replace the aging Pacific Tracker and Pacific Collector.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Germany to study French cooperation offer on SAMP/T air-defense system",
-      "link": "https://www.defensenews.com/global/europe/2026/07/21/germany-to-study-french-cooperation-offer-on-sampt-air-defense-system/",
-      "pubDate": "2026-07-21T13:51:34Z",
-      "snippet": "German government leaders will study an offer by French President Emmanuel Macron to cooperate on the French-Italian SAMP/T air defense system.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "How startups are reshaping the Pentagon\u2019s drone industry",
-      "link": "https://www.defensenews.com/news/your-military/2026/07/21/how-startups-are-reshaping-the-pentagons-drone-industry/",
-      "pubDate": "2026-07-21T13:41:59Z",
-      "snippet": "Experts say the Drone Dominance competition reflects a broader shift in how the Pentagon acquires military technology and cultivates defense startups.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
