@@ -1,7 +1,88 @@
 {
-  "updated": "2026-07-28T12:28:28.748961Z",
-  "count": 56,
+  "updated": "2026-07-29T12:53:11.014817Z",
+  "count": 57,
   "items": [
+    {
+      "title": "H3 to launch next ispace lunar lander mission",
+      "link": "https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/",
+      "pubDate": "2026-07-29T12:10:11Z",
+      "snippet": "Japanese lunar lander developer ispace has selected the H3 rocket to launch its next mission in 2028, creating what the companies called Japan\u2019s first private lunar transportation system.\nThe post H3 ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "House-passed defense bill includes controversial US-Israel tech measure",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/29/house-passed-defense-bill-includes-controversial-us-israel-tech-measure/",
+      "pubDate": "2026-07-29T12:00:00Z",
+      "snippet": "The House-passed defense bill includes a measure to encourage co-development and co-production between the U.S. and Israeli defense industrial bases.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Boeing still working with NASA to schedule next Starliner flight",
+      "link": "https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/",
+      "pubDate": "2026-07-29T01:24:07Z",
+      "snippet": "Boeing is still working with NASA to determine when to fly its CST-100 Starliner commercial crew vehicle on a cargo mission to the International Space Station.\nThe post Boeing still working with NASA ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush",
+      "link": "https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/",
+      "pubDate": "2026-07-29T01:18:28Z",
+      "snippet": "SINGAPORE \u2014 A Beijing-based startup has secured around $14 million to build a satellite constellation for tracking orbital objects, adding to China\u2019s growing SSA sector.&#160; Xingchen Daohe, also kno...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Swift reboost mission encounters attitude control problems",
+      "link": "https://spacenews.com/swift-reboost-mission-encounters-attitude-control-problems/",
+      "pubDate": "2026-07-28T23:04:29Z",
+      "snippet": "A spacecraft launched nearly a month ago in a high-risk bid to boost the orbit of a NASA astrophysics satellite is suffering attitude control problems that could jeopardize its mission.\nThe post Swift...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "ESA opens call to repurpose Gateway communications module",
+      "link": "https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/",
+      "pubDate": "2026-07-28T20:38:20Z",
+      "snippet": "JOHANNESBURG \u2014 The European Space Agency is moving ahead with plans to examine the feasibility of repurposing Lunar Link, a communications system developed for NASA\u2019s now-paused Gateway space station,...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "First Anduril YFQ-44A rolls off production line for US CCA program",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/28/first-anduril-yfq-44a-rolls-off-production-line-for-us-cca-program/",
+      "pubDate": "2026-07-28T17:31:06Z",
+      "snippet": "Anduril's Ohio-based facility produced its first YFQ-44A, an unmanned, semi-autonomous aircraft, on Monday.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Central Command, UAE to launch artificial intelligence task force",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/28/us-central-command-uae-to-launch-artifical-intelligence-task-force/",
+      "pubDate": "2026-07-28T15:42:02Z",
+      "snippet": "CENTCOM and the UAE will establish Task Force Talon Synapse aimed at boosting the development of military artificial intelligence applications.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Finland closes airspace, restricts maritime traffic near Russia over drone risk",
+      "link": "https://www.defensenews.com/global/europe/2026/07/28/finland-closes-airspace-restricts-maritime-traffic-near-russia-over-drone-risk/",
+      "pubDate": "2026-07-28T14:09:34Z",
+      "snippet": "Finland\u2019s military said it closed a section of Finnish airspace and restricted maritime traffic off the country\u2019s southern coast near the Russian border.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "NASA selects successor to CAPSTONE lunar mission",
       "link": "https://spacenews.com/nasa-selects-successor-to-capstone-lunar-mission/",
@@ -183,24 +264,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Lightning strikes Long March 3B after liftoff, Kinetica-1 launches 5 satellites",
-      "link": "https://spacenews.com/lightning-strikes-long-march-3b-after-liftoff-kinetica-1-launches-5-satellites/",
-      "pubDate": "2026-07-24T10:32:53Z",
-      "snippet": "HELSINKI \u2014 China conducted a pair of launches Thursday, including a Long March 3B rocket which delivered its payload to orbit despite a lightning strike. The Long March 3B rocket [&#8230;]\nThe post Li...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "EU delays release of Copernicus imagery over Gulf of Oman",
-      "link": "https://spacenews.com/eu-delays-release-of-copernicus-imagery-over-gulf-of-oman/",
-      "pubDate": "2026-07-24T10:00:00Z",
-      "snippet": "JOHANNESBURG \u2014 The European Union has ordered a 24-hour delay in the release of some Sentinel-1 and Sentinel-2 imagery following a request from the United States based on concerns that [&#8230;]\nThe p...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Indonesia orders Leonardo light fighters, eyes naval helicopters",
       "link": "https://www.defensenews.com/global/asia-pacific/2026/07/24/indonesia-orders-leonardo-light-fighters-eyes-naval-helicopters/",
       "pubDate": "2026-07-24T09:35:20Z",
@@ -208,33 +271,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Air Force takes over troubled military GPS receiver program",
-      "link": "https://spacenews.com/air-force-takes-over-troubled-military-gps-receiver-program/",
-      "pubDate": "2026-07-24T09:00:00Z",
-      "snippet": "The Air Force Life Cycle Management Center will oversee development, integration and sustainment of equipment used to access the military\u2019s encrypted GPS signal\nThe post Air Force takes over troubled ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NASA programs feel effects of workforce reductions",
-      "link": "https://spacenews.com/nasa-programs-feel-effects-of-workforce-reductions/",
-      "pubDate": "2026-07-23T21:31:29Z",
-      "snippet": "More than two dozen major NASA projects say they have been affected by the loss of a fifth of NASA\u2019s civil servant workforce in the last year.\nThe post NASA programs feel effects of workforce reductio...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Poland commits $745 million to EU\u2019s IRIS\u00b2 constellation project",
-      "link": "https://spacenews.com/poland-commits-745-million-to-eus-iris%c2%b2-constellation-project/",
-      "pubDate": "2026-07-23T21:14:49Z",
-      "snippet": "WARSAW, Poland \u2014 The Polish government has agreed to invest around $745 million in the development of the planned IRIS\u00b2 multi-orbit satellite internet constellation with the European Union.&#160; The ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "\u2018Incredible work\u2019: Ukrainian F-16 downs Russian fighter jet for first time",
@@ -295,33 +331,6 @@
       "link": "https://www.defensenews.com/industry/techwatch/2026/07/22/boeings-mq-28-ghost-bat-makes-farnborough-airshow-debut/",
       "pubDate": "2026-07-22T15:44:10Z",
       "snippet": "Boeing's MQ-28 Ghost Bat recently became the first collaborative combat aircraft to participate in a multinational, joint operational exercise.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "UK\u2019s BAE enters uncrewed fighter competition with \u2018Brontanax\u2019",
-      "link": "https://www.defensenews.com/global/europe/2026/07/22/uks-bae-enters-uncrewed-fighter-competition-with-brontanax/",
-      "pubDate": "2026-07-22T13:28:20Z",
-      "snippet": "BAE Systems revealed a new unmanned fighter jet on Wednesday, boosting Britain\u2019s entry into one of the defense industry\u2019s hottest markets.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Cost of Iran war rises to $37.5 billion, Pentagon requests $67.1 billion more",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/21/cost-of-iran-war-rises-to-375-billion-pentagon-requests-671-billion-more/",
-      "pubDate": "2026-07-21T23:13:23Z",
-      "snippet": "The Iran war has cost the DoD $37.5 billion to date, Hegseth told senators Tuesday, as he requested $67.1 billion more in emergency funding.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "New British prime minister gains early defense win with Canada fighter jet tie-up",
-      "link": "https://www.defensenews.com/global/europe/2026/07/21/new-british-prime-minister-gains-early-defense-win-with-canada-fighter-jet-tie-up/",
-      "pubDate": "2026-07-21T16:45:09Z",
-      "snippet": "Canada has joined the GCAP fighter program as an observer, marking the first expansion beyond the founding members Britain, Italy and Japan.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
