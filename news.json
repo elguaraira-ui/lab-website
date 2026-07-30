@@ -1,7 +1,106 @@
 {
-  "updated": "2026-07-29T12:53:11.014817Z",
-  "count": 57,
+  "updated": "2026-07-30T12:20:30.828307Z",
+  "count": 55,
   "items": [
+    {
+      "title": "Rocket Lab wins another launch contract from Japan\u2019s iQPS",
+      "link": "https://spacenews.com/rocket-lab-wins-another-launch-contract-from-japans-iqps/",
+      "pubDate": "2026-07-30T11:59:29Z",
+      "snippet": "Rocket Lab has won another contract from Japanese radar imaging company iQPS for multiple launches of its Electron rocket.\nThe post Rocket Lab wins another launch contract from Japan\u2019s iQPS appeared f...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Ukraine\u2019s F-16s are being worn out from intercepting Russian drones",
+      "link": "https://www.defensenews.com/flashpoints/ukraine/2026/07/30/ukraines-f-16s-are-being-worn-out-from-intercepting-russian-drones/",
+      "pubDate": "2026-07-30T11:00:00Z",
+      "snippet": "Ukrainian F-16s have destroyed more than 2,500 one-way attack drones, but repeated interceptions are wearing out the country's small fleet.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Sophia Space and Caltech claim patent for space data centers",
+      "link": "https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers/",
+      "pubDate": "2026-07-30T04:00:00Z",
+      "snippet": "SAN FRANCISCO \u2013 Sophia Space announced the award July 30 of a patent, shared with the California Institute of Technology, covering large, modular space-based data centers. The patent, issued July [&#8...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Proposed rule would exempt commercial launch licensing from environmental regulations",
+      "link": "https://spacenews.com/proposed-rule-would-exempt-commercial-launch-licensing-from-environmental-regulations/",
+      "pubDate": "2026-07-29T23:12:56Z",
+      "snippet": "The Department of Transportation is proposing to exempt commercial space launch licensing from many environmental regulations, a move praised by industry but criticized by environmental groups.\nThe po...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "L3Harris delays missile business IPO to 2027 despite surging defense demand",
+      "link": "https://spacenews.com/l3harris-delays-missile-business-ipo-to-2027-despite-surging-defense-demand/",
+      "pubDate": "2026-07-29T22:57:06Z",
+      "snippet": "CEO says market doesn't reflect value of Pentagon-backed business \nThe post L3Harris delays missile business IPO to 2027 despite surging defense demand appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "SpaceX wins $1.6 billion in launch orders for military satellite networks",
+      "link": "https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks/",
+      "pubDate": "2026-07-29T20:43:51Z",
+      "snippet": "Falcon 9 will launch satellites supporting missile tracking, targeting and military communications\nThe post SpaceX wins $1.6 billion in launch orders for military satellite networks appeared first on ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Space Force awards All Points $250 million to expand satellite processing at Vandenberg",
+      "link": "https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/",
+      "pubDate": "2026-07-29T19:45:17Z",
+      "snippet": "All Points Logistics is the third company selected under a Commercial Solutions Opening to add facilities where satellites can be inspected, tested, fueled and prepared for integration with launch veh...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Pentagon puts out call for robot boats that launch attack drones",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/29/pentagon-puts-out-call-for-robot-boats-that-launch-attack-drones/",
+      "pubDate": "2026-07-29T19:22:52Z",
+      "snippet": "The Pentagon has put out a solicitation for drone boats that can launch attack drones \u2014 and it wants them ready to test within 120 days.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon has \u2018kicked off\u2019 review of US force posture in Europe",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/29/pentagon-has-kicked-off-review-of-us-force-posture-in-europe/",
+      "pubDate": "2026-07-29T18:37:59Z",
+      "snippet": "The review follows repeated calls by Trump administration officials for European allies to assume greater responsibility for NATO\u2019s conventional defense.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE",
+      "link": "https://spacenews.com/latconnect-60-accelerates-swirsat-constellation-growth-anchored-in-western-australia-with-expansion-into-malaysia-and-uae/",
+      "pubDate": "2026-07-29T14:38:53Z",
+      "snippet": "PERTH, Western Australia \u2014 LatConnect 60 (LC60) is executing on a multi-geography industrial plan to accelerate its SWIRSAT constellation, anchoring core technology development and payload manufacturi...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Fortastra and Hadrian join forces to streamline satellite production",
+      "link": "https://spacenews.com/fortastra-and-hadrian-join-forces-to-streamline-satellite-production/",
+      "pubDate": "2026-07-29T13:00:00Z",
+      "snippet": "SAN FRANCISCO \u2013 Fortastra, a Los Angeles startup focused on defending on-orbit infrastructure, is working with manufacturing specialist Hadrian to explore ways to apply precision machining and additiv...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "H3 to launch next ispace lunar lander mission",
       "link": "https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/",
@@ -174,51 +273,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Blue Origin to test New Glenn upper stages at Stennis",
-      "link": "https://spacenews.com/blue-origin-to-test-new-glenn-upper-stages-at-stennis/",
-      "pubDate": "2026-07-27T10:48:56Z",
-      "snippet": "Blue Origin will use NASA\u2019s Stennis Space Center to test New Glenn upper stages as it rebuilds its Cape Canaveral launch complex.\nThe post Blue Origin to test New Glenn upper stages at Stennis appeare...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Rocket Lab to open Alaska launch site under $266 million Space Force deal",
-      "link": "https://spacenews.com/rocket-lab-to-open-alaska-launch-site-under-266-million-space-force-deal/",
-      "pubDate": "2026-07-27T10:48:31Z",
-      "snippet": "New Kodiak facility will support up to 18 suborbital missions for military testing\nThe post Rocket Lab to open Alaska launch site under $266 million Space Force deal appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "AI in orbit is a double-edged sword. Here\u2019s how to keep it from cutting space cooperation apart",
-      "link": "https://spacenews.com/ai-in-orbit-is-a-double-edged-sword-heres-how-to-keep-it-from-cutting-space-cooperation-apart/",
-      "pubDate": "2026-07-27T10:00:00Z",
-      "snippet": "When we talk about stopping an arms race in space, people usually say that we need treaties that every state must follow or agreements that states can choose to follow. [&#8230;]\nThe post AI in orbit ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NASA and ESA facilities avoid major damage from wildfires in Spain",
-      "link": "https://spacenews.com/nasa-and-esa-facilities-avoid-major-damage-from-wildfires-in-spain/",
-      "pubDate": "2026-07-26T02:15:37Z",
-      "snippet": "Key ground stations in Spain operated by NASA and the European Space Agency have avoided serious damage from major wildfires in the country.\nThe post NASA and ESA facilities avoid major damage from wi...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "SpaceX conducts 13th Starship test flight",
-      "link": "https://spacenews.com/spacex-conducts-13th-starship-test-flight/",
-      "pubDate": "2026-07-25T00:29:32Z",
-      "snippet": "SpaceX launched Starship on its 13th suborbital test flight July 24, correcting some of the issues seen on the previous flight while deploying functioning satellites for the first time.\nThe post Space...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "From steppe to sea, a Ukrainian drone unit hunts Russian ships",
       "link": "https://www.defensenews.com/global/europe/2026/07/24/from-steppe-to-sea-a-ukrainian-drone-unit-hunts-russian-ships/",
       "pubDate": "2026-07-24T20:59:44Z",
@@ -228,15 +282,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "ULA deals with financial challenges caused by Vulcan grounding",
-      "link": "https://spacenews.com/ula-deals-with-financial-challenges-caused-by-vulcan-grounding/",
-      "pubDate": "2026-07-24T20:18:19Z",
-      "snippet": "United Launch Alliance\u2019s corporate parents have guaranteed a loan to the company as it addresses \u201cfinancial challenges\u201d caused by the grounding of its Vulcan Centaur rocket.\nThe post ULA deals with fi...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Pentagon nominates Lt. Gen. Admiral to command US Army Europe and Africa",
       "link": "https://www.defensenews.com/news/your-military/2026/07/24/pentagon-nominates-lt-gen-admiral-to-command-us-army-europe-and-africa/",
       "pubDate": "2026-07-24T18:09:52Z",
@@ -244,24 +289,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "LatConnect 60 Unveils Proprietary AI Capabilities Following Growing Indo-Pacific Defence Interest in SWIRSAT",
-      "link": "https://spacenews.com/latconnect-60-unveils-proprietary-ai-capabilities-following-growing-indo-pacific-defence-interest-in-swirsat/",
-      "pubDate": "2026-07-24T14:59:27Z",
-      "snippet": "PERTH, Australia &#8211; 24 July 2026 &#8211; LatConnect 60 (&#8220;LC60&#8221;), an Australian satellite Earth observation and AI company, today unveiled a proprietary intelligence-fusion capability ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Office of Space Commerce to move ahead on mission authorization",
-      "link": "https://spacenews.com/office-of-space-commerce-to-move-ahead-on-mission-authorization/",
-      "pubDate": "2026-07-24T12:04:34Z",
-      "snippet": "The Commerce Department is moving ahead with plans to implement a voluntary mission authorization system for novel space activities that are not regulated by other agencies.\nThe post Office of Space C...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Indonesia orders Leonardo light fighters, eyes naval helicopters",
@@ -286,51 +313,6 @@
       "link": "https://www.defensenews.com/global/europe/2026/07/23/greece-to-buy-4-billion-air-defence-system-from-israel/",
       "pubDate": "2026-07-23T13:41:41Z",
       "snippet": "Greece has approved the purchase of a multi-layer air defense system worth up to \u20ac3.5 billion ($4 billion) from Israel.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Peace through secure supply chains",
-      "link": "https://www.defensenews.com/opinion/2026/07/23/peace-through-secure-supply-chains/",
-      "pubDate": "2026-07-23T12:00:01Z",
-      "snippet": "America cannot dominate the modern battlefield if the Pentagon does not know where its critical materials and components come from, Peter Navarro writes.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Australia whips together a hybrid air defense weapon",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/07/23/australia-whips-together-a-hybrid-air-defense-weapon/",
-      "pubDate": "2026-07-23T10:35:33Z",
-      "snippet": "Australia successfully tested a \u201cFrankenstein\u201d medium-range air defense system last month harnessing existing and new capabilities in a novel way.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Navy moving forward on West Coast dock for aircraft carriers",
-      "link": "https://www.defensenews.com/news/your-military/2026/07/22/us-navy-moving-forward-on-west-coast-dock-for-aircraft-carriers/",
-      "pubDate": "2026-07-22T19:26:26Z",
-      "snippet": "The U.S. Navy is moving forward with plans to build a new dock for aircraft carriers on the West Coast.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Who is Mykhailo Drapatyi? \u2018The Flying BMP\u2019 who now leads Ukraine\u2019s military",
-      "link": "https://www.defensenews.com/global/europe/2026/07/22/who-is-mykhailo-drapatyi-the-flying-bmp-who-now-leads-ukraines-military/",
-      "pubDate": "2026-07-22T17:35:54Z",
-      "snippet": "Zelenskyy names reform-minded Drapatyi as new commander-in-chief, replacing Syrsyki to bend to the largest protests of the war over the firing of Fedorov.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Boeing\u2019s MQ-28 Ghost Bat makes Farnborough Airshow debut",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/22/boeings-mq-28-ghost-bat-makes-farnborough-airshow-debut/",
-      "pubDate": "2026-07-22T15:44:10Z",
-      "snippet": "Boeing's MQ-28 Ghost Bat recently became the first collaborative combat aircraft to participate in a multinational, joint operational exercise.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
