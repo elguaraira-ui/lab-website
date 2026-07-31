@@ -1,7 +1,124 @@
 {
-  "updated": "2026-07-30T12:20:30.828307Z",
-  "count": 55,
+  "updated": "2026-07-31T12:49:17.702363Z",
+  "count": 57,
   "items": [
+    {
+      "title": "Chinese military researchers tap US AI models to train defense systems",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/",
+      "pubDate": "2026-07-31T12:34:03Z",
+      "snippet": "Chinese researchers have reportedly used leading U.S. AI models developed by OpenAI and Anthropic to train AI systems to advance defense capabilities.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "NASA still assessing Starliner-1 flight opportunities",
+      "link": "https://spacenews.com/nasa-still-assessing-starliner-1-flight-opportunities/",
+      "pubDate": "2026-07-31T12:13:25Z",
+      "snippet": "A NASA official says that work with Boeing on the company\u2019s CST-100 Starliner vehicle is making \u201cgood progress\u201d but declined to offer a date when the spacecraft could fly again.\nThe post NASA still as...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "The new space wars: lessons from Ukraine and the Middle East",
+      "link": "https://spacenews.com/the-new-space-wars-lessons-from-ukraine-and-the-middle-east/",
+      "pubDate": "2026-07-31T12:00:00Z",
+      "snippet": "In March 2021, while serving as a senior fellow at the Brookings Institution, I hosted a discussion with General Chance Saltzman, now Chief of Space Operations for the United States [&#8230;]\nThe post...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Rules of the road needed for orbital data center constellations",
+      "link": "https://spacenews.com/rules-of-the-road-needed-for-orbital-data-center-constellations/",
+      "pubDate": "2026-07-31T00:00:37Z",
+      "snippet": "As companies develop large constellations of orbital data center satellites, experts say now is the time to start thinking about some critical space safety topics and rules of the road.\nThe post Rules...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "The arms race for cheaper anti-ballistic weapons is underway",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/30/the-arms-race-for-cheaper-anti-ballistic-weapons-is-underway/",
+      "pubDate": "2026-07-30T21:25:53Z",
+      "snippet": "After years of a Patriot monopoly, new anti-ballistic alternatives are emerging. Officials hope to see some of them on the battlefield by the end of 2026.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "F-47 program producing test aircraft, on schedule for 2028 flight",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/30/f-47-program-producing-test-aircraft-on-schedule-for-2028-flight/",
+      "pubDate": "2026-07-30T20:17:51Z",
+      "snippet": "The F-47 program has begun its engineering and manufacturing phase and will fly during this presidential administration, a service official said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "K2 Space raises $500 million for commercial, defense satellite expansion",
+      "link": "https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/",
+      "pubDate": "2026-07-30T18:42:21Z",
+      "snippet": "The Series D more than doubles the satellite manufacturer\u2019s valuation in seven months and will fund a production ramp to as many as 100 large spacecraft a year\nThe post K2 Space raises $500 million fo...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Roman Space Telescope on track for late August launch",
+      "link": "https://spacenews.com/roman-space-telescope-on-track-for-late-august-launch/",
+      "pubDate": "2026-07-30T17:51:10Z",
+      "snippet": "NASA\u2019s next flagship space telescope is set to launch in late August, nine months ahead of schedule.\nThe post Roman Space Telescope on track for late August launch appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Iran war depleted US Patriot missile stockpiles, creating readiness challenges, experts say",
+      "link": "https://www.defensenews.com/news/your-military/2026/07/30/iran-war-depleted-us-patriot-missile-stockpiles-creating-readiness-challenges-experts-say/",
+      "pubDate": "2026-07-30T17:48:44Z",
+      "snippet": "The U.S. has depleted roughly two-thirds of its pre-war Patriot missile interceptor inventory during the conflict with Iran, new analysis says.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Jim Bridenstine on his new role at Quantum Space",
+      "link": "https://spacenews.com/jim-bridenstine-on-his-new-role-at-quantum-space/",
+      "pubDate": "2026-07-30T17:47:51Z",
+      "snippet": "In this episode, David Ariosto speaks with former NASA Administrator Jim Bridenstine, who is now the CEO of Quantum Space. Bridenstine talks about the strategic shift to proliferation in low [&#8230;]...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Iran to get Chinese shoulder-launched missile systems in weeks, sources say",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/30/iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks-sources-say/",
+      "pubDate": "2026-07-30T15:33:20Z",
+      "snippet": "Iran is expected to receive within weeks a first shipment out of up to 400 Chinese-made shoulder-fired air defense missile launchers.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/30/us-strikes-586-billion-patriot-missile-deal-amid-rising-stockpile-concerns/",
+      "pubDate": "2026-07-30T13:52:01Z",
+      "snippet": "The U.S. Army awarded Lockheed Martin a contract worth up to $58.6 billion to produce Patriot interceptor missiles.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "DARPA challenge pushes limits of heavy-lift drone technology",
+      "link": "https://www.defensenews.com/news/your-military/2026/07/30/darpa-challenge-pushes-limits-of-heavy-lift-drone-technology/",
+      "pubDate": "2026-07-30T13:45:57Z",
+      "snippet": "The Defense Advanced Research Projects Agency next week will kick off its inaugural Lift Challenge next week. The agency will award $6.5 million in prizes.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Rocket Lab wins another launch contract from Japan\u2019s iQPS",
       "link": "https://spacenews.com/rocket-lab-wins-another-launch-contract-from-japans-iqps/",
@@ -28,6 +145,15 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
+    },
+    {
+      "title": "Ultrafast X-rays capture chemistry unfolding atom by atom",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729010726.htm",
+      "pubDate": "2026-07-30T02:18:28Z",
+      "snippet": "Ultrafast X-rays revealed how a molecule converts absorbed light into motion in just trillionths of a second. Individual atoms recorded different stages of the process, opening a powerful new window i...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
     },
     {
       "title": "Proposed rule would exempt commercial launch licensing from environmental regulations",
@@ -192,24 +318,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Upper C-band auction offers another lift for GEO industry",
-      "link": "https://spacenews.com/upper-c-band-auction-offers-another-lift-for-geo-industry/",
-      "pubDate": "2026-07-27T20:11:07Z",
-      "snippet": "Satellite operators have welcomed the prospect of reaping more than $6 billion for quickly clearing upper C-band spectrum the FCC aims to auction next year, with billions more set to cover new geostat...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Sphinx Defense wins $287 million contract for strategic satellite communications software",
-      "link": "https://spacenews.com/sphinx-defense-wins-287-million-contract-for-strategic-satellite-communications-software/",
-      "pubDate": "2026-07-27T19:02:15Z",
-      "snippet": "Award covers mission planning software for ESS next-generation strategic communications satellites\nThe post Sphinx Defense wins $287 million contract for strategic satellite communications software ap...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Pentagon calls for cheaper long-range strike weapons,\u00a0with testing in just 3 months",
       "link": "https://www.defensenews.com/news/2026/07/27/pentagon-calls-for-cheaper-long-range-strike-weapons-with-testing-in-just-3-months/",
       "pubDate": "2026-07-27T18:55:04Z",
@@ -228,91 +336,10 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Orbes unveils Exo-ORB and agreement with Symphony Space",
-      "link": "https://spacenews.com/orbes-unveils-exo-orb-and-agreement-with-symphony-space/",
-      "pubDate": "2026-07-27T13:00:00Z",
-      "snippet": "SAN FRANCISCO \u2013 Southern California startup Orbes announced an agreement July 27 to send Exo-ORB, a free-flying satellite, to gather imagery of an uncrewed Symphony Space station. Exo-ORB, which is [&...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Intel debuts new chip for space computing",
-      "link": "https://spacenews.com/intel-debuts-new-chip-for-space-computing/",
-      "pubDate": "2026-07-27T13:00:00Z",
-      "snippet": "Starfire is designed to support onboard data processing and AI workloads.\nThe post Intel debuts new chip for space computing appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "SpaceNews Welcomes Max Aliprandi as Business Development Associate",
-      "link": "https://spacenews.com/spacenews-welcomes-max-aliprandi-as-business-development-associate/",
-      "pubDate": "2026-07-27T12:00:00Z",
-      "snippet": "SpaceNews today announced that Max Aliprandi has joined the company as Business Development Associate, strengthening the company&#8217;s sales, business development and product teams as SpaceNews cont...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Amazon files application for direct-to-device satellite constellation",
-      "link": "https://spacenews.com/amazon-files-application-for-direct-to-device-satellite-constellation/",
-      "pubDate": "2026-07-27T11:59:34Z",
-      "snippet": "Amazon has filed plans with the Federal Communications Commission for a constellation of more than 5,100 satellites that would provide direct-to-device (D2D) services using Globalstar spectrum.\nThe po...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "US Congress approves money for Taiwan defense. Does it mean Trump is done hesitating?",
       "link": "https://www.defensenews.com/global/asia-pacific/2026/07/27/us-congress-approves-money-for-taiwan-defense-does-it-mean-trump-is-done-hesitating/",
       "pubDate": "2026-07-27T11:00:46Z",
       "snippet": "Lawmakers in Washington designated some money for arms sales to Taiwan, as U.S. President Donald Trump continues to hold up a major weapons package.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "From steppe to sea, a Ukrainian drone unit hunts Russian ships",
-      "link": "https://www.defensenews.com/global/europe/2026/07/24/from-steppe-to-sea-a-ukrainian-drone-unit-hunts-russian-ships/",
-      "pubDate": "2026-07-24T20:59:44Z",
-      "snippet": "Drone units operating far behind the front line on Ukraine\u2019s sweeping steppe have hit more than 180 vessels and other sea-borne targets in recent weeks.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon nominates Lt. Gen. Admiral to command US Army Europe and Africa",
-      "link": "https://www.defensenews.com/news/your-military/2026/07/24/pentagon-nominates-lt-gen-admiral-to-command-us-army-europe-and-africa/",
-      "pubDate": "2026-07-24T18:09:52Z",
-      "snippet": "Lt. Gen. Kevin D. Admiral, who currently serves as the commander of III Corps and Fort Hood, Texas, was nominated to take over the top job on Thursday.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Indonesia orders Leonardo light fighters, eyes naval helicopters",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/07/24/indonesia-orders-leonardo-light-fighters-eyes-naval-helicopters/",
-      "pubDate": "2026-07-24T09:35:20Z",
-      "snippet": "The Indonesian Air Force is slated to get Leonardo M-346F light fighters, further diversifying an eclectic aircraft fleet.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "\u2018Incredible work\u2019: Ukrainian F-16 downs Russian fighter jet for first time",
-      "link": "https://www.defensenews.com/global/europe/2026/07/23/incredible-work-ukrainian-f-16-downs-russian-fighter-jet-for-first-time/",
-      "pubDate": "2026-07-23T20:07:36Z",
-      "snippet": "The kill, confirmed by the top U.S. general, is the latest sign of Kyiv's growing air power \u2014 pulled off by one of the oldest fighters in the sky.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Greece to buy $4 billion air defense system from Israel",
-      "link": "https://www.defensenews.com/global/europe/2026/07/23/greece-to-buy-4-billion-air-defence-system-from-israel/",
-      "pubDate": "2026-07-23T13:41:41Z",
-      "snippet": "Greece has approved the purchase of a multi-layer air defense system worth up to \u20ac3.5 billion ($4 billion) from Israel.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -484,15 +511,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
       "pubDate": "2026-06-02T04:30:26Z",
       "snippet": "Scientists have created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough u...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "NASA\u2019s X-59 is about to break the sound barrier for the first time",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260601025338.htm",
-      "pubDate": "2026-06-01T11:48:14Z",
-      "snippet": "NASA\u2019s futuristic X-59 jet is about to face its biggest challenge yet: breaking the sound barrier for the first time. After a successful series of test flights that pushed the aircraft to near-superso...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
