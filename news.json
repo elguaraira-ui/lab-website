@@ -1,7 +1,79 @@
 {
-  "updated": "2026-07-31T12:49:17.702363Z",
-  "count": 57,
+  "updated": "2026-08-03T13:31:32.883418Z",
+  "count": 55,
   "items": [
+    {
+      "title": "Airbus and Thales win order for SpainSat replacement",
+      "link": "https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement/",
+      "pubDate": "2026-08-03T12:15:34Z",
+      "snippet": "Airbus Defence and Space and Thales Alenia Space will build a replacement military communications satellite for Spain as they, along with Leonardo, continue efforts on a space joint venture.\nThe post ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "U.S. Air Force expands Blue Origin rocket cargo contract",
+      "link": "https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract/",
+      "pubDate": "2026-08-02T12:03:27Z",
+      "snippet": "The Air Force Research Laboratory increased by $11.7 million Blue Origin\u2019s contract to study the use of space rockets for point-to-point deliveries \nThe post U.S. Air Force expands Blue Origin rocket ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Space Force awards K2 Space $22.9 million for laser communications demonstration",
+      "link": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/",
+      "pubDate": "2026-08-01T20:28:39Z",
+      "snippet": "Two K2 satellites will host optical terminals intended to connect military systems in orbit\nThe post Space Force awards K2 Space $22.9 million for laser communications demonstration appeared first on ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat",
+      "link": "https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/",
+      "pubDate": "2026-08-01T13:38:42Z",
+      "snippet": "HELSINKI \u2014 China sent a new pair of secretive satellites into a programmatically new orbit Wednesday, while also upgrading its on-orbit communications relay capabilities. A Long March 6A rocket lifted...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Sending repurposed Mars rover to the moon could cost more than $1 billion",
+      "link": "https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/",
+      "pubDate": "2026-07-31T20:53:43Z",
+      "snippet": "Converting an engineering model of a Mars rover into an actual lunar rover could cost NASA more than $1 billion, an estimate strongly rejected by the agency\u2019s administrator.\nThe post Sending repurpose...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Spain commits up to $2.3 billion for national military communications for IRIS\u00b2",
+      "link": "https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/",
+      "pubDate": "2026-07-31T15:57:52Z",
+      "snippet": "WARSAW, Poland \u2014 The Spanish government announced it will allocate between 1.6 billion and 2 billion euros ($1.8 to $2.3 billion) to develop a national military satellite communications constellation ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Inside the effort to show Congress what war in space looks like",
+      "link": "https://spacenews.com/inside-the-effort-to-show-congress-what-war-in-space-looks-like/",
+      "pubDate": "2026-07-31T13:30:00Z",
+      "snippet": "The Space Force Association\u2019s National Spacepower Center is building an unclassified environment for demonstrating threats to satellites and their consequences on Earth\nThe post Inside the effort to s...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Space Force picks 15 companies for $981 million training range contract",
+      "link": "https://spacenews.com/space-force-picks-15-companies-for-981-million-training-range-contract/",
+      "pubDate": "2026-07-31T13:18:20Z",
+      "snippet": "Vendors will compete for orders to build satellites, sensors and systems for more realistic military space exercises\nThe post Space Force picks 15 companies for $981 million training range contract ap...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Chinese military researchers tap US AI models to train defense systems",
       "link": "https://www.defensenews.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/",
@@ -28,6 +100,24 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
+    },
+    {
+      "title": "World-first photonic time crystal opens a new era of light control",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260731034131.htm",
+      "pubDate": "2026-07-31T09:13:30Z",
+      "snippet": "Scientists have built the first all-optical photonic time crystal, allowing them to reshape the behavior of terahertz light at extraordinary speeds. The breakthrough could open the door to ultrafast c...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "This new alloy is up to 10 times stronger than steel and surprisingly flexible",
+      "link": "https://www.sciencedaily.com/releases/2026/07/260729051524.htm",
+      "pubDate": "2026-07-31T03:55:22Z",
+      "snippet": "Engineers have transformed a notoriously brittle cobalt-aluminum compound into a material that is both extremely strong and capable of bending without breaking. Their nanoscale design produced a yield...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
     },
     {
       "title": "Rules of the road needed for orbital data center constellations",
@@ -210,33 +300,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "LatConnect 60 Accelerates SWIRSAT Constellation Growth Anchored in Western Australia with Expansion into Malaysia and UAE",
-      "link": "https://spacenews.com/latconnect-60-accelerates-swirsat-constellation-growth-anchored-in-western-australia-with-expansion-into-malaysia-and-uae/",
-      "pubDate": "2026-07-29T14:38:53Z",
-      "snippet": "PERTH, Western Australia \u2014 LatConnect 60 (LC60) is executing on a multi-geography industrial plan to accelerate its SWIRSAT constellation, anchoring core technology development and payload manufacturi...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Fortastra and Hadrian join forces to streamline satellite production",
-      "link": "https://spacenews.com/fortastra-and-hadrian-join-forces-to-streamline-satellite-production/",
-      "pubDate": "2026-07-29T13:00:00Z",
-      "snippet": "SAN FRANCISCO \u2013 Fortastra, a Los Angeles startup focused on defending on-orbit infrastructure, is working with manufacturing specialist Hadrian to explore ways to apply precision machining and additiv...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "H3 to launch next ispace lunar lander mission",
-      "link": "https://spacenews.com/h3-to-launch-next-ispace-lunar-lander-mission/",
-      "pubDate": "2026-07-29T12:10:11Z",
-      "snippet": "Japanese lunar lander developer ispace has selected the H3 rocket to launch its next mission in 2028, creating what the companies called Japan\u2019s first private lunar transportation system.\nThe post H3 ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "House-passed defense bill includes controversial US-Israel tech measure",
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/29/house-passed-defense-bill-includes-controversial-us-israel-tech-measure/",
       "pubDate": "2026-07-29T12:00:00Z",
@@ -244,42 +307,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Boeing still working with NASA to schedule next Starliner flight",
-      "link": "https://spacenews.com/boeing-still-working-with-nasa-to-schedule-next-starliner-flight/",
-      "pubDate": "2026-07-29T01:24:07Z",
-      "snippet": "Boeing is still working with NASA to determine when to fly its CST-100 Starliner commercial crew vehicle on a cargo mission to the International Space Station.\nThe post Boeing still working with NASA ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Chinese startup raises funds for space situational awareness constellation, joining commercial SSA rush",
-      "link": "https://spacenews.com/chinese-startup-raises-funds-for-space-situational-awareness-constellation-joining-commercial-ssa-rush/",
-      "pubDate": "2026-07-29T01:18:28Z",
-      "snippet": "SINGAPORE \u2014 A Beijing-based startup has secured around $14 million to build a satellite constellation for tracking orbital objects, adding to China\u2019s growing SSA sector.&#160; Xingchen Daohe, also kno...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Swift reboost mission encounters attitude control problems",
-      "link": "https://spacenews.com/swift-reboost-mission-encounters-attitude-control-problems/",
-      "pubDate": "2026-07-28T23:04:29Z",
-      "snippet": "A spacecraft launched nearly a month ago in a high-risk bid to boost the orbit of a NASA astrophysics satellite is suffering attitude control problems that could jeopardize its mission.\nThe post Swift...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "ESA opens call to repurpose Gateway communications module",
-      "link": "https://spacenews.com/esa-opens-call-to-repurpose-gateway-communications-module/",
-      "pubDate": "2026-07-28T20:38:20Z",
-      "snippet": "JOHANNESBURG \u2014 The European Space Agency is moving ahead with plans to examine the feasibility of repurposing Lunar Link, a communications system developed for NASA\u2019s now-paused Gateway space station,...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "First Anduril YFQ-44A rolls off production line for US CCA program",
@@ -309,37 +336,10 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "NASA selects successor to CAPSTONE lunar mission",
-      "link": "https://spacenews.com/nasa-selects-successor-to-capstone-lunar-mission/",
-      "pubDate": "2026-07-28T12:03:50Z",
-      "snippet": "NASA has selected Advanced Space to fly a successor to a cislunar smallsat mission that will test rendezvous and proximity operations around the moon.\nThe post NASA selects successor to CAPSTONE lunar...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Pentagon calls for cheaper long-range strike weapons,\u00a0with testing in just 3 months",
       "link": "https://www.defensenews.com/news/2026/07/27/pentagon-calls-for-cheaper-long-range-strike-weapons-with-testing-in-just-3-months/",
       "pubDate": "2026-07-27T18:55:04Z",
       "snippet": "The Pentagon is seeking long-range weapons that cost less than $250,000 each and can be ready for demonstration within three months.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "India moves closer to a homegrown, long-range air defense",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/07/27/india-moves-closer-to-a-homegrown-long-range-air-defense/",
-      "pubDate": "2026-07-27T15:59:38Z",
-      "snippet": "A recent interceptor test marked the first demonstration of New Delhi\u2019s efforts to build a system that could rival the Russian-made S-400.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Congress approves money for Taiwan defense. Does it mean Trump is done hesitating?",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/07/27/us-congress-approves-money-for-taiwan-defense-does-it-mean-trump-is-done-hesitating/",
-      "pubDate": "2026-07-27T11:00:46Z",
-      "snippet": "Lawmakers in Washington designated some money for arms sales to Taiwan, as U.S. President Donald Trump continues to hold up a major weapons package.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -493,24 +493,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/06/260605023415.htm",
       "pubDate": "2026-06-06T05:27:37Z",
       "snippet": "A team at the University of Minnesota discovered that changing a metal film's thickness by just a few nanometers can dramatically alter how it behaves electronically. The finding reveals a surprising ...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "After 20 years, scientists finally shrink a powerful laser onto a chip",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260604044240.htm",
-      "pubDate": "2026-06-04T14:54:57Z",
-      "snippet": "Researchers at EPFL have developed a chip-scale ultrafast laser that performs on par with traditional tabletop femtosecond lasers. The innovation could make advanced laser technologies far smaller, ch...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "New light-powered chip could accelerate AI and quantum computing",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260601025343.htm",
-      "pubDate": "2026-06-02T04:30:26Z",
-      "snippet": "Scientists have created a tiny chip that can generate, steer, and read light-based information all in one device, marking a major leap toward ultra-fast, energy-efficient computing. The breakthrough u...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
