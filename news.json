@@ -1,7 +1,88 @@
 {
-  "updated": "2026-08-03T13:31:32.883418Z",
+  "updated": "2026-08-04T12:51:24.454861Z",
   "count": 55,
   "items": [
+    {
+      "title": "Future of Crew Dragon weighs on commercial spaceflight industry",
+      "link": "https://spacenews.com/future-of-crew-dragon-weighs-on-commercial-spaceflight-industry/",
+      "pubDate": "2026-08-04T12:14:03Z",
+      "snippet": "While SpaceX says there is a \u201csignificant\u201d amount of life left in its Crew Dragon fleet, the company has hedged on how long it will continue flying the spacecraft.\nThe post Future of Crew Dragon weigh...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "SpaceX\u2019s new Starfall program offers validation and competition for reentry startups",
+      "link": "https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups/",
+      "pubDate": "2026-08-04T12:00:00Z",
+      "snippet": "Demand for microgravity research and manufacturing is brewing \u2014 perhaps literally.When SpaceX launched the first test flight of Starfall, its commercial reentry capsule, on June 23, the company did no...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Rocketdyne reemerges as standalone space company",
+      "link": "https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company/",
+      "pubDate": "2026-08-04T09:20:00Z",
+      "snippet": "AE Industrial private-equity firm takes 60% stake as L3Harris retains a noncontrolling interest\nThe post Rocketdyne reemerges as standalone space company appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Kreios Space to fly VLEO demonstration in NanoAvionics bus",
+      "link": "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/",
+      "pubDate": "2026-08-04T04:01:00Z",
+      "snippet": "SAN FRANCISCO \u2013 Spanish startup Kreios Space announced plans Aug. 4 to conduct the first very low Earth orbit (VLEO) demonstration of its air-breathing electric propulsion (ABEP) in a Kongsberg [&#823...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NASA, SpaceX studying how to prevent future upper stage lunar collisions",
+      "link": "https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/",
+      "pubDate": "2026-08-04T02:03:57Z",
+      "snippet": "With a Falcon 9 upper stage set to hit the moon this week, SpaceX says it is working with NASA on ways to prevent similar collisions in the future.\nThe post NASA, SpaceX studying how to prevent future...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Air Force jet engine manufacturing plagued by \u2018significant challenges\u2019",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/08/03/us-air-force-jet-engine-manufacturing-plagued-by-significant-challenges/",
+      "pubDate": "2026-08-03T18:41:46Z",
+      "snippet": "Jet engine manufacturing is plagued by production delays, quality control issues and material shortages, the U.S. Air Force said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Hughes files for bankruptcy after GEO business loses ground to Starlink",
+      "link": "https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/",
+      "pubDate": "2026-08-03T16:06:47Z",
+      "snippet": "EchoStar\u2019s Hughes geostationary satellite broadband business has filed for bankruptcy in the United States after years of mounting competition from SpaceX\u2019s Starlink constellation.\nThe post Hughes fil...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Pentagon moves to triple Patriot, quadruple THAAD interceptor production",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/08/03/pentagon-moves-to-triple-patriot-quadruple-thaad-interceptor-production/",
+      "pubDate": "2026-08-03T15:59:37Z",
+      "snippet": "The Pentagon is looking to triple Patriot missile production and quadruple THAAD interceptor production through framework agreements announced Monday.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Xona secures spectrum approval for satellite navigation network",
+      "link": "https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/",
+      "pubDate": "2026-08-03T15:36:37Z",
+      "snippet": "The approval allows the startup to transmit stronger signals in spectrum adjacent to GPS frequencies\nThe post Xona secures spectrum approval for satellite navigation network appeared first on SpaceNew...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Airbus and Thales win order for SpainSat replacement",
       "link": "https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement/",
@@ -10,6 +91,15 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
+    },
+    {
+      "title": "Scientists twist crystal layers and reshape matter from within",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260801042819.htm",
+      "pubDate": "2026-08-03T04:36:48Z",
+      "snippet": "Researchers have found a way to build much larger \u201ctwisted\u201d oxide materials while precisely controlling how their atomic layers line up. Because these materials can be made over large areas and transf...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
     },
     {
       "title": "U.S. Air Force expands Blue Origin rocket cargo contract",
@@ -174,15 +264,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Jim Bridenstine on his new role at Quantum Space",
-      "link": "https://spacenews.com/jim-bridenstine-on-his-new-role-at-quantum-space/",
-      "pubDate": "2026-07-30T17:47:51Z",
-      "snippet": "In this episode, David Ariosto speaks with former NASA Administrator Jim Bridenstine, who is now the CEO of Quantum Space. Bridenstine talks about the strategic shift to proliferation in low [&#8230;]...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Iran to get Chinese shoulder-launched missile systems in weeks, sources say",
       "link": "https://www.defensenews.com/industry/techwatch/2026/07/30/iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks-sources-say/",
       "pubDate": "2026-07-30T15:33:20Z",
@@ -210,15 +291,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Rocket Lab wins another launch contract from Japan\u2019s iQPS",
-      "link": "https://spacenews.com/rocket-lab-wins-another-launch-contract-from-japans-iqps/",
-      "pubDate": "2026-07-30T11:59:29Z",
-      "snippet": "Rocket Lab has won another contract from Japanese radar imaging company iQPS for multiple launches of its Electron rocket.\nThe post Rocket Lab wins another launch contract from Japan\u2019s iQPS appeared f...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Ukraine\u2019s F-16s are being worn out from intercepting Russian drones",
       "link": "https://www.defensenews.com/flashpoints/ukraine/2026/07/30/ukraines-f-16s-are-being-worn-out-from-intercepting-russian-drones/",
       "pubDate": "2026-07-30T11:00:00Z",
@@ -228,15 +300,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Sophia Space and Caltech claim patent for space data centers",
-      "link": "https://spacenews.com/sophia-space-and-caltech-claim-patent-for-space-data-centers/",
-      "pubDate": "2026-07-30T04:00:00Z",
-      "snippet": "SAN FRANCISCO \u2013 Sophia Space announced the award July 30 of a patent, shared with the California Institute of Technology, covering large, modular space-based data centers. The patent, issued July [&#8...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Ultrafast X-rays capture chemistry unfolding atom by atom",
       "link": "https://www.sciencedaily.com/releases/2026/07/260729010726.htm",
       "pubDate": "2026-07-30T02:18:28Z",
@@ -244,42 +307,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Proposed rule would exempt commercial launch licensing from environmental regulations",
-      "link": "https://spacenews.com/proposed-rule-would-exempt-commercial-launch-licensing-from-environmental-regulations/",
-      "pubDate": "2026-07-29T23:12:56Z",
-      "snippet": "The Department of Transportation is proposing to exempt commercial space launch licensing from many environmental regulations, a move praised by industry but criticized by environmental groups.\nThe po...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "L3Harris delays missile business IPO to 2027 despite surging defense demand",
-      "link": "https://spacenews.com/l3harris-delays-missile-business-ipo-to-2027-despite-surging-defense-demand/",
-      "pubDate": "2026-07-29T22:57:06Z",
-      "snippet": "CEO says market doesn't reflect value of Pentagon-backed business \nThe post L3Harris delays missile business IPO to 2027 despite surging defense demand appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "SpaceX wins $1.6 billion in launch orders for military satellite networks",
-      "link": "https://spacenews.com/spacex-wins-1-6-billion-in-launch-orders-for-military-satellite-networks/",
-      "pubDate": "2026-07-29T20:43:51Z",
-      "snippet": "Falcon 9 will launch satellites supporting missile tracking, targeting and military communications\nThe post SpaceX wins $1.6 billion in launch orders for military satellite networks appeared first on ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Space Force awards All Points $250 million to expand satellite processing at Vandenberg",
-      "link": "https://spacenews.com/space-force-awards-all-points-250-million-to-expand-satellite-processing-at-vandenberg/",
-      "pubDate": "2026-07-29T19:45:17Z",
-      "snippet": "All Points Logistics is the third company selected under a Commercial Solutions Opening to add facilities where satellites can be inspected, tested, fueled and prepared for integration with launch veh...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Pentagon puts out call for robot boats that launch attack drones",
@@ -322,24 +349,6 @@
       "link": "https://www.defensenews.com/industry/techwatch/2026/07/28/us-central-command-uae-to-launch-artifical-intelligence-task-force/",
       "pubDate": "2026-07-28T15:42:02Z",
       "snippet": "CENTCOM and the UAE will establish Task Force Talon Synapse aimed at boosting the development of military artificial intelligence applications.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Finland closes airspace, restricts maritime traffic near Russia over drone risk",
-      "link": "https://www.defensenews.com/global/europe/2026/07/28/finland-closes-airspace-restricts-maritime-traffic-near-russia-over-drone-risk/",
-      "pubDate": "2026-07-28T14:09:34Z",
-      "snippet": "Finland\u2019s military said it closed a section of Finnish airspace and restricted maritime traffic off the country\u2019s southern coast near the Russian border.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon calls for cheaper long-range strike weapons,\u00a0with testing in just 3 months",
-      "link": "https://www.defensenews.com/news/2026/07/27/pentagon-calls-for-cheaper-long-range-strike-weapons-with-testing-in-just-3-months/",
-      "pubDate": "2026-07-27T18:55:04Z",
-      "snippet": "The Pentagon is seeking long-range weapons that cost less than $250,000 each and can be ready for demonstration within three months.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -484,15 +493,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/06/260606075511.htm",
       "pubDate": "2026-06-08T11:17:50Z",
       "snippet": "Scientists used nanoscale gold metamaterials to supercharge heat transfer across tiny gaps, achieving up to four times more energy flow than similar conventional systems. The breakthrough could lead t...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "A tiny atomic shift gives scientists powerful control over metals",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260605023415.htm",
-      "pubDate": "2026-06-06T05:27:37Z",
-      "snippet": "A team at the University of Minnesota discovered that changing a metal film's thickness by just a few nanometers can dramatically alter how it behaves electronically. The finding reveals a surprising ...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
