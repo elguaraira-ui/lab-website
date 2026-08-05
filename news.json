@@ -1,7 +1,124 @@
 {
-  "updated": "2026-08-04T12:51:24.454861Z",
+  "updated": "2026-08-05T12:30:08.496837Z",
   "count": 55,
   "items": [
+    {
+      "title": "Satellite manufacturing thrives in California despite cost and regulatory pressures",
+      "link": "https://spacenews.com/satellite-manufacturing-thrives-in-california-despite-cost-and-regulatory-pressures/",
+      "pubDate": "2026-08-05T12:00:00Z",
+      "snippet": "The mood was celebratory at the ribbon-cutting for Muon Space\u2019s San Jose, California, manufacturing facility in June. State, local, United States Space Force and Pentagon representatives lauded the st...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Think tank warns Europe\u2019s orbital compute gap is widening",
+      "link": "https://spacenews.com/think-tank-warns-europes-orbital-compute-gap-is-widening/",
+      "pubDate": "2026-08-05T08:00:00Z",
+      "snippet": "Europe risks becoming dependent on foreign orbital computing infrastructure as U.S. companies and China\u2019s government-led push accelerate the development of space-based data centers, according to the E...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Neuraspace raises $18 million to expand sovereign space awareness",
+      "link": "https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness/",
+      "pubDate": "2026-08-05T06:00:00Z",
+      "snippet": "Neuraspace, the Portuguese space traffic management startup, announced around $18 million in fresh funding Aug. 5 to expand European space domain awareness and defense capabilities.\nThe post Neuraspac...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Voyager seeks relaxed requirements in NASA commercial space station RFP",
+      "link": "https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp/",
+      "pubDate": "2026-08-05T03:01:23Z",
+      "snippet": "Voyager Technologies remains upbeat about the prospects for its Starlab commercial space station but is hoping for some tweaks to NASA\u2019s plans to support the station\u2019s development.\nThe post Voyager se...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "SpaceX to begin Starship orbital flights",
+      "link": "https://spacenews.com/spacex-to-begin-starship-orbital-flights/",
+      "pubDate": "2026-08-04T22:51:13Z",
+      "snippet": "SpaceX plans to start deploying upgraded Starlink satellites into orbit on the next flight of its Starship vehicle, scheduled for as soon as the end of the month.\nThe post SpaceX to begin Starship orb...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Rocket Lab, STR win Space Force contracts for airborne-target tracking",
+      "link": "https://spacenews.com/rocket-lab-str-win-space-force-contracts-for-airborne-target-tracking-technologies/",
+      "pubDate": "2026-08-04T22:47:07Z",
+      "snippet": "The companies, along with a third unidentified vendor, won $615 million in contracts for the AMTI satellite program\nThe post Rocket Lab, STR win Space Force contracts for airborne-target tracking appe...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Telesat lands $1.63 billion Canadian defense contract",
+      "link": "https://spacenews.com/telesat-lands-1-63-billion-canadian-defense-contract/",
+      "pubDate": "2026-08-04T22:00:15Z",
+      "snippet": "Arctic communications award will fund an expansion of Telesat\u2019s Lightspeed, taking the planned LEO network to 225 spacecraft\nThe post Telesat lands $1.63 billion Canadian defense contract appeared fir...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NOAA purchases Spire hyperspectral microwave sounder data",
+      "link": "https://spacenews.com/noaa-purchases-spire-hyperspectral-microwave-sounder-data/",
+      "pubDate": "2026-08-04T20:05:00Z",
+      "snippet": "SAN FRANCISCO \u2013 The National Oceanic and Atmospheric Administration will continue to evaluate data from Spire Global\u2019s Hyperspectral Microwave Sounder (HyMS) under a $3 million contract extension anno...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Army wants a surface-to-air missile that can destroy small drones",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/08/04/us-army-wants-a-surface-to-air-missile-that-can-destroy-small-drones/",
+      "pubDate": "2026-08-04T19:29:22Z",
+      "snippet": "The U.S. Army wants new surface-to-air missiles, costing less than $150,000 apiece, that can destroy small drones.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Rubicon ASCENT thruster moves from hot-fire testing to production",
+      "link": "https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production/",
+      "pubDate": "2026-08-04T15:48:20Z",
+      "snippet": "SAN FRANCISCO \u2013 Rubicon Space Systems completed hot-fire testing of its Velox 5-newton ASCENT monopropellant thruster, paving the way for on-orbit operations in 2027. \u201cThe program demonstrated perform...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Military demand shapes market for satellite propulsion",
+      "link": "https://spacenews.com/military-demand-shapes-market-for-sat-propulsion/",
+      "pubDate": "2026-08-04T15:00:00Z",
+      "snippet": "Startups and established spacecraft manufacturers are investing in engines designed to give small satellites more freedom to change orbit\nThe post Military demand shapes market for satellite propulsio...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Ukraine\u2019s Fire Point starts to integrate European tech into missile defense system",
+      "link": "https://www.defensenews.com/global/europe/2026/08/04/ukraines-fire-point-starts-to-integrate-european-tech-into-missile-defense-system/",
+      "pubDate": "2026-08-04T13:51:42Z",
+      "snippet": "Ukrainian drone and missile maker Fire Point has secured agreements from European defense companies for the Freyja missile defense project, its CEO said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US used \u2018virtually all\u2019 long-range precision missiles during Iran war, sources say",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/08/04/us-used-virtually-all-long-range-precision-missiles-during-iran-war-sources-say/",
+      "pubDate": "2026-08-04T13:08:32Z",
+      "snippet": "The U.S. Army has reportedly used up much of its stockpile of highly accurate long-range missiles during America's five-month war with Iran.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Future of Crew Dragon weighs on commercial spaceflight industry",
       "link": "https://spacenews.com/future-of-crew-dragon-weighs-on-commercial-spaceflight-industry/",
@@ -15,7 +132,7 @@
       "title": "SpaceX\u2019s new Starfall program offers validation and competition for reentry startups",
       "link": "https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups/",
       "pubDate": "2026-08-04T12:00:00Z",
-      "snippet": "Demand for microgravity research and manufacturing is brewing \u2014 perhaps literally.When SpaceX launched the first test flight of Starfall, its commercial reentry capsule, on June 23, the company did no...",
+      "snippet": "Demand for microgravity research and manufacturing is brewing \u2014 perhaps literally. When SpaceX launched the first test flight of Starfall, its commercial reentry capsule, on June 23, the company did [...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
@@ -120,51 +237,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "China launches secretive TJS-27 pair, orbits next-gen Tianlian relay sat",
-      "link": "https://spacenews.com/china-launches-secretive-tjs-27-pair-orbits-next-gen-tianlian-relay-sat/",
-      "pubDate": "2026-08-01T13:38:42Z",
-      "snippet": "HELSINKI \u2014 China sent a new pair of secretive satellites into a programmatically new orbit Wednesday, while also upgrading its on-orbit communications relay capabilities. A Long March 6A rocket lifted...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Sending repurposed Mars rover to the moon could cost more than $1 billion",
-      "link": "https://spacenews.com/sending-repurposed-mars-rover-to-the-moon-could-cost-more-than-1-billion/",
-      "pubDate": "2026-07-31T20:53:43Z",
-      "snippet": "Converting an engineering model of a Mars rover into an actual lunar rover could cost NASA more than $1 billion, an estimate strongly rejected by the agency\u2019s administrator.\nThe post Sending repurpose...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Spain commits up to $2.3 billion for national military communications for IRIS\u00b2",
-      "link": "https://spacenews.com/spain-commits-up-to-2-3-billion-for-national-military-communications-for-iris%c2%b2/",
-      "pubDate": "2026-07-31T15:57:52Z",
-      "snippet": "WARSAW, Poland \u2014 The Spanish government announced it will allocate between 1.6 billion and 2 billion euros ($1.8 to $2.3 billion) to develop a national military satellite communications constellation ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Inside the effort to show Congress what war in space looks like",
-      "link": "https://spacenews.com/inside-the-effort-to-show-congress-what-war-in-space-looks-like/",
-      "pubDate": "2026-07-31T13:30:00Z",
-      "snippet": "The Space Force Association\u2019s National Spacepower Center is building an unclassified environment for demonstrating threats to satellites and their consequences on Earth\nThe post Inside the effort to s...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Space Force picks 15 companies for $981 million training range contract",
-      "link": "https://spacenews.com/space-force-picks-15-companies-for-981-million-training-range-contract/",
-      "pubDate": "2026-07-31T13:18:20Z",
-      "snippet": "Vendors will compete for orders to build satellites, sensors and systems for more realistic military space exercises\nThe post Space Force picks 15 companies for $981 million training range contract ap...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Chinese military researchers tap US AI models to train defense systems",
       "link": "https://www.defensenews.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/",
       "pubDate": "2026-07-31T12:34:03Z",
@@ -172,24 +244,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "NASA still assessing Starliner-1 flight opportunities",
-      "link": "https://spacenews.com/nasa-still-assessing-starliner-1-flight-opportunities/",
-      "pubDate": "2026-07-31T12:13:25Z",
-      "snippet": "A NASA official says that work with Boeing on the company\u2019s CST-100 Starliner vehicle is making \u201cgood progress\u201d but declined to offer a date when the spacecraft could fly again.\nThe post NASA still as...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "The new space wars: lessons from Ukraine and the Middle East",
-      "link": "https://spacenews.com/the-new-space-wars-lessons-from-ukraine-and-the-middle-east/",
-      "pubDate": "2026-07-31T12:00:00Z",
-      "snippet": "In March 2021, while serving as a senior fellow at the Brookings Institution, I hosted a discussion with General Chance Saltzman, now Chief of Space Operations for the United States [&#8230;]\nThe post...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "World-first photonic time crystal opens a new era of light control",
@@ -210,15 +264,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "Rules of the road needed for orbital data center constellations",
-      "link": "https://spacenews.com/rules-of-the-road-needed-for-orbital-data-center-constellations/",
-      "pubDate": "2026-07-31T00:00:37Z",
-      "snippet": "As companies develop large constellations of orbital data center satellites, experts say now is the time to start thinking about some critical space safety topics and rules of the road.\nThe post Rules...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "The arms race for cheaper anti-ballistic weapons is underway",
       "link": "https://www.defensenews.com/industry/techwatch/2026/07/30/the-arms-race-for-cheaper-anti-ballistic-weapons-is-underway/",
       "pubDate": "2026-07-30T21:25:53Z",
@@ -235,24 +280,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "K2 Space raises $500 million for commercial, defense satellite expansion",
-      "link": "https://spacenews.com/k2-space-raises-500-million-for-commercial-defense-satellite-expansion/",
-      "pubDate": "2026-07-30T18:42:21Z",
-      "snippet": "The Series D more than doubles the satellite manufacturer\u2019s valuation in seven months and will fund a production ramp to as many as 100 large spacecraft a year\nThe post K2 Space raises $500 million fo...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Roman Space Telescope on track for late August launch",
-      "link": "https://spacenews.com/roman-space-telescope-on-track-for-late-august-launch/",
-      "pubDate": "2026-07-30T17:51:10Z",
-      "snippet": "NASA\u2019s next flagship space telescope is set to launch in late August, nine months ahead of schedule.\nThe post Roman Space Telescope on track for late August launch appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Iran war depleted US Patriot missile stockpiles, creating readiness challenges, experts say",
@@ -322,33 +349,6 @@
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/29/pentagon-has-kicked-off-review-of-us-force-posture-in-europe/",
       "pubDate": "2026-07-29T18:37:59Z",
       "snippet": "The review follows repeated calls by Trump administration officials for European allies to assume greater responsibility for NATO\u2019s conventional defense.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "House-passed defense bill includes controversial US-Israel tech measure",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/29/house-passed-defense-bill-includes-controversial-us-israel-tech-measure/",
-      "pubDate": "2026-07-29T12:00:00Z",
-      "snippet": "The House-passed defense bill includes a measure to encourage co-development and co-production between the U.S. and Israeli defense industrial bases.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "First Anduril YFQ-44A rolls off production line for US CCA program",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/28/first-anduril-yfq-44a-rolls-off-production-line-for-us-cca-program/",
-      "pubDate": "2026-07-28T17:31:06Z",
-      "snippet": "Anduril's Ohio-based facility produced its first YFQ-44A, an unmanned, semi-autonomous aircraft, on Monday.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Central Command, UAE to launch artificial intelligence task force",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/28/us-central-command-uae-to-launch-artifical-intelligence-task-force/",
-      "pubDate": "2026-07-28T15:42:02Z",
-      "snippet": "CENTCOM and the UAE will establish Task Force Talon Synapse aimed at boosting the development of military artificial intelligence applications.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
