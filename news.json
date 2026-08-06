@@ -1,7 +1,115 @@
 {
-  "updated": "2026-08-05T12:30:08.496837Z",
-  "count": 55,
+  "updated": "2026-08-06T12:48:12.017038Z",
+  "count": 57,
   "items": [
+    {
+      "title": "Three companies building the tech to grow crops on the moon",
+      "link": "https://spacenews.com/three-companies-building-the-tech-to-grow-crops-on-the-moon/",
+      "pubDate": "2026-08-06T12:00:00Z",
+      "snippet": "Rockets, rovers and landers have dominated the attention of the commercial space industry as the United States focuses on sending humans back to the moon, but a handful of companies [&#8230;]\nThe post...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Rocket Lab launches 8th iQPS satellite",
+      "link": "https://spacenews.com/rocket-lab-launches-8th-iqps-satellite/",
+      "pubDate": "2026-08-06T11:17:27Z",
+      "snippet": "Rocket Lab launched a Japanese radar-imaging satellite Aug. 6, more than a month after the previous launch attempt was aborted.\nThe post Rocket Lab launches 8th iQPS satellite appeared first on SpaceN...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket",
+      "link": "https://spacenews.com/chinese-launch-startup-orienspace-targets-ipo-secures-funding-for-reusable-gravity-2-rocket/",
+      "pubDate": "2026-08-06T10:48:03Z",
+      "snippet": "HELSINKI \u2014 Commercial launch company Orienspace has kicked off preparations for an IPO coaching process while closing a funding round for accelerating its reusable Gravity-2 rocket. The Shandong-based...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "NASA and Roscosmos continue seat barter agreement",
+      "link": "https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement/",
+      "pubDate": "2026-08-06T02:23:47Z",
+      "snippet": "NASA and Roscosmos have agreed to continue exchanging seats between Soyuz and Crew Dragon spacecraft, but that agreement does not yet extend to Starliner.\nThe post NASA and Roscosmos continue seat bar...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Trump-class battleship program will cost $275 billion, CBO report says",
+      "link": "https://www.defensenews.com/news/your-military/2026/08/05/trump-class-battleship-program-will-cost-275-billion-cbo-report-says/",
+      "pubDate": "2026-08-05T23:17:27Z",
+      "snippet": "The Congressional Budget Office estimates the Navy\u2019s new Trump-class battleship program will cost $275 billion, with the first ship costing $23.4 billion.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Firestorm Labs builds drones aboard USS Essex without shore resupply",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/08/05/firestorm-labs-builds-drones-aboard-uss-essex-without-shore-resupply/",
+      "pubDate": "2026-08-05T23:14:31Z",
+      "snippet": "Service members aboard the USS Essex were able to 3D-print 12 first-person view drones using a containerized microfactory.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "New Glenn explosion linked to rocket engine valve",
+      "link": "https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve/",
+      "pubDate": "2026-08-05T22:30:16Z",
+      "snippet": "Blue Origin has traced the explosion of its New Glenn rocket during a static-fire test in May to a valve in the rocket\u2019s BE-4 engine.\nThe post New Glenn explosion linked to rocket engine valve appeare...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Capella, Iceye and Umbra win NRO radar-data contracts",
+      "link": "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/",
+      "pubDate": "2026-08-05T17:05:00Z",
+      "snippet": "SAN FRANCISCO \u2013 The National Reconnaissance Office has awarded contracts to Capella Space, Iceye U.S. and Umbra to expand the U.S. government\u2019s use of commercial synthetic aperture radar (SAR). The [&...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Finding room in Starlink\u2019s shadow",
+      "link": "https://spacenews.com/finding-room-in-starlinks-shadow/",
+      "pubDate": "2026-08-05T15:00:00Z",
+      "snippet": "Another wave of constellations has staked claims for communications satellites in non-geostationary orbit (NGSO), but what hope do newcomers have alongside the industry\u2019s entrenched, vertically integr...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Navy, Saildrone to use unmanned systems in expanded counternarcotics role",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/08/05/us-navy-saildrone-to-use-unmanned-systems-in-expanded-counternarcotics-role/",
+      "pubDate": "2026-08-05T14:37:54Z",
+      "snippet": "The U.S. Navy is extending its use of Saildrone unmanned surface vehicles for an expanded counternarcotics mission.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Taiwan launches major war games to test command flexibility",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/08/05/taiwan-launches-major-war-games-to-test-command-flexibility/",
+      "pubDate": "2026-08-05T13:09:54Z",
+      "snippet": "Taiwan began major military drills to test commanders\u2019 ability to fight on the fly while temporarily limiting internet access for the first time.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "France\u2019s drone production shifts from policy ambition to factory floor",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/08/05/frances-drone-production-shifts-from-policy-ambition-to-factory-floor/",
+      "pubDate": "2026-08-05T12:48:10Z",
+      "snippet": "France\u2019s push to enlist its car industry to produce military drones is moving to industrial implementation.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Satellite manufacturing thrives in California despite cost and regulatory pressures",
       "link": "https://spacenews.com/satellite-manufacturing-thrives-in-california-despite-cost-and-regulatory-pressures/",
@@ -147,24 +255,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Kreios Space to fly VLEO demonstration in NanoAvionics bus",
-      "link": "https://spacenews.com/kreios-space-to-fly-vleo-demonstration-in-nanoavionics-bus/",
-      "pubDate": "2026-08-04T04:01:00Z",
-      "snippet": "SAN FRANCISCO \u2013 Spanish startup Kreios Space announced plans Aug. 4 to conduct the first very low Earth orbit (VLEO) demonstration of its air-breathing electric propulsion (ABEP) in a Kongsberg [&#823...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NASA, SpaceX studying how to prevent future upper stage lunar collisions",
-      "link": "https://spacenews.com/nasa-spacex-studying-how-to-prevent-future-upper-stage-lunar-collisions/",
-      "pubDate": "2026-08-04T02:03:57Z",
-      "snippet": "With a Falcon 9 upper stage set to hit the moon this week, SpaceX says it is working with NASA on ways to prevent similar collisions in the future.\nThe post NASA, SpaceX studying how to prevent future...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "US Air Force jet engine manufacturing plagued by \u2018significant challenges\u2019",
       "link": "https://www.defensenews.com/industry/techwatch/2026/08/03/us-air-force-jet-engine-manufacturing-plagued-by-significant-challenges/",
       "pubDate": "2026-08-03T18:41:46Z",
@@ -172,15 +262,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Hughes files for bankruptcy after GEO business loses ground to Starlink",
-      "link": "https://spacenews.com/hughes-files-for-bankruptcy-after-geo-business-loses-ground-to-starlink/",
-      "pubDate": "2026-08-03T16:06:47Z",
-      "snippet": "EchoStar\u2019s Hughes geostationary satellite broadband business has filed for bankruptcy in the United States after years of mounting competition from SpaceX\u2019s Starlink constellation.\nThe post Hughes fil...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Pentagon moves to triple Patriot, quadruple THAAD interceptor production",
@@ -192,24 +273,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Xona secures spectrum approval for satellite navigation network",
-      "link": "https://spacenews.com/xona-secures-spectrum-approval-for-250-satellite-navigation-network/",
-      "pubDate": "2026-08-03T15:36:37Z",
-      "snippet": "The approval allows the startup to transmit stronger signals in spectrum adjacent to GPS frequencies\nThe post Xona secures spectrum approval for satellite navigation network appeared first on SpaceNew...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Airbus and Thales win order for SpainSat replacement",
-      "link": "https://spacenews.com/airbus-and-thales-win-order-for-spainsat-replacement/",
-      "pubDate": "2026-08-03T12:15:34Z",
-      "snippet": "Airbus Defence and Space and Thales Alenia Space will build a replacement military communications satellite for Spain as they, along with Leonardo, continue efforts on a space joint venture.\nThe post ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Scientists twist crystal layers and reshape matter from within",
       "link": "https://www.sciencedaily.com/releases/2026/08/260801042819.htm",
       "pubDate": "2026-08-03T04:36:48Z",
@@ -217,24 +280,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "U.S. Air Force expands Blue Origin rocket cargo contract",
-      "link": "https://spacenews.com/u-s-air-force-expands-blue-origin-rocket-cargo-contract/",
-      "pubDate": "2026-08-02T12:03:27Z",
-      "snippet": "The Air Force Research Laboratory increased by $11.7 million Blue Origin\u2019s contract to study the use of space rockets for point-to-point deliveries \nThe post U.S. Air Force expands Blue Origin rocket ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Space Force awards K2 Space $22.9 million for laser communications demonstration",
-      "link": "https://spacenews.com/space-force-awards-k2-space-22-9-million-for-orbital-laser-communications-demonstration/",
-      "pubDate": "2026-08-01T20:28:39Z",
-      "snippet": "Two K2 satellites will host optical terminals intended to connect military systems in orbit\nThe post Space Force awards K2 Space $22.9 million for laser communications demonstration appeared first on ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Chinese military researchers tap US AI models to train defense systems",
@@ -318,15 +363,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Ukraine\u2019s F-16s are being worn out from intercepting Russian drones",
-      "link": "https://www.defensenews.com/flashpoints/ukraine/2026/07/30/ukraines-f-16s-are-being-worn-out-from-intercepting-russian-drones/",
-      "pubDate": "2026-07-30T11:00:00Z",
-      "snippet": "Ukrainian F-16s have destroyed more than 2,500 one-way attack drones, but repeated interceptions are wearing out the country's small fleet.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Ultrafast X-rays capture chemistry unfolding atom by atom",
       "link": "https://www.sciencedaily.com/releases/2026/07/260729010726.htm",
       "pubDate": "2026-07-30T02:18:28Z",
@@ -334,24 +370,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Pentagon puts out call for robot boats that launch attack drones",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/29/pentagon-puts-out-call-for-robot-boats-that-launch-attack-drones/",
-      "pubDate": "2026-07-29T19:22:52Z",
-      "snippet": "The Pentagon has put out a solicitation for drone boats that can launch attack drones \u2014 and it wants them ready to test within 120 days.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon has \u2018kicked off\u2019 review of US force posture in Europe",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/29/pentagon-has-kicked-off-review-of-us-force-posture-in-europe/",
-      "pubDate": "2026-07-29T18:37:59Z",
-      "snippet": "The review follows repeated calls by Trump administration officials for European allies to assume greater responsibility for NATO\u2019s conventional defense.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Scientists built a camera that can track invisible particles in 3D",
