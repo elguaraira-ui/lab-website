@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-06T12:48:12.017038Z",
-  "count": 57,
+  "updated": "2026-08-07T11:35:37.935166Z",
+  "count": 56,
   "items": [
+    {
+      "title": "Bipartisan Senate bill would sharpen Space Force training for conflict with China",
+      "link": "https://spacenews.com/bipartisan-senate-bill-would-sharpen-space-force-training-for-conflict-with-china/",
+      "pubDate": "2026-08-07T09:00:00Z",
+      "snippet": "Sens. Cortez Masto and Britt propose expanded space wargaming and an unclassified assessment of China's commercial space sector\nThe post Bipartisan Senate bill would sharpen Space Force training for c...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Boeing wins first production contract for jet-powered JDAM",
+      "link": "https://www.defensenews.com/news/your-military/2026/08/06/boeing-wins-first-production-contract-for-jet-powered-jdam/",
+      "pubDate": "2026-08-06T16:50:23Z",
+      "snippet": "Boeing won the first production contract for a jet-powered guided bomb that can fly more than 300 nautical miles.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "How should Europe\u2019s militaries respond to space threats",
+      "link": "https://spacenews.com/how-should-europes-militaries-respond-to-space-threats/",
+      "pubDate": "2026-08-06T15:31:26Z",
+      "snippet": "In this episode, SpaceNews\u2019 Emma Gatti leads a panel of experts to discuss Europe\u2019s defense posture and the reaction to space threats. This session was recorded in May at SpaceNews\u2019 [&#8230;]\nThe post...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Lessons for the future of NASA Mars exploration from a 1970s mission",
+      "link": "https://spacenews.com/lessons-for-the-future-of-nasa-mars-exploration-from-a-1970s-mission/",
+      "pubDate": "2026-08-06T15:00:00Z",
+      "snippet": "July 20 marked the 50th anniversary of one of the biggest robotic spaceflight achievements in NASA\u2019s history: the landing of the Viking 1 spacecraft on Mars. It was the first [&#8230;]\nThe post Lesson...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Rheinmetall scales down 2026 sales outlook on scrapped frigate program",
+      "link": "https://www.defensenews.com/global/europe/2026/08/06/rheinmetall-scales-down-2026-sales-outlook-on-scrapped-frigate-program/",
+      "pubDate": "2026-08-06T14:50:26Z",
+      "snippet": "German defense company Rheinmetall lowered its 2026 sales outlook on Thursday after the German government canceled a delayed frigate program.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Redwire to fly dedicated Starfall mission for microgravity research",
+      "link": "https://spacenews.com/redwire-to-fly-dedicated-starfall-mission-for-microgravity-research/",
+      "pubDate": "2026-08-06T14:18:19Z",
+      "snippet": "A Redwire subsidiary working on space biotech and pharmaceutical applications has signed an agreement to fly microgravity research payloads on SpaceX\u2019s Starfall reentry vehicle.\nThe post Redwire to fl...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Cell-inspired nanoreactor turns sunlight into hydrogen peroxide",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
+      "pubDate": "2026-08-06T12:03:02Z",
+      "snippet": "A new hollow nanoreactor mimics living cells to make hydrogen peroxide more efficiently using visible light. Its light-trapping cavity and proton-shuttling shell could open new possibilities for clean...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
     {
       "title": "Three companies building the tech to grow crops on the moon",
       "link": "https://spacenews.com/three-companies-building-the-tech-to-grow-crops-on-the-moon/",
@@ -201,15 +264,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Military demand shapes market for satellite propulsion",
-      "link": "https://spacenews.com/military-demand-shapes-market-for-sat-propulsion/",
-      "pubDate": "2026-08-04T15:00:00Z",
-      "snippet": "Startups and established spacecraft manufacturers are investing in engines designed to give small satellites more freedom to change orbit\nThe post Military demand shapes market for satellite propulsio...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Ukraine\u2019s Fire Point starts to integrate European tech into missile defense system",
       "link": "https://www.defensenews.com/global/europe/2026/08/04/ukraines-fire-point-starts-to-integrate-european-tech-into-missile-defense-system/",
       "pubDate": "2026-08-04T13:51:42Z",
@@ -226,33 +280,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Future of Crew Dragon weighs on commercial spaceflight industry",
-      "link": "https://spacenews.com/future-of-crew-dragon-weighs-on-commercial-spaceflight-industry/",
-      "pubDate": "2026-08-04T12:14:03Z",
-      "snippet": "While SpaceX says there is a \u201csignificant\u201d amount of life left in its Crew Dragon fleet, the company has hedged on how long it will continue flying the spacecraft.\nThe post Future of Crew Dragon weigh...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "SpaceX\u2019s new Starfall program offers validation and competition for reentry startups",
-      "link": "https://spacenews.com/spacexs-new-starfall-program-offers-validation-and-competition-for-reentry-startups/",
-      "pubDate": "2026-08-04T12:00:00Z",
-      "snippet": "Demand for microgravity research and manufacturing is brewing \u2014 perhaps literally. When SpaceX launched the first test flight of Starfall, its commercial reentry capsule, on June 23, the company did [...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Rocketdyne reemerges as standalone space company",
-      "link": "https://spacenews.com/rocketdyne-reemerges-as-standalone-space-company/",
-      "pubDate": "2026-08-04T09:20:00Z",
-      "snippet": "AE Industrial private-equity firm takes 60% stake as L3Harris retains a noncontrolling interest\nThe post Rocketdyne reemerges as standalone space company appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "US Air Force jet engine manufacturing plagued by \u2018significant challenges\u2019",
@@ -331,33 +358,6 @@
       "link": "https://www.defensenews.com/news/your-military/2026/07/30/iran-war-depleted-us-patriot-missile-stockpiles-creating-readiness-challenges-experts-say/",
       "pubDate": "2026-07-30T17:48:44Z",
       "snippet": "The U.S. has depleted roughly two-thirds of its pre-war Patriot missile interceptor inventory during the conflict with Iran, new analysis says.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Iran to get Chinese shoulder-launched missile systems in weeks, sources say",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/30/iran-to-get-chinese-shoulder-launched-missile-systems-in-weeks-sources-say/",
-      "pubDate": "2026-07-30T15:33:20Z",
-      "snippet": "Iran is expected to receive within weeks a first shipment out of up to 400 Chinese-made shoulder-fired air defense missile launchers.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US strikes $58.6 billion Patriot missile deal amid rising stockpile concerns",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/30/us-strikes-586-billion-patriot-missile-deal-amid-rising-stockpile-concerns/",
-      "pubDate": "2026-07-30T13:52:01Z",
-      "snippet": "The U.S. Army awarded Lockheed Martin a contract worth up to $58.6 billion to produce Patriot interceptor missiles.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "DARPA challenge pushes limits of heavy-lift drone technology",
-      "link": "https://www.defensenews.com/news/your-military/2026/07/30/darpa-challenge-pushes-limits-of-heavy-lift-drone-technology/",
-      "pubDate": "2026-07-30T13:45:57Z",
-      "snippet": "The Defense Advanced Research Projects Agency next week will kick off its inaugural Lift Challenge next week. The agency will award $6.5 million in prizes.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -502,15 +502,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/06/260606075858.htm",
       "pubDate": "2026-06-08T11:28:01Z",
       "snippet": "What if our biggest idea about reality is built on a hidden misunderstanding? A new philosophical look at space-time challenges the popular view that the past, present, and future all exist together i...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Heat breaks the rules at the nanoscale and scientists used it to their advantage",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260606075511.htm",
-      "pubDate": "2026-06-08T11:17:50Z",
-      "snippet": "Scientists used nanoscale gold metamaterials to supercharge heat transfer across tiny gaps, achieving up to four times more energy flow than similar conventional systems. The breakthrough could lead t...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
