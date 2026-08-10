@@ -1,7 +1,97 @@
 {
-  "updated": "2026-08-07T11:35:37.935166Z",
-  "count": 56,
+  "updated": "2026-08-10T11:39:30.736748Z",
+  "count": 57,
   "items": [
+    {
+      "title": "Katalyst Space makes progress in restoring control of Swift servicing spacecraft",
+      "link": "https://spacenews.com/katalyst-space-makes-progress-in-restoring-control-of-swift-servicing-spacecraft/",
+      "pubDate": "2026-08-10T00:55:19Z",
+      "snippet": "The company that developed a spacecraft to boost the orbit of a NASA observatory says it is making progress in recovering from its own spacecraft\u2019s problems.\nThe post Katalyst Space makes progress in ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Northrop Grumman, Canadian Space Agency repurpose their Gateway projects",
+      "link": "https://spacenews.com/northrop-grumman-canadian-space-agency-repurpose-their-gateway-projects/",
+      "pubDate": "2026-08-08T17:45:40Z",
+      "snippet": "Northrop Grumman and the Canadian Space Agency will adapt what they had been working on for NASA\u2019s lunar Gateway into applications for a planned lunar base, albeit with few specifics.\nThe post Northro...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "New fuel cell breakthrough could help power energy-hungry data centers",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260807035140.htm",
+      "pubDate": "2026-08-08T14:09:02Z",
+      "snippet": "A new nanostructured carbon design lets fuel-cell catalysts use tiny amounts of platinum while remaining remarkably stable and efficient. The breakthrough could help hydrogen fuel cells become a more ...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "This tiny gold crystal could bring quantum technology out of the deep freeze",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260806050706.htm",
+      "pubDate": "2026-08-08T13:17:32Z",
+      "snippet": "Scientists have created the first quantum material that can sort and transport different quantum states of light at room temperature, potentially removing the need for bulky, ultra-cold refrigeration ...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Senate installs new chiefs for U.S. military space acquisition, spy satellites",
+      "link": "https://spacenews.com/senate-installs-new-chiefs-for-u-s-military-space-acquisition-spy-satellites/",
+      "pubDate": "2026-08-07T21:03:50Z",
+      "snippet": "Erich Hernandez-Baquero will take over military space acquisition; Roger Mason will lead the National Reconnaissance Office\nThe post Senate installs new chiefs for U.S. military space acquisition, spy...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "How North Korean forces are bolstering Russia\u2019s war against Ukraine",
+      "link": "https://www.defensenews.com/global/europe/2026/08/07/how-north-korean-forces-are-bolstering-russias-war-against-ukraine/",
+      "pubDate": "2026-08-07T18:29:25Z",
+      "snippet": "North Korea has deployed troops, weapons and now, according to a Ukrainian intelligence official, a missile unit to support Russia\u2019s war against Ukraine.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "FCC Space Bureau deputy takes the reins amid licensing overhaul",
+      "link": "https://spacenews.com/fcc-space-bureau-deputy-takes-the-reins-amid-licensing-overhaul/",
+      "pubDate": "2026-08-07T17:54:30Z",
+      "snippet": "The FCC is turning to Space Bureau deputy chief Jennifer Gilsenan to keep its satellite regulatory overhaul moving as Jay Schwarz prepares to retire as its chief later this month.\nThe post FCC Space B...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Rheinmetall says ramping up ATACMS output will take time as US rebuilds stocks",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/08/07/rheinmetall-says-ramping-up-atacms-output-will-take-time-as-us-rebuilds-stocks/",
+      "pubDate": "2026-08-07T14:10:14Z",
+      "snippet": "Rheinmetall signed a memorandum of understanding with Lockheed last month to jointly produce Army Tactical Missile Systems.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "U.S. Senate confirms Schiess to lead Space Force",
+      "link": "https://spacenews.com/u-s-senate-confirms-schiess-to-lead-space-force/",
+      "pubDate": "2026-08-07T12:42:44Z",
+      "snippet": "New chief takes command as the Space Force prepares for rapid growth, acquisition reforms and Golden Dome\nThe post U.S. Senate confirms Schiess to lead Space Force\u00a0 appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Europe increases size and cost of IRIS\u00b2 constellation",
+      "link": "https://spacenews.com/europe-increases-size-and-cost-of-iris%c2%b2-constellation/",
+      "pubDate": "2026-08-07T11:51:44Z",
+      "snippet": "The European Commission has reached an agreement with an industrial consortium to proceed with a secure connectivity constellation, increasing the number of satellites as well as its cost.\nThe post Eu...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Bipartisan Senate bill would sharpen Space Force training for conflict with China",
       "link": "https://spacenews.com/bipartisan-senate-bill-would-sharpen-space-force-training-for-conflict-with-china/",
@@ -201,51 +291,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Voyager seeks relaxed requirements in NASA commercial space station RFP",
-      "link": "https://spacenews.com/voyager-seeks-relaxed-requirements-in-nasa-commercial-space-station-rfp/",
-      "pubDate": "2026-08-05T03:01:23Z",
-      "snippet": "Voyager Technologies remains upbeat about the prospects for its Starlab commercial space station but is hoping for some tweaks to NASA\u2019s plans to support the station\u2019s development.\nThe post Voyager se...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "SpaceX to begin Starship orbital flights",
-      "link": "https://spacenews.com/spacex-to-begin-starship-orbital-flights/",
-      "pubDate": "2026-08-04T22:51:13Z",
-      "snippet": "SpaceX plans to start deploying upgraded Starlink satellites into orbit on the next flight of its Starship vehicle, scheduled for as soon as the end of the month.\nThe post SpaceX to begin Starship orb...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Rocket Lab, STR win Space Force contracts for airborne-target tracking",
-      "link": "https://spacenews.com/rocket-lab-str-win-space-force-contracts-for-airborne-target-tracking-technologies/",
-      "pubDate": "2026-08-04T22:47:07Z",
-      "snippet": "The companies, along with a third unidentified vendor, won $615 million in contracts for the AMTI satellite program\nThe post Rocket Lab, STR win Space Force contracts for airborne-target tracking appe...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Telesat lands $1.63 billion Canadian defense contract",
-      "link": "https://spacenews.com/telesat-lands-1-63-billion-canadian-defense-contract/",
-      "pubDate": "2026-08-04T22:00:15Z",
-      "snippet": "Arctic communications award will fund an expansion of Telesat\u2019s Lightspeed, taking the planned LEO network to 225 spacecraft\nThe post Telesat lands $1.63 billion Canadian defense contract appeared fir...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NOAA purchases Spire hyperspectral microwave sounder data",
-      "link": "https://spacenews.com/noaa-purchases-spire-hyperspectral-microwave-sounder-data/",
-      "pubDate": "2026-08-04T20:05:00Z",
-      "snippet": "SAN FRANCISCO \u2013 The National Oceanic and Atmospheric Administration will continue to evaluate data from Spire Global\u2019s Hyperspectral Microwave Sounder (HyMS) under a $3 million contract extension anno...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "US Army wants a surface-to-air missile that can destroy small drones",
       "link": "https://www.defensenews.com/industry/techwatch/2026/08/04/us-army-wants-a-surface-to-air-missile-that-can-destroy-small-drones/",
       "pubDate": "2026-08-04T19:29:22Z",
@@ -253,15 +298,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Rubicon ASCENT thruster moves from hot-fire testing to production",
-      "link": "https://spacenews.com/rubicon-ascent-thruster-moves-from-hot-fire-testing-to-production/",
-      "pubDate": "2026-08-04T15:48:20Z",
-      "snippet": "SAN FRANCISCO \u2013 Rubicon Space Systems completed hot-fire testing of its Velox 5-newton ASCENT monopropellant thruster, paving the way for on-orbit operations in 2027. \u201cThe program demonstrated perform...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Ukraine\u2019s Fire Point starts to integrate European tech into missile defense system",
@@ -349,15 +385,6 @@
       "link": "https://www.defensenews.com/industry/techwatch/2026/07/30/f-47-program-producing-test-aircraft-on-schedule-for-2028-flight/",
       "pubDate": "2026-07-30T20:17:51Z",
       "snippet": "The F-47 program has begun its engineering and manufacturing phase and will fly during this presidential administration, a service official said.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Iran war depleted US Patriot missile stockpiles, creating readiness challenges, experts say",
-      "link": "https://www.defensenews.com/news/your-military/2026/07/30/iran-war-depleted-us-patriot-missile-stockpiles-creating-readiness-challenges-experts-say/",
-      "pubDate": "2026-07-30T17:48:44Z",
-      "snippet": "The U.S. has depleted roughly two-thirds of its pre-war Patriot missile interceptor inventory during the conflict with Iran, new analysis says.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -484,24 +511,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/06/260611024557.htm",
       "pubDate": "2026-06-11T09:16:15Z",
       "snippet": "Scientists found that transfer learning can make the search for new physics in the universe much faster, slashing the need for expensive simulations. Yet the approach can backfire when AI relies too h...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "MIT\u2019s new spacecraft engine could send tiny satellites to Mars",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260610003051.htm",
-      "pubDate": "2026-06-10T11:24:15Z",
-      "snippet": "MIT researchers have shown that one fuel can power both chemical and electric spacecraft thrusters, potentially transforming what small satellites can do. The approach combines quick bursts of speed w...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "What is space-time? A mystery at the heart of reality",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260606075858.htm",
-      "pubDate": "2026-06-08T11:28:01Z",
-      "snippet": "What if our biggest idea about reality is built on a hidden misunderstanding? A new philosophical look at space-time challenges the popular view that the past, present, and future all exist together i...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
