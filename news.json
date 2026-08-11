@@ -1,7 +1,169 @@
 {
-  "updated": "2026-08-10T11:39:30.736748Z",
-  "count": 57,
+  "updated": "2026-08-11T11:35:10.308168Z",
+  "count": 59,
   "items": [
+    {
+      "title": "First Neutron launch may slip to 2027",
+      "link": "https://spacenews.com/first-neutron-launch-may-slip-to-2027/",
+      "pubDate": "2026-08-11T11:13:24Z",
+      "snippet": "Rocket Lab warned that the chances of launching its Neutron rocket for the first time before the end of the year are \u201cnarrowing\u201d despite progress on the vehicle\u2019s development.\nThe post First Neutron l...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors",
+      "link": "https://spacenews.com/proteus-space-names-maj-gen-kim-crider-usaf-ret-to-board-of-directors/",
+      "pubDate": "2026-08-11T10:00:00Z",
+      "snippet": "LOS ANGELES, August 11th, 2026. Proteus Space, an AI-native aerospace company delivering rapid, end-to-end access to space, today announced that retired U.S. Air Force Maj. Gen. Kimberly &#8220;Kim&#8...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "H3 launches navigation satellite",
+      "link": "https://spacenews.com/h3-launches-navigation-satellite/",
+      "pubDate": "2026-08-11T09:52:19Z",
+      "snippet": "A Japanese H3 rocket successfully launched a navigation satellite Aug. 10, more than seven months after a similar launch ended in failure.\nThe post H3 launches navigation satellite appeared first on S...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "DOGE said it saved $1.7 billion by terminating a military health IT contract. GAO found the contract was never terminated.",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/08/10/doge-said-it-saved-17-billion-by-terminating-a-military-health-it-contract-gao-found-the-contract-was-never-terminated/",
+      "pubDate": "2026-08-10T21:33:33Z",
+      "snippet": "DOGE reported $1.76 billion in savings from terminating a contract, but GAO found that the contract was never terminated and no funds were deobligated.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Rocket Lab builds deployable infrastructure for Electron launches",
+      "link": "https://spacenews.com/rocket-lab-builds-deployable-infrastructure-for-electron-launches/",
+      "pubDate": "2026-08-10T21:31:34Z",
+      "snippet": "Named \u2018GHOST\u2019 the containerized infrastructure is designed to support orbital and suborbital launches \nThe post Rocket Lab builds deployable infrastructure for Electron launches appeared first on Spac...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "DARPA developing hypersonic cruise missile to evade enemy air defenses",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/08/10/darpa-developing-hypersonic-cruise-missile-to-evade-enemy-air-defenses/",
+      "pubDate": "2026-08-10T20:54:38Z",
+      "snippet": "DARPA is developing a hypersonic cruise missile in response to the Pentagon's concerns that American missiles are vulnerable to enemy air defenses.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Kepler books Neutron for 2028 optical relay launch",
+      "link": "https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch/",
+      "pubDate": "2026-08-10T20:25:23Z",
+      "snippet": "Kepler Communications plans to deploy next-generation optical relay satellites on Rocket Lab\u2019s upcoming Neutron rocket in one of several launches the Canadian operator has slated for 2028.\nThe post Ke...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Army exploring 50mm cannon to destroy drones",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/08/10/us-army-exploring-50mm-cannon-to-destroy-drones/",
+      "pubDate": "2026-08-10T18:10:52Z",
+      "snippet": "The U.S. Army is looking for companies that can provide a 50mm cannon and ammunition capable of destroying a broad range of drones.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US not disengaging from Asia, seeks \u2018partners, not protectorates,\u2019 says Pentagon official",
+      "link": "https://www.defensenews.com/pentagon/2026/08/10/us-not-disengaging-from-asia-seeks-partners-not-protectorates-says-pentagon-official/",
+      "pubDate": "2026-08-10T16:03:06Z",
+      "snippet": "Undersecretary of Defense for Policy Elbridge Colby reaffirmed the U.S. interest in the region as he called for greater burden-sharing and partnership.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Navy tests AI-powered submarine hunter",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/08/10/us-navy-tests-ai-powered-submarine-hunter/",
+      "pubDate": "2026-08-10T15:01:39Z",
+      "snippet": "The U.S. Navy tested artificial intelligence-powered sonar to target submarines during the multinational Rim of the Pacific exercise.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon launches online marketplace for counter-UAS technology",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/08/10/pentagon-launches-online-marketplace-for-counter-uas-technology/",
+      "pubDate": "2026-08-10T13:55:17Z",
+      "snippet": "It\u2019s like Amazon but only for defense agencies needing equipment for destroying commercial drones.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Japan\u2019s 2026 defense white paper highlights \u2018new era of crisis\u2019 in Indo-Pacific",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/08/10/japans-2026-defense-white-paper-highlights-new-era-of-crisis-in-indo-pacific/",
+      "pubDate": "2026-08-10T13:44:40Z",
+      "snippet": "Japan\u2019s 2026 Defense White Paper called China the world's \u201cgreatest strategic challenge,\u201d citing Beijing\u2019s expanded cooperation with Moscow.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Chinese Long March 7A rocket explodes shortly after liftoff",
+      "link": "https://spacenews.com/chinese-long-march-7a-rocket-explodes-shortly-after-liftoff/",
+      "pubDate": "2026-08-10T13:24:02Z",
+      "snippet": "HELSINKI \u2014 China appears to have lost an unknown payload after a Long March 7A rocket exploded less than 90 seconds into flight, according to amateur footage. The Long March [&#8230;]\nThe post Chinese...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "National security doesn\u2019t need more maps or imagery; it needs measurement",
+      "link": "https://spacenews.com/national-security-doesnt-need-more-maps-or-imagery-it-needs-measurement/",
+      "pubDate": "2026-08-10T13:00:00Z",
+      "snippet": "A decade ago, a United States carrier strike group departing San Diego could cross the Pacific with only intermittent detection. China might catch a glimpse \u2014 a satellite pass here, [&#8230;]\nThe post...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Marine Corps to get \u2018production-ready\u2019 microwave drone swarm killer",
+      "link": "https://www.defensenews.com/news/your-military/2026/08/10/marine-corps-to-get-production-ready-microwave-drone-swarm-killer/",
+      "pubDate": "2026-08-10T12:59:26Z",
+      "snippet": "The Marine Corps inked an $11 million contract for a vehicle-mounted weapon that can take down dozens of drones in a single zap.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Australia to buy sophisticated US air-to-air missiles",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/08/10/australia-to-buy-sophisticated-us-air-to-air-missiles/",
+      "pubDate": "2026-08-10T12:49:37Z",
+      "snippet": "Australia is set to become the first export customer for America's highly classified AIM-260A Joint Advanced Tactical Missile.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Tank problem delays first RFA launch",
+      "link": "https://spacenews.com/tank-problem-delays-first-rfa-launch/",
+      "pubDate": "2026-08-10T12:17:07Z",
+      "snippet": "The majority owner of Rocket Factory Augsburg is still confident the company will conduct its first orbital launch attempt this year despite a setback in testing.\nThe post Tank problem delays first RF...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite",
+      "link": "https://spacenews.com/astrolight-atmos-space-cargo-eye-first-in-flight-laser-link-between-reentry-vehicle-satellite/",
+      "pubDate": "2026-08-10T12:00:00Z",
+      "snippet": "WARSAW, Poland \u2014 The Lithuanian space laser communications company Astrolight has signed a memorandum of understanding with ATMOS Space Cargo, to demonstrate in-flight optical communications link betw...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Katalyst Space makes progress in restoring control of Swift servicing spacecraft",
       "link": "https://spacenews.com/katalyst-space-makes-progress-in-restoring-control-of-swift-servicing-spacecraft/",
@@ -165,33 +327,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Rocket Lab launches 8th iQPS satellite",
-      "link": "https://spacenews.com/rocket-lab-launches-8th-iqps-satellite/",
-      "pubDate": "2026-08-06T11:17:27Z",
-      "snippet": "Rocket Lab launched a Japanese radar-imaging satellite Aug. 6, more than a month after the previous launch attempt was aborted.\nThe post Rocket Lab launches 8th iQPS satellite appeared first on SpaceN...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Chinese launch startup Orienspace targets IPO, secures funding for reusable Gravity-2 rocket",
-      "link": "https://spacenews.com/chinese-launch-startup-orienspace-targets-ipo-secures-funding-for-reusable-gravity-2-rocket/",
-      "pubDate": "2026-08-06T10:48:03Z",
-      "snippet": "HELSINKI \u2014 Commercial launch company Orienspace has kicked off preparations for an IPO coaching process while closing a funding round for accelerating its reusable Gravity-2 rocket. The Shandong-based...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NASA and Roscosmos continue seat barter agreement",
-      "link": "https://spacenews.com/nasa-and-roscosmos-continue-seat-barter-agreement/",
-      "pubDate": "2026-08-06T02:23:47Z",
-      "snippet": "NASA and Roscosmos have agreed to continue exchanging seats between Soyuz and Crew Dragon spacecraft, but that agreement does not yet extend to Starliner.\nThe post NASA and Roscosmos continue seat bar...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Trump-class battleship program will cost $275 billion, CBO report says",
       "link": "https://www.defensenews.com/news/your-military/2026/08/05/trump-class-battleship-program-will-cost-275-billion-cbo-report-says/",
       "pubDate": "2026-08-05T23:17:27Z",
@@ -208,33 +343,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "New Glenn explosion linked to rocket engine valve",
-      "link": "https://spacenews.com/new-glenn-explosion-linked-to-rocket-engine-valve/",
-      "pubDate": "2026-08-05T22:30:16Z",
-      "snippet": "Blue Origin has traced the explosion of its New Glenn rocket during a static-fire test in May to a valve in the rocket\u2019s BE-4 engine.\nThe post New Glenn explosion linked to rocket engine valve appeare...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Capella, Iceye and Umbra win NRO radar-data contracts",
-      "link": "https://spacenews.com/capella-iceye-and-umbra-win-nro-radar-data-contracts/",
-      "pubDate": "2026-08-05T17:05:00Z",
-      "snippet": "SAN FRANCISCO \u2013 The National Reconnaissance Office has awarded contracts to Capella Space, Iceye U.S. and Umbra to expand the U.S. government\u2019s use of commercial synthetic aperture radar (SAR). The [&...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Finding room in Starlink\u2019s shadow",
-      "link": "https://spacenews.com/finding-room-in-starlinks-shadow/",
-      "pubDate": "2026-08-05T15:00:00Z",
-      "snippet": "Another wave of constellations has staked claims for communications satellites in non-geostationary orbit (NGSO), but what hope do newcomers have alongside the industry\u2019s entrenched, vertically integr...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "US Navy, Saildrone to use unmanned systems in expanded counternarcotics role",
@@ -264,73 +372,10 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Satellite manufacturing thrives in California despite cost and regulatory pressures",
-      "link": "https://spacenews.com/satellite-manufacturing-thrives-in-california-despite-cost-and-regulatory-pressures/",
-      "pubDate": "2026-08-05T12:00:00Z",
-      "snippet": "The mood was celebratory at the ribbon-cutting for Muon Space\u2019s San Jose, California, manufacturing facility in June. State, local, United States Space Force and Pentagon representatives lauded the st...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Think tank warns Europe\u2019s orbital compute gap is widening",
-      "link": "https://spacenews.com/think-tank-warns-europes-orbital-compute-gap-is-widening/",
-      "pubDate": "2026-08-05T08:00:00Z",
-      "snippet": "Europe risks becoming dependent on foreign orbital computing infrastructure as U.S. companies and China\u2019s government-led push accelerate the development of space-based data centers, according to the E...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Neuraspace raises $18 million to expand sovereign space awareness",
-      "link": "https://spacenews.com/neuraspace-raises-18-million-to-expand-sovereign-space-awareness/",
-      "pubDate": "2026-08-05T06:00:00Z",
-      "snippet": "Neuraspace, the Portuguese space traffic management startup, announced around $18 million in fresh funding Aug. 5 to expand European space domain awareness and defense capabilities.\nThe post Neuraspac...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "US Army wants a surface-to-air missile that can destroy small drones",
       "link": "https://www.defensenews.com/industry/techwatch/2026/08/04/us-army-wants-a-surface-to-air-missile-that-can-destroy-small-drones/",
       "pubDate": "2026-08-04T19:29:22Z",
       "snippet": "The U.S. Army wants new surface-to-air missiles, costing less than $150,000 apiece, that can destroy small drones.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Ukraine\u2019s Fire Point starts to integrate European tech into missile defense system",
-      "link": "https://www.defensenews.com/global/europe/2026/08/04/ukraines-fire-point-starts-to-integrate-european-tech-into-missile-defense-system/",
-      "pubDate": "2026-08-04T13:51:42Z",
-      "snippet": "Ukrainian drone and missile maker Fire Point has secured agreements from European defense companies for the Freyja missile defense project, its CEO said.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US used \u2018virtually all\u2019 long-range precision missiles during Iran war, sources say",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/08/04/us-used-virtually-all-long-range-precision-missiles-during-iran-war-sources-say/",
-      "pubDate": "2026-08-04T13:08:32Z",
-      "snippet": "The U.S. Army has reportedly used up much of its stockpile of highly accurate long-range missiles during America's five-month war with Iran.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Air Force jet engine manufacturing plagued by \u2018significant challenges\u2019",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/08/03/us-air-force-jet-engine-manufacturing-plagued-by-significant-challenges/",
-      "pubDate": "2026-08-03T18:41:46Z",
-      "snippet": "Jet engine manufacturing is plagued by production delays, quality control issues and material shortages, the U.S. Air Force said.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon moves to triple Patriot, quadruple THAAD interceptor production",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/08/03/pentagon-moves-to-triple-patriot-quadruple-thaad-interceptor-production/",
-      "pubDate": "2026-08-03T15:59:37Z",
-      "snippet": "The Pentagon is looking to triple Patriot missile production and quadruple THAAD interceptor production through framework agreements announced Monday.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -343,15 +388,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Chinese military researchers tap US AI models to train defense systems",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/31/chinese-military-researchers-tap-us-ai-models-to-train-defense-systems/",
-      "pubDate": "2026-07-31T12:34:03Z",
-      "snippet": "Chinese researchers have reportedly used leading U.S. AI models developed by OpenAI and Anthropic to train AI systems to advance defense capabilities.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "World-first photonic time crystal opens a new era of light control",
@@ -370,24 +406,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "The arms race for cheaper anti-ballistic weapons is underway",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/30/the-arms-race-for-cheaper-anti-ballistic-weapons-is-underway/",
-      "pubDate": "2026-07-30T21:25:53Z",
-      "snippet": "After years of a Patriot monopoly, new anti-ballistic alternatives are emerging. Officials hope to see some of them on the battlefield by the end of 2026.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "F-47 program producing test aircraft, on schedule for 2028 flight",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/07/30/f-47-program-producing-test-aircraft-on-schedule-for-2028-flight/",
-      "pubDate": "2026-07-30T20:17:51Z",
-      "snippet": "The F-47 program has begun its engineering and manufacturing phase and will fly during this presidential administration, a service official said.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Ultrafast X-rays capture chemistry unfolding atom by atom",
