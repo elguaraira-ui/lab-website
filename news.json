@@ -1,7 +1,97 @@
 {
-  "updated": "2026-08-12T11:36:48.990644Z",
+  "updated": "2026-08-13T11:36:36.704070Z",
   "count": 60,
   "items": [
+    {
+      "title": "Paragon lays off staff after Gateway cancellation",
+      "link": "https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation/",
+      "pubDate": "2026-08-13T10:13:56Z",
+      "snippet": "A subcontractor for a module that was being developed for NASA\u2019s lunar Gateway has laid off 70 people after NASA halted work on the program.\nThe post Paragon lays off staff after Gateway cancellation ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Astranis unveils geostationary surveillance satellite",
+      "link": "https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/",
+      "pubDate": "2026-08-13T09:30:00Z",
+      "snippet": "The spacecraft is designed to inspect, track and maneuver around satellites in geostationary orbit\nThe post Astranis unveils geostationary surveillance satellite appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Virgin Galactic delays resumption of commercial flights to 2027",
+      "link": "https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027/",
+      "pubDate": "2026-08-13T01:46:10Z",
+      "snippet": "Virgin Galactic says it will not start commercial flights of its new suborbital spaceplane until early 2027, a delay of a few months.\nThe post Virgin Galactic delays resumption of commercial flights t...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Space Force orders two more Impulse Space vehicles for maneuvering demonstrations",
+      "link": "https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/",
+      "pubDate": "2026-08-12T23:30:00Z",
+      "snippet": "A $28 million contract expansion adds Victus Salo 2 and 3 to an earlier award for responsive-space missions\nThe post Space Force orders two more Impulse Space vehicles for maneuvering demonstrations a...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Pentagon missile buildup changing the factory floor",
+      "link": "https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor/",
+      "pubDate": "2026-08-12T23:00:00Z",
+      "snippet": "Startups are bringing software, robotics and manufacturing methods developed around commercial space into a defense industry under pressure to produce weapons faster\nThe post Pentagon missile buildup ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Space Command identifies capabilities it needs for the next space war",
+      "link": "https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war/",
+      "pubDate": "2026-08-12T22:00:00Z",
+      "snippet": "Gen. Stephen Whiting said there is a demand for offensive capabilities and called on the industry to develop ways to disable the critical nodes of large satellite constellations\nThe post Space Command...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Army opens test ranges to private industry",
+      "link": "https://www.defensenews.com/news/your-military/2026/08/12/army-opens-test-ranges-to-private-industry/",
+      "pubDate": "2026-08-12T20:59:14Z",
+      "snippet": "The effort, the Army says, is designed to hasten the development and testing of drones, counter-drone systems, long-range fires and cheap interceptors.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Golden Dome creates digital hub to expand commercial participation",
+      "link": "https://spacenews.com/golden-dome-creates-digital-hub-to-expand-commercial-participation/",
+      "pubDate": "2026-08-12T14:00:00Z",
+      "snippet": "The Golden Dome \u2018ecosystem hub\u2019 allows companies to request information and submit ideas\nThe post Golden Dome creates digital hub to expand commercial participation appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "China\u2019s iSpace raises first batch of series E funding for reusable rocketry",
+      "link": "https://spacenews.com/chinas-ispace-raises-first-batch-of-series-e-funding-for-reusable-rocketry/",
+      "pubDate": "2026-08-12T12:48:16Z",
+      "snippet": "HELSINKI \u2014 Chinese reusable launch vehicle maker has secured a first batch of series E funding, months after a huge D++ round, with fundraising still ongoing. The funding is the [&#8230;]\nThe post Chi...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "One species, one planet: The moon is our ethical dress rehearsal for Mars",
+      "link": "https://spacenews.com/one-species-one-planet-the-moon-is-our-ethical-dress-rehearsal-for-mars/",
+      "pubDate": "2026-08-12T12:00:00Z",
+      "snippet": "Bruce Jakosky, Scott Hubbard and their colleagues have given us a masterclass in pragmatic systems engineering. Their recent SpaceNews editorial titled \u201cLaying the groundwork for the first human missi...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Firefly increases vehicle production even as launches lag",
       "link": "https://spacenews.com/firefly-increases-vehicle-production-even-as-launches-lag/",
@@ -120,6 +210,15 @@
       "color": "#1a6da8"
     },
     {
+      "title": "\u201cCannot be explained\u201d \u2013 New super steel stuns scientists",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260811052717.htm",
+      "pubDate": "2026-08-11T12:59:40Z",
+      "snippet": "Scientists have created an unusually corrosion-resistant stainless steel that could replace costly titanium components used to produce green hydrogen. The breakthrough could reduce structural material...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
       "title": "BlackSky wins seven-figure, multiyear international contract",
       "link": "https://spacenews.com/blacksky-wins-seven-figure-multiyear-international-contract/",
       "pubDate": "2026-08-11T12:30:00Z",
@@ -138,33 +237,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "First Neutron launch may slip to 2027",
-      "link": "https://spacenews.com/first-neutron-launch-may-slip-to-2027/",
-      "pubDate": "2026-08-11T11:13:24Z",
-      "snippet": "Rocket Lab warned that the chances of launching its Neutron rocket for the first time before the end of the year are \u201cnarrowing\u201d despite progress on the vehicle\u2019s development.\nThe post First Neutron l...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors",
-      "link": "https://spacenews.com/proteus-space-names-maj-gen-kim-crider-usaf-ret-to-board-of-directors/",
-      "pubDate": "2026-08-11T10:00:00Z",
-      "snippet": "LOS ANGELES, August 11th, 2026. Proteus Space, an AI-native aerospace company delivering rapid, end-to-end access to space, today announced that retired U.S. Air Force Maj. Gen. Kimberly &#8220;Kim&#8...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "H3 launches navigation satellite",
-      "link": "https://spacenews.com/h3-launches-navigation-satellite/",
-      "pubDate": "2026-08-11T09:52:19Z",
-      "snippet": "A Japanese H3 rocket successfully launched a navigation satellite Aug. 10, more than seven months after a similar launch ended in failure.\nThe post H3 launches navigation satellite appeared first on S...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "DOGE said it saved $1.7 billion by terminating a military health IT contract. GAO found the contract was never terminated.",
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/08/10/doge-said-it-saved-17-billion-by-terminating-a-military-health-it-contract-gao-found-the-contract-was-never-terminated/",
       "pubDate": "2026-08-10T21:33:33Z",
@@ -174,15 +246,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Rocket Lab builds deployable infrastructure for Electron launches",
-      "link": "https://spacenews.com/rocket-lab-builds-deployable-infrastructure-for-electron-launches/",
-      "pubDate": "2026-08-10T21:31:34Z",
-      "snippet": "Named \u2018GHOST\u2019 the containerized infrastructure is designed to support orbital and suborbital launches \nThe post Rocket Lab builds deployable infrastructure for Electron launches appeared first on Spac...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "DARPA developing hypersonic cruise missile to evade enemy air defenses",
       "link": "https://www.defensenews.com/industry/techwatch/2026/08/10/darpa-developing-hypersonic-cruise-missile-to-evade-enemy-air-defenses/",
       "pubDate": "2026-08-10T20:54:38Z",
@@ -190,15 +253,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Kepler books Neutron for 2028 optical relay launch",
-      "link": "https://spacenews.com/kepler-books-neutron-for-2028-optical-relay-launch/",
-      "pubDate": "2026-08-10T20:25:23Z",
-      "snippet": "Kepler Communications plans to deploy next-generation optical relay satellites on Rocket Lab\u2019s upcoming Neutron rocket in one of several launches the Canadian operator has slated for 2028.\nThe post Ke...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "US Army exploring 50mm cannon to destroy drones",
@@ -246,24 +300,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Chinese Long March 7A rocket explodes shortly after liftoff",
-      "link": "https://spacenews.com/chinese-long-march-7a-rocket-explodes-shortly-after-liftoff/",
-      "pubDate": "2026-08-10T13:24:02Z",
-      "snippet": "HELSINKI \u2014 China appears to have lost an unknown payload after a Long March 7A rocket exploded less than 90 seconds into flight, according to amateur footage. The Long March [&#8230;]\nThe post Chinese...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "National security doesn\u2019t need more maps or imagery; it needs measurement",
-      "link": "https://spacenews.com/national-security-doesnt-need-more-maps-or-imagery-it-needs-measurement/",
-      "pubDate": "2026-08-10T13:00:00Z",
-      "snippet": "A decade ago, a United States carrier strike group departing San Diego could cross the Pacific with only intermittent detection. China might catch a glimpse \u2014 a satellite pass here, [&#8230;]\nThe post...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Marine Corps to get \u2018production-ready\u2019 microwave drone swarm killer",
       "link": "https://www.defensenews.com/news/your-military/2026/08/10/marine-corps-to-get-production-ready-microwave-drone-swarm-killer/",
       "pubDate": "2026-08-10T12:59:26Z",
@@ -280,24 +316,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Tank problem delays first RFA launch",
-      "link": "https://spacenews.com/tank-problem-delays-first-rfa-launch/",
-      "pubDate": "2026-08-10T12:17:07Z",
-      "snippet": "The majority owner of Rocket Factory Augsburg is still confident the company will conduct its first orbital launch attempt this year despite a setback in testing.\nThe post Tank problem delays first RF...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Astrolight, ATMOS Space Cargo eye first in-flight laser link between reentry vehicle, satellite",
-      "link": "https://spacenews.com/astrolight-atmos-space-cargo-eye-first-in-flight-laser-link-between-reentry-vehicle-satellite/",
-      "pubDate": "2026-08-10T12:00:00Z",
-      "snippet": "WARSAW, Poland \u2014 The Lithuanian space laser communications company Astrolight has signed a memorandum of understanding with ATMOS Space Cargo, to demonstrate in-flight optical communications link betw...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "New fuel cell breakthrough could help power energy-hungry data centers",
@@ -376,15 +394,6 @@
       "link": "https://www.defensenews.com/industry/techwatch/2026/08/05/firestorm-labs-builds-drones-aboard-uss-essex-without-shore-resupply/",
       "pubDate": "2026-08-05T23:14:31Z",
       "snippet": "Service members aboard the USS Essex were able to 3D-print 12 first-person view drones using a containerized microfactory.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Navy, Saildrone to use unmanned systems in expanded counternarcotics role",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/08/05/us-navy-saildrone-to-use-unmanned-systems-in-expanded-counternarcotics-role/",
-      "pubDate": "2026-08-05T14:37:54Z",
-      "snippet": "The U.S. Navy is extending its use of Saildrone unmanned surface vehicles for an expanded counternarcotics mission.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -529,15 +538,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm",
       "pubDate": "2026-06-11T12:29:52Z",
       "snippet": "Scientists discovered that rice behaves in a highly unusual way: it weakens under rapid compression but stays stronger when pressure is applied slowly. Using this effect, they engineered a new materia...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "AI could uncover new physics faster but there\u2019s a surprising catch",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260611024557.htm",
-      "pubDate": "2026-06-11T09:16:15Z",
-      "snippet": "Scientists found that transfer learning can make the search for new physics in the universe much faster, slashing the need for expensive simulations. Yet the approach can backfire when AI relies too h...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
