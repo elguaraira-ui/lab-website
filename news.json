@@ -1,7 +1,79 @@
 {
-  "updated": "2026-08-13T11:36:36.704070Z",
-  "count": 60,
+  "updated": "2026-08-14T11:34:31.586101Z",
+  "count": 59,
   "items": [
+    {
+      "title": "Intuitive Machines wins contract for three GEO satellites",
+      "link": "https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/",
+      "pubDate": "2026-08-14T11:29:03Z",
+      "snippet": "Intuitive Machines announced Aug. 13 that it won a $600 million contract from an undisclosed customer for three geostationary orbit communications satellites.\nThe post Intuitive Machines wins contract...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Bulgaria advances project to launch new space, defense innovation hub",
+      "link": "https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub/",
+      "pubDate": "2026-08-14T09:00:00Z",
+      "snippet": "WARSAW, Poland \u2014 Bulgaria\u2019s government has approved a draft memorandum of understanding with local company Starbase Europe to collaborate on the development of a new space and defense innovation hub [...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
+      "link": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/",
+      "pubDate": "2026-08-14T09:00:00Z",
+      "snippet": "Paris, France &#124; August 2026\u00a0\u2013 Novaspace\u2019s latest\u00a0In-Orbit Services Markets\u00a0report projects that emerging in-orbit services will generate approximately\u00a0$3 billion in cumulative service revenues ov...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "CesiumAstro buys semiconductor specialist to boost constellation plans",
+      "link": "https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans/",
+      "pubDate": "2026-08-14T02:24:02Z",
+      "snippet": "CesiumAstro is acquiring semiconductor specialist Jariet Technologies, adding more in-house capabilities behind the phased-array antenna specialist\u2019s plans for a future communications constellation.\nT...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
+      "link": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/",
+      "pubDate": "2026-08-13T22:00:00Z",
+      "snippet": "Amazon Leo, Lockheed Martin, Northrop Grumman, Rocket Lab and York Space will prototype and test connections to the SpaceX-built data network backbone\nThe post Space Force awards five companies $60 mi...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Space Command expands Alabama footprint as headquarters relocation advances",
+      "link": "https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/",
+      "pubDate": "2026-08-13T16:27:05Z",
+      "snippet": "More than 100 personnel have already relocated to Redstone Arsenal as construction of billion-dollar Space Command facility is set to begin \nThe post Space Command expands Alabama footprint as headqua...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "An optical link \u2018internet\u2019 to connect networks in space",
+      "link": "https://spacenews.com/an-optical-link-internet-to-connect-networks-in-space/",
+      "pubDate": "2026-08-13T14:39:26Z",
+      "snippet": "In this episode, David Ariosto speaks with John Mackey, CEO, co-founder and director of Mbryonics. They discuss building optical links for satellites and other space infrastructure, and what it would ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity",
+      "link": "https://spacenews.com/maritime-satellite-service-revenues-to-reach-3-79-billion-by-2035-as-ngso-reshapes-maritime-connectivity/",
+      "pubDate": "2026-08-13T14:27:27Z",
+      "snippet": "Paris, France &#124; July 2026 \u2014 The maritime satellite communications market is entering a new phase of growth as next-generation satellite networks transform connectivity at sea. According to Novasp...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Paragon lays off staff after Gateway cancellation",
       "link": "https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation/",
@@ -120,15 +192,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "National lab visit boosts NASA\u2019s confidence in space nuclear propulsion mission",
-      "link": "https://spacenews.com/national-lab-visit-boosts-nasas-confidence-in-space-nuclear-propulsion-mission/",
-      "pubDate": "2026-08-11T21:01:02Z",
-      "snippet": "NASA officials say they are confident in plans to launch a nuclear electric propulsion demonstration mission by the end of 2028 after visiting the national lab building the mission\u2019s reactor.\nThe post...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Boeing unveils cheap radar seeker built from off-the-shelf parts",
       "link": "https://www.defensenews.com/industry/techwatch/2026/08/11/boeing-unveils-cheap-radar-seeker-built-from-off-the-shelf-parts/",
       "pubDate": "2026-08-11T18:39:53Z",
@@ -136,15 +199,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Golden Dome money starting to reach contractors, but long-term funding still unclear",
-      "link": "https://spacenews.com/golden-dome-money-starting-to-reach-contractors-but-long-term-funding-still-unclear/",
-      "pubDate": "2026-08-11T18:00:00Z",
-      "snippet": "Pentagon contractors are beginning to book Golden Dome related work, but much of it is flowing through established programs\nThe post Golden Dome money starting to reach contractors, but long-term fund...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Colby pushes back on dwindling stockpile reports amid Southeast Asia tour",
@@ -156,15 +210,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Webinar on MOSA Interoperability Standards for Space Systems \u2013 August 26, 2026",
-      "link": "https://spacenews.com/webinar-on-mosa-interoperability-standards-for-space-systems-august-26-2026/",
-      "pubDate": "2026-08-11T14:58:05Z",
-      "snippet": "FOR IMMEDIATE RELEASE ISTO Space Systems MOSA Interface Standards Alliance Announces Industry Webinar: \u201cMOSA Interoperability Standards for Space Systems\u201d August 26, 2026 &#124; 9:00 AM \u2013 1:00 PM PDT ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Pentagon gives industry 21 days to submit plans for \u2018significantly faster\u2019 weapons production",
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/08/11/pentagon-gives-industry-21-days-to-submit-plans-for-significantly-faster-weapons-production/",
       "pubDate": "2026-08-11T14:54:22Z",
@@ -172,15 +217,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "TechnoMile\u2019s Five-Year Sustained Growth Recognized with  Place on the 2026 Inc. 5000 List",
-      "link": "https://spacenews.com/technomiles-five-year-sustained-growth-recognized-with-place-on-the-2026-inc-5000-list/",
-      "pubDate": "2026-08-11T14:53:22Z",
-      "snippet": "TechnoMile, the leading AI solution that unifies growth, contracts, compliance, and security workflows, today announced it has been ranked No. 4,268 on the 2026 Inc. 5000 list, the annual list [&#8230...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Lockheed Martin launches modular missile tech with dedicated \u2018storefront\u2019",
@@ -192,24 +228,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "SpaceX increasing footprint in missile defense",
-      "link": "https://spacenews.com/spacex-increasing-footprint-in-missile-defense/",
-      "pubDate": "2026-08-11T14:34:01Z",
-      "snippet": "With multibillion-dollar awards for satellite networks, sensing and launch services, SpaceX is leveraging its vertically integrated manufacturing model to win a share of the Pentagon's missile defense...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Former Space Force general joins Lunar Outpost board",
-      "link": "https://spacenews.com/former-space-force-general-joins-lunar-outpost-board/",
-      "pubDate": "2026-08-11T13:00:00Z",
-      "snippet": "A retired Space Force general who served as deputy commander of U.S. Space Command is joining the board of lunar rover developer Lunar Outpost.\nThe post Former Space Force general joins Lunar Outpost ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "\u201cCannot be explained\u201d \u2013 New super steel stuns scientists",
       "link": "https://www.sciencedaily.com/releases/2026/08/260811052717.htm",
       "pubDate": "2026-08-11T12:59:40Z",
@@ -217,24 +235,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "BlackSky wins seven-figure, multiyear international contract",
-      "link": "https://spacenews.com/blacksky-wins-seven-figure-multiyear-international-contract/",
-      "pubDate": "2026-08-11T12:30:00Z",
-      "snippet": "SAN FRANCISCO &#8212; BlackSky announced Aug. 11 a seven-figure, multiyear contract to provide an international customer with persistent space-based monitoring and assured and on-demand satellite task...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Why Golden Dome Demands a Reimagined and Revitalized Industrial Base",
-      "link": "https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base/",
-      "pubDate": "2026-08-11T12:02:48Z",
-      "snippet": "For most of its history, the United States has been largely insulated from foreign threats. Vast oceans made it an impractical destination for invading armies before the advent of modern [&#8230;]\nThe...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "DOGE said it saved $1.7 billion by terminating a military health IT contract. GAO found the contract was never terminated.",
@@ -385,15 +385,6 @@
       "link": "https://www.defensenews.com/news/your-military/2026/08/05/trump-class-battleship-program-will-cost-275-billion-cbo-report-says/",
       "pubDate": "2026-08-05T23:17:27Z",
       "snippet": "The Congressional Budget Office estimates the Navy\u2019s new Trump-class battleship program will cost $275 billion, with the first ship costing $23.4 billion.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Firestorm Labs builds drones aboard USS Essex without shore resupply",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/08/05/firestorm-labs-builds-drones-aboard-uss-essex-without-shore-resupply/",
-      "pubDate": "2026-08-05T23:14:31Z",
-      "snippet": "Service members aboard the USS Essex were able to 3D-print 12 first-person view drones using a containerized microfactory.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
