@@ -1,7 +1,133 @@
 {
-  "updated": "2026-08-14T11:34:31.586101Z",
-  "count": 59,
+  "updated": "2026-08-17T11:13:50.646674Z",
+  "count": 60,
   "items": [
+    {
+      "title": "A rocket crashed into the moon. It was harmless, but the next one might not be.",
+      "link": "https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be/",
+      "pubDate": "2026-08-17T11:00:00Z",
+      "snippet": "Earlier this month, a discarded SpaceX Falcon 9 upper stage crashed into the lunar surface at 8,700 kilometers per hour. This was not a controlled landing. The stage had been [&#8230;]\nThe post A rock...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Long March 12 launches despite recent 7A failure, Long March 2C launches satellite for UAE",
+      "link": "https://spacenews.com/long-march-12-launches-despite-recent-7a-failure-long-march-2c-launches-satellite-for-uae/",
+      "pubDate": "2026-08-17T09:56:15Z",
+      "snippet": "HELSINKI \u2014 China launched a new batch of Guowang megaconstellation satellites over the weekend, following up with a separate launch of a developmental satellite for the UAE. The launch of [&#8230;]\nTh...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Lynk and Omnispace form Elveo Mobile to advance D2D services",
+      "link": "https://spacenews.com/lynk-and-omnispace-form-elveo-mobile-to-advance-d2d-services/",
+      "pubDate": "2026-08-17T04:30:00Z",
+      "snippet": "Lynk Global has completed its merger with Omnispace and rebranded as Elveo Mobile, adding globally coordinated S-band spectrum to expand direct-to-device satellite services beyond basic messaging.\nThe...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Satellite operators emphasize launch deals in a constrained market",
+      "link": "https://spacenews.com/satellite-operators-emphasize-launch-deals-in-a-constrained-market/",
+      "pubDate": "2026-08-16T23:05:35Z",
+      "snippet": "Amid a constrained launch market, satellite operators are emphasizing to investors and customers that they have lined up launch capacity, even if it is uncertain when it will be available.\nThe post Sa...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "U.S. defense agencies tap three companies for satellite disposal study",
+      "link": "https://spacenews.com/u-s-defense-agencies-tap-three-companies-for-satellite-disposal-study/",
+      "pubDate": "2026-08-16T10:50:00Z",
+      "snippet": "Firefly, D-Orbit USA and Katalyst will compete to show how commercial operators could capture and remove aging spacecraft\nThe post U.S. defense agencies tap three companies for satellite disposal stud...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Lunar orbiter among upcoming NASA CLPS task orders",
+      "link": "https://spacenews.com/lunar-orbiter-among-upcoming-nasa-clps-task-orders/",
+      "pubDate": "2026-08-15T23:49:58Z",
+      "snippet": "NASA plans to award three more lunar missions this year through a commercial services program, including an orbiter that would replace the Lunar Reconnaissance Orbiter\nThe post Lunar orbiter among upc...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "U.S. Space Force adds second surveillance sensor to Japanese constellation",
+      "link": "https://spacenews.com/u-s-space-force-adds-second-surveillance-sensor-to-japanese-constellation/",
+      "pubDate": "2026-08-14T22:26:27Z",
+      "snippet": "The Aug. 10 launch of QZS-7 completes bilateral program to host U.S. sensors aboard Japanese navigation satellites\nThe post U.S. Space Force adds second surveillance sensor to Japanese constellation a...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Wallops gears up for an increase in launches",
+      "link": "https://spacenews.com/wallops-gears-up-for-an-increase-in-launches/",
+      "pubDate": "2026-08-14T22:02:28Z",
+      "snippet": "With a projected surge in launches from Wallops Island in the coming years, companies and officials say now is the time for infrastructure improvements to benefit companies and their workers.\nThe post...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/08/14/pentagon-inks-deals-with-boeing-rtx-to-boost-production-of-sm-3-components/",
+      "pubDate": "2026-08-14T19:57:54Z",
+      "snippet": "The Pentagon signed seven-year framework agreements Friday with Boeing and RTX to expand production of critical components for the Standard Missile-3.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Patriot makers hedge on Ukraine production deal as officials question cause of hold-up",
+      "link": "https://www.defensenews.com/global/europe/2026/08/14/patriot-makers-hedge-on-ukraine-production-deal-as-officials-question-cause-of-hold-up/",
+      "pubDate": "2026-08-14T17:40:00Z",
+      "snippet": "Though Trump promised Kyiv a license to build Patriot missile interceptors last month, Lockheed Martin and Raytheon have put the brakes on production.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Spire and PlanetiQ win NOAA radio-occultation contracts",
+      "link": "https://spacenews.com/spire-and-planetiq-win-noaa-radio-occultation-contracts/",
+      "pubDate": "2026-08-14T16:33:58Z",
+      "snippet": "SAN FRANCISCO \u2013 The National Oceanic and Atmospheric Administration has awarded contracts to Spire Global and PlanetiQ to provide radio occultation data for terrestrial and space weather forecasts. Th...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "CENTCOM launches multinational attack drone task force",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/08/14/centcom-launches-multinational-attack-drone-task-force/",
+      "pubDate": "2026-08-14T15:09:04Z",
+      "snippet": "Task Force Falcon Strike will employ one-way attack drones composed of unmanned systems from above, on and below the sea.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.",
+      "link": "https://spacenews.com/cheaper-launch-has-moved-the-spacecraft-bottleneck-mass-is-out-surface-area-is-in/",
+      "pubDate": "2026-08-14T13:00:00Z",
+      "snippet": "In the beginning, mass constrained spaceflight. We live at the bottom of a gravity well, and the rocket equation punishes every kilogram we try to lift out of it. Mass [&#8230;]\nThe post Cheaper launc...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Blue Origin outlines plans for second Cape Canaveral launch pad",
+      "link": "https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad/",
+      "pubDate": "2026-08-14T12:08:33Z",
+      "snippet": "Blue Origin disclosed new details about its plans to not only rebuild but also expand its Florida launch site, adding a second pad for a larger version of New Glenn.\nThe post Blue Origin outlines plan...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Intuitive Machines wins contract for three GEO satellites",
       "link": "https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/",
@@ -15,7 +141,7 @@
       "title": "Bulgaria advances project to launch new space, defense innovation hub",
       "link": "https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub/",
       "pubDate": "2026-08-14T09:00:00Z",
-      "snippet": "WARSAW, Poland \u2014 Bulgaria\u2019s government has approved a draft memorandum of understanding with local company Starbase Europe to collaborate on the development of a new space and defense innovation hub [...",
+      "snippet": "WARSAW, Poland \u2014 Bulgaria\u2019s government has approved a draft memorandum of understanding with the local satellite manufacturer EnduroSat to collaborate on the development of a new space and defense inn...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
@@ -84,51 +210,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Astranis unveils geostationary surveillance satellite",
-      "link": "https://spacenews.com/astranis-unveils-geostationary-surveillance-satellite/",
-      "pubDate": "2026-08-13T09:30:00Z",
-      "snippet": "The spacecraft is designed to inspect, track and maneuver around satellites in geostationary orbit\nThe post Astranis unveils geostationary surveillance satellite appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Virgin Galactic delays resumption of commercial flights to 2027",
-      "link": "https://spacenews.com/virgin-galactic-delays-resumption-of-commercial-flights-to-2027/",
-      "pubDate": "2026-08-13T01:46:10Z",
-      "snippet": "Virgin Galactic says it will not start commercial flights of its new suborbital spaceplane until early 2027, a delay of a few months.\nThe post Virgin Galactic delays resumption of commercial flights t...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Space Force orders two more Impulse Space vehicles for maneuvering demonstrations",
-      "link": "https://spacenews.com/space-force-orders-two-more-impulse-space-vehicles-for-maneuvering-demonstrations/",
-      "pubDate": "2026-08-12T23:30:00Z",
-      "snippet": "A $28 million contract expansion adds Victus Salo 2 and 3 to an earlier award for responsive-space missions\nThe post Space Force orders two more Impulse Space vehicles for maneuvering demonstrations a...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Pentagon missile buildup changing the factory floor",
-      "link": "https://spacenews.com/pentagon-missile-buildup-changing-the-factory-floor/",
-      "pubDate": "2026-08-12T23:00:00Z",
-      "snippet": "Startups are bringing software, robotics and manufacturing methods developed around commercial space into a defense industry under pressure to produce weapons faster\nThe post Pentagon missile buildup ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Space Command identifies capabilities it needs for the next space war",
-      "link": "https://spacenews.com/space-command-identifies-capabilities-it-needs-for-the-next-space-war/",
-      "pubDate": "2026-08-12T22:00:00Z",
-      "snippet": "Gen. Stephen Whiting said there is a demand for offensive capabilities and called on the industry to develop ways to disable the critical nodes of large satellite constellations\nThe post Space Command...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Army opens test ranges to private industry",
       "link": "https://www.defensenews.com/news/your-military/2026/08/12/army-opens-test-ranges-to-private-industry/",
       "pubDate": "2026-08-12T20:59:14Z",
@@ -136,60 +217,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Golden Dome creates digital hub to expand commercial participation",
-      "link": "https://spacenews.com/golden-dome-creates-digital-hub-to-expand-commercial-participation/",
-      "pubDate": "2026-08-12T14:00:00Z",
-      "snippet": "The Golden Dome \u2018ecosystem hub\u2019 allows companies to request information and submit ideas\nThe post Golden Dome creates digital hub to expand commercial participation appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "China\u2019s iSpace raises first batch of series E funding for reusable rocketry",
-      "link": "https://spacenews.com/chinas-ispace-raises-first-batch-of-series-e-funding-for-reusable-rocketry/",
-      "pubDate": "2026-08-12T12:48:16Z",
-      "snippet": "HELSINKI \u2014 Chinese reusable launch vehicle maker has secured a first batch of series E funding, months after a huge D++ round, with fundraising still ongoing. The funding is the [&#8230;]\nThe post Chi...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "One species, one planet: The moon is our ethical dress rehearsal for Mars",
-      "link": "https://spacenews.com/one-species-one-planet-the-moon-is-our-ethical-dress-rehearsal-for-mars/",
-      "pubDate": "2026-08-12T12:00:00Z",
-      "snippet": "Bruce Jakosky, Scott Hubbard and their colleagues have given us a masterclass in pragmatic systems engineering. Their recent SpaceNews editorial titled \u201cLaying the groundwork for the first human missi...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Firefly increases vehicle production even as launches lag",
-      "link": "https://spacenews.com/firefly-increases-vehicle-production-even-as-launches-lag/",
-      "pubDate": "2026-08-12T02:06:13Z",
-      "snippet": "Firefly Aerospace says it is seeing strong interest in its launch vehicles and is ramping up production, but those efforts have yet to translate into an increased launch rate.\nThe post Firefly increas...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "U.S. expands missile production as Army seeks more depth in its arsenal",
-      "link": "https://spacenews.com/u-s-expands-missile-production-as-army-seeks-more-depth-in-its-arsenal/",
-      "pubDate": "2026-08-12T01:34:00Z",
-      "snippet": "Recent Northrop, Lockheed and L3Harris agreements are aimed at expanding capacity across propulsion, structures and other constrained parts of the missile supply chain\nThe post U.S. expands missile pr...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Golden Dome faces 2027 funding cliff",
-      "link": "https://spacenews.com/golden-dome-faces-2027-funding-cliff/",
-      "pubDate": "2026-08-11T22:01:21Z",
-      "snippet": "Gen. Michael Guetlein says Congress must find a way to finance the next phase as most initial funding is already committed\nThe post Golden Dome faces 2027 funding cliff\u00a0 appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Boeing unveils cheap radar seeker built from off-the-shelf parts",
@@ -363,15 +390,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Rheinmetall scales down 2026 sales outlook on scrapped frigate program",
-      "link": "https://www.defensenews.com/global/europe/2026/08/06/rheinmetall-scales-down-2026-sales-outlook-on-scrapped-frigate-program/",
-      "pubDate": "2026-08-06T14:50:26Z",
-      "snippet": "German defense company Rheinmetall lowered its 2026 sales outlook on Thursday after the German government canceled a delayed frigate program.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Cell-inspired nanoreactor turns sunlight into hydrogen peroxide",
       "link": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
       "pubDate": "2026-08-06T12:03:02Z",
@@ -379,15 +397,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Trump-class battleship program will cost $275 billion, CBO report says",
-      "link": "https://www.defensenews.com/news/your-military/2026/08/05/trump-class-battleship-program-will-cost-275-billion-cbo-report-says/",
-      "pubDate": "2026-08-05T23:17:27Z",
-      "snippet": "The Congressional Budget Office estimates the Navy\u2019s new Trump-class battleship program will cost $275 billion, with the first ship costing $23.4 billion.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Scientists twist crystal layers and reshape matter from within",
