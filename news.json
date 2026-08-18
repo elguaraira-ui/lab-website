@@ -1,7 +1,133 @@
 {
-  "updated": "2026-08-17T11:13:50.646674Z",
-  "count": 60,
+  "updated": "2026-08-18T11:13:36.612180Z",
+  "count": 58,
   "items": [
+    {
+      "title": "NRO to expand use of HawkEye 360\u2019s satellite intelligence",
+      "link": "https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence/",
+      "pubDate": "2026-08-18T09:00:00Z",
+      "snippet": "NRO contract increases U.S. government access to satellite data used to locate radars, ships and other electronic emitters\nThe post NRO to expand use of HawkEye 360\u2019s satellite intelligence appeared f...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Scientists may have finally proved that \u201cempty\u201d space isn\u2019t really empty",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
+      "pubDate": "2026-08-18T06:08:04Z",
+      "snippet": "A magnetar\u2019s colossal magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago, in which seemingly empty space alters the behavior of light. If confirmed, t...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "HEO to use Planet satellites for non-Earth imaging",
+      "link": "https://spacenews.com/heo-to-use-planet-satellites-for-non-earth-imaging/",
+      "pubDate": "2026-08-17T22:00:00Z",
+      "snippet": "HEO, the Australian company that uses Earth observation satellites to take images of other spacecraft, has signed an agreement with Planet to access that company\u2019s satellites\nThe post HEO to use Plane...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "New EU sanctions target leaders of Russia\u2019s space industry",
+      "link": "https://spacenews.com/new-eu-sanctions-target-leaders-of-russias-space-industry/",
+      "pubDate": "2026-08-17T21:05:13Z",
+      "snippet": "JOHANNESBURG \u2014 The European Union has sanctioned the head of a Roscosmos subsidiary developing a synthetic aperture radar satellite system for the Russian military. The sanctions are part of what [&#8...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Air Force looks to acquire target drones that can mimic stealth jets",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/08/17/us-air-force-looks-to-acquire-target-drones-that-can-mimic-stealth-jets/",
+      "pubDate": "2026-08-17T18:19:24Z",
+      "snippet": "The U.S. Air Force wants to acquire target drones that can mimic the performance of a variety of aircraft, from stealth fighters to small UAVs.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "German drone maker Helsing enlists Rakuten to broker Japan military deal",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/08/17/german-drone-maker-helsing-enlists-rakuten-to-broker-japan-military-deal/",
+      "pubDate": "2026-08-17T18:16:02Z",
+      "snippet": "German drone maker Helsing has enlisted Japanese e-commerce and finance firm Rakuten to help finalize a deal to sell its unmanned systems to Japan\u2019s army.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "ULA names Peller as new CEO",
+      "link": "https://spacenews.com/ula-names-peller-as-new-ceo/",
+      "pubDate": "2026-08-17T16:43:51Z",
+      "snippet": "United Launch Alliance has named Mark Peller, a longtime manager and executive at the company, as its new chief executive.\nThe post ULA names Peller as new CEO appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Trump orders Pentagon to cut back military exercises with South Korea",
+      "link": "https://www.defensenews.com/news/your-military/2026/08/17/trump-orders-pentagon-to-cut-back-military-exercises-with-south-korea/",
+      "pubDate": "2026-08-17T15:14:07Z",
+      "snippet": "President Trump instructed the Pentagon to \u201csubstantially reduce\u201d joint military exercises with long-term Asian ally South Korea.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Space Force, Japan launch sensor to bolster space surveillance above Indo-Pacific",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/08/17/us-space-force-japan-launch-sensor-to-bolster-space-surveillance-above-indo-pacific/",
+      "pubDate": "2026-08-17T15:06:00Z",
+      "snippet": "In a bilateral space effort, the U.S. Space Force successfully launched a Space Domain Awareness payload aboard Japan\u2019s Quasi-Zenith Satellite 7.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US awards Raytheon $22.9 billion deal to boost Tomahawk output",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/08/17/us-awards-raytheon-229-billion-deal-to-boost-tomahawk-output/",
+      "pubDate": "2026-08-17T14:35:50Z",
+      "snippet": "The U.S. military, scrambling to rebuild depleted stocks of high-tech weaponry, awarded Raytheon $22.9 billion to dramatically boost Tomahawk production.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down",
+      "link": "https://spacenews.com/l3harris-names-space-sector-leader-sam-mehta-ceo-after-kubasik-steps-down/",
+      "pubDate": "2026-08-17T12:32:06Z",
+      "snippet": "Christopher Kubasik exits after board investigation into unspecified conduct\nThe post L3Harris names space sector leader Sam Mehta CEO after Kubasik steps down appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Caltech breakthrough brings fiber-optic performance to silicon chips",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260814235905.htm",
+      "pubDate": "2026-08-17T12:30:41Z",
+      "snippet": "Caltech scientists have created ultra-low-loss optical pathways on silicon chips that approach the efficiency of fiber optics and dramatically outperform existing technology at visible wavelengths. Th...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss",
+      "link": "https://spacenews.com/the-77th-international-astronautical-congress-iac-2026-is-the-one-space-event-you-cannot-miss/",
+      "pubDate": "2026-08-17T12:23:27Z",
+      "snippet": "For more than 75 years, the International Astronautical Congress (IAC) has been the annual moment when the global space community comes together &#8211; not online, not in separate regional events, [&...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "SEOPS adds second Waymaker rideshare mission",
+      "link": "https://spacenews.com/seops-adds-second-waymaker-rideshare-mission/",
+      "pubDate": "2026-08-17T12:00:00Z",
+      "snippet": "Launch services provider SEOPS has added a second dedicated rideshare mission after seeing high demand for one announced less than three months ago.\nThe post SEOPS adds second Waymaker rideshare missi...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "A rocket crashed into the moon. It was harmless, but the next one might not be.",
       "link": "https://spacenews.com/a-rocket-crashed-into-the-moon-it-was-harmless-but-the-next-one-might-not-be/",
@@ -147,69 +273,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
-      "link": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/",
-      "pubDate": "2026-08-14T09:00:00Z",
-      "snippet": "Paris, France &#124; August 2026\u00a0\u2013 Novaspace\u2019s latest\u00a0In-Orbit Services Markets\u00a0report projects that emerging in-orbit services will generate approximately\u00a0$3 billion in cumulative service revenues ov...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "CesiumAstro buys semiconductor specialist to boost constellation plans",
-      "link": "https://spacenews.com/cesiumastro-buys-semiconductor-specialist-to-boost-constellation-plans/",
-      "pubDate": "2026-08-14T02:24:02Z",
-      "snippet": "CesiumAstro is acquiring semiconductor specialist Jariet Technologies, adding more in-house capabilities behind the phased-array antenna specialist\u2019s plans for a future communications constellation.\nT...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Space Force awards five companies $60 million for multi-vendor satellite network tests",
-      "link": "https://spacenews.com/space-force-awards-five-companies-60-million-for-multi-vendor-satellite-network-tests/",
-      "pubDate": "2026-08-13T22:00:00Z",
-      "snippet": "Amazon Leo, Lockheed Martin, Northrop Grumman, Rocket Lab and York Space will prototype and test connections to the SpaceX-built data network backbone\nThe post Space Force awards five companies $60 mi...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Space Command expands Alabama footprint as headquarters relocation advances",
-      "link": "https://spacenews.com/space-command-expands-alabama-footprint-as-headquarters-relocation-advances/",
-      "pubDate": "2026-08-13T16:27:05Z",
-      "snippet": "More than 100 personnel have already relocated to Redstone Arsenal as construction of billion-dollar Space Command facility is set to begin \nThe post Space Command expands Alabama footprint as headqua...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "An optical link \u2018internet\u2019 to connect networks in space",
-      "link": "https://spacenews.com/an-optical-link-internet-to-connect-networks-in-space/",
-      "pubDate": "2026-08-13T14:39:26Z",
-      "snippet": "In this episode, David Ariosto speaks with John Mackey, CEO, co-founder and director of Mbryonics. They discuss building optical links for satellites and other space infrastructure, and what it would ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity",
-      "link": "https://spacenews.com/maritime-satellite-service-revenues-to-reach-3-79-billion-by-2035-as-ngso-reshapes-maritime-connectivity/",
-      "pubDate": "2026-08-13T14:27:27Z",
-      "snippet": "Paris, France &#124; July 2026 \u2014 The maritime satellite communications market is entering a new phase of growth as next-generation satellite networks transform connectivity at sea. According to Novasp...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Paragon lays off staff after Gateway cancellation",
-      "link": "https://spacenews.com/paragon-lays-off-staff-after-gateway-cancellation/",
-      "pubDate": "2026-08-13T10:13:56Z",
-      "snippet": "A subcontractor for a module that was being developed for NASA\u2019s lunar Gateway has laid off 70 people after NASA halted work on the program.\nThe post Paragon lays off staff after Gateway cancellation ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Army opens test ranges to private industry",
       "link": "https://www.defensenews.com/news/your-military/2026/08/12/army-opens-test-ranges-to-private-industry/",
       "pubDate": "2026-08-12T20:59:14Z",
@@ -309,42 +372,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Pentagon launches online marketplace for counter-UAS technology",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/08/10/pentagon-launches-online-marketplace-for-counter-uas-technology/",
-      "pubDate": "2026-08-10T13:55:17Z",
-      "snippet": "It\u2019s like Amazon but only for defense agencies needing equipment for destroying commercial drones.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Japan\u2019s 2026 defense white paper highlights \u2018new era of crisis\u2019 in Indo-Pacific",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/08/10/japans-2026-defense-white-paper-highlights-new-era-of-crisis-in-indo-pacific/",
-      "pubDate": "2026-08-10T13:44:40Z",
-      "snippet": "Japan\u2019s 2026 Defense White Paper called China the world's \u201cgreatest strategic challenge,\u201d citing Beijing\u2019s expanded cooperation with Moscow.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Marine Corps to get \u2018production-ready\u2019 microwave drone swarm killer",
-      "link": "https://www.defensenews.com/news/your-military/2026/08/10/marine-corps-to-get-production-ready-microwave-drone-swarm-killer/",
-      "pubDate": "2026-08-10T12:59:26Z",
-      "snippet": "The Marine Corps inked an $11 million contract for a vehicle-mounted weapon that can take down dozens of drones in a single zap.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Australia to buy sophisticated US air-to-air missiles",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/08/10/australia-to-buy-sophisticated-us-air-to-air-missiles/",
-      "pubDate": "2026-08-10T12:49:37Z",
-      "snippet": "Australia is set to become the first export customer for America's highly classified AIM-260A Joint Advanced Tactical Missile.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "New fuel cell breakthrough could help power energy-hungry data centers",
       "link": "https://www.sciencedaily.com/releases/2026/08/260807035140.htm",
       "pubDate": "2026-08-08T14:09:02Z",
@@ -361,33 +388,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "How North Korean forces are bolstering Russia\u2019s war against Ukraine",
-      "link": "https://www.defensenews.com/global/europe/2026/08/07/how-north-korean-forces-are-bolstering-russias-war-against-ukraine/",
-      "pubDate": "2026-08-07T18:29:25Z",
-      "snippet": "North Korea has deployed troops, weapons and now, according to a Ukrainian intelligence official, a missile unit to support Russia\u2019s war against Ukraine.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Rheinmetall says ramping up ATACMS output will take time as US rebuilds stocks",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/08/07/rheinmetall-says-ramping-up-atacms-output-will-take-time-as-us-rebuilds-stocks/",
-      "pubDate": "2026-08-07T14:10:14Z",
-      "snippet": "Rheinmetall signed a memorandum of understanding with Lockheed last month to jointly produce Army Tactical Missile Systems.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Boeing wins first production contract for jet-powered JDAM",
-      "link": "https://www.defensenews.com/news/your-military/2026/08/06/boeing-wins-first-production-contract-for-jet-powered-jdam/",
-      "pubDate": "2026-08-06T16:50:23Z",
-      "snippet": "Boeing won the first production contract for a jet-powered guided bomb that can fly more than 300 nautical miles.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Cell-inspired nanoreactor turns sunlight into hydrogen peroxide",
@@ -520,24 +520,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/06/260614011848.htm",
       "pubDate": "2026-06-15T07:29:46Z",
       "snippet": "Oxford physicists have created an entirely new type of Schr\u00f6dinger\u2019s cat-like quantum state using components that are themselves highly quantum in nature. The advance could open new possibilities for ...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Scientists built a battery-free device that turns sunlight into fuel",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260611024601.htm",
-      "pubDate": "2026-06-11T13:44:58Z",
-      "snippet": "Scientists have developed an artificial photosynthesis system that essentially regulates itself, eliminating the need for batteries used in many current designs. The key innovation is an electrolyzer ...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Scientists discover a strange property in rice and turn it into a smart material",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260611024621.htm",
-      "pubDate": "2026-06-11T12:29:52Z",
-      "snippet": "Scientists discovered that rice behaves in a highly unusual way: it weakens under rapid compression but stays stronger when pressure is applied slowly. Using this effect, they engineered a new materia...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
