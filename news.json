@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-18T11:13:36.612180Z",
+  "updated": "2026-08-19T11:13:21.700240Z",
   "count": 58,
   "items": [
+    {
+      "title": "Space nuclear programs face near- and long-term challenges",
+      "link": "https://spacenews.com/space-nuclear-programs-face-near-and-long-term-challenges/",
+      "pubDate": "2026-08-19T02:36:51Z",
+      "snippet": "While space nuclear programs are \u201chaving a moment,\u201d industry officials say they face near-term challenges as well as longer-term concerns.\nThe post Space nuclear programs face near- and long-term chal...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "China\u2019s Landspace recovers booster with second  orbital launch of Zhuque-3 rocket",
+      "link": "https://spacenews.com/chinas-landspace-recovers-booster-with-second-orbital-launch-of-zhuque-3-rocket/",
+      "pubDate": "2026-08-19T01:05:21Z",
+      "snippet": "HELSINKI \u2014 Landspace successfully landed the first stage of its Zhuque-3 rocket Tuesday following the second launch of the rocket from the Gobi Desert. The second Zhuque-3 rocket lifted off [&#8230;]\n...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Rocket Lab to test Space Force data network connection in orbit in 2027",
+      "link": "https://spacenews.com/rocket-lab-to-test-space-force-data-network-connection-in-orbit-in-2027/",
+      "pubDate": "2026-08-18T22:52:36Z",
+      "snippet": "The company will use a Photon spacecraft to test interoperability with the Space Data Network's core infrastructure built by SpaceX\nThe post Rocket Lab to test Space Force data network connection in o...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "DARPA came close to finding a drone that can lift four times its own weight",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/08/18/darpa-came-close-to-finding-a-drone-that-can-lift-four-times-its-own-weight/",
+      "pubDate": "2026-08-18T16:41:58Z",
+      "snippet": "In its recent Lift Challenge, DARPA came close to finding a drone that could lift four times its own weight.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Army requests 133,000 GMLRS rockets by 2034",
+      "link": "https://www.defensenews.com/news/your-military/2026/08/18/us-army-requests-133000-gmlrs-rockets-by-2034/",
+      "pubDate": "2026-08-18T13:06:13Z",
+      "snippet": "The U.S. Army sent out a request this week for manufacturing 133,014 Guided Multiple Launch Rocket System, or GMLRS, rockets by 2034.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Eoptic, Inc. Selected to Supply DeepScan\u2122 Imaging Payloads Scheduled for Launch in 2027",
+      "link": "https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027/",
+      "pubDate": "2026-08-18T12:00:00Z",
+      "snippet": "Rochester, NY \u2013 August 18, 2026\u00a0\u2013\u00a0Eoptic, Inc., a developer of advanced multi-spectral and multi-modal imaging systems, today announced it has been selected as an approved supplier in support of strat...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "New report takes closer look at the Space Force spending surge",
+      "link": "https://spacenews.com/new-report-takes-closer-look-at-the-space-force-spending-surge/",
+      "pubDate": "2026-08-18T12:00:00Z",
+      "snippet": "Aerospace Corp. analysis finds most growth concentrated in classified programs, target tracking, missile warning and command and control\nThe post New report takes closer look at the Space Force spendi...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "NRO to expand use of HawkEye 360\u2019s satellite intelligence",
       "link": "https://spacenews.com/nro-to-expand-use-of-hawkeye-360s-satellite-intelligence/",
@@ -219,15 +282,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Spire and PlanetiQ win NOAA radio-occultation contracts",
-      "link": "https://spacenews.com/spire-and-planetiq-win-noaa-radio-occultation-contracts/",
-      "pubDate": "2026-08-14T16:33:58Z",
-      "snippet": "SAN FRANCISCO \u2013 The National Oceanic and Atmospheric Administration has awarded contracts to Spire Global and PlanetiQ to provide radio occultation data for terrestrial and space weather forecasts. Th...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "CENTCOM launches multinational attack drone task force",
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/08/14/centcom-launches-multinational-attack-drone-task-force/",
       "pubDate": "2026-08-14T15:09:04Z",
@@ -235,42 +289,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Cheaper launch has moved the spacecraft bottleneck. Mass is out, surface area is in.",
-      "link": "https://spacenews.com/cheaper-launch-has-moved-the-spacecraft-bottleneck-mass-is-out-surface-area-is-in/",
-      "pubDate": "2026-08-14T13:00:00Z",
-      "snippet": "In the beginning, mass constrained spaceflight. We live at the bottom of a gravity well, and the rocket equation punishes every kilogram we try to lift out of it. Mass [&#8230;]\nThe post Cheaper launc...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Blue Origin outlines plans for second Cape Canaveral launch pad",
-      "link": "https://spacenews.com/blue-origin-outlines-plans-for-second-cape-canaveral-launch-pad/",
-      "pubDate": "2026-08-14T12:08:33Z",
-      "snippet": "Blue Origin disclosed new details about its plans to not only rebuild but also expand its Florida launch site, adding a second pad for a larger version of New Glenn.\nThe post Blue Origin outlines plan...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Intuitive Machines wins contract for three GEO satellites",
-      "link": "https://spacenews.com/intuitive-machines-wins-contract-for-three-geo-satellites/",
-      "pubDate": "2026-08-14T11:29:03Z",
-      "snippet": "Intuitive Machines announced Aug. 13 that it won a $600 million contract from an undisclosed customer for three geostationary orbit communications satellites.\nThe post Intuitive Machines wins contract...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Bulgaria advances project to launch new space, defense innovation hub",
-      "link": "https://spacenews.com/bulgaria-advances-project-to-launch-new-space-defense-innovation-hub/",
-      "pubDate": "2026-08-14T09:00:00Z",
-      "snippet": "WARSAW, Poland \u2014 Bulgaria\u2019s government has approved a draft memorandum of understanding with the local satellite manufacturer EnduroSat to collaborate on the development of a new space and defense inn...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Army opens test ranges to private industry",
@@ -349,24 +367,6 @@
       "link": "https://www.defensenews.com/industry/techwatch/2026/08/10/us-army-exploring-50mm-cannon-to-destroy-drones/",
       "pubDate": "2026-08-10T18:10:52Z",
       "snippet": "The U.S. Army is looking for companies that can provide a 50mm cannon and ammunition capable of destroying a broad range of drones.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US not disengaging from Asia, seeks \u2018partners, not protectorates,\u2019 says Pentagon official",
-      "link": "https://www.defensenews.com/pentagon/2026/08/10/us-not-disengaging-from-asia-seeks-partners-not-protectorates-says-pentagon-official/",
-      "pubDate": "2026-08-10T16:03:06Z",
-      "snippet": "Undersecretary of Defense for Policy Elbridge Colby reaffirmed the U.S. interest in the region as he called for greater burden-sharing and partnership.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Navy tests AI-powered submarine hunter",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/08/10/us-navy-tests-ai-powered-submarine-hunter/",
-      "pubDate": "2026-08-10T15:01:39Z",
-      "snippet": "The U.S. Navy tested artificial intelligence-powered sonar to target submarines during the multinational Rim of the Pacific exercise.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
