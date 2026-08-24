@@ -1,15 +1,42 @@
 {
-  "updated": "2026-08-21T11:14:45.988424Z",
+  "updated": "2026-08-24T11:16:11.460277Z",
   "count": 57,
   "items": [
     {
-      "title": "Landspace aims to refly recovered Zhuque-3 booster within six months",
-      "link": "https://spacenews.com/landspace-aims-to-refly-recovered-zhuque-3-booster-within-six-months/",
-      "pubDate": "2026-08-21T08:54:11Z",
-      "snippet": "HELSINKI \u2014 Chinese commercial launch firm Landspace is targeting a reflight of its Zhuque-3 first stage in months, following its historic successful vertical landing Aug. 18. A company representative ...",
+      "title": "Two US tanker aircraft leave Bulgaria a month after deployment upset Iran",
+      "link": "https://www.defensenews.com/global/europe/2026/08/24/two-us-tanker-aircraft-leave-bulgaria-a-month-after-deployment-upset-iran/",
+      "pubDate": "2026-08-24T08:44:35Z",
+      "snippet": "Two U.S. tanker aircraft have left Bulgaria\u2019s Bezmer air base, Bulgaria\u2019s defense minister said, after their deployment in the Balkan country angered Iran.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Physicists create a tiny \u201cBig Bang\u201d with surprisingly small atomic nuclei",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260822015143.htm",
+      "pubDate": "2026-08-23T13:08:55Z",
+      "snippet": "Researchers at CERN have created microscopic versions of the early Universe by colliding surprisingly small atomic nuclei at nearly the speed of light. The collisions produced quark-gluon plasma, the ...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "New Novaspace forecast: 6,500+ EO satellites to launch by 2035",
+      "link": "https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/",
+      "pubDate": "2026-08-21T19:48:14Z",
+      "snippet": "Paris, France &#124; August 2026\u2013 More than 6,500 Earth observation (EO) satellites are expected to launch by 2035, generating $155.9 billion in manufacturing revenues as governments expand sovereign ...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
+    },
+    {
+      "title": "India seeks role in France\u2019s sixth-generation fighter program",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/08/21/india-seeks-role-in-frances-sixth-generation-fighter-program/",
+      "pubDate": "2026-08-21T12:52:08Z",
+      "snippet": "India hopes to gain key fighter-jet knowledge in a prospective partnership with France on a sixth-generation aircraft.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
     },
     {
       "title": "US Army to end experimental drone battalion in Europe",
@@ -21,37 +48,10 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "New space transportation policy focuses on increased launch rates",
-      "link": "https://spacenews.com/new-space-transportation-policy-focuses-on-increased-launch-rates/",
-      "pubDate": "2026-08-20T23:30:13Z",
-      "snippet": "The White House released a new space transportation policy Aug. 20 with an emphasis on enabling a sharp increase in the number of launches and reentries.\nThe post New space transportation policy focus...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Golden Dome chief touts progress as funding questions loom",
-      "link": "https://spacenews.com/golden-dome-chief-touts-progress-as-funding-questions-loom/",
-      "pubDate": "2026-08-20T23:02:34Z",
-      "snippet": "Guetlein joins North Dakota senators in making the case for the missile defense program \nThe post Golden Dome chief touts progress as funding questions loom appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Elve qualifies millimeter-wave amplifiers for spaceflight",
       "link": "https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight/",
       "pubDate": "2026-08-20T22:51:53Z",
       "snippet": "SAN FRANCISCO \u2013 California startup Elve has qualified its 100-watt millimeter-wave Traveling Wave Tube Amplifier platform for spaceflight. With U.S. Space Force Small Business Innovation Research fund...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "SpaceWERX selects 11 firms to scale technologies for military space",
-      "link": "https://spacenews.com/spacewerx-selects-11-firms-to-scale-technologies-for-military-space/",
-      "pubDate": "2026-08-20T21:44:35Z",
-      "snippet": "The new round of STRATFIs were awarded to Agile Space Industries, Antares Nuclear, EO Solutions, Hydrosat, Kall Morris, Method Security, Muon Space, Scout Space, Sedaro, Star Catcher Industries and Th...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
@@ -93,28 +93,10 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Rocket Lab launches 9th satellite for iQPS",
-      "link": "https://spacenews.com/rocket-lab-launches-9th-satellite-for-iqps/",
-      "pubDate": "2026-08-20T16:38:31Z",
-      "snippet": "Rocket Lab launched another satellite for Japanese radar-imaging company iQPS on Aug. 20.\nThe post Rocket Lab launches 9th satellite for iQPS appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium",
       "link": "https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium/",
       "pubDate": "2026-08-20T16:00:00Z",
       "snippet": "Huntsville, AL &#8212; Moog Inc. (NYSE: MOG.A and MOG.B) announces a significant expansion at its Huntsville, AL facility that now includes a new secure Hypersonic/Interceptor Hardware-in-the-Loop (HW...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Portal Space Systems to include rideshare payloads on Falcon 9 launch of Supernova",
-      "link": "https://spacenews.com/portal-space-systems-to-include-rideshare-payloads-on-falcon-9-launch-of-supernova/",
-      "pubDate": "2026-08-20T13:00:00Z",
-      "snippet": "Portal Space Systems has acquired a Falcon 9 to launch its first Supernova spacecraft and will offer excess capacity on the vehicle for rideshare payloads.\nThe post Portal Space Systems to include rid...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
@@ -129,15 +111,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "China\u2019s Chang\u2019e-7 lunar ice-hunting mission set for Sunday launch",
-      "link": "https://spacenews.com/chinas-change-7-lunar-ice-hunting-mission-set-for-sunday-launch/",
-      "pubDate": "2026-08-20T12:48:21Z",
-      "snippet": "HELSINKI \u2014 China will launch a complex, multi-spacecraft mission late Sunday to study and land near the lunar south pole, including a search for evidence of water-ice. A Long March [&#8230;]\nThe post ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Switzerland seeks additional $1.2 billion for air defense in 2026 budget",
       "link": "https://www.defensenews.com/global/europe/2026/08/20/switzerland-seeks-additional-12-billion-for-air-defense-in-2026-budget/",
       "pubDate": "2026-08-20T12:20:03Z",
@@ -145,15 +118,6 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
-    },
-    {
-      "title": "Muon Space raises $250 million to ramp up satellite production",
-      "link": "https://spacenews.com/muon-space-raises-250-million-to-ramp-up-satellite-production/",
-      "pubDate": "2026-08-20T11:00:00Z",
-      "snippet": "Muon Space has raised $250 million to fuel the small satellite specialist\u2019s push into larger, more powerful spacecraft and constellations.\nThe post Muon Space raises $250 million to ramp up satellite ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "LatConnect 60 selects Transcelestial\u2019s Space Optical Network for SWIRSAT imaging constellation",
@@ -183,33 +147,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "Hypersonic missile startup Castelion raises $1 billion",
-      "link": "https://spacenews.com/hypersonic-missile-startup-castelion-raises-1-billion/",
-      "pubDate": "2026-08-19T23:12:41Z",
-      "snippet": "Company founded by former SpaceX executives aims to produce a low-cost hypersonic weapon and a broader portfolio of longer-range strike and missile defense weapons\nThe post Hypersonic missile startup ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Eartheye Space forges strategic partnership with IN2",
-      "link": "https://spacenews.com/eartheye-space-forges-strategic-partnership-with-in2/",
-      "pubDate": "2026-08-19T23:07:16Z",
-      "snippet": "SAN FRANCISCO \u2013 Strategic communications and consulting firm IN2 will have access to Eartheye Space multi-sensor satellite tasking and analytics through a memorandum of understanding signed Aug. 19. I...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Katalyst Space and NASA abandon plans for Swift reboost",
-      "link": "https://spacenews.com/katalyst-space-and-nasa-abandon-plans-for-swift-reboost/",
-      "pubDate": "2026-08-19T19:23:06Z",
-      "snippet": "Katalyst Space and NASA have called off plans to use the company\u2019s Link spacecraft to raise the orbit of the agency\u2019s Swift gamma-ray observatory, citing attitude-control problems with the spacecraft....",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "US Navy destroyer spent 4 days without power in South China Sea",
       "link": "https://www.defensenews.com/news/your-military/2026/08/19/us-navy-destroyer-spent-4-days-without-power-in-south-china-sea/",
       "pubDate": "2026-08-19T16:57:54Z",
@@ -223,24 +160,6 @@
       "link": "https://spacenews.com/moog-inc-expands-meteorite-satellite-bus-capacity-for-high-maneuverability-missions/",
       "pubDate": "2026-08-19T15:11:52Z",
       "snippet": "East Aurora, NY &#8212; Moog Inc. (NYSE: MOG.A and MOG.B), a worldwide designer, manufacturer and systems integrator of high-performance precision motion and fluid controls and control systems announc...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "The space industry\u2019s next challenge: supply chain resilience",
-      "link": "https://spacenews.com/the-space-industrys-next-challenge-supply-chain-resilience/",
-      "pubDate": "2026-08-19T13:00:00Z",
-      "snippet": "America&#8217;s space economy is scaling faster than its industrial base can support. Commercial constellations are proliferating, national security architectures are becoming more distributed and res...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Vantor names new head of U.S. government business",
-      "link": "https://spacenews.com/vantor-names-new-head-of-u-s-government-business/",
-      "pubDate": "2026-08-19T12:18:15Z",
-      "snippet": "Will Cocos succeeds Susanne Hake as executive vice president and general manager of the Earth intelligence company\u2019s government business\nThe post Vantor names new head of U.S. government business appe...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
@@ -262,6 +181,15 @@
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
+    },
+    {
+      "title": "Eoptic, Inc. Selected to Supply DeepScan\u2122 Imaging Payloads Scheduled for Launch in 2027",
+      "link": "https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027/",
+      "pubDate": "2026-08-18T12:00:00Z",
+      "snippet": "Rochester, NY \u2013 August 18, 2026\u00a0\u2013\u00a0Eoptic, Inc., a developer of advanced multi-spectral and multi-modal imaging systems, today announced it has been selected as an approved supplier in support of strat...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
     },
     {
       "title": "Scientists may have finally proved that \u201cempty\u201d space isn\u2019t really empty",
@@ -327,6 +255,15 @@
       "color": "#2a9d8f"
     },
     {
+      "title": "The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss",
+      "link": "https://spacenews.com/the-77th-international-astronautical-congress-iac-2026-is-the-one-space-event-you-cannot-miss/",
+      "pubDate": "2026-08-17T12:23:27Z",
+      "snippet": "For more than 75 years, the International Astronautical Congress (IAC) has been the annual moment when the global space community comes together &#8211; not online, not in separate regional events, [&...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
       "title": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
       "link": "https://www.defensenews.com/industry/techwatch/2026/08/14/pentagon-inks-deals-with-boeing-rtx-to-boost-production-of-sm-3-components/",
       "pubDate": "2026-08-14T19:57:54Z",
@@ -354,13 +291,49 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Army opens test ranges to private industry",
-      "link": "https://www.defensenews.com/news/your-military/2026/08/12/army-opens-test-ranges-to-private-industry/",
-      "pubDate": "2026-08-12T20:59:14Z",
-      "snippet": "The effort, the Army says, is designed to hasten the development and testing of drones, counter-drone systems, long-range fires and cheap interceptors.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
+      "title": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
+      "link": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/",
+      "pubDate": "2026-08-14T09:00:00Z",
+      "snippet": "Paris, France &#124; August 2026\u00a0\u2013 Novaspace\u2019s latest\u00a0In-Orbit Services Markets\u00a0report projects that emerging in-orbit services will generate approximately\u00a0$3 billion in cumulative service revenues ov...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "An optical link \u2018internet\u2019 to connect networks in space",
+      "link": "https://spacenews.com/an-optical-link-internet-to-connect-networks-in-space/",
+      "pubDate": "2026-08-13T14:39:26Z",
+      "snippet": "In this episode, David Ariosto speaks with John Mackey, CEO, co-founder and director of Mbryonics. They discuss building optical links for satellites and other space infrastructure, and what it would ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity",
+      "link": "https://spacenews.com/maritime-satellite-service-revenues-to-reach-3-79-billion-by-2035-as-ngso-reshapes-maritime-connectivity/",
+      "pubDate": "2026-08-13T14:27:27Z",
+      "snippet": "Paris, France &#124; July 2026 \u2014 The maritime satellite communications market is entering a new phase of growth as next-generation satellite networks transform connectivity at sea. According to Novasp...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Webinar on MOSA Interoperability Standards for Space Systems \u2013 August 26, 2026",
+      "link": "https://spacenews.com/webinar-on-mosa-interoperability-standards-for-space-systems-august-26-2026/",
+      "pubDate": "2026-08-11T14:58:05Z",
+      "snippet": "FOR IMMEDIATE RELEASE ISTO Space Systems MOSA Interface Standards Alliance Announces Industry Webinar: \u201cMOSA Interoperability Standards for Space Systems\u201d August 26, 2026 &#124; 9:00 AM \u2013 1:00 PM PDT ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "TechnoMile\u2019s Five-Year Sustained Growth Recognized with  Place on the 2026 Inc. 5000 List",
+      "link": "https://spacenews.com/technomiles-five-year-sustained-growth-recognized-with-place-on-the-2026-inc-5000-list/",
+      "pubDate": "2026-08-11T14:53:22Z",
+      "snippet": "TechnoMile, the leading AI solution that unifies growth, contracts, compliance, and security workflows, today announced it has been ranked No. 4,268 on the 2026 Inc. 5000 list, the annual list [&#8230...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
     },
     {
       "title": "\u201cCannot be explained\u201d \u2013 New super steel stuns scientists",
@@ -370,6 +343,33 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
+    },
+    {
+      "title": "Why Golden Dome Demands a Reimagined and Revitalized Industrial Base",
+      "link": "https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base/",
+      "pubDate": "2026-08-11T12:02:48Z",
+      "snippet": "For most of its history, the United States has been largely insulated from foreign threats. Vast oceans made it an impractical destination for invading armies before the advent of modern [&#8230;]\nThe...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors",
+      "link": "https://spacenews.com/proteus-space-names-maj-gen-kim-crider-usaf-ret-to-board-of-directors/",
+      "pubDate": "2026-08-11T10:00:00Z",
+      "snippet": "LOS ANGELES, August 11th, 2026. Proteus Space, an AI-native aerospace company delivering rapid, end-to-end access to space, today announced that retired U.S. Air Force Maj. Gen. Kimberly &#8220;Kim&#8...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "National security doesn\u2019t need more maps or imagery; it needs measurement",
+      "link": "https://spacenews.com/national-security-doesnt-need-more-maps-or-imagery-it-needs-measurement/",
+      "pubDate": "2026-08-10T13:00:00Z",
+      "snippet": "A decade ago, a United States carrier strike group departing San Diego could cross the Pacific with only intermittent detection. China might catch a glimpse \u2014 a satellite pass here, [&#8230;]\nThe post...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
     },
     {
       "title": "New fuel cell breakthrough could help power energy-hungry data centers",
@@ -388,6 +388,15 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
+    },
+    {
+      "title": "How should Europe\u2019s militaries respond to space threats",
+      "link": "https://spacenews.com/how-should-europes-militaries-respond-to-space-threats/",
+      "pubDate": "2026-08-06T15:31:26Z",
+      "snippet": "In this episode, SpaceNews\u2019 Emma Gatti leads a panel of experts to discuss Europe\u2019s defense posture and the reaction to space threats. This session was recorded in May at SpaceNews\u2019 [&#8230;]\nThe post...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
     },
     {
       "title": "Cell-inspired nanoreactor turns sunlight into hydrogen peroxide",
@@ -502,15 +511,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/06/260622091507.htm",
       "pubDate": "2026-06-23T04:45:34Z",
       "snippet": "NASA\u2019s upgraded Cold Atom Lab is turning the International Space Station into a frontier for quantum research, creating ultra-cold matter that behaves in astonishing ways. The experiments could unlock...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "This strange material can become strong or fall apart in seconds",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260615033849.htm",
-      "pubDate": "2026-06-15T11:54:43Z",
-      "snippet": "Scientists have found that staple-shaped particles can tangle together to create a material that is both strong and flexible. Unlike conventional materials, these particles can be locked into a sturdy...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
