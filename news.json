@@ -1,7 +1,88 @@
 {
-  "updated": "2026-08-24T11:16:11.460277Z",
-  "count": 57,
+  "updated": "2026-08-25T11:14:54.227479Z",
+  "count": 59,
   "items": [
+    {
+      "title": "Dutch Navy to equip fleet with Destinus C-UAS interceptor drones",
+      "link": "https://www.defensenews.com/global/europe/2026/08/25/dutch-navy-to-equip-fleet-with-destinus-c-uas-interceptor-drones/",
+      "pubDate": "2026-08-25T08:50:44Z",
+      "snippet": "The Royal Netherlands Navy plans to equip its fleet with a new counter-UAS capability from defense firm Destinus.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Robotics and the future of on-orbit labor",
+      "link": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor/",
+      "pubDate": "2026-08-24T22:26:02Z",
+      "snippet": "In this episode, SpaceNews&#8217; Mike Gruss interviews Icarus Robotics CEO and co-founder Ethan Barajas at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why astronauts hav...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Aerospace demonstrates DiskSats in low-Earth orbit",
+      "link": "https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit/",
+      "pubDate": "2026-08-24T17:30:00Z",
+      "snippet": "SALT LAKE CITY \u2013 The Aerospace Corp. is continuing to demonstrate the viability of pancake-shaped DiskSats in the wake of their December launch on a Rocket Lab Electron. \u201cIt\u2019s the [&#8230;]\nThe post A...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Italy eyes US tech for souping up dumb missiles into drone interceptors",
+      "link": "https://www.defensenews.com/global/europe/2026/08/24/italy-eyes-us-tech-for-souping-up-dumb-missiles-into-drone-interceptors/",
+      "pubDate": "2026-08-24T16:12:51Z",
+      "snippet": "The Italian Air Force is mulling the purchase of U.S. technology that turns cheap unguided missiles into precision weapons.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026",
+      "link": "https://spacenews.com/spirit-electronics-adds-texas-instruments-and-microchip-technology-space-grade-components-to-online-store-ahead-of-smallsat-2026/",
+      "pubDate": "2026-08-24T15:00:00Z",
+      "snippet": "PHOENIX, AZ \u2014 August 24, 2026 \u2014 Spirit Electronics, a value\u2011added distributor of high\u2011reliability electronics focused on performance\u2011driven program requirements, announced that space\u2011grade and high\u2011re...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Patria to join with Ukraine\u2019s General Cherry to make drones in Finland",
+      "link": "https://www.defensenews.com/global/europe/2026/08/24/patria-to-join-with-ukraines-general-cherry-to-make-drones-in-finland/",
+      "pubDate": "2026-08-24T14:45:18Z",
+      "snippet": "Finnish defense company Patria is teaming up with Ukrainian drone maker General Cherry to jointly develop drones and start production in Finland.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent.",
+      "link": "https://spacenews.com/the-fuel-for-the-next-generation-of-cislunar-exploration-technology-and-talent/",
+      "pubDate": "2026-08-24T14:00:00Z",
+      "snippet": "After NASA astronauts landed on the moon in 1969, their achievement bore decades\u2019 worth of fruit, including scientific discoveries and a strategic national security advantage. Now \u2014 with plans to [&#8...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "UK\u2019s Burnham to visit Ukraine with plan to support long-range missile production",
+      "link": "https://www.defensenews.com/global/europe/2026/08/24/uks-burnham-to-visit-ukraine-with-plan-to-support-long-range-missile-production/",
+      "pubDate": "2026-08-24T13:46:49Z",
+      "snippet": "UK Prime Minister Andy Burnham is set to announce British support to help Ukraine improve its domestic production of long-range missiles.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Tory Bruno Named Honorary Chair Of World Space Week 2027",
+      "link": "https://spacenews.com/tory-bruno-named-honorary-chair-of-world-space-week-2027/",
+      "pubDate": "2026-08-24T12:00:00Z",
+      "snippet": "Houston \u2014 World Space Week Association announced today that Tory Bruno, President of National Security at Blue Origin, will serve as Honorary Chair of World Space Week 2027.&#160;&#160; &#8220;Tory Br...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Two US tanker aircraft leave Bulgaria a month after deployment upset Iran",
       "link": "https://www.defensenews.com/global/europe/2026/08/24/two-us-tanker-aircraft-leave-bulgaria-a-month-after-deployment-upset-iran/",
@@ -264,33 +345,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Pentagon inks deals with Boeing, RTX to boost production of SM-3 components",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/08/14/pentagon-inks-deals-with-boeing-rtx-to-boost-production-of-sm-3-components/",
-      "pubDate": "2026-08-14T19:57:54Z",
-      "snippet": "The Pentagon signed seven-year framework agreements Friday with Boeing and RTX to expand production of critical components for the Standard Missile-3.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Patriot makers hedge on Ukraine production deal as officials question cause of hold-up",
-      "link": "https://www.defensenews.com/global/europe/2026/08/14/patriot-makers-hedge-on-ukraine-production-deal-as-officials-question-cause-of-hold-up/",
-      "pubDate": "2026-08-14T17:40:00Z",
-      "snippet": "Though Trump promised Kyiv a license to build Patriot missile interceptors last month, Lockheed Martin and Raytheon have put the brakes on production.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "CENTCOM launches multinational attack drone task force",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/08/14/centcom-launches-multinational-attack-drone-task-force/",
-      "pubDate": "2026-08-14T15:09:04Z",
-      "snippet": "Task Force Falcon Strike will employ one-way attack drones composed of unmanned systems from above, on and below the sea.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
       "link": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/",
       "pubDate": "2026-08-14T09:00:00Z",
@@ -345,33 +399,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "Why Golden Dome Demands a Reimagined and Revitalized Industrial Base",
-      "link": "https://spacenews.com/why-golden-dome-demands-a-reimagined-and-revitalized-industrial-base/",
-      "pubDate": "2026-08-11T12:02:48Z",
-      "snippet": "For most of its history, the United States has been largely insulated from foreign threats. Vast oceans made it an impractical destination for invading armies before the advent of modern [&#8230;]\nThe...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Proteus Space Names Maj. Gen. Kim Crider (USAF, Ret.) to Board of Directors",
-      "link": "https://spacenews.com/proteus-space-names-maj-gen-kim-crider-usaf-ret-to-board-of-directors/",
-      "pubDate": "2026-08-11T10:00:00Z",
-      "snippet": "LOS ANGELES, August 11th, 2026. Proteus Space, an AI-native aerospace company delivering rapid, end-to-end access to space, today announced that retired U.S. Air Force Maj. Gen. Kimberly &#8220;Kim&#8...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "National security doesn\u2019t need more maps or imagery; it needs measurement",
-      "link": "https://spacenews.com/national-security-doesnt-need-more-maps-or-imagery-it-needs-measurement/",
-      "pubDate": "2026-08-10T13:00:00Z",
-      "snippet": "A decade ago, a United States carrier strike group departing San Diego could cross the Pacific with only intermittent detection. China might catch a glimpse \u2014 a satellite pass here, [&#8230;]\nThe post...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "New fuel cell breakthrough could help power energy-hungry data centers",
       "link": "https://www.sciencedaily.com/releases/2026/08/260807035140.htm",
       "pubDate": "2026-08-08T14:09:02Z",
@@ -388,15 +415,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "How should Europe\u2019s militaries respond to space threats",
-      "link": "https://spacenews.com/how-should-europes-militaries-respond-to-space-threats/",
-      "pubDate": "2026-08-06T15:31:26Z",
-      "snippet": "In this episode, SpaceNews\u2019 Emma Gatti leads a panel of experts to discuss Europe\u2019s defense posture and the reaction to space threats. This session was recorded in May at SpaceNews\u2019 [&#8230;]\nThe post...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Cell-inspired nanoreactor turns sunlight into hydrogen peroxide",
