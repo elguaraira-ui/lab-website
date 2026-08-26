@@ -1,7 +1,88 @@
 {
-  "updated": "2026-08-25T11:14:54.227479Z",
+  "updated": "2026-08-26T11:17:58.810238Z",
   "count": 59,
   "items": [
+    {
+      "title": "First North Korea-Russia road bridge nearly complete, symbolizing new era of military cooperation",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/08/26/first-north-korea-russia-road-bridge-nearly-complete-symbolizing-new-era-of-military-cooperation/",
+      "pubDate": "2026-08-26T09:03:18Z",
+      "snippet": "The first-ever road bridge linking North Korea and Russia across the Tumen River appears close to completion, according to satellite imagery reviewed by De",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Ukraine needs changes to avoid losing war, ousted defense minister says",
+      "link": "https://www.defensenews.com/global/europe/2026/08/25/ukraine-needs-changes-to-avoid-losing-war-ousted-defense-minister-says/",
+      "pubDate": "2026-08-25T22:10:54Z",
+      "snippet": "Fedorov, a young reformer whose dismissal last month sparked weeks of protests, said Ukraine lacked any overall vision for how to win the conflict.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Propulsion is having a moment",
+      "link": "https://spacenews.com/propulsion-is-having-a-moment/",
+      "pubDate": "2026-08-25T19:59:37Z",
+      "snippet": "In this episode, SpaceNews Mike Gruss interviews Kevin Lausten, CEO of Morpheus Space, at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why propulsion is critical [&#8230;]...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Navy\u2019s new anti-submarine torpedo will be a glide weapon",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/08/25/us-navys-new-anti-submarine-torpedo-will-be-a-glide-weapon/",
+      "pubDate": "2026-08-25T19:30:37Z",
+      "snippet": "What form will the Silent Anvil Air-Launched Torpedo, or SAA-LT, take? The Navy wants contractors to explore two options.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "USS Abraham Lincoln to dock in Thailand next week, Thai official says",
+      "link": "https://www.defensenews.com/news/your-navy/2026/08/25/uss-abraham-lincoln-to-dock-in-thailand-next-week-thai-official-says/",
+      "pubDate": "2026-08-25T15:59:15Z",
+      "snippet": "The aircraft carrier USS Abraham Lincoln is expected to dock in Thailand next week, according to a Thai official.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "European allies team up to buy Polish portable anti-aircraft systems",
+      "link": "https://www.defensenews.com/global/europe/2026/08/25/european-allies-team-up-to-buy-polish-portable-anti-aircraft-systems/",
+      "pubDate": "2026-08-25T15:18:46Z",
+      "snippet": "Poland, Norway, Lithuania and Latvia have signed a framework agreement to buy Piorun (Thunderbolt) man-portable air defense systems from Poland's PGZ.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans",
+      "link": "https://spacenews.com/space-angel-secures-1-75m-wa-government-backing-to-advance-western-australian-spaceport-plans/",
+      "pubDate": "2026-08-25T14:00:00Z",
+      "snippet": "Space Angel has welcomed its selection by the Western Australian Government as the recipient of the $1.75 million Spaceport Establishment Support Grant, announced by Science and Innovation Minister St...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Ukraine\u2019s newest ballistic missiles are weeks away from combat",
+      "link": "https://www.defensenews.com/global/europe/2026/08/25/ukraines-newest-ballistic-missiles-are-weeks-away-from-combat/",
+      "pubDate": "2026-08-25T13:40:27Z",
+      "snippet": "On Independence Day, Zelenskyy cast homegrown missiles as Ukraine's answer to a lack of anti-ballistic interceptors.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
+      "link": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat/",
+      "pubDate": "2026-08-25T13:00:00Z",
+      "snippet": "SALT LAKE CITY &#8211; Aug. 25, 2026 &#8211; Tendeg has released NewTEN, a two-axis steerable reflector antenna that expands communications performance and pointing access for small spacecraft. Unveil...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Dutch Navy to equip fleet with Destinus C-UAS interceptor drones",
       "link": "https://www.defensenews.com/global/europe/2026/08/25/dutch-navy-to-equip-fleet-with-destinus-c-uas-interceptor-drones/",
@@ -16,15 +97,6 @@
       "link": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor/",
       "pubDate": "2026-08-24T22:26:02Z",
       "snippet": "In this episode, SpaceNews&#8217; Mike Gruss interviews Icarus Robotics CEO and co-founder Ethan Barajas at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why astronauts hav...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Aerospace demonstrates DiskSats in low-Earth orbit",
-      "link": "https://spacenews.com/aerospace-demonstrates-disksats-in-low-earth-orbit/",
-      "pubDate": "2026-08-24T17:30:00Z",
-      "snippet": "SALT LAKE CITY \u2013 The Aerospace Corp. is continuing to demonstrate the viability of pancake-shaped DiskSats in the wake of their December launch on a Rocket Lab Electron. \u201cIt\u2019s the [&#8230;]\nThe post A...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
@@ -255,15 +327,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "US Army requests 133,000 GMLRS rockets by 2034",
-      "link": "https://www.defensenews.com/news/your-military/2026/08/18/us-army-requests-133000-gmlrs-rockets-by-2034/",
-      "pubDate": "2026-08-18T13:06:13Z",
-      "snippet": "The U.S. Army sent out a request this week for manufacturing 133,014 Guided Multiple Launch Rocket System, or GMLRS, rockets by 2034.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Eoptic, Inc. Selected to Supply DeepScan\u2122 Imaging Payloads Scheduled for Launch in 2027",
       "link": "https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027/",
       "pubDate": "2026-08-18T12:00:00Z",
@@ -280,51 +343,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "US Air Force looks to acquire target drones that can mimic stealth jets",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/08/17/us-air-force-looks-to-acquire-target-drones-that-can-mimic-stealth-jets/",
-      "pubDate": "2026-08-17T18:19:24Z",
-      "snippet": "The U.S. Air Force wants to acquire target drones that can mimic the performance of a variety of aircraft, from stealth fighters to small UAVs.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "German drone maker Helsing enlists Rakuten to broker Japan military deal",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/08/17/german-drone-maker-helsing-enlists-rakuten-to-broker-japan-military-deal/",
-      "pubDate": "2026-08-17T18:16:02Z",
-      "snippet": "German drone maker Helsing has enlisted Japanese e-commerce and finance firm Rakuten to help finalize a deal to sell its unmanned systems to Japan\u2019s army.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Trump orders Pentagon to cut back military exercises with South Korea",
-      "link": "https://www.defensenews.com/news/your-military/2026/08/17/trump-orders-pentagon-to-cut-back-military-exercises-with-south-korea/",
-      "pubDate": "2026-08-17T15:14:07Z",
-      "snippet": "President Trump instructed the Pentagon to \u201csubstantially reduce\u201d joint military exercises with long-term Asian ally South Korea.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Space Force, Japan launch sensor to bolster space surveillance above Indo-Pacific",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/08/17/us-space-force-japan-launch-sensor-to-bolster-space-surveillance-above-indo-pacific/",
-      "pubDate": "2026-08-17T15:06:00Z",
-      "snippet": "In a bilateral space effort, the U.S. Space Force successfully launched a Space Domain Awareness payload aboard Japan\u2019s Quasi-Zenith Satellite 7.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US awards Raytheon $22.9 billion deal to boost Tomahawk output",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/08/17/us-awards-raytheon-229-billion-deal-to-boost-tomahawk-output/",
-      "pubDate": "2026-08-17T14:35:50Z",
-      "snippet": "The U.S. military, scrambling to rebuild depleted stocks of high-tech weaponry, awarded Raytheon $22.9 billion to dramatically boost Tomahawk production.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Caltech breakthrough brings fiber-optic performance to silicon chips",
@@ -367,24 +385,6 @@
       "link": "https://spacenews.com/maritime-satellite-service-revenues-to-reach-3-79-billion-by-2035-as-ngso-reshapes-maritime-connectivity/",
       "pubDate": "2026-08-13T14:27:27Z",
       "snippet": "Paris, France &#124; July 2026 \u2014 The maritime satellite communications market is entering a new phase of growth as next-generation satellite networks transform connectivity at sea. According to Novasp...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Webinar on MOSA Interoperability Standards for Space Systems \u2013 August 26, 2026",
-      "link": "https://spacenews.com/webinar-on-mosa-interoperability-standards-for-space-systems-august-26-2026/",
-      "pubDate": "2026-08-11T14:58:05Z",
-      "snippet": "FOR IMMEDIATE RELEASE ISTO Space Systems MOSA Interface Standards Alliance Announces Industry Webinar: \u201cMOSA Interoperability Standards for Space Systems\u201d August 26, 2026 &#124; 9:00 AM \u2013 1:00 PM PDT ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "TechnoMile\u2019s Five-Year Sustained Growth Recognized with  Place on the 2026 Inc. 5000 List",
-      "link": "https://spacenews.com/technomiles-five-year-sustained-growth-recognized-with-place-on-the-2026-inc-5000-list/",
-      "pubDate": "2026-08-11T14:53:22Z",
-      "snippet": "TechnoMile, the leading AI solution that unifies growth, contracts, compliance, and security workflows, today announced it has been ranked No. 4,268 on the 2026 Inc. 5000 list, the annual list [&#8230...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
