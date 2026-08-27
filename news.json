@@ -1,7 +1,142 @@
 {
-  "updated": "2026-08-26T11:17:58.810238Z",
+  "updated": "2026-08-27T20:50:14.065543Z",
   "count": 59,
   "items": [
+    {
+      "title": "Pentagon\u2019s NATO review preparing troop options for Hegseth by November 6",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/08/27/pentagons-nato-review-preparing-troop-options-for-hegseth-by-november-6/",
+      "pubDate": "2026-08-27T15:14:31Z",
+      "snippet": "A Pentagon review of U.S. troop deployments in Europe will create at least four sets of options for Defense Secretary Pete Hegseth by Nov. 6.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "The electronics \u2018under the hood\u2019 of space networking",
+      "link": "https://spacenews.com/the-electronics-under-the-hood-of-space-networking/",
+      "pubDate": "2026-08-27T14:50:34Z",
+      "snippet": "In this episode, SpaceNews&#8217; Mike Gruss interviews Jeff Janicik, founder and chairman of Innoflight. They discuss Golden Dome, Artemis and working with big numbers for the Space Development Agenc...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
+      "pubDate": "2026-08-27T13:08:01Z",
+      "snippet": "Researchers used AI to search through more than 100 million possible settings for 3D-printing a high-performance NASA alloy. After only 40 experiments, the system identified six successful configurati...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Japan approves mass production of 3D-printed interceptor drones",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/08/27/japan-approves-mass-production-of-3d-printed-interceptor-drones/",
+      "pubDate": "2026-08-27T11:17:16Z",
+      "snippet": "Japan\u2019s defense-procurement agency has signed a mass production procurement agreement for interceptor drones made using 3D printers.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "A mysterious cosmic hum may come from 13-billion-year-old dark stars",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260827010457.htm",
+      "pubDate": "2026-08-27T10:26:04Z",
+      "snippet": "Today\u2019s mysterious gravitational-wave background may preserve clues about how the Universe\u2019s first supermassive black holes formed. Descendants of hypothetical Dark Stars could be responsible for a ma...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Scientists switch on a strange new form of magnetism in an ultrathin material",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055454.htm",
+      "pubDate": "2026-08-27T09:23:20Z",
+      "snippet": "Scientists have found a surprising way to potentially switch on an unusual form of magnetism in ruthenium dioxide, a material that normally appears nonmagnetic. When the material was made into an ultr...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Rolls-Royce, Safran vie for India\u2019s next-generation fighter engine",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/08/27/rolls-royce-safran-vie-for-indias-next-generation-fighter-engine/",
+      "pubDate": "2026-08-27T09:17:41Z",
+      "snippet": "New Delhi wants access to a critical fighter engine technology available to only a handful of countries.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Scientists may have finally caught \u201cempty\u201d space changing light",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260826055445.htm",
+      "pubDate": "2026-08-27T03:52:13Z",
+      "snippet": "A magnetar with an astonishingly powerful magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago. Its light shows signs that supposedly empty space is alt...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "LatConnect 60 and Phi Earth Partner to Connect Space and Soil",
+      "link": "https://spacenews.com/latconnect-60-and-phi-earth-partner-to-connect-space-and-soil/",
+      "pubDate": "2026-08-27T01:54:19Z",
+      "snippet": "Nature-based projects are generating more environmental data than ever before. Satellites observe landscapes from orbit, while field teams capture what is happening on the ground. Yet these data sourc...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Army taps 5 firms to build on-base microreactors in nuclear energy push",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/08/26/us-army-taps-5-firms-to-build-on-base-microreactors-in-nuclear-energy-push/",
+      "pubDate": "2026-08-26T20:48:16Z",
+      "snippet": "The agreements, worth up to $2.2 billion, mark a step forward in the Janus program, an initiative to introduce microreactors to power installations.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Army seeks 8,000 new short-range missiles per year",
+      "link": "https://www.defensenews.com/news/your-army/2026/08/26/us-army-seeks-8000-new-short-range-missiles-per-year/",
+      "pubDate": "2026-08-26T18:51:30Z",
+      "snippet": "The U.S. Army wants to purchase up to 8,000 new short-range missiles per year.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Italy to request EU defense loan after all, but scales back amount",
+      "link": "https://www.defensenews.com/global/europe/2026/08/26/italy-to-request-eu-defense-loan-after-all-but-scales-back-amount/",
+      "pubDate": "2026-08-26T16:59:30Z",
+      "snippet": "Italy has requested \u20ac8 billion euros ($9.3 billion) in cheap loans from the European Union\u2019s SAFE program following earlier doubts about the move.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "RTX\u2019s Blue Canyon Technologies introduces new spacecraft mission enabler",
+      "link": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-spacecraft-mission-enabler/",
+      "pubDate": "2026-08-26T16:12:57Z",
+      "snippet": "LAFAYETTE, Colo. (August 26, 2026) &#8212; Small satellite manufacturer and mission services provider Blue Canyon Technologies, part of RTX\u2019s (NYSE: RTX) Raytheon business, has unveiled its latest spa...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "The threat environment and processing at the edge",
+      "link": "https://spacenews.com/the-threat-environment-and-processing-at-the-edge/",
+      "pubDate": "2026-08-26T14:29:40Z",
+      "snippet": "In this episode, SpaceNews\u2019 Mike Gruss interviews FrontGrade CTO Lorne Graves. They discuss how processing power on spacecraft is adapting to the rise of megaconstellations, what benefits satellite pr...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "With UK military secrets, Ukraine could now build SCALP missiles at home - but it will take time",
+      "link": "https://www.defensenews.com/global/europe/2026/08/26/with-uk-military-secrets-ukraine-could-now-build-scalp-missiles-at-home-but-it-will-take-time/",
+      "pubDate": "2026-08-26T13:14:11Z",
+      "snippet": "Ukraine is now in possession of the intellectual property and permissions needed to build the high-tech European weapon domestically \u2014 in theory, that is.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "First North Korea-Russia road bridge nearly complete, symbolizing new era of military cooperation",
       "link": "https://www.defensenews.com/global/asia-pacific/2026/08/26/first-north-korea-russia-road-bridge-nearly-complete-symbolizing-new-era-of-military-cooperation/",
@@ -192,15 +327,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "US Army to end experimental drone battalion in Europe",
-      "link": "https://www.defensenews.com/news/your-military/2026/08/21/us-army-to-end-experimental-drone-battalion-in-europe/",
-      "pubDate": "2026-08-21T08:14:42Z",
-      "snippet": "After Exercise Saber Junction in August and September, the battalion will return to its airborne infantry mission.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Elve qualifies millimeter-wave amplifiers for spaceflight",
       "link": "https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight/",
       "pubDate": "2026-08-20T22:51:53Z",
@@ -208,33 +334,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "US Navy leads multinational effort for next-gen SeaSparrow missile",
-      "link": "https://www.defensenews.com/air-warfare/2026/08/20/us-navy-leads-multinational-effort-for-next-gen-seasparrow-missile/",
-      "pubDate": "2026-08-20T20:23:22Z",
-      "snippet": "The U.S. Navy is leading a multinational effort to develop a new version of the Evolved SeaSparrow air defense missile.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Ukraine braces for combined salvos of up to 200 missiles as overnight attack kills 15 in Kyiv",
-      "link": "https://www.defensenews.com/global/europe/2026/08/20/ukraine-braces-for-combined-salvos-of-up-to-200-missiles-as-overnight-attack-kills-15-in-kyiv/",
-      "pubDate": "2026-08-20T20:09:46Z",
-      "snippet": "Russia ramps up missile production as Ukraine's ballistic missile interceptors hit their lowest levels in years.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Air Force flight to Antarctica turns back after Russian hazardous space activity warning",
-      "link": "https://www.defensenews.com/news/your-military/2026/08/20/us-air-force-flight-to-antarctica-turns-back-after-russian-hazardous-space-activity-warning/",
-      "pubDate": "2026-08-20T19:10:05Z",
-      "snippet": "A U.S. Air Force C-17A Globemaster III taking off from Christchurch, New Zealand, returned after receiving a \u201cpotentially hazardous\u201d space activity notice.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "What\u2019s next for ISR in space",
@@ -264,15 +363,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Switzerland seeks additional $1.2 billion for air defense in 2026 budget",
-      "link": "https://www.defensenews.com/global/europe/2026/08/20/switzerland-seeks-additional-12-billion-for-air-defense-in-2026-budget/",
-      "pubDate": "2026-08-20T12:20:03Z",
-      "snippet": "Switzerland's envisioned plus-up for air defense comes amid a heightened threat situation and long delivery times for defense equipment, officials said.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "LatConnect 60 selects Transcelestial\u2019s Space Optical Network for SWIRSAT imaging constellation",
       "link": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation/",
       "pubDate": "2026-08-20T10:00:00Z",
@@ -300,15 +390,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "US Navy destroyer spent 4 days without power in South China Sea",
-      "link": "https://www.defensenews.com/news/your-military/2026/08/19/us-navy-destroyer-spent-4-days-without-power-in-south-china-sea/",
-      "pubDate": "2026-08-19T16:57:54Z",
-      "snippet": "USS Benfold endured an \"engineering casualty\" last month, leaving about 300 sailors without potable water, galley services, toilets or air conditioning.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions",
       "link": "https://spacenews.com/moog-inc-expands-meteorite-satellite-bus-capacity-for-high-maneuverability-missions/",
       "pubDate": "2026-08-19T15:11:52Z",
@@ -316,15 +397,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "DARPA came close to finding a drone that can lift four times its own weight",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/08/18/darpa-came-close-to-finding-a-drone-that-can-lift-four-times-its-own-weight/",
-      "pubDate": "2026-08-18T16:41:58Z",
-      "snippet": "In its recent Lift Challenge, DARPA came close to finding a drone that could lift four times its own weight.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Eoptic, Inc. Selected to Supply DeepScan\u2122 Imaging Payloads Scheduled for Launch in 2027",
@@ -352,42 +424,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "The 77th International Astronautical Congress (IAC 2026) is the One Space Event You Cannot Miss",
-      "link": "https://spacenews.com/the-77th-international-astronautical-congress-iac-2026-is-the-one-space-event-you-cannot-miss/",
-      "pubDate": "2026-08-17T12:23:27Z",
-      "snippet": "For more than 75 years, the International Astronautical Congress (IAC) has been the annual moment when the global space community comes together &#8211; not online, not in separate regional events, [&...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "In-Orbit Services Market to Generate $3 Billion in Revenue Over the Next Decade",
-      "link": "https://spacenews.com/in-orbit-services-market-to-generate-3-billion-in-revenue-over-the-next-decade/",
-      "pubDate": "2026-08-14T09:00:00Z",
-      "snippet": "Paris, France &#124; August 2026\u00a0\u2013 Novaspace\u2019s latest\u00a0In-Orbit Services Markets\u00a0report projects that emerging in-orbit services will generate approximately\u00a0$3 billion in cumulative service revenues ov...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "An optical link \u2018internet\u2019 to connect networks in space",
-      "link": "https://spacenews.com/an-optical-link-internet-to-connect-networks-in-space/",
-      "pubDate": "2026-08-13T14:39:26Z",
-      "snippet": "In this episode, David Ariosto speaks with John Mackey, CEO, co-founder and director of Mbryonics. They discuss building optical links for satellites and other space infrastructure, and what it would ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Maritime Satellite Service Revenues to Reach $3.79 Billion by 2035 as NGSO Reshapes Maritime Connectivity",
-      "link": "https://spacenews.com/maritime-satellite-service-revenues-to-reach-3-79-billion-by-2035-as-ngso-reshapes-maritime-connectivity/",
-      "pubDate": "2026-08-13T14:27:27Z",
-      "snippet": "Paris, France &#124; July 2026 \u2014 The maritime satellite communications market is entering a new phase of growth as next-generation satellite networks transform connectivity at sea. According to Novasp...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "\u201cCannot be explained\u201d \u2013 New super steel stuns scientists",
@@ -493,42 +529,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/07/260707054119.htm",
       "pubDate": "2026-07-09T07:40:57Z",
       "snippet": "Scientists have rewritten the story of gallium after discovering that its unusual atomic bonds re-form at high temperatures, contradicting decades of accepted theory. The finding changes how researche...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Scientists used AI to crack one of water's biggest mysteries",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260707025047.htm",
-      "pubDate": "2026-07-08T22:31:30Z",
-      "snippet": "Water\u2019s odd behavior becomes even more dramatic when it is supercooled, but scientists have struggled to compare the many different ways of describing its microscopic structure. Researchers at the Uni...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Quantum sensor breakthrough could reveal dark matter and ancient gravitational waves",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260622014303.htm",
-      "pubDate": "2026-07-07T09:22:35Z",
-      "snippet": "Scientists have taken an important step toward building quantum detectors that could reveal some of the universe\u2019s biggest secrets. Using a prototype device with two clouds of ultracold atoms, researc...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Quantum mechanics once baffled scientists. Now it's changing the world",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260624025516.htm",
-      "pubDate": "2026-07-05T18:13:44Z",
-      "snippet": "Quantum mechanics has journeyed from a strange and controversial idea to the foundation of some of humanity\u2019s most advanced technologies. Now researchers are pushing its boundaries even further, with ...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "NASA\u2019s Cold Atom Lab is creating one of the weirdest forms of matter in space",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260622091507.htm",
-      "pubDate": "2026-06-23T04:45:34Z",
-      "snippet": "NASA\u2019s upgraded Cold Atom Lab is turning the International Space Station into a frontier for quantum research, creating ultra-cold matter that behaves in astonishing ways. The experiments could unlock...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
