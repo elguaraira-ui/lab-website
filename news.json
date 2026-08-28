@@ -1,7 +1,34 @@
 {
-  "updated": "2026-08-27T20:50:14.065543Z",
-  "count": 59,
+  "updated": "2026-08-28T21:16:15.358962Z",
+  "count": 57,
   "items": [
+    {
+      "title": "Air Force awards Boeing $131 billion ceiling contract for F-15 production, modernization",
+      "link": "https://www.defensenews.com/news/your-military/2026/08/28/air-force-awards-boeing-131-billion-ceiling-contract-for-f-15-production-modernization/",
+      "pubDate": "2026-08-28T16:36:53Z",
+      "snippet": "The Air Force has awarded Boeing a sole-source contract with a $131.23 billion ceiling to produce, modernize and sustain F-15 fighters.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "India turns to private sector to ramp up missile production",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/08/28/india-turns-to-private-sector-to-ramp-up-missile-production/",
+      "pubDate": "2026-08-28T14:14:15Z",
+      "snippet": "Fearing bottlenecks, India has approved the transfer of technologies for conventional missile systems from a state-run organization to private companies.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon awards contract in race to field cheaper interceptors, missiles",
+      "link": "https://www.defensenews.com/pentagon/2026/08/27/pentagon-awards-contract-in-race-to-field-cheaper-interceptors-missiles/",
+      "pubDate": "2026-08-27T20:58:09Z",
+      "snippet": "The Pentagon awarded a contract to X-Bow Systems in its race to develop a new anti-ballistic weapon for less than $750,000 per shot.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Pentagon\u2019s NATO review preparing troop options for Hegseth by November 6",
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/08/27/pentagons-nato-review-preparing-troop-options-for-hegseth-by-november-6/",
@@ -237,15 +264,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Italy eyes US tech for souping up dumb missiles into drone interceptors",
-      "link": "https://www.defensenews.com/global/europe/2026/08/24/italy-eyes-us-tech-for-souping-up-dumb-missiles-into-drone-interceptors/",
-      "pubDate": "2026-08-24T16:12:51Z",
-      "snippet": "The Italian Air Force is mulling the purchase of U.S. technology that turns cheap unguided missiles into precision weapons.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026",
       "link": "https://spacenews.com/spirit-electronics-adds-texas-instruments-and-microchip-technology-space-grade-components-to-online-store-ahead-of-smallsat-2026/",
       "pubDate": "2026-08-24T15:00:00Z",
@@ -253,15 +271,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "Patria to join with Ukraine\u2019s General Cherry to make drones in Finland",
-      "link": "https://www.defensenews.com/global/europe/2026/08/24/patria-to-join-with-ukraines-general-cherry-to-make-drones-in-finland/",
-      "pubDate": "2026-08-24T14:45:18Z",
-      "snippet": "Finnish defense company Patria is teaming up with Ukrainian drone maker General Cherry to jointly develop drones and start production in Finland.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent.",
@@ -273,15 +282,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "UK\u2019s Burnham to visit Ukraine with plan to support long-range missile production",
-      "link": "https://www.defensenews.com/global/europe/2026/08/24/uks-burnham-to-visit-ukraine-with-plan-to-support-long-range-missile-production/",
-      "pubDate": "2026-08-24T13:46:49Z",
-      "snippet": "UK Prime Minister Andy Burnham is set to announce British support to help Ukraine improve its domestic production of long-range missiles.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Tory Bruno Named Honorary Chair Of World Space Week 2027",
       "link": "https://spacenews.com/tory-bruno-named-honorary-chair-of-world-space-week-2027/",
       "pubDate": "2026-08-24T12:00:00Z",
@@ -289,15 +289,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "Two US tanker aircraft leave Bulgaria a month after deployment upset Iran",
-      "link": "https://www.defensenews.com/global/europe/2026/08/24/two-us-tanker-aircraft-leave-bulgaria-a-month-after-deployment-upset-iran/",
-      "pubDate": "2026-08-24T08:44:35Z",
-      "snippet": "Two U.S. tanker aircraft have left Bulgaria\u2019s Bezmer air base, Bulgaria\u2019s defense minister said, after their deployment in the Balkan country angered Iran.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Physicists create a tiny \u201cBig Bang\u201d with surprisingly small atomic nuclei",
@@ -316,15 +307,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "India seeks role in France\u2019s sixth-generation fighter program",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/08/21/india-seeks-role-in-frances-sixth-generation-fighter-program/",
-      "pubDate": "2026-08-21T12:52:08Z",
-      "snippet": "India hopes to gain key fighter-jet knowledge in a prospective partnership with France on a sixth-generation aircraft.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Elve qualifies millimeter-wave amplifiers for spaceflight",
