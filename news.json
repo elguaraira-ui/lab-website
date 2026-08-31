@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-28T21:16:15.358962Z",
-  "count": 57,
+  "updated": "2026-08-31T17:44:27.017045Z",
+  "count": 53,
   "items": [
+    {
+      "title": "Israel signs $3.5 billion air defense deal with Greece",
+      "link": "https://www.defensenews.com/global/europe/2026/08/31/israel-signs-35-billion-air-defense-deal-with-greece/",
+      "pubDate": "2026-08-31T16:50:39Z",
+      "snippet": "Israel and Greece signed a \u20ac3 billion ($3.5 billion) defense deal on Monday under which Israel will build a multi-layered air defense system for Greece.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
+      "link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members-2/",
+      "pubDate": "2026-08-31T15:00:00Z",
+      "snippet": "August 31, 2026\u2014 Washington, D.C.\u2014The Commercial Space Federation (CSF) is pleased to welcome Outlier and Rendezvous Robotics as its newest Associate Members, bringing expertise in reusable satellite ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Speed to Field Starts Below the Prime",
+      "link": "https://spacenews.com/speed-to-field-starts-below-the-prime/",
+      "pubDate": "2026-08-31T13:30:43Z",
+      "snippet": "I have spent much of my career looking at the defense industrial base from different vantage points: as a warfighter, inside major defense companies, and now leading a company whose [&#8230;]\nThe post...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Pentagon scraps public weapons testing reports amid oversight concerns",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/08/31/pentagon-scraps-public-weapons-testing-reports-amid-oversight-concerns/",
+      "pubDate": "2026-08-31T13:08:24Z",
+      "snippet": "The Pentagon says cuts to its independent weapons testing office will save money, while critics warn they could lead to costly mistakes.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Air Force awards Boeing $131 billion ceiling contract for F-15 production, modernization",
       "link": "https://www.defensenews.com/news/your-military/2026/08/28/air-force-awards-boeing-131-billion-ceiling-contract-for-f-15-production-modernization/",
@@ -174,15 +210,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Ukraine needs changes to avoid losing war, ousted defense minister says",
-      "link": "https://www.defensenews.com/global/europe/2026/08/25/ukraine-needs-changes-to-avoid-losing-war-ousted-defense-minister-says/",
-      "pubDate": "2026-08-25T22:10:54Z",
-      "snippet": "Fedorov, a young reformer whose dismissal last month sparked weeks of protests, said Ukraine lacked any overall vision for how to win the conflict.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Propulsion is having a moment",
       "link": "https://spacenews.com/propulsion-is-having-a-moment/",
       "pubDate": "2026-08-25T19:59:37Z",
@@ -190,33 +217,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "US Navy\u2019s new anti-submarine torpedo will be a glide weapon",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/08/25/us-navys-new-anti-submarine-torpedo-will-be-a-glide-weapon/",
-      "pubDate": "2026-08-25T19:30:37Z",
-      "snippet": "What form will the Silent Anvil Air-Launched Torpedo, or SAA-LT, take? The Navy wants contractors to explore two options.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "USS Abraham Lincoln to dock in Thailand next week, Thai official says",
-      "link": "https://www.defensenews.com/news/your-navy/2026/08/25/uss-abraham-lincoln-to-dock-in-thailand-next-week-thai-official-says/",
-      "pubDate": "2026-08-25T15:59:15Z",
-      "snippet": "The aircraft carrier USS Abraham Lincoln is expected to dock in Thailand next week, according to a Thai official.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "European allies team up to buy Polish portable anti-aircraft systems",
-      "link": "https://www.defensenews.com/global/europe/2026/08/25/european-allies-team-up-to-buy-polish-portable-anti-aircraft-systems/",
-      "pubDate": "2026-08-25T15:18:46Z",
-      "snippet": "Poland, Norway, Lithuania and Latvia have signed a framework agreement to buy Piorun (Thunderbolt) man-portable air defense systems from Poland's PGZ.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans",
@@ -228,15 +228,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Ukraine\u2019s newest ballistic missiles are weeks away from combat",
-      "link": "https://www.defensenews.com/global/europe/2026/08/25/ukraines-newest-ballistic-missiles-are-weeks-away-from-combat/",
-      "pubDate": "2026-08-25T13:40:27Z",
-      "snippet": "On Independence Day, Zelenskyy cast homegrown missiles as Ukraine's answer to a lack of anti-ballistic interceptors.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
       "link": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat/",
       "pubDate": "2026-08-25T13:00:00Z",
@@ -244,15 +235,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "Dutch Navy to equip fleet with Destinus C-UAS interceptor drones",
-      "link": "https://www.defensenews.com/global/europe/2026/08/25/dutch-navy-to-equip-fleet-with-destinus-c-uas-interceptor-drones/",
-      "pubDate": "2026-08-25T08:50:44Z",
-      "snippet": "The Royal Netherlands Navy plans to equip its fleet with a new counter-UAS capability from defense firm Destinus.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Robotics and the future of on-orbit labor",
@@ -370,24 +352,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Moog Inc. Expands METEORITE Satellite Bus Capacity for High-Maneuverability Missions",
-      "link": "https://spacenews.com/moog-inc-expands-meteorite-satellite-bus-capacity-for-high-maneuverability-missions/",
-      "pubDate": "2026-08-19T15:11:52Z",
-      "snippet": "East Aurora, NY &#8212; Moog Inc. (NYSE: MOG.A and MOG.B), a worldwide designer, manufacturer and systems integrator of high-performance precision motion and fluid controls and control systems announc...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Eoptic, Inc. Selected to Supply DeepScan\u2122 Imaging Payloads Scheduled for Launch in 2027",
-      "link": "https://spacenews.com/eoptic-inc-selected-to-supply-deepscan-imaging-payloads-scheduled-for-launch-in-2027/",
-      "pubDate": "2026-08-18T12:00:00Z",
-      "snippet": "Rochester, NY \u2013 August 18, 2026\u00a0\u2013\u00a0Eoptic, Inc., a developer of advanced multi-spectral and multi-modal imaging systems, today announced it has been selected as an approved supplier in support of strat...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Scientists may have finally proved that \u201cempty\u201d space isn\u2019t really empty",
