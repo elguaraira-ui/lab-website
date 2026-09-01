@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-31T17:44:27.017045Z",
-  "count": 53,
+  "updated": "2026-09-01T15:15:49.250212Z",
+  "count": 51,
   "items": [
+    {
+      "title": "American Rheinmetall delivers its first prototype to replace Bradley Fighting Vehicle",
+      "link": "https://www.defensenews.com/news/your-military/2026/09/01/american-rheinmetall-delivers-its-first-prototype-to-replace-bradley-fighting-vehicle/",
+      "pubDate": "2026-09-01T15:08:48Z",
+      "snippet": "The move is the latest in the service\u2019s yearslong effort to replace the Bradley Fighting Vehicle.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US tech found in Russian ballistic missiles",
+      "link": "https://www.defensenews.com/global/europe/2026/09/01/us-tech-found-in-russian-ballistic-missiles/",
+      "pubDate": "2026-09-01T14:35:51Z",
+      "snippet": "Dozens of American- and European-made components are still being used to build Russia\u2019s deadly ballistic missiles.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Navy unveils new specs for carrier-based Collaborative Combat Aircraft",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/09/01/us-navy-unveils-new-specs-for-carrier-based-collaborative-combat-aircraft/",
+      "pubDate": "2026-09-01T13:23:27Z",
+      "snippet": "The U.S. Navy has submitted a Request for Information that reveals new specifications for its future carrier-based Combat Collaborative Aircraft.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Poland readies for record-breaking defense show as opulent budget lures vendors",
+      "link": "https://www.defensenews.com/global/europe/2026/09/01/poland-readies-for-record-breaking-defense-show-as-opulent-budget-lures-vendors/",
+      "pubDate": "2026-09-01T12:26:59Z",
+      "snippet": "Poland's sizable defense budget is expected lure a record number of companies to the European nation next week.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Lockheed Martin, General Dynamics get framework deals to surge Patriot, THAAD production",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/08/31/lockheed-martin-general-dynamics-get-framework-deals-to-surge-patriot-thaad-production/",
+      "pubDate": "2026-08-31T21:08:08Z",
+      "snippet": "The Pentagon's framework agreements with General Dynamics and Lockheed include tripling Patriot production and quadrupling THAAD interceptor output.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Israel signs $3.5 billion air defense deal with Greece",
       "link": "https://www.defensenews.com/global/europe/2026/08/31/israel-signs-35-billion-air-defense-deal-with-greece/",
@@ -147,33 +192,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "US Army taps 5 firms to build on-base microreactors in nuclear energy push",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/08/26/us-army-taps-5-firms-to-build-on-base-microreactors-in-nuclear-energy-push/",
-      "pubDate": "2026-08-26T20:48:16Z",
-      "snippet": "The agreements, worth up to $2.2 billion, mark a step forward in the Janus program, an initiative to introduce microreactors to power installations.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army seeks 8,000 new short-range missiles per year",
-      "link": "https://www.defensenews.com/news/your-army/2026/08/26/us-army-seeks-8000-new-short-range-missiles-per-year/",
-      "pubDate": "2026-08-26T18:51:30Z",
-      "snippet": "The U.S. Army wants to purchase up to 8,000 new short-range missiles per year.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Italy to request EU defense loan after all, but scales back amount",
-      "link": "https://www.defensenews.com/global/europe/2026/08/26/italy-to-request-eu-defense-loan-after-all-but-scales-back-amount/",
-      "pubDate": "2026-08-26T16:59:30Z",
-      "snippet": "Italy has requested \u20ac8 billion euros ($9.3 billion) in cheap loans from the European Union\u2019s SAFE program following earlier doubts about the move.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "RTX\u2019s Blue Canyon Technologies introduces new spacecraft mission enabler",
       "link": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-spacecraft-mission-enabler/",
       "pubDate": "2026-08-26T16:12:57Z",
@@ -190,24 +208,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "With UK military secrets, Ukraine could now build SCALP missiles at home - but it will take time",
-      "link": "https://www.defensenews.com/global/europe/2026/08/26/with-uk-military-secrets-ukraine-could-now-build-scalp-missiles-at-home-but-it-will-take-time/",
-      "pubDate": "2026-08-26T13:14:11Z",
-      "snippet": "Ukraine is now in possession of the intellectual property and permissions needed to build the high-tech European weapon domestically \u2014 in theory, that is.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "First North Korea-Russia road bridge nearly complete, symbolizing new era of military cooperation",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/08/26/first-north-korea-russia-road-bridge-nearly-complete-symbolizing-new-era-of-military-cooperation/",
-      "pubDate": "2026-08-26T09:03:18Z",
-      "snippet": "The first-ever road bridge linking North Korea and Russia across the Tumen River appears close to completion, according to satellite imagery reviewed by De",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Propulsion is having a moment",
@@ -322,24 +322,6 @@
       "link": "https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference/",
       "pubDate": "2026-08-20T13:00:00Z",
       "snippet": "San Diego, CA \u2013 Rock West Composites (RWC) is premiering its recently launched space-grade STRATOPultrusion\u2122 product line at the 2026 Small Satellite Conference this August in Salt Lake City, Utah. [&...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "LatConnect 60 selects Transcelestial\u2019s Space Optical Network for SWIRSAT imaging constellation",
-      "link": "https://spacenews.com/latconnect-60-selects-transcelestials-space-optical-network-for-swirsat-imaging-constellation/",
-      "pubDate": "2026-08-20T10:00:00Z",
-      "snippet": "SAN FRANCISCO / PERTH, 20 AUGUST 2026: LatConnect 60 (LC60) has signed a commercial contract with Transcelestial for an optical communications terminal on its SWIRSAT-1 mission, plus access to Transce...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Draper Selects Proteus Space for Advanced On-Orbit Mission",
-      "link": "https://spacenews.com/draper-selects-proteus-space-for-advanced-on-orbit-mission/",
-      "pubDate": "2026-08-20T10:00:00Z",
-      "snippet": "LOS ANGELES, CA, September 8th, 2026. Proteus Space, a dual-use aerospace company delivering rapid, end-to-end access to space, today announced it has been selected by The Charles Stark Draper Laborat...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
