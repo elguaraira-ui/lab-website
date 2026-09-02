@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-01T15:15:49.250212Z",
-  "count": 51,
+  "updated": "2026-09-02T14:46:40.490372Z",
+  "count": 47,
   "items": [
+    {
+      "title": "Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting",
+      "link": "https://spacenews.com/agile-space-industries-celebrates-durango-headquarters-expansion-with-ribbon-cutting/",
+      "pubDate": "2026-09-02T12:00:00Z",
+      "snippet": "DURANGO, Colo. \u2014 Sept. 2, 2026 \u2014 Agile Space Industries celebrated the completion of a 20,500-square-foot expansion of its Durango headquarters with a ribbon-cutting ceremony on August 26, joined by [...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "German government blames Russia for Leipzig airport drone attack with explosives",
+      "link": "https://www.defensenews.com/global/europe/2026/09/02/german-government-blames-russia-for-leipzig-airport-drone-attack-with-explosives/",
+      "pubDate": "2026-09-02T08:33:53Z",
+      "snippet": "Russia was behind the failed explosive drone attack on Germany\u2019s key Leipzig/Halle Airport last month, the authorities in Berlin have concluded.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "How a middling Chinese guided-missile frigate unnerves Japan, Taiwan and the US",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/09/02/how-a-middling-chinese-guided-missile-frigate-unnerves-japan-taiwan-and-the-us/",
+      "pubDate": "2026-09-02T08:00:10Z",
+      "snippet": "China\u2019s navy has introduced a new guided-missile frigate designed for coastal as well as open-sea attacks.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US approves possible $800 million military helicopter sale to Iraq",
+      "link": "https://www.defensenews.com/news/your-military/2026/09/01/us-approves-possible-800-million-military-helicopter-sale-to-iraq/",
+      "pubDate": "2026-09-01T18:14:33Z",
+      "snippet": "The United States has approved a potential $800 million sale of Bell helicopters, weapons and related equipment to Iraq, according to the State Department.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "American Rheinmetall delivers its first prototype to replace Bradley Fighting Vehicle",
       "link": "https://www.defensenews.com/news/your-military/2026/09/01/american-rheinmetall-delivers-its-first-prototype-to-replace-bradley-fighting-vehicle/",
@@ -102,24 +138,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Pentagon awards contract in race to field cheaper interceptors, missiles",
-      "link": "https://www.defensenews.com/pentagon/2026/08/27/pentagon-awards-contract-in-race-to-field-cheaper-interceptors-missiles/",
-      "pubDate": "2026-08-27T20:58:09Z",
-      "snippet": "The Pentagon awarded a contract to X-Bow Systems in its race to develop a new anti-ballistic weapon for less than $750,000 per shot.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon\u2019s NATO review preparing troop options for Hegseth by November 6",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/08/27/pentagons-nato-review-preparing-troop-options-for-hegseth-by-november-6/",
-      "pubDate": "2026-08-27T15:14:31Z",
-      "snippet": "A Pentagon review of U.S. troop deployments in Europe will create at least four sets of options for Defense Secretary Pete Hegseth by Nov. 6.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "The electronics \u2018under the hood\u2019 of space networking",
       "link": "https://spacenews.com/the-electronics-under-the-hood-of-space-networking/",
       "pubDate": "2026-08-27T14:50:34Z",
@@ -138,15 +156,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "Japan approves mass production of 3D-printed interceptor drones",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/08/27/japan-approves-mass-production-of-3d-printed-interceptor-drones/",
-      "pubDate": "2026-08-27T11:17:16Z",
-      "snippet": "Japan\u2019s defense-procurement agency has signed a mass production procurement agreement for interceptor drones made using 3D printers.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "A mysterious cosmic hum may come from 13-billion-year-old dark stars",
       "link": "https://www.sciencedaily.com/releases/2026/08/260827010457.htm",
       "pubDate": "2026-08-27T10:26:04Z",
@@ -163,15 +172,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Rolls-Royce, Safran vie for India\u2019s next-generation fighter engine",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/08/27/rolls-royce-safran-vie-for-indias-next-generation-fighter-engine/",
-      "pubDate": "2026-08-27T09:17:41Z",
-      "snippet": "New Delhi wants access to a critical fighter engine technology available to only a handful of countries.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Scientists may have finally caught \u201cempty\u201d space changing light",
@@ -286,42 +286,6 @@
       "link": "https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/",
       "pubDate": "2026-08-21T19:48:14Z",
       "snippet": "Paris, France &#124; August 2026\u2013 More than 6,500 Earth observation (EO) satellites are expected to launch by 2035, generating $155.9 billion in manufacturing revenues as governments expand sovereign ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Elve qualifies millimeter-wave amplifiers for spaceflight",
-      "link": "https://spacenews.com/elve-qualifies-millimeter-wave-amplifiers-for-spaceflight/",
-      "pubDate": "2026-08-20T22:51:53Z",
-      "snippet": "SAN FRANCISCO \u2013 California startup Elve has qualified its 100-watt millimeter-wave Traveling Wave Tube Amplifier platform for spaceflight. With U.S. Space Force Small Business Innovation Research fund...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "What\u2019s next for ISR in space",
-      "link": "https://spacenews.com/whats-next-for-isr-in-space/",
-      "pubDate": "2026-08-20T17:21:33Z",
-      "snippet": "In this episode, SpaceNews correspondent Debra Werner leads a panel of experts to discuss the role of ISR in space and what comes next. This session was recorded in May [&#8230;]\nThe post What&#8217;s...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Moog Highlights Huntsville Expansion and New Hardware-in-the-Loop Lab During Space and Missile Defense Symposium",
-      "link": "https://spacenews.com/moog-highlights-huntsville-expansion-and-new-hardware-in-the-loop-lab-during-space-and-missile-defense-symposium/",
-      "pubDate": "2026-08-20T16:00:00Z",
-      "snippet": "Huntsville, AL &#8212; Moog Inc. (NYSE: MOG.A and MOG.B) announces a significant expansion at its Huntsville, AL facility that now includes a new secure Hypersonic/Interceptor Hardware-in-the-Loop (HW...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Rock West Composites\u00ae Is Premiering Its New STRATOPultrusion\u2122 Product Line at the 2026 Small Satellite Conference",
-      "link": "https://spacenews.com/rock-west-composites-is-premiering-its-new-stratopultrusion-product-line-at-the-2026-small-satellite-conference/",
-      "pubDate": "2026-08-20T13:00:00Z",
-      "snippet": "San Diego, CA \u2013 Rock West Composites (RWC) is premiering its recently launched space-grade STRATOPultrusion\u2122 product line at the 2026 Small Satellite Conference this August in Salt Lake City, Utah. [&...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
