@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-02T14:46:40.490372Z",
-  "count": 47,
+  "updated": "2026-09-03T14:45:22.439175Z",
+  "count": 48,
   "items": [
+    {
+      "title": "Defense firms soar on ample military spending, testing manufacturing schemes",
+      "link": "https://www.defensenews.com/industry/2026/09/03/defense-firms-soar-on-ample-military-spending-testing-manufacturing-schemes/",
+      "pubDate": "2026-09-03T14:35:13Z",
+      "snippet": "For the many billions of dollars governments spend on defense, companies are on the hook to get their production pipelines in place and deliver.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
+      "link": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/",
+      "pubDate": "2026-09-03T13:00:00Z",
+      "snippet": "Leuven, Belgium &#38; Halifax, Canada \u2013 3 September 2026 \u2013 European optical payload provider Simera Sense today announced that Canadian space technology company Galaxia has acquired a HyperScape100 hy...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Marine Corps plans to use 3D scanners to detect cracked body armor",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/09/03/us-marine-corps-plans-to-use-3d-scanners-to-detect-cracked-body-armor/",
+      "pubDate": "2026-09-03T12:00:01Z",
+      "snippet": "The U.S. Marine Corps is looking to acquire high-resolution 3D scanners to detect cracked body armor.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Army awards $192M to Palantir, Anduril for TITAN production",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/09/02/us-army-awards-192m-to-palantir-anduril-for-titan-production/",
+      "pubDate": "2026-09-02T21:43:17Z",
+      "snippet": "The Army moved its TITAN program from prototyping to production with a $192 million award to Palantir and Anduril this week.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Interstellar solar sails hit a strange problem at 75% of light speed",
+      "link": "https://www.sciencedaily.com/releases/2026/08/260831015157.htm",
+      "pubDate": "2026-09-02T14:51:21Z",
+      "snippet": "Solar sails pushed by powerful lasers could reach incredible speeds, but relativity may eventually make the light itself work against them. At around 75% of the speed of light, scattered photons can b...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
     {
       "title": "Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting",
       "link": "https://spacenews.com/agile-space-industries-celebrates-durango-headquarters-expansion-with-ribbon-cutting/",
@@ -115,24 +160,6 @@
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/08/31/pentagon-scraps-public-weapons-testing-reports-amid-oversight-concerns/",
       "pubDate": "2026-08-31T13:08:24Z",
       "snippet": "The Pentagon says cuts to its independent weapons testing office will save money, while critics warn they could lead to costly mistakes.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Air Force awards Boeing $131 billion ceiling contract for F-15 production, modernization",
-      "link": "https://www.defensenews.com/news/your-military/2026/08/28/air-force-awards-boeing-131-billion-ceiling-contract-for-f-15-production-modernization/",
-      "pubDate": "2026-08-28T16:36:53Z",
-      "snippet": "The Air Force has awarded Boeing a sole-source contract with a $131.23 billion ceiling to produce, modernize and sustain F-15 fighters.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "India turns to private sector to ramp up missile production",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/08/28/india-turns-to-private-sector-to-ramp-up-missile-production/",
-      "pubDate": "2026-08-28T14:14:15Z",
-      "snippet": "Fearing bottlenecks, India has approved the transfer of technologies for conventional missile systems from a state-run organization to private companies.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -282,15 +309,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "New Novaspace forecast: 6,500+ EO satellites to launch by 2035",
-      "link": "https://spacenews.com/new-novaspace-forecast-6500-eo-satellites-to-launch-by-2035/",
-      "pubDate": "2026-08-21T19:48:14Z",
-      "snippet": "Paris, France &#124; August 2026\u2013 More than 6,500 Earth observation (EO) satellites are expected to launch by 2035, generating $155.9 billion in manufacturing revenues as governments expand sovereign ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Scientists crushed diamond beyond Neptune-like pressures\u2014and solved a 20-year mystery",
       "link": "https://www.sciencedaily.com/releases/2026/08/260820002424.htm",
       "pubDate": "2026-08-20T08:55:15Z",
@@ -412,15 +430,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/07/260709160651.htm",
       "pubDate": "2026-07-11T12:18:02Z",
       "snippet": "Researchers discovered that electricity can dramatically reshape how heat flows through certain ceramic materials, increasing heat conduction by almost threefold in a preferred direction. The unexpect...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Scientists finally solved a 150-year-old gallium mystery",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260707054119.htm",
-      "pubDate": "2026-07-09T07:40:57Z",
-      "snippet": "Scientists have rewritten the story of gallium after discovering that its unusual atomic bonds re-form at high temperatures, contradicting decades of accepted theory. The finding changes how researche...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
