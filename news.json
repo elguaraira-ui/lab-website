@@ -1,7 +1,34 @@
 {
-  "updated": "2026-09-03T14:45:22.439175Z",
+  "updated": "2026-09-04T14:35:47.847399Z",
   "count": 48,
   "items": [
+    {
+      "title": "Space industry lacks workers needed to rebuild satellites lost in war, report says",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/",
+      "pubDate": "2026-09-04T13:50:33Z",
+      "snippet": "The U.S. does not have enough engineers, technicians and assemblers to rebuild military space assets destroyed in a war with China or Russia, per RAND.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Army launches laser production with $465M contract award",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/09/03/us-army-launches-laser-production-with-465m-contract-award/",
+      "pubDate": "2026-09-03T19:54:51Z",
+      "snippet": "The U.S. Army awarded a $464.8 million production contract to AeroVironment, Inc., this week for the Enduring-High Energy Laser program.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "The Army shut down a specialized drone unit. Legislators want to know why.",
+      "link": "https://www.defensenews.com/news/your-military/2026/09/03/the-army-shut-down-a-specialized-drone-unit-legislators-want-to-know-why/",
+      "pubDate": "2026-09-03T16:29:47Z",
+      "snippet": "A bipartisan group of lawmakers asked the Army to explain why it is shuttering a specialized drone battalion less than a year after establishing it.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Defense firms soar on ample military spending, testing manufacturing schemes",
       "link": "https://www.defensenews.com/industry/2026/09/03/defense-firms-soar-on-ample-military-spending-testing-manufacturing-schemes/",
@@ -156,15 +183,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Pentagon scraps public weapons testing reports amid oversight concerns",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/08/31/pentagon-scraps-public-weapons-testing-reports-amid-oversight-concerns/",
-      "pubDate": "2026-08-31T13:08:24Z",
-      "snippet": "The Pentagon says cuts to its independent weapons testing office will save money, while critics warn they could lead to costly mistakes.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "The electronics \u2018under the hood\u2019 of space networking",
       "link": "https://spacenews.com/the-electronics-under-the-hood-of-space-networking/",
       "pubDate": "2026-08-27T14:50:34Z",
@@ -277,24 +295,6 @@
       "link": "https://spacenews.com/spirit-electronics-adds-texas-instruments-and-microchip-technology-space-grade-components-to-online-store-ahead-of-smallsat-2026/",
       "pubDate": "2026-08-24T15:00:00Z",
       "snippet": "PHOENIX, AZ \u2014 August 24, 2026 \u2014 Spirit Electronics, a value\u2011added distributor of high\u2011reliability electronics focused on performance\u2011driven program requirements, announced that space\u2011grade and high\u2011re...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "The Fuel for the Next Generation of Cislunar Exploration? Technology and Talent.",
-      "link": "https://spacenews.com/the-fuel-for-the-next-generation-of-cislunar-exploration-technology-and-talent/",
-      "pubDate": "2026-08-24T14:00:00Z",
-      "snippet": "After NASA astronauts landed on the moon in 1969, their achievement bore decades\u2019 worth of fruit, including scientific discoveries and a strategic national security advantage. Now \u2014 with plans to [&#8...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Tory Bruno Named Honorary Chair Of World Space Week 2027",
-      "link": "https://spacenews.com/tory-bruno-named-honorary-chair-of-world-space-week-2027/",
-      "pubDate": "2026-08-24T12:00:00Z",
-      "snippet": "Houston \u2014 World Space Week Association announced today that Tory Bruno, President of National Security at Blue Origin, will serve as Honorary Chair of World Space Week 2027.&#160;&#160; &#8220;Tory Br...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
