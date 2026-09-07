@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-04T14:35:47.847399Z",
-  "count": 48,
+  "updated": "2026-09-07T16:09:40.102326Z",
+  "count": 47,
   "items": [
+    {
+      "title": "Ukraine asks EU to fund first Patriot missiles buy",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/09/05/ukraine-asks-eu-to-fund-first-pac-3-patriot-buy/",
+      "pubDate": "2026-09-05T04:34:28Z",
+      "snippet": "Brussels is weighing a rare waiver that would let Kyiv tap its \u20ac90 billion loan for U.S.-made interceptors for the first time.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Opposition by US and Russia raises doubts over autonomous weapons talks outcome, diplomats say",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/09/04/opposition-by-us-and-russia-raises-doubts-over-autonomous-weapons-talks-outcome-diplomats-say/",
+      "pubDate": "2026-09-04T15:27:01Z",
+      "snippet": "Opposition from the U.S. and Russia has raised doubts that countries meeting Friday will agree on international rules about the use of autonomous weapons.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Space industry lacks workers needed to rebuild satellites lost in war, report says",
       "link": "https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/",
@@ -147,24 +165,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Lockheed Martin, General Dynamics get framework deals to surge Patriot, THAAD production",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/08/31/lockheed-martin-general-dynamics-get-framework-deals-to-surge-patriot-thaad-production/",
-      "pubDate": "2026-08-31T21:08:08Z",
-      "snippet": "The Pentagon's framework agreements with General Dynamics and Lockheed include tripling Patriot production and quadrupling THAAD interceptor output.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Israel signs $3.5 billion air defense deal with Greece",
-      "link": "https://www.defensenews.com/global/europe/2026/08/31/israel-signs-35-billion-air-defense-deal-with-greece/",
-      "pubDate": "2026-08-31T16:50:39Z",
-      "snippet": "Israel and Greece signed a \u20ac3 billion ($3.5 billion) defense deal on Monday under which Israel will build a multi-layered air defense system for Greece.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
       "link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members-2/",
       "pubDate": "2026-08-31T15:00:00Z",
@@ -286,15 +286,6 @@
       "link": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor/",
       "pubDate": "2026-08-24T22:26:02Z",
       "snippet": "In this episode, SpaceNews&#8217; Mike Gruss interviews Icarus Robotics CEO and co-founder Ethan Barajas at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why astronauts hav...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Spirit Electronics Adds Texas Instruments and Microchip Technology Space Grade Components to Online Store Ahead of SmallSat 2026",
-      "link": "https://spacenews.com/spirit-electronics-adds-texas-instruments-and-microchip-technology-space-grade-components-to-online-store-ahead-of-smallsat-2026/",
-      "pubDate": "2026-08-24T15:00:00Z",
-      "snippet": "PHOENIX, AZ \u2014 August 24, 2026 \u2014 Spirit Electronics, a value\u2011added distributor of high\u2011reliability electronics focused on performance\u2011driven program requirements, announced that space\u2011grade and high\u2011re...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
