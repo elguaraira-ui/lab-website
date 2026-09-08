@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-07T16:09:40.102326Z",
-  "count": 47,
+  "updated": "2026-09-08T14:48:00.262260Z",
+  "count": 46,
   "items": [
+    {
+      "title": "Sweden to buy HIMARS rocket artillery for around $730 million",
+      "link": "https://www.defensenews.com/global/europe/2026/09/08/sweden-to-buy-himars-rocket-artillery-for-around-730-million/",
+      "pubDate": "2026-09-08T10:47:22Z",
+      "snippet": "The Swedish government said it needs more rocket artillery fast, signing off on a $733 million purchase of HIMARS weapons from the United States.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Ukraine asks EU to fund first Patriot missiles buy",
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/09/05/ukraine-asks-eu-to-fund-first-pac-3-patriot-buy/",
@@ -156,15 +165,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Poland readies for record-breaking defense show as opulent budget lures vendors",
-      "link": "https://www.defensenews.com/global/europe/2026/09/01/poland-readies-for-record-breaking-defense-show-as-opulent-budget-lures-vendors/",
-      "pubDate": "2026-09-01T12:26:59Z",
-      "snippet": "Poland's sizable defense budget is expected lure a record number of companies to the European nation next week.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
       "link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members-2/",
       "pubDate": "2026-08-31T15:00:00Z",
@@ -277,15 +277,6 @@
       "link": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat/",
       "pubDate": "2026-08-25T13:00:00Z",
       "snippet": "SALT LAKE CITY &#8211; Aug. 25, 2026 &#8211; Tendeg has released NewTEN, a two-axis steerable reflector antenna that expands communications performance and pointing access for small spacecraft. Unveil...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Robotics and the future of on-orbit labor",
-      "link": "https://spacenews.com/robotics-and-the-future-of-on-orbit-labor/",
-      "pubDate": "2026-08-24T22:26:02Z",
-      "snippet": "In this episode, SpaceNews&#8217; Mike Gruss interviews Icarus Robotics CEO and co-founder Ethan Barajas at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why astronauts hav...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
