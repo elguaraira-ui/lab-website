@@ -1,7 +1,106 @@
 {
-  "updated": "2026-09-08T14:48:00.262260Z",
-  "count": 46,
+  "updated": "2026-09-09T14:51:19.665548Z",
+  "count": 47,
   "items": [
+    {
+      "title": "Anduril doubles down on Poland with autonomous aircraft pitch for F-35, Apache",
+      "link": "https://www.defensenews.com/global/europe/2026/09/09/anduril-doubles-down-on-poland-with-autonomous-aircraft-pitch-for-f-35-apache/",
+      "pubDate": "2026-09-09T13:38:38Z",
+      "snippet": "U.S. tech company Anduril is pitching two drone types to accompany Poland's envisioned fleets of F-35 fighter jets and Apache attack helicopters.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Navy\u2019s next-generation fighter decision to be unveiled soon, sources say",
+      "link": "https://www.defensenews.com/news/your-military/2026/09/09/us-navys-next-generation-fighter-decision-to-be-unveiled-soon-sources-say/",
+      "pubDate": "2026-09-09T13:30:36Z",
+      "snippet": "The program, currently unnamed but designated F/A-XX, has been buffeted by delays and funding disputes for years.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Air Force seeks \u2018rapidly deployable\u2019 drone swarms for base security",
+      "link": "https://www.defensenews.com/news/your-military/2026/09/09/us-air-force-seeks-rapidly-deployable-drone-swarms-for-base-security/",
+      "pubDate": "2026-09-09T12:00:00Z",
+      "snippet": "The U.S. Air Force is looking to use \"rapidly deployable\" swarms of AI-controlled drones for base security.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Ukrainian industry scrambles to field interceptors against Russian jet drones",
+      "link": "https://www.defensenews.com/global/europe/2026/09/09/ukrainian-industry-scrambles-to-field-interceptors-against-russian-jet-drones/",
+      "pubDate": "2026-09-09T09:52:07Z",
+      "snippet": "Ukrainian companies are pushing to make their interceptor drones faster, aiming to be effective against Russian jet-powered drones.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "South Korea supercharges defense budget to record levels",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/09/09/south-korea-supercharges-defense-budget-to-record-levels/",
+      "pubDate": "2026-09-09T09:23:05Z",
+      "snippet": "South Korea's record defense budget comes amid disparaging comments about Seoul's alliance with the United States by its president, Donald Trump.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Chinese scientists find a hidden atomic structure that unlocks methane",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260909005148.htm",
+      "pubDate": "2026-09-09T05:33:42Z",
+      "snippet": "Scientists found that a tiny atomic structure that forms on nickel oxide during methane conversion is more effective than the metallic nickel long believed to drive the reaction. The discovery allowed...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Iran says it captured US submarine drone in Strait of Hormuz",
+      "link": "https://www.defensenews.com/news/your-military/2026/09/09/iran-says-it-captured-us-submarine-drone-in-strait-of-hormuz/",
+      "pubDate": "2026-09-09T02:03:19Z",
+      "snippet": "Iran said Tuesday it captured a U.S. uncrewed submarine in the Strait of Hormuz. The Pentagon said it had malfunctioned more than a day ago.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Ukraine contracting around 1,000 Patriot missiles from allies, defense chief says",
+      "link": "https://www.defensenews.com/flashpoints/ukraine/2026/09/08/ukraine-contracting-around-1000-patriot-missiles-from-allies-defense-chief-says/",
+      "pubDate": "2026-09-08T21:29:19Z",
+      "snippet": "Ukraine is contracting a supply of around 1,000 missiles for U.S.-designed Patriot air-defence systems.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Poland\u2019s in-development fighting vehicle carries newfound defense-export drive",
+      "link": "https://www.defensenews.com/global/europe/2026/09/08/polands-in-development-fighting-vehicle-carries-newfound-defense-export-drive/",
+      "pubDate": "2026-09-08T18:21:59Z",
+      "snippet": "Polish officials hope a new infantry fighting vehicle design will propel the country's weapons-export business.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Hanwha plans to build armored vehicle carrying a counter-drone laser",
+      "link": "https://www.defensenews.com/global/europe/2026/09/08/hanwha-plans-to-build-armored-vehicle-carrying-a-counter-drone-laser/",
+      "pubDate": "2026-09-08T17:21:49Z",
+      "snippet": "Hanwha representatives said the vehicle is fitted with a more powerful version of the stationary Cheongwang laser that protects the presidential compound.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Air Force seeks air-defense guns to protect overseas bases",
+      "link": "https://www.defensenews.com/news/your-military/2026/09/08/us-air-force-seeks-air-defense-guns-to-protect-overseas-bases/",
+      "pubDate": "2026-09-08T17:15:42Z",
+      "snippet": "The U.S. Air Force plans to acquire anti-aircraft guns to protect its overseas bases following Iranian attacks on U.S. bases in the Middle East.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Sweden to buy HIMARS rocket artillery for around $730 million",
       "link": "https://www.defensenews.com/global/europe/2026/09/08/sweden-to-buy-himars-rocket-artillery-for-around-730-million/",
@@ -84,15 +183,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "US Army awards $192M to Palantir, Anduril for TITAN production",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/09/02/us-army-awards-192m-to-palantir-anduril-for-titan-production/",
-      "pubDate": "2026-09-02T21:43:17Z",
-      "snippet": "The Army moved its TITAN program from prototyping to production with a $192 million award to Palantir and Anduril this week.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Interstellar solar sails hit a strange problem at 75% of light speed",
       "link": "https://www.sciencedaily.com/releases/2026/08/260831015157.htm",
       "pubDate": "2026-09-02T14:51:21Z",
@@ -109,60 +199,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "German government blames Russia for Leipzig airport drone attack with explosives",
-      "link": "https://www.defensenews.com/global/europe/2026/09/02/german-government-blames-russia-for-leipzig-airport-drone-attack-with-explosives/",
-      "pubDate": "2026-09-02T08:33:53Z",
-      "snippet": "Russia was behind the failed explosive drone attack on Germany\u2019s key Leipzig/Halle Airport last month, the authorities in Berlin have concluded.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "How a middling Chinese guided-missile frigate unnerves Japan, Taiwan and the US",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/09/02/how-a-middling-chinese-guided-missile-frigate-unnerves-japan-taiwan-and-the-us/",
-      "pubDate": "2026-09-02T08:00:10Z",
-      "snippet": "China\u2019s navy has introduced a new guided-missile frigate designed for coastal as well as open-sea attacks.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US approves possible $800 million military helicopter sale to Iraq",
-      "link": "https://www.defensenews.com/news/your-military/2026/09/01/us-approves-possible-800-million-military-helicopter-sale-to-iraq/",
-      "pubDate": "2026-09-01T18:14:33Z",
-      "snippet": "The United States has approved a potential $800 million sale of Bell helicopters, weapons and related equipment to Iraq, according to the State Department.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "American Rheinmetall delivers its first prototype to replace Bradley Fighting Vehicle",
-      "link": "https://www.defensenews.com/news/your-military/2026/09/01/american-rheinmetall-delivers-its-first-prototype-to-replace-bradley-fighting-vehicle/",
-      "pubDate": "2026-09-01T15:08:48Z",
-      "snippet": "The move is the latest in the service\u2019s yearslong effort to replace the Bradley Fighting Vehicle.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US tech found in Russian ballistic missiles",
-      "link": "https://www.defensenews.com/global/europe/2026/09/01/us-tech-found-in-russian-ballistic-missiles/",
-      "pubDate": "2026-09-01T14:35:51Z",
-      "snippet": "Dozens of American- and European-made components are still being used to build Russia\u2019s deadly ballistic missiles.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Navy unveils new specs for carrier-based Collaborative Combat Aircraft",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/09/01/us-navy-unveils-new-specs-for-carrier-based-collaborative-combat-aircraft/",
-      "pubDate": "2026-09-01T13:23:27Z",
-      "snippet": "The U.S. Navy has submitted a Request for Information that reveals new specifications for its future carrier-based Combat Collaborative Aircraft.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
@@ -259,24 +295,6 @@
       "link": "https://spacenews.com/propulsion-is-having-a-moment/",
       "pubDate": "2026-08-25T19:59:37Z",
       "snippet": "In this episode, SpaceNews Mike Gruss interviews Kevin Lausten, CEO of Morpheus Space, at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why propulsion is critical [&#8230;]...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Space Angel secures $1.75m WA Government backing to advance Western Australian spaceport plans",
-      "link": "https://spacenews.com/space-angel-secures-1-75m-wa-government-backing-to-advance-western-australian-spaceport-plans/",
-      "pubDate": "2026-08-25T14:00:00Z",
-      "snippet": "Space Angel has welcomed its selection by the Western Australian Government as the recipient of the $1.75 million Spaceport Establishment Support Grant, announced by Science and Innovation Minister St...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Tendeg Launches NewTEN Steerable Compact Antenna at SmallSat",
-      "link": "https://spacenews.com/tendeg-launches-newten-steerable-compact-antenna-at-smallsat/",
-      "pubDate": "2026-08-25T13:00:00Z",
-      "snippet": "SALT LAKE CITY &#8211; Aug. 25, 2026 &#8211; Tendeg has released NewTEN, a two-axis steerable reflector antenna that expands communications performance and pointing access for small spacecraft. Unveil...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
@@ -403,15 +421,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/07/260711010120.htm",
       "pubDate": "2026-07-12T12:28:41Z",
       "snippet": "Researchers have recreated the physics of extracting energy from a spinning black hole using a stationary device that produces synthetic ultrafast rotation. The achievement transforms a long-standing ...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "This electric field trick boosted heat flow by nearly 300%",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260709160651.htm",
-      "pubDate": "2026-07-11T12:18:02Z",
-      "snippet": "Researchers discovered that electricity can dramatically reshape how heat flows through certain ceramic materials, increasing heat conduction by almost threefold in a preferred direction. The unexpect...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
