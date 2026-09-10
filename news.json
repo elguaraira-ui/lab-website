@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-09T14:51:19.665548Z",
-  "count": 47,
+  "updated": "2026-09-10T14:40:36.888160Z",
+  "count": 44,
   "items": [
+    {
+      "title": "Iran likely to reverse-engineer captured US underwater drone",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/09/10/iran-likely-to-reverse-engineer-captured-us-underwater-drone/",
+      "pubDate": "2026-09-10T14:26:04Z",
+      "snippet": "Iran will almost certainly try to pry open the captured drone\u2019s hardware, but the platform's software does carry built-in defenses, analysts say.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "NATO allies foil Russian subsea cable sabotage plot",
+      "link": "https://www.defensenews.com/global/europe/2026/09/10/nato-allies-foil-russian-subsea-cable-sabotage-plot/",
+      "pubDate": "2026-09-10T13:48:21Z",
+      "snippet": "The clandestine Russian operation was carried out by Moscow\u2019s GUGI undersea warfare directorate to test a destructive sabotage capability, sources said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US radar maker Echodyne mulls European production as drone warfare fuels demand",
+      "link": "https://www.defensenews.com/global/europe/2026/09/10/us-radar-maker-echodyne-mulls-european-production-as-drone-warfare-fuels-demand/",
+      "pubDate": "2026-09-10T11:14:42Z",
+      "snippet": "The U.S. radar specialist said it's sensing new business opportunities in Europe, where governments are scrambling to up their counter-drone capabilities.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Elbit Systems\u2019 American subsidiary rebrands as\u00a0Twenty-Six Defense",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/09/09/israeli-based-defense-company-rebrands-american-subsidiary-to-twenty-six-defense/",
+      "pubDate": "2026-09-09T23:32:12Z",
+      "snippet": "The U.S. arm of Israel's Elbit Systems has rebranded to Twenty-Six Defense, a new name that emphasizes the subsidiary\u2019s American-made brand.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Anduril doubles down on Poland with autonomous aircraft pitch for F-35, Apache",
       "link": "https://www.defensenews.com/global/europe/2026/09/09/anduril-doubles-down-on-poland-with-autonomous-aircraft-pitch-for-f-35-apache/",
@@ -129,42 +165,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Space industry lacks workers needed to rebuild satellites lost in war, report says",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/09/04/space-industry-lacks-workers-needed-to-rebuild-satellites-lost-in-war-report-says/",
-      "pubDate": "2026-09-04T13:50:33Z",
-      "snippet": "The U.S. does not have enough engineers, technicians and assemblers to rebuild military space assets destroyed in a war with China or Russia, per RAND.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army launches laser production with $465M contract award",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/09/03/us-army-launches-laser-production-with-465m-contract-award/",
-      "pubDate": "2026-09-03T19:54:51Z",
-      "snippet": "The U.S. Army awarded a $464.8 million production contract to AeroVironment, Inc., this week for the Enduring-High Energy Laser program.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "The Army shut down a specialized drone unit. Legislators want to know why.",
-      "link": "https://www.defensenews.com/news/your-military/2026/09/03/the-army-shut-down-a-specialized-drone-unit-legislators-want-to-know-why/",
-      "pubDate": "2026-09-03T16:29:47Z",
-      "snippet": "A bipartisan group of lawmakers asked the Army to explain why it is shuttering a specialized drone battalion less than a year after establishing it.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Defense firms soar on ample military spending, testing manufacturing schemes",
-      "link": "https://www.defensenews.com/industry/2026/09/03/defense-firms-soar-on-ample-military-spending-testing-manufacturing-schemes/",
-      "pubDate": "2026-09-03T14:35:13Z",
-      "snippet": "For the many billions of dollars governments spend on defense, companies are on the hook to get their production pipelines in place and deliver.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
       "link": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/",
       "pubDate": "2026-09-03T13:00:00Z",
@@ -172,15 +172,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "US Marine Corps plans to use 3D scanners to detect cracked body armor",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/09/03/us-marine-corps-plans-to-use-3d-scanners-to-detect-cracked-body-armor/",
-      "pubDate": "2026-09-03T12:00:01Z",
-      "snippet": "The U.S. Marine Corps is looking to acquire high-resolution 3D scanners to detect cracked body armor.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Interstellar solar sails hit a strange problem at 75% of light speed",
@@ -277,24 +268,6 @@
       "link": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-spacecraft-mission-enabler/",
       "pubDate": "2026-08-26T16:12:57Z",
       "snippet": "LAFAYETTE, Colo. (August 26, 2026) &#8212; Small satellite manufacturer and mission services provider Blue Canyon Technologies, part of RTX\u2019s (NYSE: RTX) Raytheon business, has unveiled its latest spa...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "The threat environment and processing at the edge",
-      "link": "https://spacenews.com/the-threat-environment-and-processing-at-the-edge/",
-      "pubDate": "2026-08-26T14:29:40Z",
-      "snippet": "In this episode, SpaceNews\u2019 Mike Gruss interviews FrontGrade CTO Lorne Graves. They discuss how processing power on spacecraft is adapting to the rise of megaconstellations, what benefits satellite pr...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Propulsion is having a moment",
-      "link": "https://spacenews.com/propulsion-is-having-a-moment/",
-      "pubDate": "2026-08-25T19:59:37Z",
-      "snippet": "In this episode, SpaceNews Mike Gruss interviews Kevin Lausten, CEO of Morpheus Space, at the 2026 Small Satellite Conference in Salt Lake City, Utah. They discuss why propulsion is critical [&#8230;]...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
