@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-10T14:40:36.888160Z",
+  "updated": "2026-09-11T14:39:50.402866Z",
   "count": 44,
   "items": [
+    {
+      "title": "US refutes claims that Iran captured Saildrone USV",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/09/11/us-refutes-claims-that-iran-captured-saildrone-usv/",
+      "pubDate": "2026-09-11T14:18:50Z",
+      "snippet": "A U.S. official denied the video shared by Iran purported to show an American Saildrone USV near the Strait of Hormuz in flames.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "German military eyes cruise missiles from Covenant, a surprise vendor setting up shop",
+      "link": "https://www.defensenews.com/global/europe/2026/09/11/german-military-eyes-cruise-missiles-from-covenant-a-surprise-vendor-setting-up-shop/",
+      "pubDate": "2026-09-11T13:50:55Z",
+      "snippet": "The German military is in talks with Covenant over the company's Anthem cruise missile, the country\u2019s defense ministry said on Friday.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
+      "link": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/",
+      "pubDate": "2026-09-11T05:32:49Z",
+      "snippet": "Australian Earth observation satellite company LatConnect 60 (LC60) has strengthened its position in India with two strategic agreements announced at the Bengaluru Space Expo 2026 on September 7th, sp...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Physicists just found a tiny glitch in time itself",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260910225251.htm",
+      "pubDate": "2026-09-11T05:18:44Z",
+      "snippet": "Unconventional quantum theories may imply that time itself has a tiny fundamental uncertainty, placing an ultimate limit on how precisely any clock could measure it. The effect is far beyond current d...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Iran attack on base in Jordan damaged American military aircraft, US official says",
+      "link": "https://www.defensenews.com/flashpoints/middle-east/2026/09/10/iran-attack-on-base-in-jordan-damaged-american-military-aircraft-us-official-says/",
+      "pubDate": "2026-09-10T20:22:31Z",
+      "snippet": "Iranian strikes damaged one A-10 Thunderbolt II and eight F-15s this week on the Muwaffaq Salti Air Base in Jordan.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Iran likely to reverse-engineer captured US underwater drone",
       "link": "https://www.defensenews.com/industry/techwatch/2026/09/10/iran-likely-to-reverse-engineer-captured-us-underwater-drone/",
@@ -147,24 +192,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Ukraine asks EU to fund first Patriot missiles buy",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/09/05/ukraine-asks-eu-to-fund-first-pac-3-patriot-buy/",
-      "pubDate": "2026-09-05T04:34:28Z",
-      "snippet": "Brussels is weighing a rare waiver that would let Kyiv tap its \u20ac90 billion loan for U.S.-made interceptors for the first time.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Opposition by US and Russia raises doubts over autonomous weapons talks outcome, diplomats say",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/09/04/opposition-by-us-and-russia-raises-doubts-over-autonomous-weapons-talks-outcome-diplomats-say/",
-      "pubDate": "2026-09-04T15:27:01Z",
-      "snippet": "Opposition from the U.S. and Russia has raised doubts that countries meeting Friday will agree on international rules about the use of autonomous weapons.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
       "link": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/",
       "pubDate": "2026-09-03T13:00:00Z",
@@ -253,24 +280,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "LatConnect 60 and Phi Earth Partner to Connect Space and Soil",
-      "link": "https://spacenews.com/latconnect-60-and-phi-earth-partner-to-connect-space-and-soil/",
-      "pubDate": "2026-08-27T01:54:19Z",
-      "snippet": "Nature-based projects are generating more environmental data than ever before. Satellites observe landscapes from orbit, while field teams capture what is happening on the ground. Yet these data sourc...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "RTX\u2019s Blue Canyon Technologies introduces new spacecraft mission enabler",
-      "link": "https://spacenews.com/rtxs-blue-canyon-technologies-introduces-new-spacecraft-mission-enabler/",
-      "pubDate": "2026-08-26T16:12:57Z",
-      "snippet": "LAFAYETTE, Colo. (August 26, 2026) &#8212; Small satellite manufacturer and mission services provider Blue Canyon Technologies, part of RTX\u2019s (NYSE: RTX) Raytheon business, has unveiled its latest spa...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Physicists create a tiny \u201cBig Bang\u201d with surprisingly small atomic nuclei",
@@ -385,15 +394,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
       "pubDate": "2026-07-17T06:04:57Z",
       "snippet": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, a...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Physicists recreate black hole energy extraction in the lab",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260711010120.htm",
-      "pubDate": "2026-07-12T12:28:41Z",
-      "snippet": "Researchers have recreated the physics of extracting energy from a spinning black hole using a stationary device that produces synthetic ultrafast rotation. The achievement transforms a long-standing ...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
