@@ -1,7 +1,61 @@
 {
-  "updated": "2026-09-11T14:39:50.402866Z",
-  "count": 44,
+  "updated": "2026-09-14T16:39:31.199725Z",
+  "count": 39,
   "items": [
+    {
+      "title": "Space\u2019s growing billion-dollar club",
+      "link": "https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/",
+      "pubDate": "2026-09-14T15:35:10Z",
+      "snippet": "Download our new mapping of every space company valued at $1 billion or more.\nThe post Space\u2019s growing billion-dollar club appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Drone maker unveils \u2018low-cost\u2019 alternative to MQ-9 Reaper",
+      "link": "https://www.defensenews.com/news/your-military/2026/09/14/drone-maker-unveils-low-cost-alternative-to-mq-9-reaper/",
+      "pubDate": "2026-09-14T13:12:43Z",
+      "snippet": "Swarm Aero said its Gamera design will deliver more capabilities than the MQ-9 Reaper at a fraction of the cost.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Scientists are building a microscope powered by a quantum computer",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260912220038.htm",
+      "pubDate": "2026-09-13T12:03:59Z",
+      "snippet": "Scientists are combining an electron microscope with a quantum computer to squeeze far more information from each electron. The approach could reveal faint details with fewer electrons, helping protec...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "CERN finds gluons behaving strangely deep inside atomic nuclei",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260911214303.htm",
+      "pubDate": "2026-09-12T15:04:06Z",
+      "snippet": "Physicists at CERN have found a new way to peer deep inside atomic nuclei and distinguish between two competing explanations for how gluons behave. Using the ALICE experiment at the Large Hadron Colli...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Pentagon looks to AI to identify space and missile threats",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/09/11/pentagon-looks-to-ai-to-identify-space-and-missile-threats/",
+      "pubDate": "2026-09-11T17:38:56Z",
+      "snippet": "The Pentagon is seeking artificial intelligence that can cut through the confusion of missile defense.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Polish prime minister: Poland to develop its own Starlink",
+      "link": "https://www.defensenews.com/global/europe/2026/09/11/polish-prime-minister-poland-to-develop-its-own-starlink/",
+      "pubDate": "2026-09-11T15:21:31Z",
+      "snippet": "Polish Prime Minister Donald Tusk said the project will pave the way for the launch of a Starlink-like system for the nation.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "US refutes claims that Iran captured Saildrone USV",
       "link": "https://www.defensenews.com/industry/techwatch/2026/09/11/us-refutes-claims-that-iran-captured-saildrone-usv/",
@@ -138,60 +192,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "Iran says it captured US submarine drone in Strait of Hormuz",
-      "link": "https://www.defensenews.com/news/your-military/2026/09/09/iran-says-it-captured-us-submarine-drone-in-strait-of-hormuz/",
-      "pubDate": "2026-09-09T02:03:19Z",
-      "snippet": "Iran said Tuesday it captured a U.S. uncrewed submarine in the Strait of Hormuz. The Pentagon said it had malfunctioned more than a day ago.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Ukraine contracting around 1,000 Patriot missiles from allies, defense chief says",
-      "link": "https://www.defensenews.com/flashpoints/ukraine/2026/09/08/ukraine-contracting-around-1000-patriot-missiles-from-allies-defense-chief-says/",
-      "pubDate": "2026-09-08T21:29:19Z",
-      "snippet": "Ukraine is contracting a supply of around 1,000 missiles for U.S.-designed Patriot air-defence systems.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Poland\u2019s in-development fighting vehicle carries newfound defense-export drive",
-      "link": "https://www.defensenews.com/global/europe/2026/09/08/polands-in-development-fighting-vehicle-carries-newfound-defense-export-drive/",
-      "pubDate": "2026-09-08T18:21:59Z",
-      "snippet": "Polish officials hope a new infantry fighting vehicle design will propel the country's weapons-export business.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Hanwha plans to build armored vehicle carrying a counter-drone laser",
-      "link": "https://www.defensenews.com/global/europe/2026/09/08/hanwha-plans-to-build-armored-vehicle-carrying-a-counter-drone-laser/",
-      "pubDate": "2026-09-08T17:21:49Z",
-      "snippet": "Hanwha representatives said the vehicle is fitted with a more powerful version of the stationary Cheongwang laser that protects the presidential compound.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Air Force seeks air-defense guns to protect overseas bases",
-      "link": "https://www.defensenews.com/news/your-military/2026/09/08/us-air-force-seeks-air-defense-guns-to-protect-overseas-bases/",
-      "pubDate": "2026-09-08T17:15:42Z",
-      "snippet": "The U.S. Air Force plans to acquire anti-aircraft guns to protect its overseas bases following Iranian attacks on U.S. bases in the Middle East.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Sweden to buy HIMARS rocket artillery for around $730 million",
-      "link": "https://www.defensenews.com/global/europe/2026/09/08/sweden-to-buy-himars-rocket-artillery-for-around-730-million/",
-      "pubDate": "2026-09-08T10:47:22Z",
-      "snippet": "The Swedish government said it needs more rocket artillery fast, signing off on a $733 million purchase of HIMARS weapons from the United States.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
       "link": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/",
       "pubDate": "2026-09-03T13:00:00Z",
@@ -214,33 +214,6 @@
       "link": "https://spacenews.com/agile-space-industries-celebrates-durango-headquarters-expansion-with-ribbon-cutting/",
       "pubDate": "2026-09-02T12:00:00Z",
       "snippet": "DURANGO, Colo. \u2014 Sept. 2, 2026 \u2014 Agile Space Industries celebrated the completion of a 20,500-square-foot expansion of its Durango headquarters with a ribbon-cutting ceremony on August 26, joined by [...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Commercial Space Federation (CSF) Welcomes Two New Associate Members",
-      "link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-associate-members-2/",
-      "pubDate": "2026-08-31T15:00:00Z",
-      "snippet": "August 31, 2026\u2014 Washington, D.C.\u2014The Commercial Space Federation (CSF) is pleased to welcome Outlier and Rendezvous Robotics as its newest Associate Members, bringing expertise in reusable satellite ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Speed to Field Starts Below the Prime",
-      "link": "https://spacenews.com/speed-to-field-starts-below-the-prime/",
-      "pubDate": "2026-08-31T13:30:43Z",
-      "snippet": "I have spent much of my career looking at the defense industrial base from different vantage points: as a warfighter, inside major defense companies, and now leading a company whose [&#8230;]\nThe post...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "The electronics \u2018under the hood\u2019 of space networking",
-      "link": "https://spacenews.com/the-electronics-under-the-hood-of-space-networking/",
-      "pubDate": "2026-08-27T14:50:34Z",
-      "snippet": "In this episode, SpaceNews&#8217; Mike Gruss interviews Jeff Janicik, founder and chairman of Innoflight. They discuss Golden Dome, Artemis and working with big numbers for the Space Development Agenc...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
@@ -376,24 +349,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/07/260729051524.htm",
       "pubDate": "2026-07-31T03:55:22Z",
       "snippet": "Engineers have transformed a notoriously brittle cobalt-aluminum compound into a material that is both extremely strong and capable of bending without breaking. Their nanoscale design produced a yield...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Ultrafast X-rays capture chemistry unfolding atom by atom",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729010726.htm",
-      "pubDate": "2026-07-30T02:18:28Z",
-      "snippet": "Ultrafast X-rays revealed how a molecule converts absorbed light into motion in just trillionths of a second. Individual atoms recorded different stages of the process, opening a powerful new window i...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Scientists built a camera that can track invisible particles in 3D",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260716023610.htm",
-      "pubDate": "2026-07-17T06:04:57Z",
-      "snippet": "A new particle detector called PLATON could replace millions of tiny detector components with a single block of light-producing material. Using a light-field camera, highly sensitive photon sensors, a...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
