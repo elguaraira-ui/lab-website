@@ -1,12 +1,102 @@
 {
-  "updated": "2026-09-14T16:39:31.199725Z",
-  "count": 39,
+  "updated": "2026-09-15T15:19:00.479007Z",
+  "count": 41,
   "items": [
+    {
+      "title": "Turkey certifies military training aircraft as safe, a first for local authorities",
+      "link": "https://www.defensenews.com/global/europe/2026/09/15/turkey-certifies-military-training-aircraft-as-safe-a-first-for-local-authorities/",
+      "pubDate": "2026-09-15T14:02:13Z",
+      "snippet": "Turkey has closed the bureaucratic loop on a military airworthiness certificate for a trainer aircraft, bringing the entire process under national control.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Russia and Iran deepen weapons partnership amid wars in Ukraine, Middle East",
+      "link": "https://www.defensenews.com/news/your-military/2026/09/15/russia-and-iran-deepen-weapons-partnership-amid-wars-in-ukraine-middle-east/",
+      "pubDate": "2026-09-15T13:42:46Z",
+      "snippet": "Russia has begun sending Iran upgraded munitions, satellite imagery and targeting data used against American forces in the Middle East.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Space-based ISR launches to grow fourfold in next decade, Novaspace says",
+      "link": "https://www.defensenews.com/space/2026/09/15/space-based-isr-launches-to-grow-fourfold-in-next-decade-novaspace-says/",
+      "pubDate": "2026-09-15T10:16:49Z",
+      "snippet": "The number of satellites launched to provide militaries and defense departments with ISR data from space is expected to increase more than fourfold.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "France experiments with smaller tank units to evade drone attacks",
+      "link": "https://www.defensenews.com/global/europe/2026/09/15/france-experiments-with-smaller-tank-units-to-evade-drone-attacks/",
+      "pubDate": "2026-09-15T09:24:22Z",
+      "snippet": "French Army commanders want to know if dispersed \u201cLego bricks\u201d of Leclerc tanks and support vehicles can make themselves uninteresting to adversaries.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Iceye\u2019s global presence expands to address sovereign demand",
+      "link": "https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/",
+      "pubDate": "2026-09-15T06:00:00Z",
+      "snippet": "Since raising more than $1 billion in a Series F funding round, Iceye has moved rapidly to address growing demand for sovereign space capabilities. In quick succession, the Finnish synthetic [&#8230;]...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Navy, Boeing ink first MQ-25A Stingray production contract",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/09/15/us-navy-boeing-ink-first-mq-25a-stingray-production-contract/",
+      "pubDate": "2026-09-15T01:13:26Z",
+      "snippet": "The U.S. Navy awarded a $562 million fixed-price incentive contract to Boeing on Monday to start Lot 1 Low Rate Initial Production of the MQ-25A Stingray.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Air Force secretary reveals deployment of on-orbit space control weapons",
+      "link": "https://www.defensenews.com/news/your-military/2026/09/14/us-air-force-secretary-reveals-deployment-of-on-orbit-space-control-weapons/",
+      "pubDate": "2026-09-14T22:25:28Z",
+      "snippet": "Secretary of the Air Force Troy Meink revealed that the service deployed on-orbit space control weapons but did not offer details on the type of weapon.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US military must focus on \u2018right mix\u2019 of weapons amid stockpile concerns: Official",
+      "link": "https://www.defensenews.com/air/2026/09/14/us-military-must-focus-on-right-mix-of-weapons-amid-stockpile-concerns-official/",
+      "pubDate": "2026-09-14T19:57:01Z",
+      "snippet": "With lingering questions regarding the depleted U.S. stockpiles due to the war with Iran, the U.S. military is looking to build the \u201cright mix\u201d of weapons.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Lockheed to build 4 more Vectis drones, 2027 first flight remains on target",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/09/14/lockheed-to-build-4-more-vectis-drones-2027-first-flight-remains-on-target/",
+      "pubDate": "2026-09-14T19:45:40Z",
+      "snippet": "Lockheed Martin\u2019s Skunk Works is slated to build four more Vectis uncrewed aircraft, with the first expected to fly by the end of 2027.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Sept. 21: What Comes Next for On-Orbit Servicing?",
+      "link": "https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/",
+      "pubDate": "2026-09-14T17:09:21Z",
+      "snippet": "Join us for conversations about the tech, policies and business models required to build a functioning in-orbit logistics ecosystem\nThe post Sept. 21: What Comes Next for On-Orbit Servicing? appeared ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Space\u2019s growing billion-dollar club",
       "link": "https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/",
       "pubDate": "2026-09-14T15:35:10Z",
-      "snippet": "Download our new mapping of every space company valued at $1 billion or more.\nThe post Space\u2019s growing billion-dollar club appeared first on SpaceNews.",
+      "snippet": "Download our new mapping of every private space company valued at $1 billion or more.\nThe post Space\u2019s growing billion-dollar club appeared first on SpaceNews.",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
@@ -106,78 +196,6 @@
       "link": "https://www.defensenews.com/industry/techwatch/2026/09/10/iran-likely-to-reverse-engineer-captured-us-underwater-drone/",
       "pubDate": "2026-09-10T14:26:04Z",
       "snippet": "Iran will almost certainly try to pry open the captured drone\u2019s hardware, but the platform's software does carry built-in defenses, analysts say.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "NATO allies foil Russian subsea cable sabotage plot",
-      "link": "https://www.defensenews.com/global/europe/2026/09/10/nato-allies-foil-russian-subsea-cable-sabotage-plot/",
-      "pubDate": "2026-09-10T13:48:21Z",
-      "snippet": "The clandestine Russian operation was carried out by Moscow\u2019s GUGI undersea warfare directorate to test a destructive sabotage capability, sources said.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US radar maker Echodyne mulls European production as drone warfare fuels demand",
-      "link": "https://www.defensenews.com/global/europe/2026/09/10/us-radar-maker-echodyne-mulls-european-production-as-drone-warfare-fuels-demand/",
-      "pubDate": "2026-09-10T11:14:42Z",
-      "snippet": "The U.S. radar specialist said it's sensing new business opportunities in Europe, where governments are scrambling to up their counter-drone capabilities.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Elbit Systems\u2019 American subsidiary rebrands as\u00a0Twenty-Six Defense",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/09/09/israeli-based-defense-company-rebrands-american-subsidiary-to-twenty-six-defense/",
-      "pubDate": "2026-09-09T23:32:12Z",
-      "snippet": "The U.S. arm of Israel's Elbit Systems has rebranded to Twenty-Six Defense, a new name that emphasizes the subsidiary\u2019s American-made brand.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Anduril doubles down on Poland with autonomous aircraft pitch for F-35, Apache",
-      "link": "https://www.defensenews.com/global/europe/2026/09/09/anduril-doubles-down-on-poland-with-autonomous-aircraft-pitch-for-f-35-apache/",
-      "pubDate": "2026-09-09T13:38:38Z",
-      "snippet": "U.S. tech company Anduril is pitching two drone types to accompany Poland's envisioned fleets of F-35 fighter jets and Apache attack helicopters.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Navy\u2019s next-generation fighter decision to be unveiled soon, sources say",
-      "link": "https://www.defensenews.com/news/your-military/2026/09/09/us-navys-next-generation-fighter-decision-to-be-unveiled-soon-sources-say/",
-      "pubDate": "2026-09-09T13:30:36Z",
-      "snippet": "The program, currently unnamed but designated F/A-XX, has been buffeted by delays and funding disputes for years.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Air Force seeks \u2018rapidly deployable\u2019 drone swarms for base security",
-      "link": "https://www.defensenews.com/news/your-military/2026/09/09/us-air-force-seeks-rapidly-deployable-drone-swarms-for-base-security/",
-      "pubDate": "2026-09-09T12:00:00Z",
-      "snippet": "The U.S. Air Force is looking to use \"rapidly deployable\" swarms of AI-controlled drones for base security.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Ukrainian industry scrambles to field interceptors against Russian jet drones",
-      "link": "https://www.defensenews.com/global/europe/2026/09/09/ukrainian-industry-scrambles-to-field-interceptors-against-russian-jet-drones/",
-      "pubDate": "2026-09-09T09:52:07Z",
-      "snippet": "Ukrainian companies are pushing to make their interceptor drones faster, aiming to be effective against Russian jet-powered drones.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "South Korea supercharges defense budget to record levels",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/09/09/south-korea-supercharges-defense-budget-to-record-levels/",
-      "pubDate": "2026-09-09T09:23:05Z",
-      "snippet": "South Korea's record defense budget comes amid disparaging comments about Seoul's alliance with the United States by its president, Donald Trump.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
