@@ -1,7 +1,79 @@
 {
-  "updated": "2026-09-15T15:19:00.479007Z",
+  "updated": "2026-09-16T15:11:25.714753Z",
   "count": 41,
   "items": [
+    {
+      "title": "Germany, US to expand shared production of Patriot interceptors, strike missiles",
+      "link": "https://www.defensenews.com/global/europe/2026/09/16/germany-us-to-expand-shared-production-of-patriot-interceptors-strike-missiles/",
+      "pubDate": "2026-09-16T14:47:45Z",
+      "snippet": "German and U.S. defense leaders have signed an agreement positioning Germany as an additional production hub for scarce American defense equipment.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "China warns US space weapons could fuel arms race",
+      "link": "https://www.defensenews.com/global/2026/09/16/china-warns-us-space-weapons-could-fuel-arms-race/",
+      "pubDate": "2026-09-16T14:39:27Z",
+      "snippet": "China urged the United States to halt its military build-up in outer space after Washington acknowledged it has weapons deployed in orbit.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Spain\u2019s Indra proffers \u2018Squall\u2019 for Europe\u2019s emerging strike missile mix",
+      "link": "https://www.defensenews.com/global/europe/2026/09/16/spains-indra-proffers-squall-for-europes-emerging-strike-missile-mix/",
+      "pubDate": "2026-09-16T14:37:22Z",
+      "snippet": "Spain\u2019s Indra has launched a low-cost cruise missile it claims will cost a tenth of top-of-the line current missiles, enabling swarm tactics.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Ukraine\u2019s Zelenskyy says new anti-drone weapon being tested",
+      "link": "https://www.defensenews.com/global/2026/09/16/ukraines-zelenskyy-says-new-anti-drone-weapon-being-tested/",
+      "pubDate": "2026-09-16T14:19:30Z",
+      "snippet": "Zelenskyy said on Tuesday that Ukraine was carrying out tests on a new weapon to intercept drones and had recorded a successful hit overnight.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Iran war has cost $38 billion, depleted two-thirds of US missile interceptors, CBO says",
+      "link": "https://www.defensenews.com/news/your-military/2026/09/15/iran-war-has-cost-38-billion-depleted-two-thirds-of-us-missile-interceptors-cbo-says/",
+      "pubDate": "2026-09-15T19:52:56Z",
+      "snippet": "The U.S. military has incurred about $38 billion in costs from combat operations against Iran, a new Congressional Budget Office analysis found.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Iranian strikes damaged hundreds of US military buildings, dozens of aircraft",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/09/15/iranian-strikes-damaged-hundreds-of-us-military-buildings-dozens-of-aircraft/",
+      "pubDate": "2026-09-15T19:06:38Z",
+      "snippet": "Iranian strikes have damaged hundreds of U.S. military and diplomatic buildings, as well as dozens of aircraft, a Pentagon watchdog said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Space Force to add 10,000 guardians in next 5 years",
+      "link": "https://www.defensenews.com/news/your-military/2026/09/15/us-space-force-to-add-10000-guardians-in-next-5-years/",
+      "pubDate": "2026-09-15T16:34:54Z",
+      "snippet": "The U.S. Space Force wants to double its uniformed ranks in the next five years.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Italian NATO jet downs drone in Lithuania, minister says it probably came from Russia",
+      "link": "https://www.defensenews.com/global/europe/2026/09/15/italian-nato-jet-downs-drone-in-lithuania-minister-says-it-probably-came-from-russia/",
+      "pubDate": "2026-09-15T15:35:13Z",
+      "snippet": "An Italian NATO fighter jet shot down a drone in Lithuanian airspace on Tuesday that \u201cmost probably\u201d came from Russia, Italy's defense minister said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Turkey certifies military training aircraft as safe, a first for local authorities",
       "link": "https://www.defensenews.com/global/europe/2026/09/15/turkey-certifies-military-training-aircraft-as-safe-a-first-for-local-authorities/",
@@ -102,15 +174,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Drone maker unveils \u2018low-cost\u2019 alternative to MQ-9 Reaper",
-      "link": "https://www.defensenews.com/news/your-military/2026/09/14/drone-maker-unveils-low-cost-alternative-to-mq-9-reaper/",
-      "pubDate": "2026-09-14T13:12:43Z",
-      "snippet": "Swarm Aero said its Gamera design will deliver more capabilities than the MQ-9 Reaper at a fraction of the cost.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Scientists are building a microscope powered by a quantum computer",
       "link": "https://www.sciencedaily.com/releases/2026/09/260912220038.htm",
       "pubDate": "2026-09-13T12:03:59Z",
@@ -129,42 +192,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "Pentagon looks to AI to identify space and missile threats",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/09/11/pentagon-looks-to-ai-to-identify-space-and-missile-threats/",
-      "pubDate": "2026-09-11T17:38:56Z",
-      "snippet": "The Pentagon is seeking artificial intelligence that can cut through the confusion of missile defense.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Polish prime minister: Poland to develop its own Starlink",
-      "link": "https://www.defensenews.com/global/europe/2026/09/11/polish-prime-minister-poland-to-develop-its-own-starlink/",
-      "pubDate": "2026-09-11T15:21:31Z",
-      "snippet": "Polish Prime Minister Donald Tusk said the project will pave the way for the launch of a Starlink-like system for the nation.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US refutes claims that Iran captured Saildrone USV",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/09/11/us-refutes-claims-that-iran-captured-saildrone-usv/",
-      "pubDate": "2026-09-11T14:18:50Z",
-      "snippet": "A U.S. official denied the video shared by Iran purported to show an American Saildrone USV near the Strait of Hormuz in flames.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "German military eyes cruise missiles from Covenant, a surprise vendor setting up shop",
-      "link": "https://www.defensenews.com/global/europe/2026/09/11/german-military-eyes-cruise-missiles-from-covenant-a-surprise-vendor-setting-up-shop/",
-      "pubDate": "2026-09-11T13:50:55Z",
-      "snippet": "The German military is in talks with Covenant over the company's Anthem cruise missile, the country\u2019s defense ministry said on Friday.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
       "link": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/",
       "pubDate": "2026-09-11T05:32:49Z",
@@ -181,24 +208,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Iran attack on base in Jordan damaged American military aircraft, US official says",
-      "link": "https://www.defensenews.com/flashpoints/middle-east/2026/09/10/iran-attack-on-base-in-jordan-damaged-american-military-aircraft-us-official-says/",
-      "pubDate": "2026-09-10T20:22:31Z",
-      "snippet": "Iranian strikes damaged one A-10 Thunderbolt II and eight F-15s this week on the Muwaffaq Salti Air Base in Jordan.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Iran likely to reverse-engineer captured US underwater drone",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/09/10/iran-likely-to-reverse-engineer-captured-us-underwater-drone/",
-      "pubDate": "2026-09-10T14:26:04Z",
-      "snippet": "Iran will almost certainly try to pry open the captured drone\u2019s hardware, but the platform's software does carry built-in defenses, analysts say.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Chinese scientists find a hidden atomic structure that unlocks methane",
@@ -226,15 +235,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Agile Space Industries Celebrates Durango Headquarters Expansion with Ribbon Cutting",
-      "link": "https://spacenews.com/agile-space-industries-celebrates-durango-headquarters-expansion-with-ribbon-cutting/",
-      "pubDate": "2026-09-02T12:00:00Z",
-      "snippet": "DURANGO, Colo. \u2014 Sept. 2, 2026 \u2014 Agile Space Industries celebrated the completion of a 20,500-square-foot expansion of its Durango headquarters with a ribbon-cutting ceremony on August 26, joined by [...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
