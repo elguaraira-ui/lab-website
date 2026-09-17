@@ -1,7 +1,88 @@
 {
-  "updated": "2026-09-16T15:11:25.714753Z",
-  "count": 41,
+  "updated": "2026-09-17T15:20:42.030401Z",
+  "count": 44,
   "items": [
+    {
+      "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
+      "link": "https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/",
+      "pubDate": "2026-09-17T15:05:15Z",
+      "snippet": "PARIS &#8212; South Korean company\u00a0Satrec Initiative\u00a0is working with parent company Hanwha Systems to provide high-resolution Earth imagery for the synthetic-aperture-radar (SAR) constellation announc...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges",
+      "link": "https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/",
+      "pubDate": "2026-09-17T14:40:51Z",
+      "snippet": "LEUVEN, BELGIUM and BILBAO, SPAIN \u2013 17 September 2026\u2014Simera Sense, a leading European provider of optical payload solutions for small satellites, today announced a strategic partnership with IDOM, on...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Inside Europe\u2019s push for space autonomy with Josef Aschbacher",
+      "link": "https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/",
+      "pubDate": "2026-09-17T14:37:26Z",
+      "snippet": "In this episode of the podcast, SpaceNews\u2019 Mike Gruss interviews Josef Aschbacher, the director-general of the European Space Agency, at the World Space Business Week conference in Paris. They discuss...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A",
+      "link": "https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/",
+      "pubDate": "2026-09-17T13:00:00Z",
+      "snippet": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, has selected the Focus Area Cohort Teams (FACTs) participating in Cohort 26.A. The selected teams represent innova...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
+      "link": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/",
+      "pubDate": "2026-09-17T13:00:00Z",
+      "snippet": "PARIS &#8212; Icarus Robotics, the New York startup developing dexterous mobile robots for space missions, conducted tests of its free-flying platform ahead of a 2027 demonstration on the Internationa...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Germany sending fighter jets to Latvia to protect election from drone incidents",
+      "link": "https://www.defensenews.com/global/europe/2026/09/17/germany-sending-fighter-jets-to-latvia-to-protect-election-from-drone-incidents/",
+      "pubDate": "2026-09-17T12:43:43Z",
+      "snippet": "Germany will send\u00a0four Eurofighter jets to defend Latvian airspace during upcoming elections, amid concerns over drone incursions from Russia and Belarus.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Japanese Global Hawk drone splashes down in crash",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/09/17/japanese-global-hawk-drone-splashes-down-in-crash/",
+      "pubDate": "2026-09-17T09:40:45Z",
+      "snippet": "A Japanese Global Hawk drone nosedived into the Sea of Japan this week, instantly slashing the country\u2019s fleet of these drones by a third.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US \u2018not prepared\u2019 to respond to nuclear attacks in space, report says",
+      "link": "https://www.defensenews.com/news/your-air-force/2026/09/16/us-not-prepared-to-respond-to-nuclear-attacks-in-space-report-says/",
+      "pubDate": "2026-09-16T17:37:17Z",
+      "snippet": "A recent war-gaming report found that the U.S. has no tested response to a nuclear detonation in space.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US military must adapt as formations will be \u2018hunted\u2019 by autonomous systems, Caine says",
+      "link": "https://www.defensenews.com/news/your-military/2026/09/16/us-military-must-adapt-as-formations-will-be-hunted-by-autonomous-systems-caine-says/",
+      "pubDate": "2026-09-16T16:41:30Z",
+      "snippet": "Technology, such as AI and autonomous systems, is changing the character of war, Joint Chiefs of Staff Chairman Gen. Dan Caine said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Germany, US to expand shared production of Patriot interceptors, strike missiles",
       "link": "https://www.defensenews.com/global/europe/2026/09/16/germany-us-to-expand-shared-production-of-patriot-interceptors-strike-missiles/",
@@ -102,15 +183,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "France experiments with smaller tank units to evade drone attacks",
-      "link": "https://www.defensenews.com/global/europe/2026/09/15/france-experiments-with-smaller-tank-units-to-evade-drone-attacks/",
-      "pubDate": "2026-09-15T09:24:22Z",
-      "snippet": "French Army commanders want to know if dispersed \u201cLego bricks\u201d of Leclerc tanks and support vehicles can make themselves uninteresting to adversaries.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Iceye\u2019s global presence expands to address sovereign demand",
       "link": "https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/",
       "pubDate": "2026-09-15T06:00:00Z",
@@ -118,42 +190,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "US Navy, Boeing ink first MQ-25A Stingray production contract",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/09/15/us-navy-boeing-ink-first-mq-25a-stingray-production-contract/",
-      "pubDate": "2026-09-15T01:13:26Z",
-      "snippet": "The U.S. Navy awarded a $562 million fixed-price incentive contract to Boeing on Monday to start Lot 1 Low Rate Initial Production of the MQ-25A Stingray.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Air Force secretary reveals deployment of on-orbit space control weapons",
-      "link": "https://www.defensenews.com/news/your-military/2026/09/14/us-air-force-secretary-reveals-deployment-of-on-orbit-space-control-weapons/",
-      "pubDate": "2026-09-14T22:25:28Z",
-      "snippet": "Secretary of the Air Force Troy Meink revealed that the service deployed on-orbit space control weapons but did not offer details on the type of weapon.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US military must focus on \u2018right mix\u2019 of weapons amid stockpile concerns: Official",
-      "link": "https://www.defensenews.com/air/2026/09/14/us-military-must-focus-on-right-mix-of-weapons-amid-stockpile-concerns-official/",
-      "pubDate": "2026-09-14T19:57:01Z",
-      "snippet": "With lingering questions regarding the depleted U.S. stockpiles due to the war with Iran, the U.S. military is looking to build the \u201cright mix\u201d of weapons.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Lockheed to build 4 more Vectis drones, 2027 first flight remains on target",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/09/14/lockheed-to-build-4-more-vectis-drones-2027-first-flight-remains-on-target/",
-      "pubDate": "2026-09-14T19:45:40Z",
-      "snippet": "Lockheed Martin\u2019s Skunk Works is slated to build four more Vectis uncrewed aircraft, with the first expected to fly by the end of 2027.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Sept. 21: What Comes Next for On-Orbit Servicing?",
@@ -217,15 +253,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Galaxia Takes Next Step in Earth Observation with purchase of Simera Sense Hyperspectral Imager",
-      "link": "https://spacenews.com/galaxia-takes-next-step-in-earth-observation-with-purchase-of-simera-sense-hyperspectral-imager/",
-      "pubDate": "2026-09-03T13:00:00Z",
-      "snippet": "Leuven, Belgium &#38; Halifax, Canada \u2013 3 September 2026 \u2013 European optical payload provider Simera Sense today announced that Canadian space technology company Galaxia has acquired a HyperScape100 hy...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Interstellar solar sails hit a strange problem at 75% of light speed",
