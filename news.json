@@ -1,7 +1,88 @@
 {
-  "updated": "2026-09-18T14:40:37.834771Z",
+  "updated": "2026-09-21T16:40:26.732127Z",
   "count": 44,
   "items": [
+    {
+      "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
+      "link": "https://spacenews.com/commercial-space-federation-csf-welcomes-two-new-members/",
+      "pubDate": "2026-09-21T15:00:00Z",
+      "snippet": "September 21, 2026\u2014 Washington, D.C.\u2014The Commercial Space Federation (CSF) is pleased to welcome ORBITInsure and Renaissance Strategic Advisors (RSA) as its newest members. ORBITInsure joins CSF as a ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "The Pentagon asked industry how fast it could make more weapons. The numbers remain private.",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/09/21/the-pentagon-asked-industry-how-fast-it-could-make-more-weapons-the-numbers-remain-private/",
+      "pubDate": "2026-09-21T14:22:27Z",
+      "snippet": "The Pentagon remains mum about defense contractors' plans to boost weapons production and delivery following a 21-day deadline for companies to send ideas.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Hegseth to chair Pentagon\u2019s new Homeland Defense advisory board",
+      "link": "https://www.defensenews.com/pentagon/2026/09/21/hegseth-to-chair-pentagons-new-homeland-defense-advisory-board/",
+      "pubDate": "2026-09-21T13:27:18Z",
+      "snippet": "The newly established Homeland Defense Board aims to fill a gap Pentagon leaders see in providing military guidance to homeland security missions.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "New nanoparticles make hidden chemical differences light up",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031030.htm",
+      "pubDate": "2026-09-20T11:35:28Z",
+      "snippet": "Scientists have developed ultra-bright nanoparticles that can detect tiny amounts of chemicals and distinguish between molecules that look almost identical. The technology could one day provide a chea...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Einstein\u2019s \u201cspooky action\u201d just survived one of physics\u2019 most extreme tests",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031023.htm",
+      "pubDate": "2026-09-20T05:16:00Z",
+      "snippet": "Physicists have detected strong evidence that heavy, fleeting Z bosons can become quantum entangled during Higgs boson decays at CERN\u2019s Large Hadron Collider. The result shows that Einstein\u2019s \u201cspooky ...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "This deep-sea enzyme survives heat that destroys most proteins",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260918024810.htm",
+      "pubDate": "2026-09-19T11:49:45Z",
+      "snippet": "A deep-sea microbe uses an exceptionally heat-resistant enzyme to turn atmospheric nitrogen into ammonia at temperatures that would destroy most proteins. Its unusual structure and a newly observed re...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Scientists find that \u201cperfect\u201d systems may be surprisingly fragile",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260919031022.htm",
+      "pubDate": "2026-09-19T11:26:53Z",
+      "snippet": "Complex systems may work better when their parts are not perfectly alike. Northwestern physicists found that carefully balanced variation, or \u201cdisorder,\u201d can make networks such as power grids, ecosyst...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Billions in rare earth elements may be hiding in America\u2019s coal ash",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260918024759.htm",
+      "pubDate": "2026-09-19T02:08:56Z",
+      "snippet": "Scientists are looking to diatoms, sea sponges, and plants for a cleaner way to recover rare earth elements and other valuable minerals hidden inside coal ash, red mud, and mine tailings. The bio-insp...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
+      "link": "https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/",
+      "pubDate": "2026-09-18T14:47:38Z",
+      "snippet": "IRVINE, Calif. and TORINO, Italy \u2013 Sept. 17, 2026 \u2013 Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, [...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Latvia chooses Czech howitzers over Swedish Archer offer",
       "link": "https://www.defensenews.com/global/europe/2026/09/18/latvia-chooses-czech-howitzers-over-swedish-archer-offer/",
@@ -51,7 +132,7 @@
       "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
       "link": "https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/",
       "pubDate": "2026-09-17T15:05:15Z",
-      "snippet": "PARIS &#8212; South Korean company\u00a0Satrec Initiative\u00a0is working with parent company Hanwha Systems to provide high-resolution Earth imagery for the synthetic-aperture-radar (SAR) constellation announc...",
+      "snippet": "PARIS &#8212; South Korean company\u00a0Satrec Initiative\u00a0is working with parent company Hanwha Aerospace to provide high-resolution Earth imagery for the synthetic-aperture-radar (SAR) constellation annou...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
@@ -142,42 +223,6 @@
       "link": "https://www.defensenews.com/global/2026/09/16/china-warns-us-space-weapons-could-fuel-arms-race/",
       "pubDate": "2026-09-16T14:39:27Z",
       "snippet": "China urged the United States to halt its military build-up in outer space after Washington acknowledged it has weapons deployed in orbit.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Spain\u2019s Indra proffers \u2018Squall\u2019 for Europe\u2019s emerging strike missile mix",
-      "link": "https://www.defensenews.com/global/europe/2026/09/16/spains-indra-proffers-squall-for-europes-emerging-strike-missile-mix/",
-      "pubDate": "2026-09-16T14:37:22Z",
-      "snippet": "Spain\u2019s Indra has launched a low-cost cruise missile it claims will cost a tenth of top-of-the line current missiles, enabling swarm tactics.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Ukraine\u2019s Zelenskyy says new anti-drone weapon being tested",
-      "link": "https://www.defensenews.com/global/2026/09/16/ukraines-zelenskyy-says-new-anti-drone-weapon-being-tested/",
-      "pubDate": "2026-09-16T14:19:30Z",
-      "snippet": "Zelenskyy said on Tuesday that Ukraine was carrying out tests on a new weapon to intercept drones and had recorded a successful hit overnight.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Iran war has cost $38 billion, depleted two-thirds of US missile interceptors, CBO says",
-      "link": "https://www.defensenews.com/news/your-military/2026/09/15/iran-war-has-cost-38-billion-depleted-two-thirds-of-us-missile-interceptors-cbo-says/",
-      "pubDate": "2026-09-15T19:52:56Z",
-      "snippet": "The U.S. military has incurred about $38 billion in costs from combat operations against Iran, a new Congressional Budget Office analysis found.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Iranian strikes damaged hundreds of US military buildings, dozens of aircraft",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/09/15/iranian-strikes-damaged-hundreds-of-us-military-buildings-dozens-of-aircraft/",
-      "pubDate": "2026-09-15T19:06:38Z",
-      "snippet": "Iranian strikes have damaged hundreds of U.S. military and diplomatic buildings, as well as dozens of aircraft, a Pentagon watchdog said.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -349,51 +394,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/08/260807035140.htm",
       "pubDate": "2026-08-08T14:09:02Z",
       "snippet": "A new nanostructured carbon design lets fuel-cell catalysts use tiny amounts of platinum while remaining remarkably stable and efficient. The breakthrough could help hydrogen fuel cells become a more ...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "This tiny gold crystal could bring quantum technology out of the deep freeze",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260806050706.htm",
-      "pubDate": "2026-08-08T13:17:32Z",
-      "snippet": "Scientists have created the first quantum material that can sort and transport different quantum states of light at room temperature, potentially removing the need for bulky, ultra-cold refrigeration ...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Cell-inspired nanoreactor turns sunlight into hydrogen peroxide",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260804034642.htm",
-      "pubDate": "2026-08-06T12:03:02Z",
-      "snippet": "A new hollow nanoreactor mimics living cells to make hydrogen peroxide more efficiently using visible light. Its light-trapping cavity and proton-shuttling shell could open new possibilities for clean...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Scientists twist crystal layers and reshape matter from within",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260801042819.htm",
-      "pubDate": "2026-08-03T04:36:48Z",
-      "snippet": "Researchers have found a way to build much larger \u201ctwisted\u201d oxide materials while precisely controlling how their atomic layers line up. Because these materials can be made over large areas and transf...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "World-first photonic time crystal opens a new era of light control",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260731034131.htm",
-      "pubDate": "2026-07-31T09:13:30Z",
-      "snippet": "Scientists have built the first all-optical photonic time crystal, allowing them to reshape the behavior of terahertz light at extraordinary speeds. The breakthrough could open the door to ultrafast c...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "This new alloy is up to 10 times stronger than steel and surprisingly flexible",
-      "link": "https://www.sciencedaily.com/releases/2026/07/260729051524.htm",
-      "pubDate": "2026-07-31T03:55:22Z",
-      "snippet": "Engineers have transformed a notoriously brittle cobalt-aluminum compound into a material that is both extremely strong and capable of bending without breaking. Their nanoscale design produced a yield...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
