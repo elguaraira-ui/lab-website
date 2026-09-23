@@ -1,7 +1,52 @@
 {
-  "updated": "2026-09-22T15:12:15.333422Z",
+  "updated": "2026-09-23T15:12:37.663443Z",
   "count": 44,
   "items": [
+    {
+      "title": "German defense minister sees smooth sailing in parliament for his record defense budget",
+      "link": "https://www.defensenews.com/global/europe/2026/09/23/german-defense-minister-sees-smooth-sailing-in-parliament-for-his-record-defense-budget/",
+      "pubDate": "2026-09-23T13:56:12Z",
+      "snippet": "Pistorius is asking lawmakers to approve nearly \u20ac140 billion ($160 billion) for defense next year, a record sum.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Europe\u2019s push to reduce US reliance is reshaping the defense space market",
+      "link": "https://www.defensenews.com/global/europe/2026/09/23/europes-push-to-reduce-us-reliance-is-reshaping-the-defense-space-market/",
+      "pubDate": "2026-09-23T13:15:09Z",
+      "snippet": "Spooked by U.S. restrictions on satellite data access during recent crises, European countries are scrambling to catch up on sovereign capabilities.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Germany wants to manufacture American PAC-3 interceptors to help meet global demand",
+      "link": "https://www.defensenews.com/global/europe/2026/09/23/germany-wants-to-manufacture-american-pac-3-interceptors-to-help-meet-global-demand/",
+      "pubDate": "2026-09-23T12:58:17Z",
+      "snippet": "German Defense Minister Boris Pistorius has lobbied U.S. defense leaders to allow the production of PAC-3 MSE interceptor missiles in Germany.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Navy destroyers tested in Middle East as demands mount",
+      "link": "https://www.defensenews.com/news/your-navy/2026/09/22/us-navy-destroyers-tested-in-middle-east-as-demands-mount/",
+      "pubDate": "2026-09-22T18:55:08Z",
+      "snippet": "The concentration of Navy destroyers in the Middle East raises questions about meeting sustained operational demand.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "CENTCOM has become a battle lab for unmanned systems",
+      "link": "https://www.defensenews.com/news/your-military/2026/09/22/centcom-has-become-a-battle-lab-for-unmanned-systems/",
+      "pubDate": "2026-09-22T16:43:00Z",
+      "snippet": "Unmanned systems have moved quickly from experimentation and exercises into the demands of an active war.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "US Army awards Lockheed Martin $1.2B PrSM contract",
       "link": "https://www.defensenews.com/industry/2026/09/22/us-army-awards-lockheed-martin-12b-prsm-contract/",
@@ -138,24 +183,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Pentagon, Lockheed sign framework deal to boost AIM-260 production",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/09/17/pentagon-lockheed-sign-framework-deal-to-boost-aim-260-production/",
-      "pubDate": "2026-09-17T17:11:59Z",
-      "snippet": "The agreement was signed to expand production of the AIM-260 JATM, laying the groundwork for a future multiyear buy of the long-range air-to-air weapon.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Navy awards defense startup $200 million for Blackbeard hypersonic missile",
-      "link": "https://www.defensenews.com/news/your-navy/2026/09/17/us-navy-awards-defense-startup-200-million-for-blackbeard-hypersonic-missile/",
-      "pubDate": "2026-09-17T15:35:43Z",
-      "snippet": "The U.S. Navy awarded defense startup Castelion $200 million for the production of its Blackbeard hypersonic missile.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
       "link": "https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/",
       "pubDate": "2026-09-17T15:05:15Z",
@@ -199,33 +226,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "Germany sending fighter jets to Latvia to protect election from drone incidents",
-      "link": "https://www.defensenews.com/global/europe/2026/09/17/germany-sending-fighter-jets-to-latvia-to-protect-election-from-drone-incidents/",
-      "pubDate": "2026-09-17T12:43:43Z",
-      "snippet": "Germany will send\u00a0four Eurofighter jets to defend Latvian airspace during upcoming elections, amid concerns over drone incursions from Russia and Belarus.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Japanese Global Hawk drone splashes down in crash",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/09/17/japanese-global-hawk-drone-splashes-down-in-crash/",
-      "pubDate": "2026-09-17T09:40:45Z",
-      "snippet": "A Japanese Global Hawk drone nosedived into the Sea of Japan this week, instantly slashing the country\u2019s fleet of these drones by a third.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US \u2018not prepared\u2019 to respond to nuclear attacks in space, report says",
-      "link": "https://www.defensenews.com/news/your-air-force/2026/09/16/us-not-prepared-to-respond-to-nuclear-attacks-in-space-report-says/",
-      "pubDate": "2026-09-16T17:37:17Z",
-      "snippet": "A recent war-gaming report found that the U.S. has no tested response to a nuclear detonation in space.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Iceye\u2019s global presence expands to address sovereign demand",
