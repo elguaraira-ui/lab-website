@@ -1,7 +1,61 @@
 {
-  "updated": "2026-09-23T15:12:37.663443Z",
-  "count": 44,
+  "updated": "2026-09-24T15:33:22.747143Z",
+  "count": 45,
   "items": [
+    {
+      "title": "Moog Completes ISO Class 8 Clean Room at Niagara Falls Facility to Expand Thruster Production",
+      "link": "https://spacenews.com/moog-completes-iso-class-8-clean-room-at-niagara-falls-facility-to-expand-thruster-production/",
+      "pubDate": "2026-09-24T15:05:28Z",
+      "snippet": "East Aurora, NY &#8212; Moog Inc. (NYSE: MOG.A and MOG.B) announced the completion and commissioning of a new ISO Class 8 certified clean room at its Niagara Falls facility. This [&#8230;]\nThe post Mo...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "With Denmark, Saildrone logs first flag registration for naval surveillance drone",
+      "link": "https://www.defensenews.com/global/europe/2026/09/24/with-denmark-saildrone-logs-first-flag-registration-for-naval-surveillance-drone/",
+      "pubDate": "2026-09-24T14:25:19Z",
+      "snippet": "U.S. naval drone maker Saildrone seeks to expand its footprint in Europe, with Denmark a key customer in the contested Baltic and North seas.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Distant time crystals can somehow fall into the same rhythm",
+      "link": "https://www.sciencedaily.com/releases/2026/09/260923035934.htm",
+      "pubDate": "2026-09-24T13:16:41Z",
+      "snippet": "Researchers have shown that multiple time crystals inside a semiconductor can synchronize their oscillations, much like pendulum clocks gradually falling into the same rhythm. The coupling is carried ...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Report: CIA warned Europe of Russian drone attack from vessels in the Mediterranean",
+      "link": "https://www.defensenews.com/global/europe/2026/09/24/report-cia-warned-europe-of-russian-drone-attack-from-vessels-in-the-mediterranean/",
+      "pubDate": "2026-09-24T11:19:36Z",
+      "snippet": "The CIA reportedly warned European nations of a suspected Russian plot to launch explosive drones from aboard commercial vessels in the Mediterranean.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Air Force, civilian staff dispute status of China Aerospace Studies Institute",
+      "link": "https://www.defensenews.com/air/2026/09/23/air-force-civilian-staff-dispute-status-of-china-aerospace-studies-institute/",
+      "pubDate": "2026-09-23T15:38:14Z",
+      "snippet": "CASI's director said the move will effectively end the institute, even as the service says CASI\u2019s mission will continue.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Ethereal Space Awarded NOAA SBEM Task Order 1",
+      "link": "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/",
+      "pubDate": "2026-09-23T15:18:10Z",
+      "snippet": "DENVER, Colorado &#8211; September 2026 &#8211; Ethereal Space, Inc. today announced that it has been awarded Task Order 1 under NOAA\u2019s ProTech 2.0 Space-Based Environmental Monitoring (SBEM) program,...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "German defense minister sees smooth sailing in parliament for his record defense budget",
       "link": "https://www.defensenews.com/global/europe/2026/09/23/german-defense-minister-sees-smooth-sailing-in-parliament-for-his-record-defense-budget/",
@@ -156,33 +210,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Latvia chooses Czech howitzers over Swedish Archer offer",
-      "link": "https://www.defensenews.com/global/europe/2026/09/18/latvia-chooses-czech-howitzers-over-swedish-archer-offer/",
-      "pubDate": "2026-09-18T11:01:43Z",
-      "snippet": "Latvia will buy Czech Morana 155 mm howitzers, reversing an earlier decision to by the rival Archer artillery weapon from Sweden's BAE Systems Bofors.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "The US Army is looking for new drones to ferry blood supplies",
-      "link": "https://www.defensenews.com/news/your-military/2026/09/17/the-us-army-is-looking-for-new-drones-to-ferry-blood-supplies/",
-      "pubDate": "2026-09-17T18:48:19Z",
-      "snippet": "As part of the U.S. Army Blood Link project, the service is seeking new drones that can transport blood supplies in the field.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Navy should target carriers in fight with China, report says",
-      "link": "https://www.defensenews.com/news/your-military/2026/09/17/us-navy-should-target-chinese-aircraft-carriers-report-says/",
-      "pubDate": "2026-09-17T17:14:35Z",
-      "snippet": "A U.S. think tank devised a strategy to target Chinese aircraft carriers by using similar tactics that China has planned against American ships.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
       "link": "https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/",
       "pubDate": "2026-09-17T15:05:15Z",
@@ -237,10 +264,10 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Sept. 23: What Comes Next for On-Orbit Servicing?",
+      "title": "What Comes Next for On-Orbit Servicing? (Replay)",
       "link": "https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/",
       "pubDate": "2026-09-14T17:09:21Z",
-      "snippet": "Join us for conversations about the tech, policies and business models required to build a functioning in-orbit logistics ecosystem\nThe post Sept. 23: What Comes Next for On-Orbit Servicing? appeared ...",
+      "snippet": "A conversation about the tech, policies and business models required to build a functioning in-orbit logistics ecosystem\nThe post What Comes Next for On-Orbit Servicing? (Replay) appeared first on Spa...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
@@ -271,15 +298,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "LatConnect 60 Expands India Market Presence for SWIRSAT With NSIL Agreement and GeoSyze Partnership",
-      "link": "https://spacenews.com/latconnect-60-expands-india-market-presence-for-swirsat-with-nsil-agreement-and-geosyze-partnership/",
-      "pubDate": "2026-09-11T05:32:49Z",
-      "snippet": "Australian Earth observation satellite company LatConnect 60 (LC60) has strengthened its position in India with two strategic agreements announced at the Bengaluru Space Expo 2026 on September 7th, sp...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Physicists just found a tiny glitch in time itself",
@@ -385,15 +403,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/08/260811052717.htm",
       "pubDate": "2026-08-11T12:59:40Z",
       "snippet": "Scientists have created an unusually corrosion-resistant stainless steel that could replace costly titanium components used to produce green hydrogen. The breakthrough could reduce structural material...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "New fuel cell breakthrough could help power energy-hungry data centers",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260807035140.htm",
-      "pubDate": "2026-08-08T14:09:02Z",
-      "snippet": "A new nanostructured carbon design lets fuel-cell catalysts use tiny amounts of platinum while remaining remarkably stable and efficient. The breakthrough could help hydrogen fuel cells become a more ...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
