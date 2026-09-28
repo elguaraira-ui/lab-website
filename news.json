@@ -1,7 +1,79 @@
 {
-  "updated": "2026-09-25T15:37:18.504893Z",
-  "count": 45,
+  "updated": "2026-09-28T18:17:07.259749Z",
+  "count": 49,
   "items": [
+    {
+      "title": "Russia raises 2027 military spending by 27%, budget documents show",
+      "link": "https://www.defensenews.com/global/europe/2026/09/28/russia-raises-2027-military-spending-by-27-budget-documents-show/",
+      "pubDate": "2026-09-28T18:07:08Z",
+      "snippet": "Russia plans to spend 17.1 trillion roubles, or $202 billion, on defense in 2027, a 27% increase.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "EU nails down five defense priority areas to channel common spending",
+      "link": "https://www.defensenews.com/global/europe/2026/09/28/eu-nails-down-five-defense-priority-areas-to-channel-common-spending/",
+      "pubDate": "2026-09-28T14:59:45Z",
+      "snippet": "Drones, counter-drone tech, air defense, seabed defense and eastern flank protection top the EU's list of desired capability areas.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Space is everyone\u2019s business: Economist Enterprise\u2019s 4th annual Space Economy Summit returns to Orlando",
+      "link": "https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/",
+      "pubDate": "2026-09-28T14:57:21Z",
+      "snippet": "ORLANDO, FL \u2014 September 28th, 2026 \u2014 Space is rapidly becoming a practical business tool for industries far beyond aerospace, as satellite intelligence, resilient connectivity and other space-enabled ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth",
+      "link": "https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/",
+      "pubDate": "2026-09-28T12:00:00Z",
+      "snippet": "DURANGO, Colo., Sept. 28, 2026 \u2013 Agile Space Industries today announced that Jason Wright will join the company as President in early October, strengthening Agile\u2019s operational leadership as the compa...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Ukraine\u2019s deadly AI training platform for drone tech opens to UK companies",
+      "link": "https://www.defensenews.com/unmanned/2026/09/25/ukraines-deadly-ai-training-platform-for-drone-tech-opens-to-uk-companies/",
+      "pubDate": "2026-09-25T21:24:56Z",
+      "snippet": "Ukraine opens wartime battlefield data to Britain through Avengers AI Labs, giving British companies access to data for AI drone development.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US appeals court upholds Pentagon\u2019s blacklisting of Anthropic",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/09/25/us-appeals-court-upholds-pentagons-blacklisting-of-anthropic/",
+      "pubDate": "2026-09-25T19:19:29Z",
+      "snippet": "A federal appeals court upheld the Pentagon\u2019s blacklisting of Anthropic from military contracts, handing a victory to President Trump and the Pentagon.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Navy stands up hub to prepare unmanned systems for combat",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/09/25/us-navy-stands-up-hub-to-prepare-unmanned-systems-for-combat/",
+      "pubDate": "2026-09-25T18:13:48Z",
+      "snippet": "U.S. Chief of Naval Operations Adm. Daryl Caudle announced a new autonomous development center to train sailors and test new technology.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Thales in \u2018quite advanced\u2019 talks with NATO countries on AI-powered command software",
+      "link": "https://www.defensenews.com/global/europe/2026/09/25/thales-in-quite-advanced-talks-with-nato-countries-on-ai-powered-command-software/",
+      "pubDate": "2026-09-25T15:34:42Z",
+      "snippet": "French firm Thales is \u201cquite advanced\u201d in discussions with a number of NATO countries about using its artificial intelligence-powered C2 system.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "France to send military to protect Saudi Arabia on Red Sea oil route, Macron says",
       "link": "https://www.defensenews.com/global/europe/2026/09/25/france-to-send-military-to-protect-saudi-arabia-on-red-sea-oil-route-macron-says/",
@@ -106,42 +178,6 @@
       "link": "https://www.defensenews.com/news/your-navy/2026/09/22/us-navy-destroyers-tested-in-middle-east-as-demands-mount/",
       "pubDate": "2026-09-22T18:55:08Z",
       "snippet": "The concentration of Navy destroyers in the Middle East raises questions about meeting sustained operational demand.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "CENTCOM has become a battle lab for unmanned systems",
-      "link": "https://www.defensenews.com/news/your-military/2026/09/22/centcom-has-become-a-battle-lab-for-unmanned-systems/",
-      "pubDate": "2026-09-22T16:43:00Z",
-      "snippet": "Unmanned systems have moved quickly from experimentation and exercises into the demands of an active war.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army awards Lockheed Martin $1.2B PrSM contract",
-      "link": "https://www.defensenews.com/industry/2026/09/22/us-army-awards-lockheed-martin-12b-prsm-contract/",
-      "pubDate": "2026-09-22T15:04:23Z",
-      "snippet": "The U.S. Army awarded Lockheed Martin a PrSM contract worth up to $1.2 billion.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "The Golden Dome czar must get control of all US missile defense programs",
-      "link": "https://www.defensenews.com/opinion/2026/09/22/the-golden-dome-czar-must-get-control-of-all-us-missile-defense-programs/",
-      "pubDate": "2026-09-22T10:30:53Z",
-      "snippet": "The Defense Department must heed a vital organizational lesson from the past if Golden Dome is to succeed, writes analyst Thane Clare.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "General Atomics delivers FQ-42 Vengeance to Nevada air base",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/09/21/general-atomics-delivers-fq-42-vengeance-to-nevada-air-base/",
-      "pubDate": "2026-09-21T21:12:41Z",
-      "snippet": "Creech Air Force Base received a new FQ-42 Vengeance aircraft on Friday, with the jet to continue regular test and evaluation operations.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
