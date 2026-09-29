@@ -1,7 +1,43 @@
 {
-  "updated": "2026-09-28T18:17:07.259749Z",
-  "count": 49,
+  "updated": "2026-09-29T16:39:50.560803Z",
+  "count": 45,
   "items": [
+    {
+      "title": "Pentagon awards Raytheon up to $20.7 billion to nearly double AMRAAM production",
+      "link": "https://www.defensenews.com/pentagon/2026/09/29/pentagon-awards-raytheon-up-to-207-billion-to-nearly-double-amraam-production/",
+      "pubDate": "2026-09-29T16:18:42Z",
+      "snippet": "The Defense Department has awarded Raytheon a multiyear contract worth up to $20.7 billion to build Advanced Medium-Range Air-to-Air Missiles, or AMRAAMs.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "USS Klakring sent to the bottom of the Atlantic in joint US-UK SINKEX",
+      "link": "https://www.defensenews.com/news/your-military/2026/09/29/uss-klakring-sent-to-the-bottom-of-the-atlantic-in-joint-us-uk-sinkex/",
+      "pubDate": "2026-09-29T16:11:08Z",
+      "snippet": "A decommissioned U.S. guided-missile frigate was sent to the bottom of the Atlantic on Sept. 25 during a joint U.S.-U.K. naval exercise.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "If AI cannot be trusted in a classroom, why should it be trusted in orbit?",
+      "link": "https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/",
+      "pubDate": "2026-09-29T11:00:00Z",
+      "snippet": "On September 9, 2026, Evan Hubinger, Anthropic&#8217;s alignment science lead, said on social media that he personally believed there was a greater than 10% chance that artificial intelligence could k...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "French artillery regiment reorganizes guns to survive drone threats",
+      "link": "https://www.defensenews.com/global/2026/09/29/french-artillery-regiment-reorganizes-guns-to-survive-drone-threats/",
+      "pubDate": "2026-09-29T10:34:09Z",
+      "snippet": "A French artillery formation is trialing a new organization of its gun units and support procedures, prompted by drone lessons from the war in Ukraine.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Russia raises 2027 military spending by 27%, budget documents show",
       "link": "https://www.defensenews.com/global/europe/2026/09/28/russia-raises-2027-military-spending-by-27-budget-documents-show/",
@@ -129,15 +165,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Air Force, civilian staff dispute status of China Aerospace Studies Institute",
-      "link": "https://www.defensenews.com/air/2026/09/23/air-force-civilian-staff-dispute-status-of-china-aerospace-studies-institute/",
-      "pubDate": "2026-09-23T15:38:14Z",
-      "snippet": "CASI's director said the move will effectively end the institute, even as the service says CASI\u2019s mission will continue.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Ethereal Space Awarded NOAA SBEM Task Order 1",
       "link": "https://spacenews.com/ethereal-space-awarded-noaa-sbem-task-order-1/",
       "pubDate": "2026-09-23T15:18:10Z",
@@ -145,42 +172,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "German defense minister sees smooth sailing in parliament for his record defense budget",
-      "link": "https://www.defensenews.com/global/europe/2026/09/23/german-defense-minister-sees-smooth-sailing-in-parliament-for-his-record-defense-budget/",
-      "pubDate": "2026-09-23T13:56:12Z",
-      "snippet": "Pistorius is asking lawmakers to approve nearly \u20ac140 billion ($160 billion) for defense next year, a record sum.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Europe\u2019s push to reduce US reliance is reshaping the defense space market",
-      "link": "https://www.defensenews.com/global/europe/2026/09/23/europes-push-to-reduce-us-reliance-is-reshaping-the-defense-space-market/",
-      "pubDate": "2026-09-23T13:15:09Z",
-      "snippet": "Spooked by U.S. restrictions on satellite data access during recent crises, European countries are scrambling to catch up on sovereign capabilities.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Germany wants to manufacture American PAC-3 interceptors to help meet global demand",
-      "link": "https://www.defensenews.com/global/europe/2026/09/23/germany-wants-to-manufacture-american-pac-3-interceptors-to-help-meet-global-demand/",
-      "pubDate": "2026-09-23T12:58:17Z",
-      "snippet": "German Defense Minister Boris Pistorius has lobbied U.S. defense leaders to allow the production of PAC-3 MSE interceptor missiles in Germany.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Navy destroyers tested in Middle East as demands mount",
-      "link": "https://www.defensenews.com/news/your-navy/2026/09/22/us-navy-destroyers-tested-in-middle-east-as-demands-mount/",
-      "pubDate": "2026-09-22T18:55:08Z",
-      "snippet": "The concentration of Navy destroyers in the Middle East raises questions about meeting sustained operational demand.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Commercial Space Federation (CSF) Welcomes Two New Members",
@@ -286,33 +277,6 @@
       "link": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/",
       "pubDate": "2026-09-17T13:00:00Z",
       "snippet": "PARIS &#8212; Icarus Robotics, the New York startup developing dexterous mobile robots for space missions, conducted tests of its free-flying platform ahead of a 2027 demonstration on the Internationa...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Iceye\u2019s global presence expands to address sovereign demand",
-      "link": "https://spacenews.com/iceye-rapidly-expands-global-presence-to-address-sovereign-demand/",
-      "pubDate": "2026-09-15T06:00:00Z",
-      "snippet": "Since raising more than $1 billion in a Series F funding round, Iceye has moved rapidly to address growing demand for sovereign space capabilities. In quick succession, the Finnish synthetic [&#8230;]...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "What Comes Next for On-Orbit Servicing? (Replay)",
-      "link": "https://spacenews.com/what-comes-next-for-on-orbit-servicing-event/",
-      "pubDate": "2026-09-14T17:09:21Z",
-      "snippet": "A conversation about the tech, policies and business models required to build a functioning in-orbit logistics ecosystem\nThe post What Comes Next for On-Orbit Servicing? (Replay) appeared first on Spa...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Space\u2019s growing billion-dollar club",
-      "link": "https://spacenews.com/spaces-growing-billion-dollar-club-spacenews-intelligence/",
-      "pubDate": "2026-09-14T15:35:10Z",
-      "snippet": "Download our new mapping of every private space company valued at $1 billion or more.\nThe post Space\u2019s growing billion-dollar club appeared first on SpaceNews.",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
