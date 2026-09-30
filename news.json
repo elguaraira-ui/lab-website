@@ -1,7 +1,70 @@
 {
-  "updated": "2026-09-29T16:39:50.560803Z",
-  "count": 45,
+  "updated": "2026-09-30T16:31:54.037492Z",
+  "count": 50,
   "items": [
+    {
+      "title": "US Army selects five companies for PrSM development",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/09/30/us-army-selects-five-companies-for-prsm-development/",
+      "pubDate": "2026-09-30T16:29:00Z",
+      "snippet": "The Army on Tuesday signed agreements with Anduril, Castelion, Lockheed Martin, Mach Industries and RTX to create advanced long-range missile prototypes.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Aircraft carrier USS Harry S. Truman to undergo $5.1B mid-life overhaul",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/09/30/aircraft-carrier-uss-harry-s-truman-to-undergo-51b-mid-life-overhaul/",
+      "pubDate": "2026-09-30T16:03:55Z",
+      "snippet": "The aircraft carrier USS Harry S. Truman is slated to undergo a $5.1 billion overhaul that will ready the vessel for the second half of its service life.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit\u2019s ION Satellite Carrier",
+      "link": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/",
+      "pubDate": "2026-09-30T15:00:00Z",
+      "snippet": "ROME, 30/09/2026 &#8211; NaviGate, an Italian space technology company spun out of Sapienza University of Rome, has successfully completed the in-orbit demonstration (IoD) of NaviCode Caravel, its aut...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
+      "link": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/",
+      "pubDate": "2026-09-30T13:00:00Z",
+      "snippet": "ROCKVILLE, Md. and MERRITT ISLAND, Fla. \u2014 September 30, 2026 \u2014 Quantum Space, LLC (the \u201cCompany\u201d or \u201cQuantum Space\u201d), a company developing the next generation of advanced maneuverable spacecraft for [...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Why the Pentagon just dropped $450M on tungsten mining",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/09/30/why-the-pentagon-just-dropped-450m-on-tungsten-mining/",
+      "pubDate": "2026-09-30T00:03:53Z",
+      "snippet": "The Pentagon recently announced a $450 million investment in The Elmet Group to strengthen the U.S. supply chain for the critical mineral tungsten.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035",
+      "link": "https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/",
+      "pubDate": "2026-09-29T20:32:07Z",
+      "snippet": "Paris, France &#124; September 2026 \u2014 Novaspace\u2019s Satellite Communications for Defense and Security, 2nd Edition highlights a defense Satcom market poised for rapid growth. By 2035, commercial satelli...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Terran Orbital Names Jamin Brown Chief Operating Officer",
+      "link": "https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/",
+      "pubDate": "2026-09-29T17:42:20Z",
+      "snippet": "IRVINE, Calif. \u2013 Sept. 29, 2026 \u2013 Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, today announced the...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Pentagon awards Raytheon up to $20.7 billion to nearly double AMRAAM production",
       "link": "https://www.defensenews.com/pentagon/2026/09/29/pentagon-awards-raytheon-up-to-207-billion-to-nearly-double-amraam-production/",
@@ -138,15 +201,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "With Denmark, Saildrone logs first flag registration for naval surveillance drone",
-      "link": "https://www.defensenews.com/global/europe/2026/09/24/with-denmark-saildrone-logs-first-flag-registration-for-naval-surveillance-drone/",
-      "pubDate": "2026-09-24T14:25:19Z",
-      "snippet": "U.S. naval drone maker Saildrone seeks to expand its footprint in Europe, with Denmark a key customer in the contested Baltic and North seas.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Distant time crystals can somehow fall into the same rhythm",
       "link": "https://www.sciencedaily.com/releases/2026/09/260923035934.htm",
       "pubDate": "2026-09-24T13:16:41Z",
@@ -154,15 +208,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Report: CIA warned Europe of Russian drone attack from vessels in the Mediterranean",
-      "link": "https://www.defensenews.com/global/europe/2026/09/24/report-cia-warned-europe-of-russian-drone-attack-from-vessels-in-the-mediterranean/",
-      "pubDate": "2026-09-24T11:19:36Z",
-      "snippet": "The CIA reportedly warned European nations of a suspected Russian plot to launch explosive drones from aboard commercial vessels in the Mediterranean.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Ethereal Space Awarded NOAA SBEM Task Order 1",
