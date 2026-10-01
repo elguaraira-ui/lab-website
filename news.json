@@ -1,7 +1,97 @@
 {
-  "updated": "2026-09-30T16:31:54.037492Z",
-  "count": 50,
+  "updated": "2026-10-01T17:10:00.877445Z",
+  "count": 51,
   "items": [
+    {
+      "title": "World Space Week 2026 Celebrates the \u201cRocket Revolution\u201d",
+      "link": "https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/",
+      "pubDate": "2026-10-01T15:06:43Z",
+      "snippet": "HOUSTON, Texas (September 30, 2026)\u2014 World Space Week events, beginning October 4 in 100 nations, will celebrate how launch innovation has stimulated the rapidly-growing space economy and enabled new ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Rethinking risk with electronics for space",
+      "link": "https://spacenews.com/rethinking-risk-with-electronics-for-space/",
+      "pubDate": "2026-10-01T14:51:34Z",
+      "snippet": "In this episode, SpaceNews\u2019 Mike Gruss speaks with Ken Stoler, the space business development lead for Arrow. They discuss how spacecraft designers and operators have changed their attitudes toward ri...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "LMT Group and Novaspace partner to develop strategy for 5G/6G satellite communications hub in Latvia",
+      "link": "https://spacenews.com/lmt-group-and-novaspace-partner-to-develop-strategy-for-5g-6g-satellite-communications-hub-in-latvia/",
+      "pubDate": "2026-10-01T14:40:51Z",
+      "snippet": "Noordwijk, the Netherlands &#124; September 22, 2026&#160;&#8211; During the international Industry Space Days 2026 event at the European Space Agency\u2019s ESTEC facility in Noordwijk, the Netherlands, t...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Neros, Perennial Autonomy lead in Pentagon\u2019s drone competition",
+      "link": "https://www.defensenews.com/unmanned/2026/10/01/neros-perennial-autonomy-lead-in-pentagons-drone-competition/",
+      "pubDate": "2026-10-01T14:02:08Z",
+      "snippet": "Two companies scored highest during the second phase of a Pentagon competition to find companies that can produce high-quality, low-cost commercial drones.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Space Force picks two companies to build new \u2018space-to-space\u2019 satellites by 2028",
+      "link": "https://www.defensenews.com/space/2026/10/01/space-force-picks-two-companies-to-build-new-space-to-space-satellites-by-2028/",
+      "pubDate": "2026-10-01T12:49:43Z",
+      "snippet": "The Pentagon announced Northrop Grumman and True Anomaly will build new ISR satellites in space, after admitting the U.S. already has weapons in orbit.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "China launches Guowang, Yaogan-40 satellites, sets up busy Q4 manifest",
+      "link": "https://spacenews.com/china-launches-guowang-yaogan-40-satellites-sets-up-busy-q4-manifest/",
+      "pubDate": "2026-10-01T12:46:32Z",
+      "snippet": "HELSINKI \u2014 China completed its ninth and tenth launches of September, sending Guowang and Yaogan satellites into orbit, ahead of an intense finish to the year. A Long March 8A [&#8230;]\nThe post China...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Ukraine has struck Russian factory vital for Moscow\u2019s missiles, private intelligence firm says",
+      "link": "https://www.defensenews.com/global/europe/2026/10/01/ukraine-has-struck-russian-factory-vital-for-moscows-missiles-private-intelligence-firm-says/",
+      "pubDate": "2026-10-01T12:13:02Z",
+      "snippet": "The documents, Dallas Analytics said, place AOMZ in the production chains of \u201cat least seven\u201d missile programs, including the Kh-101 cruise missile.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
+      "link": "https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/",
+      "pubDate": "2026-10-01T00:24:08Z",
+      "snippet": "Galileo Space is building satellites designed to turn signals into answers in orbit. Modern defense and commercial operations need fast answers about what is happening and where. Existing systems can ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Air Force awards $2.38B contract to Boeing for 22 F-15EX",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/09/30/us-air-force-awards-238b-contract-to-boeing-for-22-f-15ex/",
+      "pubDate": "2026-09-30T19:21:14Z",
+      "snippet": "The service awarded Boeing a contract for 22 more F-15EX aircraft, bringing the number to a total of 120 to be manufactured by the defense company.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "White House nominates next general to helm US Space Command",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/09/30/white-house-nominates-next-general-to-helm-us-space-command/",
+      "pubDate": "2026-09-30T18:49:06Z",
+      "snippet": "If confirmed, Lt. Gen. David N. Miller Jr. would take over command from Gen. Stephen Whiting after his upcoming retirement.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "US Army selects five companies for PrSM development",
       "link": "https://www.defensenews.com/industry/techwatch/2026/09/30/us-army-selects-five-companies-for-prsm-development/",
@@ -147,42 +237,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "US appeals court upholds Pentagon\u2019s blacklisting of Anthropic",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/09/25/us-appeals-court-upholds-pentagons-blacklisting-of-anthropic/",
-      "pubDate": "2026-09-25T19:19:29Z",
-      "snippet": "A federal appeals court upheld the Pentagon\u2019s blacklisting of Anthropic from military contracts, handing a victory to President Trump and the Pentagon.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Navy stands up hub to prepare unmanned systems for combat",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/09/25/us-navy-stands-up-hub-to-prepare-unmanned-systems-for-combat/",
-      "pubDate": "2026-09-25T18:13:48Z",
-      "snippet": "U.S. Chief of Naval Operations Adm. Daryl Caudle announced a new autonomous development center to train sailors and test new technology.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Thales in \u2018quite advanced\u2019 talks with NATO countries on AI-powered command software",
-      "link": "https://www.defensenews.com/global/europe/2026/09/25/thales-in-quite-advanced-talks-with-nato-countries-on-ai-powered-command-software/",
-      "pubDate": "2026-09-25T15:34:42Z",
-      "snippet": "French firm Thales is \u201cquite advanced\u201d in discussions with a number of NATO countries about using its artificial intelligence-powered C2 system.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "France to send military to protect Saudi Arabia on Red Sea oil route, Macron says",
-      "link": "https://www.defensenews.com/global/europe/2026/09/25/france-to-send-military-to-protect-saudi-arabia-on-red-sea-oil-route-macron-says/",
-      "pubDate": "2026-09-25T11:24:07Z",
-      "snippet": "France will send troops and defense systems to Saudi Arabia to help protect the Red Sea port city of Yanbu, which is key for energy transport, Macron said.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "True or false on space industry trends with Pac\u00f4me R\u00e9villon",
       "link": "https://spacenews.com/true-or-false-on-space-industry-trends-with-pacome-revillon/",
       "pubDate": "2026-09-24T15:51:42Z",
@@ -277,51 +331,6 @@
       "link": "https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/",
       "pubDate": "2026-09-18T14:47:38Z",
       "snippet": "IRVINE, Calif. and TORINO, Italy \u2013 Sept. 17, 2026 \u2013 Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, [...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Satrec Initiative to build 10-centimeter-class optical satellites for Hanwha constellation",
-      "link": "https://spacenews.com/satrec-initiative-to-build-10-centimeter-class-optical-satellites-for-hanwha-constellation/",
-      "pubDate": "2026-09-17T15:05:15Z",
-      "snippet": "PARIS &#8212; South Korean company\u00a0Satrec Initiative\u00a0is working with parent company Hanwha Aerospace to provide high-resolution Earth imagery for the synthetic-aperture-radar (SAR) constellation annou...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Simera Sense and IDOM partner to develop and produce xScape350 optical system as demand for high-resolution EO imagery surges",
-      "link": "https://spacenews.com/simera-sense-and-idom-partner-to-develop-and-produce-xscape350-optical-system-as-demand-for-high-resolution-eo-imagery-surges/",
-      "pubDate": "2026-09-17T14:40:51Z",
-      "snippet": "LEUVEN, BELGIUM and BILBAO, SPAIN \u2013 17 September 2026\u2014Simera Sense, a leading European provider of optical payload solutions for small satellites, today announced a strategic partnership with IDOM, on...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Inside Europe\u2019s push for space autonomy with Josef Aschbacher",
-      "link": "https://spacenews.com/inside-europes-push-for-space-autonomy-with-josef-aschbacher/",
-      "pubDate": "2026-09-17T14:37:26Z",
-      "snippet": "In this episode of the podcast, SpaceNews\u2019 Mike Gruss interviews Josef Aschbacher, the director-general of the European Space Agency, at the World Space Business Week conference in Paris. They discuss...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, Selects Focus Area Cohort Teams for Cohort 26.A",
-      "link": "https://spacenews.com/catalyst-campus-for-technology-and-innovation-in-partnership-with-the-bmc3i-tap-lab-selects-focus-area-cohort-teams-for-cohort-26-a/",
-      "pubDate": "2026-09-17T13:00:00Z",
-      "snippet": "Catalyst Campus for Technology and Innovation, in partnership with the BMC3I TAP Lab, has selected the Focus Area Cohort Teams (FACTs) participating in Cohort 26.A. The selected teams represent innova...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Icarus Robotics tests Joy in Canada ahead of ISS flight",
-      "link": "https://spacenews.com/icarus-robotics-tests-joy-in-canada-ahead-of-iss-flight/",
-      "pubDate": "2026-09-17T13:00:00Z",
-      "snippet": "PARIS &#8212; Icarus Robotics, the New York startup developing dexterous mobile robots for space missions, conducted tests of its free-flying platform ahead of a 2027 demonstration on the Internationa...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
