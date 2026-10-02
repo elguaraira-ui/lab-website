@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-01T17:10:00.877445Z",
-  "count": 51,
+  "updated": "2026-10-02T16:23:27.047520Z",
+  "count": 50,
   "items": [
+    {
+      "title": "French Air Force plans loyal wingman flight in 2028 in sovereign AI push",
+      "link": "https://www.defensenews.com/global/europe/2026/10/02/french-air-force-plans-loyal-wingman-flight-in-2028-in-sovereign-ai-push/",
+      "pubDate": "2026-10-02T13:59:10Z",
+      "snippet": "The French Air Force plans to fly crewed fighter jets in collaboration with AI-powered combat drones in 2028, under project Hypairion.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Navy awards RTX\u2019s Raytheon $24.4B for SM-6 missiles amid stockpile concerns",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/01/us-navy-awards-rtxs-raytheon-244b-for-sm-6-missiles-amid-stockpile-concerns/",
+      "pubDate": "2026-10-01T22:05:46Z",
+      "snippet": "The deal for the SM-6 interceptors comes as the Pentagon pushes to replenish munitions stockpiles depleted by conflicts in the Middle East.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelenskyy says",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/01/ukraine-deploys-fp-7-tactical-ballistic-missile-in-combat-for-first-time-zelenskyy-says/",
+      "pubDate": "2026-10-01T19:54:35Z",
+      "snippet": "Ukraine has deployed its FP-7 tactical ballistic missile in combat for the first time, President Volodymyr Zelenskyy said on Thursday.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Boeing adds to big week with first full-rate Grey Wolf helicopter order",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/01/boeing-adds-to-big-week-with-first-full-rate-grey-wolf-helicopter-order/",
+      "pubDate": "2026-10-01T17:49:35Z",
+      "snippet": "The U.S. Air Force awarded Boeing a roughly $85 million contract for four more MH-139A Grey Wolf helicopters, with the first under full-rate production.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "World Space Week 2026 Celebrates the \u201cRocket Revolution\u201d",
       "link": "https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/",
@@ -183,33 +219,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "French artillery regiment reorganizes guns to survive drone threats",
-      "link": "https://www.defensenews.com/global/2026/09/29/french-artillery-regiment-reorganizes-guns-to-survive-drone-threats/",
-      "pubDate": "2026-09-29T10:34:09Z",
-      "snippet": "A French artillery formation is trialing a new organization of its gun units and support procedures, prompted by drone lessons from the war in Ukraine.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Russia raises 2027 military spending by 27%, budget documents show",
-      "link": "https://www.defensenews.com/global/europe/2026/09/28/russia-raises-2027-military-spending-by-27-budget-documents-show/",
-      "pubDate": "2026-09-28T18:07:08Z",
-      "snippet": "Russia plans to spend 17.1 trillion roubles, or $202 billion, on defense in 2027, a 27% increase.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "EU nails down five defense priority areas to channel common spending",
-      "link": "https://www.defensenews.com/global/europe/2026/09/28/eu-nails-down-five-defense-priority-areas-to-channel-common-spending/",
-      "pubDate": "2026-09-28T14:59:45Z",
-      "snippet": "Drones, counter-drone tech, air defense, seabed defense and eastern flank protection top the EU's list of desired capability areas.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Space is everyone\u2019s business: Economist Enterprise\u2019s 4th annual Space Economy Summit returns to Orlando",
       "link": "https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/",
       "pubDate": "2026-09-28T14:57:21Z",
@@ -226,15 +235,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "Ukraine\u2019s deadly AI training platform for drone tech opens to UK companies",
-      "link": "https://www.defensenews.com/unmanned/2026/09/25/ukraines-deadly-ai-training-platform-for-drone-tech-opens-to-uk-companies/",
-      "pubDate": "2026-09-25T21:24:56Z",
-      "snippet": "Ukraine opens wartime battlefield data to Britain through Avengers AI Labs, giving British companies access to data for AI drone development.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "True or false on space industry trends with Pac\u00f4me R\u00e9villon",
@@ -325,15 +325,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Terran Orbital Promotes Margherita Cardi to Vice President of European Operations & Head of Strategic Programs",
-      "link": "https://spacenews.com/terran-orbital-promotes-margherita-cardi-to-vice-president-of-european-operations-head-of-strategic-programs/",
-      "pubDate": "2026-09-18T14:47:38Z",
-      "snippet": "IRVINE, Calif. and TORINO, Italy \u2013 Sept. 17, 2026 \u2013 Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, [...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Scientists are building a microscope powered by a quantum computer",
