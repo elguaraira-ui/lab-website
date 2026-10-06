@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-05T19:25:19.928811Z",
-  "count": 52,
+  "updated": "2026-10-06T16:57:54.455509Z",
+  "count": 50,
   "items": [
+    {
+      "title": "France fires upgraded nuclear-capable missile from submarine for first time",
+      "link": "https://www.defensenews.com/global/europe/2026/10/06/france-fires-upgraded-nuclear-capable-missile-from-submarine-for-first-time/",
+      "pubDate": "2026-10-06T16:08:47Z",
+      "snippet": "France test-fired an upgraded version of its M51 strategic ballistic missile from a submarine for the first time on Tuesday.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Northrop Grumman\u2019s YFQ-48A CCA completes first fully autonomous flight",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/06/northrop-grummans-yfq-48a-cca-completes-first-fully-autonomous-flight/",
+      "pubDate": "2026-10-06T15:46:33Z",
+      "snippet": "The successful flight came just weeks after U.S. Air Force officials announced their intention to have 500 autonomous aircraft in service by 2032.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Scientists finally see how nature moves energy so efficiently",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261004001841.htm",
+      "pubDate": "2026-10-06T07:49:51Z",
+      "snippet": "Researchers have captured key steps in a chemical reaction that helps nature transfer energy with remarkable efficiency. Ultrafast X-rays revealed how changes involving electrons and protons are close...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Has the Pentagon given up on AI polygraph analysis of trustworthiness?",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/10/05/has-the-pentagon-given-up-on-ai-polygraph-analysis-of-trustworthiness/",
+      "pubDate": "2026-10-05T23:43:37Z",
+      "snippet": "AI-aided scanning of speech patterns, vocal stress or facial expressions to read minds lacks scientific backing and will compound errors, critics argue.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Resource competition intensifies with surge in megaconstellations",
       "link": "https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/",
@@ -156,15 +192,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Ukraine has struck Russian factory vital for Moscow\u2019s missiles, private intelligence firm says",
-      "link": "https://www.defensenews.com/global/europe/2026/10/01/ukraine-has-struck-russian-factory-vital-for-moscows-missiles-private-intelligence-firm-says/",
-      "pubDate": "2026-10-01T12:13:02Z",
-      "snippet": "The documents, Dallas Analytics said, place AOMZ in the production chains of \u201cat least seven\u201d missile programs, including the Kh-101 cruise missile.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Galileo Space Is Building Satellites That Turn Signals Into Answers in Orbit",
       "link": "https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/",
       "pubDate": "2026-10-01T00:24:08Z",
@@ -172,42 +199,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "US Air Force awards $2.38B contract to Boeing for 22 F-15EX",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/09/30/us-air-force-awards-238b-contract-to-boeing-for-22-f-15ex/",
-      "pubDate": "2026-09-30T19:21:14Z",
-      "snippet": "The service awarded Boeing a contract for 22 more F-15EX aircraft, bringing the number to a total of 120 to be manufactured by the defense company.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "White House nominates next general to helm US Space Command",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/09/30/white-house-nominates-next-general-to-helm-us-space-command/",
-      "pubDate": "2026-09-30T18:49:06Z",
-      "snippet": "If confirmed, Lt. Gen. David N. Miller Jr. would take over command from Gen. Stephen Whiting after his upcoming retirement.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army selects five companies for PrSM development",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/09/30/us-army-selects-five-companies-for-prsm-development/",
-      "pubDate": "2026-09-30T16:29:00Z",
-      "snippet": "The Army on Tuesday signed agreements with Anduril, Castelion, Lockheed Martin, Mach Industries and RTX to create advanced long-range missile prototypes.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Aircraft carrier USS Harry S. Truman to undergo $5.1B mid-life overhaul",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/09/30/aircraft-carrier-uss-harry-s-truman-to-undergo-51b-mid-life-overhaul/",
-      "pubDate": "2026-09-30T16:03:55Z",
-      "snippet": "The aircraft carrier USS Harry S. Truman is slated to undergo a $5.1 billion overhaul that will ready the vessel for the second half of its service life.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit\u2019s ION Satellite Carrier",
@@ -457,15 +448,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
       "pubDate": "2026-08-18T06:08:04Z",
       "snippet": "A magnetar\u2019s colossal magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago, in which seemingly empty space alters the behavior of light. If confirmed, t...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Caltech breakthrough brings fiber-optic performance to silicon chips",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260814235905.htm",
-      "pubDate": "2026-08-17T12:30:41Z",
-      "snippet": "Caltech scientists have created ultra-low-loss optical pathways on silicon chips that approach the efficiency of fiber optics and dramatically outperform existing technology at visible wavelengths. Th...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
