@@ -1,7 +1,61 @@
 {
-  "updated": "2026-10-07T17:34:03.957498Z",
-  "count": 49,
+  "updated": "2026-10-08T17:37:25.321131Z",
+  "count": 51,
   "items": [
+    {
+      "title": "Future cost, use of Marine Corps ACVs scrutinized in congressional report",
+      "link": "https://www.defensenews.com/news/2026/10/08/future-cost-use-of-marine-corps-acvs-scrutinized-in-congressional-report/",
+      "pubDate": "2026-10-08T16:34:20Z",
+      "snippet": "The Congressional Research Service pointed to the war in Ukraine, where armored vehicles have largely been driven from the battlefield by drones.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Air Force, Army eye industry access on test ranges",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/08/us-air-force-army-eye-industry-access-on-test-ranges/",
+      "pubDate": "2026-10-08T16:27:32Z",
+      "snippet": "The U.S. Air Force is partnering with the U.S. Army to open its test ranges to approved defense firms.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Dutch firm uses AI to help drone systems \u2018talk\u2019 on Ukraine\u2019s battlefield",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/08/dutch-firm-uses-ai-to-help-drone-systems-talk-on-ukraines-battlefield/",
+      "pubDate": "2026-10-08T14:35:46Z",
+      "snippet": "Amsterdam-based Intelic now has an office in Kyiv and is helping Ukrainian forces as they face intensified Russian drone and missile barrages.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon recruits drone pilots from across services for upcoming competition",
+      "link": "https://www.defensenews.com/news/your-military/2026/10/08/pentagon-recruits-drone-pilots-from-across-services-for-upcoming-competition/",
+      "pubDate": "2026-10-08T14:06:55Z",
+      "snippet": "The Defense Innovation Unit is looking to recruit about 100 drone pilots and create a standing registry of operators across the military services.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "What will it take to build a moon base?",
+      "link": "https://spacenews.com/what-will-it-take-to-build-a-moon-base/",
+      "pubDate": "2026-10-08T13:57:38Z",
+      "snippet": "In this episode, a panel of industry experts discuss what\u2019s needed to build a moon base. During a live event at the Johns Hopkins University Bloomberg Center, leaders Astrolab, Firefly [&#8230;]\nThe p...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Rubio says US, Greece to jointly combat security threats",
+      "link": "https://www.defensenews.com/global/europe/2026/10/07/rubio-says-us-greece-to-jointly-combat-security-threats/",
+      "pubDate": "2026-10-07T18:25:10Z",
+      "snippet": "The U.S. and Greece are launching a joint security program to strengthen counterterrorism information sharing between their law enforcement agencies.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Announcing the finalists for the 2026 SpaceNews Icon Awards",
       "link": "https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/",
@@ -136,42 +190,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "French Air Force plans loyal wingman flight in 2028 in sovereign AI push",
-      "link": "https://www.defensenews.com/global/europe/2026/10/02/french-air-force-plans-loyal-wingman-flight-in-2028-in-sovereign-ai-push/",
-      "pubDate": "2026-10-02T13:59:10Z",
-      "snippet": "The French Air Force plans to fly crewed fighter jets in collaboration with AI-powered combat drones in 2028, under project Hypairion.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Navy awards RTX\u2019s Raytheon $24.4B for SM-6 missiles amid stockpile concerns",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/01/us-navy-awards-rtxs-raytheon-244b-for-sm-6-missiles-amid-stockpile-concerns/",
-      "pubDate": "2026-10-01T22:05:46Z",
-      "snippet": "The deal for the SM-6 interceptors comes as the Pentagon pushes to replenish munitions stockpiles depleted by conflicts in the Middle East.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Ukraine deploys FP-7 tactical ballistic missile in combat for first time, Zelenskyy says",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/01/ukraine-deploys-fp-7-tactical-ballistic-missile-in-combat-for-first-time-zelenskyy-says/",
-      "pubDate": "2026-10-01T19:54:35Z",
-      "snippet": "Ukraine has deployed its FP-7 tactical ballistic missile in combat for the first time, President Volodymyr Zelenskyy said on Thursday.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Boeing adds to big week with first full-rate Grey Wolf helicopter order",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/01/boeing-adds-to-big-week-with-first-full-rate-grey-wolf-helicopter-order/",
-      "pubDate": "2026-10-01T17:49:35Z",
-      "snippet": "The U.S. Air Force awarded Boeing a roughly $85 million contract for four more MH-139A Grey Wolf helicopters, with the first under full-rate production.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "World Space Week 2026 Celebrates the \u201cRocket Revolution\u201d",
