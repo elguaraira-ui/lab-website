@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-08T17:37:25.321131Z",
-  "count": 51,
+  "updated": "2026-10-09T17:13:25.695180Z",
+  "count": 50,
   "items": [
+    {
+      "title": "US Army Corps of Engineers failed to explain drop in environmental mitigation work: Watchdog",
+      "link": "https://www.defensenews.com/news/your-army/2026/10/09/us-army-corps-of-engineers-failed-to-explain-drop-in-environmental-mitigation-work-watchdog/",
+      "pubDate": "2026-10-09T15:59:53Z",
+      "snippet": "A chart published by GAO shows a sharp decline in the agency's decisions to make mitigation plans for wildlife and habitat protection from 2022 to 2025.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Estonia\u2019s KrattWorks crafting Shahed-like dummy drone for target practice",
+      "link": "https://www.defensenews.com/global/europe/2026/10/09/estonias-krattworks-crafting-shahed-like-dummy-drone-for-target-practice/",
+      "pubDate": "2026-10-09T10:11:46Z",
+      "snippet": "The Estonian company, which has announced a Shahed-like target drone, will show its products at this year's AUSA conference in Washington.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon barred Qatar base access to hide Iran war damage, US senator claims",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/10/08/pentagon-barred-qatar-base-access-to-hide-iran-war-damage-us-senator-claims/",
+      "pubDate": "2026-10-08T21:30:28Z",
+      "snippet": "Sen. Chris Murphy, D-Conn., was denied access to Al Udeid Air Base, Qatar, during a recent Congressional Delegation trip in what he calls a \"cover-up.\"",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Sig Sauer develops 25-round mag for Army\u2019s next-gen rifle",
+      "link": "https://www.defensenews.com/news/your-army/2026/10/08/sig-sauer-develops-25-round-mag-for-armys-next-gen-rifle/",
+      "pubDate": "2026-10-08T19:23:25Z",
+      "snippet": "Soldier feedback, from the constructive to the blistering, has been instrumental in guiding Sig Sauer in its development of the M8 carbine.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Future cost, use of Marine Corps ACVs scrutinized in congressional report",
       "link": "https://www.defensenews.com/news/2026/10/08/future-cost-use-of-marine-corps-acvs-scrutinized-in-congressional-report/",
@@ -147,24 +183,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Germany to set up first drone regiment next year, modeled after Ukraine war lessons",
-      "link": "https://www.defensenews.com/global/europe/2026/10/05/germany-to-set-up-first-drone-regiment-next-year-modeled-after-ukraine-war-lessons/",
-      "pubDate": "2026-10-05T14:01:14Z",
-      "snippet": "Germany plans to stand up its first dedicated drone regiment next year, Defense Minister Boris Pistorius has announced.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Marine Corps anti-ship weaponry to see exercise action on remote Japan island near Taiwan",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/10/05/us-marine-corps-anti-ship-weaponry-to-see-exercise-action-on-remote-japan-island-near-taiwan/",
-      "pubDate": "2026-10-05T12:24:45Z",
-      "snippet": "The U.S. Marine Corps will deploy its ground-based anti-ship and air-defense systems to Japan\u2019s southwesternmost island for exercises this month.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth",
       "link": "https://spacenews.com/agile-space-industries-strengthens-board-and-corporate-development-to-support-continued-growth/",
       "pubDate": "2026-10-05T12:00:00Z",
@@ -172,15 +190,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "Missiles, satellites and warplanes \u2014 Ukraine, Europe advance key arms projects",
-      "link": "https://www.defensenews.com/global/europe/2026/10/05/missiles-satellites-and-warplanes-ukraine-europe-advance-key-arms-projects/",
-      "pubDate": "2026-10-05T10:36:55Z",
-      "snippet": "Ukraine\u2019s Fire Point said the firm is developing an extended-range tactical ballistic missile after its FP-7 weapon was used in combat for the first time.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Scientists just made a superconductor stronger using \u201cempty space\u201d",
@@ -277,24 +286,6 @@
       "link": "https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/",
       "pubDate": "2026-09-29T11:00:00Z",
       "snippet": "On September 9, 2026, Evan Hubinger, Anthropic&#8217;s alignment science lead, said on social media that he personally believed there was a greater than 10% chance that artificial intelligence could k...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Space is everyone\u2019s business: Economist Enterprise\u2019s 4th annual Space Economy Summit returns to Orlando",
-      "link": "https://spacenews.com/space-is-everyones-business-economist-enterprises-4th-annual-space-economy-summit-returns-to-orlando/",
-      "pubDate": "2026-09-28T14:57:21Z",
-      "snippet": "ORLANDO, FL \u2014 September 28th, 2026 \u2014 Space is rapidly becoming a practical business tool for industries far beyond aerospace, as satellite intelligence, resilient connectivity and other space-enabled ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Agile Space Industries Expands Leadership Structure to Support Next Phase of Growth",
-      "link": "https://spacenews.com/agile-space-industries-expands-leadership-structure-to-support-next-phase-of-growth/",
-      "pubDate": "2026-09-28T12:00:00Z",
-      "snippet": "DURANGO, Colo., Sept. 28, 2026 \u2013 Agile Space Industries today announced that Jason Wright will join the company as President in early October, strengthening Agile\u2019s operational leadership as the compa...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
