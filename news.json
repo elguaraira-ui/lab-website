@@ -1,75 +1,174 @@
 {
-  "updated": "2026-10-09T17:13:25.695180Z",
-  "count": 50,
+  "updated": "2026-10-12T20:01:04.521306Z",
+  "count": 51,
   "items": [
+    {
+      "title": "Italy eyes MBDA armaments for new Italo-Turkish drone",
+      "link": "https://www.defensenews.com/global/europe/2026/10/12/italy-eyes-mbda-armaments-for-new-italo-turkish-drone/",
+      "pubDate": "2026-10-12T18:48:45Z",
+      "snippet": "The Italian air force is due to acquire six of the drones, which are derived from Baykar\u2019s TB-3 and are being assembled in Italy by LBA Systems.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Army creates robotics technician job to focus on drone warfare",
+      "link": "https://www.defensenews.com/news/your-military/2026/10/12/us-army-creates-robotics-technician-job-to-focus-on-drone-warfare/",
+      "pubDate": "2026-10-12T18:30:00Z",
+      "snippet": "As experts in autonomous warfare, U.S. Army robotics technicians will advise commanders on how best to deploy autonomous systems during operations.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Sikorsky packs 4 Nomad drones into a single shipping container",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/12/sikorsky-packs-4-nomad-drones-into-a-single-shipping-container/",
+      "pubDate": "2026-10-12T18:00:00Z",
+      "snippet": "Nomad 100 fast pack fits four aircraft, mission-command software, power, communications and sustainment equipment inside one standard shipping container.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "3 US soldiers awarded Purple Hearts after March missile attack on Saudi Arabia base",
+      "link": "https://www.defensenews.com/news/your-military/2026/10/12/3-us-soldiers-awarded-purple-hearts-after-missile-attack-on-saudi-arabia-base/",
+      "pubDate": "2026-10-12T17:32:12Z",
+      "snippet": "Sgt. Xavier Jones, SSgt. Kalob Mitchell and Spc. Nicholas Cabo were awarded Purple Hearts after a missile attack on Prince Sultan Air Base, Saudi Arabia.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "India sells air defense missiles to Tajikistan, Turkmenistan in Central Asia push",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/10/12/india-sells-air-defense-missiles-to-tajikistan-turkmenistan-in-central-asia-push/",
+      "pubDate": "2026-10-12T16:49:35Z",
+      "snippet": "New Delhi is seeking new customers in a region long supplied by Russia and increasingly by China.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "\u2018We\u2019ve drowned ourselves in buzzwords\u2019: Acting US Army secretary gives sermon-like first speech",
+      "link": "https://www.defensenews.com/pentagon/2026/10/12/weve-drowned-ourselves-in-buzzwords-acting-us-army-secretary-gives-sermon-like-first-speech/",
+      "pubDate": "2026-10-12T15:35:03Z",
+      "snippet": "Adam Telle enlisted the Old Testament to preach a message of simplicity of purpose on Monday in his first public speech to troops since assuming the role.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "FN America unveils M240 upgrade kit for modern optics",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/12/fn-america-unveils-m240-upgrade-kit-for-modern-optics/",
+      "pubDate": "2026-10-12T15:00:00Z",
+      "snippet": "The company said the new kit updates the legacy system to better accommodate night-vision and thermal scopes.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Powerus unveils fully autonomous drone interceptors",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/12/newly-public-company-unveils-fully-autonomous-drone-interceptors/",
+      "pubDate": "2026-10-12T14:20:00Z",
+      "snippet": "Once a threat is detected, the new Guardian 3 interceptors are immediately launched toward it. They strike using advanced AI and navigational systems.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "One user interface, multiple autonomous systems: Forterra debuts OASIS-OneLink technology",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/12/one-user-interface-multiple-autonomous-systems-forterra-debuts-oasis-onelink-technology/",
+      "pubDate": "2026-10-12T13:49:37Z",
+      "snippet": "Forterra introduced its new OASIS-OneLink platform that allows operators and service members to control autonomous systems using a single user interface.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
+      "link": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/",
+      "pubDate": "2026-10-12T13:00:00Z",
+      "snippet": "MDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik\u2019s ASTRO HP star sensor on a LEO mission. This mil...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Patriot interceptor deliveries to Poland will be delayed, top general says",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/12/patriot-interceptor-deliveries-to-poland-will-be-delayed-top-general-says/",
+      "pubDate": "2026-10-12T12:36:53Z",
+      "snippet": "Deliveries of some U.S. weapons systems to Poland are set to be delayed, including interceptors for the Patriot air defense system.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Army helicopter pilots test new in-flight \u2018relief\u2019 system",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/12/us-army-helicopter-pilots-test-new-in-flight-relief-system/",
+      "pubDate": "2026-10-12T11:28:09Z",
+      "snippet": "The 101st Combat Aviation Brigade recently completed the Army\u2019s first-ever helicopter test flights using the Advanced Inflight Relief Universal System.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Vector, Nammo expand push to mass-produce armed drones",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/12/vector-nammo-expand-push-to-mass-produce-armed-drones/",
+      "pubDate": "2026-10-12T09:00:00Z",
+      "snippet": "Executives from both companies say they\u2019re scaling up production of systems that reflect \u201cthe realities of how warfighters will employ them.\u201d",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Scientists build a nuclear clock that could make atomic clocks obsolete",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
+      "pubDate": "2026-10-11T03:06:35Z",
+      "snippet": "Scientists in Vienna have achieved a major breakthrough in timekeeping by creating the world\u2019s first self-stabilizing nuclear clock, a technology that could eventually surpass even the most precise at...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "US Army, Kaizen Laboratories to establish common software platform for classified material",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/10/us-army-kaizen-laboratories-to-establish-common-software-platform-for-classified-material/",
+      "pubDate": "2026-10-10T22:47:27Z",
+      "snippet": "The U.S. Army recently awarded $43 million to Kaizen Laboratories to create application software for highly sensitive military material.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Scientists may have found a shortcut to fusion energy",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
+      "pubDate": "2026-10-10T18:57:27Z",
+      "snippet": "Princeton Plasma Physics Laboratory may have found a dramatically more efficient route to fusion energy by reversing the traditional approach: heating plasma first, then increasing its density. Their ...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Lockheed Martin unveils PAC-3 Edge interceptor designed to counter hypersonic threats",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/10/lockheed-martin-unveils-pac-3-edge-interceptor-designed-to-counter-hypersonic-threats/",
+      "pubDate": "2026-10-10T13:18:04Z",
+      "snippet": "Lockheed Martin said PAC-3 Edge incorporates a new seeker, upgraded flight controls and a multi-pulse rocket motor supplied by Northrop Grumman.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon, Raytheon sign $6.3B deal to replenish US missile interceptor supply",
+      "link": "https://www.defensenews.com/missile-defense/2026/10/09/pentagon-raytheon-sign-63b-deal-to-replenish-us-missile-interceptor-supply/",
+      "pubDate": "2026-10-09T20:17:18Z",
+      "snippet": "The contract \"supports urgent replenishment of missile defense inventory that has been successfully used in combat,\" Raytheon said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "US Army Corps of Engineers failed to explain drop in environmental mitigation work: Watchdog",
       "link": "https://www.defensenews.com/news/your-army/2026/10/09/us-army-corps-of-engineers-failed-to-explain-drop-in-environmental-mitigation-work-watchdog/",
       "pubDate": "2026-10-09T15:59:53Z",
       "snippet": "A chart published by GAO shows a sharp decline in the agency's decisions to make mitigation plans for wildlife and habitat protection from 2022 to 2025.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Estonia\u2019s KrattWorks crafting Shahed-like dummy drone for target practice",
-      "link": "https://www.defensenews.com/global/europe/2026/10/09/estonias-krattworks-crafting-shahed-like-dummy-drone-for-target-practice/",
-      "pubDate": "2026-10-09T10:11:46Z",
-      "snippet": "The Estonian company, which has announced a Shahed-like target drone, will show its products at this year's AUSA conference in Washington.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon barred Qatar base access to hide Iran war damage, US senator claims",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/10/08/pentagon-barred-qatar-base-access-to-hide-iran-war-damage-us-senator-claims/",
-      "pubDate": "2026-10-08T21:30:28Z",
-      "snippet": "Sen. Chris Murphy, D-Conn., was denied access to Al Udeid Air Base, Qatar, during a recent Congressional Delegation trip in what he calls a \"cover-up.\"",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Sig Sauer develops 25-round mag for Army\u2019s next-gen rifle",
-      "link": "https://www.defensenews.com/news/your-army/2026/10/08/sig-sauer-develops-25-round-mag-for-armys-next-gen-rifle/",
-      "pubDate": "2026-10-08T19:23:25Z",
-      "snippet": "Soldier feedback, from the constructive to the blistering, has been instrumental in guiding Sig Sauer in its development of the M8 carbine.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Future cost, use of Marine Corps ACVs scrutinized in congressional report",
-      "link": "https://www.defensenews.com/news/2026/10/08/future-cost-use-of-marine-corps-acvs-scrutinized-in-congressional-report/",
-      "pubDate": "2026-10-08T16:34:20Z",
-      "snippet": "The Congressional Research Service pointed to the war in Ukraine, where armored vehicles have largely been driven from the battlefield by drones.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Air Force, Army eye industry access on test ranges",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/08/us-air-force-army-eye-industry-access-on-test-ranges/",
-      "pubDate": "2026-10-08T16:27:32Z",
-      "snippet": "The U.S. Air Force is partnering with the U.S. Army to open its test ranges to approved defense firms.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Dutch firm uses AI to help drone systems \u2018talk\u2019 on Ukraine\u2019s battlefield",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/08/dutch-firm-uses-ai-to-help-drone-systems-talk-on-ukraines-battlefield/",
-      "pubDate": "2026-10-08T14:35:46Z",
-      "snippet": "Amsterdam-based Intelic now has an office in Kyiv and is helping Ukrainian forces as they face intensified Russian drone and missile barrages.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon recruits drone pilots from across services for upcoming competition",
-      "link": "https://www.defensenews.com/news/your-military/2026/10/08/pentagon-recruits-drone-pilots-from-across-services-for-upcoming-competition/",
-      "pubDate": "2026-10-08T14:06:55Z",
-      "snippet": "The Defense Innovation Unit is looking to recruit about 100 drone pilots and create a standing registry of operators across the military services.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -84,15 +183,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Rubio says US, Greece to jointly combat security threats",
-      "link": "https://www.defensenews.com/global/europe/2026/10/07/rubio-says-us-greece-to-jointly-combat-security-threats/",
-      "pubDate": "2026-10-07T18:25:10Z",
-      "snippet": "The U.S. and Greece are launching a joint security program to strengthen counterterrorism information sharing between their law enforcement agencies.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Announcing the finalists for the 2026 SpaceNews Icon Awards",
       "link": "https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/",
       "pubDate": "2026-10-07T14:18:18Z",
@@ -100,15 +190,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "Embraer, Lockheed Martin vie for India\u2019s $10.5B military transport aircraft deal",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/10/07/embraer-lockheed-martin-vie-for-indias-105b-military-transport-aircraft-deal/",
-      "pubDate": "2026-10-07T12:35:37Z",
-      "snippet": "The Indian government wants one of its biggest military aviation contracts to deepen the country\u2019s local aerospace industrial base.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Deposition Sciences, Inc. Expands Sunshade\u00ae Tape Offering with New 12\u2033 \u00d7 30\u2033 Format",
@@ -120,33 +201,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Pentagon names 4 directed-energy weapons for counter-drone program at US bases",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/06/pentagon-names-4-directed-energy-weapons-for-counter-drone-program-at-us-bases/",
-      "pubDate": "2026-10-06T18:29:50Z",
-      "snippet": "The Pentagon named four directed energy weapons for a homeland counter-drone program, the first systems to be fielded and tested at U.S. bases.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "France fires upgraded nuclear-capable missile from submarine for first time",
-      "link": "https://www.defensenews.com/global/europe/2026/10/06/france-fires-upgraded-nuclear-capable-missile-from-submarine-for-first-time/",
-      "pubDate": "2026-10-06T16:08:47Z",
-      "snippet": "France test-fired an upgraded version of its M51 strategic ballistic missile from a submarine for the first time on Tuesday.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Northrop Grumman\u2019s YFQ-48A CCA completes first fully autonomous flight",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/06/northrop-grummans-yfq-48a-cca-completes-first-fully-autonomous-flight/",
-      "pubDate": "2026-10-06T15:46:33Z",
-      "snippet": "The successful flight came just weeks after U.S. Air Force officials announced their intention to have 500 autonomous aircraft in service by 2032.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Scientists finally see how nature moves energy so efficiently",
       "link": "https://www.sciencedaily.com/releases/2026/10/261004001841.htm",
       "pubDate": "2026-10-06T07:49:51Z",
@@ -156,15 +210,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "Has the Pentagon given up on AI polygraph analysis of loyalty?",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/10/05/has-the-pentagon-given-up-on-ai-polygraph-analysis-of-trustworthiness/",
-      "pubDate": "2026-10-05T23:43:37Z",
-      "snippet": "AI-aided scanning of speech patterns, vocal stress or facial expressions to read minds lacks scientific backing and will compound errors, critics argue.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Resource competition intensifies with surge in megaconstellations",
       "link": "https://spacenews.com/resource-competition-intensifies-with-surge-in-megaconstellations/",
       "pubDate": "2026-10-05T19:13:40Z",
@@ -172,15 +217,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "US Army tests counter-drone tech at Mexican border as cartel drone use rises",
-      "link": "https://www.defensenews.com/news/your-military/2026/10/05/us-army-tests-counter-drone-tech-at-mexican-border-as-cartel-drone-use-rises/",
-      "pubDate": "2026-10-05T15:31:00Z",
-      "snippet": "The service is seeking to sharpen its defenses against the growing threat of drone use by cartels.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Agile Space Industries Strengthens Board and Corporate Development to Support Continued Growth",
@@ -277,15 +313,6 @@
       "link": "https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/",
       "pubDate": "2026-09-29T17:42:20Z",
       "snippet": "IRVINE, Calif. \u2013 Sept. 29, 2026 \u2013 Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, today announced the...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "If AI cannot be trusted in a classroom, why should it be trusted in orbit?",
-      "link": "https://spacenews.com/if-ai-cannot-be-trusted-in-a-classroom-why-should-it-be-trusted-in-orbit/",
-      "pubDate": "2026-09-29T11:00:00Z",
-      "snippet": "On September 9, 2026, Evan Hubinger, Anthropic&#8217;s alignment science lead, said on social media that he personally believed there was a greater than 10% chance that artificial intelligence could k...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
@@ -430,24 +457,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/08/260822015143.htm",
       "pubDate": "2026-08-23T13:08:55Z",
       "snippet": "Researchers at CERN have created microscopic versions of the early Universe by colliding surprisingly small atomic nuclei at nearly the speed of light. The collisions produced quark-gluon plasma, the ...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Scientists crushed diamond beyond Neptune-like pressures\u2014and solved a 20-year mystery",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260820002424.htm",
-      "pubDate": "2026-08-20T08:55:15Z",
-      "snippet": "Extreme experiments have revealed how diamond behaves at crushing pressures beyond those inside Neptune and Uranus, resolving a decades-old conflict between theory and observation. The results could h...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Scientists may have finally proved that \u201cempty\u201d space isn\u2019t really empty",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260815065007.htm",
-      "pubDate": "2026-08-18T06:08:04Z",
-      "snippet": "A magnetar\u2019s colossal magnetic field may have revealed a quantum effect predicted by Werner Heisenberg nearly 90 years ago, in which seemingly empty space alters the behavior of light. If confirmed, t...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
