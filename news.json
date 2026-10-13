@@ -1,7 +1,52 @@
 {
-  "updated": "2026-10-12T20:01:04.521306Z",
-  "count": 51,
+  "updated": "2026-10-13T17:49:54.314574Z",
+  "count": 45,
   "items": [
+    {
+      "title": "US Army targets 2028 for first high-energy laser counter-drone weapons",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/13/us-army-targets-2028-for-first-high-energy-laser-counter-drone-weapons/",
+      "pubDate": "2026-10-13T17:45:00Z",
+      "snippet": "The first directed energy weapon selected by the U.S. Army could be out of testing and ready for counter-drone operations by early 2028.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Anduril reveals family of surface-to-air interceptor missiles",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/13/anduril-reveals-family-of-surface-to-air-interceptor-missiles/",
+      "pubDate": "2026-10-13T17:15:00Z",
+      "snippet": "The interceptor family was built to address threats across the air-and-missile defense spectrum, while aiming to come at a fraction of the cost of others.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "General Dynamics showcases Wolf XM30, new counter-drone systems at AUSA",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/13/general-dynamics-showcases-wolf-xm30-new-counter-drone-systems-at-ausa/",
+      "pubDate": "2026-10-13T16:45:00Z",
+      "snippet": "General Dynamics Land Systems is showcasing a 1/8 model of the Wolf XM30, the company\u2019s candidate to replace the M2 Bradley at AUSA this week.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Army to stand up command for unmanned and autonomous warfare",
+      "link": "https://www.defensenews.com/news/your-military/2026/10/13/us-army-to-stand-up-command-for-unmanned-and-autonomous-warfare/",
+      "pubDate": "2026-10-13T16:15:00Z",
+      "snippet": "An Oct. 1 memo directs the Army vice chief of staff to establish the U.S. Army Futures and Autonomous Systems Command, or FASCOM.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Drone carrying M250 machine gun completes firing test",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/13/drone-carrying-m250-machine-gun-completes-firing-test/",
+      "pubDate": "2026-10-13T11:53:22Z",
+      "snippet": "A heavy-duty quadcopter carrying Sig Sauer\u2019s new M250 light machine gun has completed a test requiring it to identify and engage targets from the air.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Italy eyes MBDA armaments for new Italo-Turkish drone",
       "link": "https://www.defensenews.com/global/europe/2026/10/12/italy-eyes-mbda-armaments-for-new-italo-turkish-drone/",
@@ -66,24 +111,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Powerus unveils fully autonomous drone interceptors",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/12/newly-public-company-unveils-fully-autonomous-drone-interceptors/",
-      "pubDate": "2026-10-12T14:20:00Z",
-      "snippet": "Once a threat is detected, the new Guardian 3 interceptors are immediately launched toward it. They strike using advanced AI and navigational systems.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "One user interface, multiple autonomous systems: Forterra debuts OASIS-OneLink technology",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/12/one-user-interface-multiple-autonomous-systems-forterra-debuts-oasis-onelink-technology/",
-      "pubDate": "2026-10-12T13:49:37Z",
-      "snippet": "Forterra introduced its new OASIS-OneLink platform that allows operators and service members to control autonomous systems using a single user interface.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
       "link": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/",
       "pubDate": "2026-10-12T13:00:00Z",
@@ -91,33 +118,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "Patriot interceptor deliveries to Poland will be delayed, top general says",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/12/patriot-interceptor-deliveries-to-poland-will-be-delayed-top-general-says/",
-      "pubDate": "2026-10-12T12:36:53Z",
-      "snippet": "Deliveries of some U.S. weapons systems to Poland are set to be delayed, including interceptors for the Patriot air defense system.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army helicopter pilots test new in-flight \u2018relief\u2019 system",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/12/us-army-helicopter-pilots-test-new-in-flight-relief-system/",
-      "pubDate": "2026-10-12T11:28:09Z",
-      "snippet": "The 101st Combat Aviation Brigade recently completed the Army\u2019s first-ever helicopter test flights using the Advanced Inflight Relief Universal System.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Vector, Nammo expand push to mass-produce armed drones",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/12/vector-nammo-expand-push-to-mass-produce-armed-drones/",
-      "pubDate": "2026-10-12T09:00:00Z",
-      "snippet": "Executives from both companies say they\u2019re scaling up production of systems that reflect \u201cthe realities of how warfighters will employ them.\u201d",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Scientists build a nuclear clock that could make atomic clocks obsolete",
@@ -129,15 +129,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "US Army, Kaizen Laboratories to establish common software platform for classified material",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/10/us-army-kaizen-laboratories-to-establish-common-software-platform-for-classified-material/",
-      "pubDate": "2026-10-10T22:47:27Z",
-      "snippet": "The U.S. Army recently awarded $43 million to Kaizen Laboratories to create application software for highly sensitive military material.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Scientists may have found a shortcut to fusion energy",
       "link": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
       "pubDate": "2026-10-10T18:57:27Z",
@@ -145,33 +136,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Lockheed Martin unveils PAC-3 Edge interceptor designed to counter hypersonic threats",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/10/lockheed-martin-unveils-pac-3-edge-interceptor-designed-to-counter-hypersonic-threats/",
-      "pubDate": "2026-10-10T13:18:04Z",
-      "snippet": "Lockheed Martin said PAC-3 Edge incorporates a new seeker, upgraded flight controls and a multi-pulse rocket motor supplied by Northrop Grumman.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon, Raytheon sign $6.3B deal to replenish US missile interceptor supply",
-      "link": "https://www.defensenews.com/missile-defense/2026/10/09/pentagon-raytheon-sign-63b-deal-to-replenish-us-missile-interceptor-supply/",
-      "pubDate": "2026-10-09T20:17:18Z",
-      "snippet": "The contract \"supports urgent replenishment of missile defense inventory that has been successfully used in combat,\" Raytheon said.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army Corps of Engineers failed to explain drop in environmental mitigation work: Watchdog",
-      "link": "https://www.defensenews.com/news/your-army/2026/10/09/us-army-corps-of-engineers-failed-to-explain-drop-in-environmental-mitigation-work-watchdog/",
-      "pubDate": "2026-10-09T15:59:53Z",
-      "snippet": "A chart published by GAO shows a sharp decline in the agency's decisions to make mitigation plans for wildlife and habitat protection from 2022 to 2025.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "What will it take to build a moon base?",
@@ -295,24 +259,6 @@
       "link": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/",
       "pubDate": "2026-09-30T13:00:00Z",
       "snippet": "ROCKVILLE, Md. and MERRITT ISLAND, Fla. \u2014 September 30, 2026 \u2014 Quantum Space, LLC (the \u201cCompany\u201d or \u201cQuantum Space\u201d), a company developing the next generation of advanced maneuverable spacecraft for [...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Commercial Defense Satcom Service Revenues to Surpass $22.6B by 2035",
-      "link": "https://spacenews.com/commercial-defense-satcom-service-revenues-to-surpass-22-6b-by-2035/",
-      "pubDate": "2026-09-29T20:32:07Z",
-      "snippet": "Paris, France &#124; September 2026 \u2014 Novaspace\u2019s Satellite Communications for Defense and Security, 2nd Edition highlights a defense Satcom market poised for rapid growth. By 2035, commercial satelli...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Terran Orbital Names Jamin Brown Chief Operating Officer",
-      "link": "https://spacenews.com/terran-orbital-names-jamin-brown-chief-operating-officer/",
-      "pubDate": "2026-09-29T17:42:20Z",
-      "snippet": "IRVINE, Calif. \u2013 Sept. 29, 2026 \u2013 Terran Orbital, a Lockheed Martin company and a global leader in satellite-based solutions primarily serving the aerospace and defense industries, today announced the...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
