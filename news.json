@@ -1,7 +1,142 @@
 {
-  "updated": "2026-10-13T17:49:54.314574Z",
-  "count": 45,
+  "updated": "2026-10-14T15:35:34.044808Z",
+  "count": 52,
   "items": [
+    {
+      "title": "Estonia weighs buying light jet aircraft to shoot down Russian jet-powered drones",
+      "link": "https://www.defensenews.com/global/europe/2026/10/14/estonia-weighs-buying-light-jet-aircraft-to-shoot-down-russian-jet-powered-drones/",
+      "pubDate": "2026-10-14T14:44:06Z",
+      "snippet": "Estonia's defense minister said the government should consider fielding aircraft capable of shooting down Russian jet-powered attack drones.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Army expands drone marketplace to 33 nations",
+      "link": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-expands-drone-marketplace-to-33-nations/",
+      "pubDate": "2026-10-14T14:38:26Z",
+      "snippet": "Since the marketplace was launched in March 2026, it has processed $800 million in transactions.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Ukraine races to field faster interceptors as Russia hammers its energy grid",
+      "link": "https://www.defensenews.com/global/2026/10/14/ukraine-races-to-field-faster-interceptors-as-russia-hammers-its-energy-grid/",
+      "pubDate": "2026-10-14T13:51:21Z",
+      "snippet": "With jets being used in more and more Russian attacks, Ukraine is leveraging fighter jets, AI-aimed gun turrets and scarce missiles for air defense.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "How mini-constellations could more quickly bring new tech to Europe, and to orbit",
+      "link": "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/",
+      "pubDate": "2026-10-14T13:09:21Z",
+      "snippet": "When the European thermal-imagery company constellr began working with Space Inventor on its next generation of satellites, some of the most important details of the spacecraft had yet to be [&#8230;]...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Army transfers 600 enlisted soldiers to Space Operations Branch",
+      "link": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-transfers-600-enlisted-soldiers-to-space-operations-branch/",
+      "pubDate": "2026-10-14T09:30:00Z",
+      "snippet": "The U.S. Army bolstered its Space Operations Branch by 600 soldiers, officially creating the branch\u2019s first permanent enlisted cadre.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Army hackathon sets backdrop for an AUSA focused on autonomy",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/14/us-army-hackathon-sets-backdrop-for-an-ausa-focused-on-autonomy/",
+      "pubDate": "2026-10-14T01:30:00Z",
+      "snippet": "The Army's Operation Jailbreak initiative asked defense companies to hack into each other's autonomous systems and machines, enabling them to communicate.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Army, Navy research labs team up to combat Arctic cold",
+      "link": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-navy-research-labs-team-up-to-combat-arctic-cold/",
+      "pubDate": "2026-10-14T01:00:00Z",
+      "snippet": "As the Department of Defense eyes greater operability in the Arctic, it needs equipment that can operate in temps as low as -50 degrees Fahrenheit.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Army suspends longtime hometown recruiter assistance program, faces cancellation",
+      "link": "https://www.defensenews.com/news/your-military/2026/10/13/us-army-suspends-longtime-hometown-recruiter-assistance-program-faces-cancellation/",
+      "pubDate": "2026-10-13T23:00:00Z",
+      "snippet": "The service\u2019s decades-old Hometown Recruiter Assistance Program has been suspended, Lt. Gen. Johnny Davis confirmed.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Anduril\u2019s Palmer Luckey envisions missiles made in car factories, underground battles",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/13/andurils-palmer-luckey-envisions-missiles-made-in-car-factories-underground-battles/",
+      "pubDate": "2026-10-13T22:30:00Z",
+      "snippet": "Anduril founder and co-leader of the newly formed Project Meridian gave a sneak peek into what he sees as the future of war.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Anduril awarded contract to expand US Army\u2019s next-gen battlefield command system",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/13/anduril-awarded-contract-to-expand-us-armys-next-gen-battlefield-command-system/",
+      "pubDate": "2026-10-13T21:15:00Z",
+      "snippet": "Anduril Industries received an Army contract worth up to $1.8 billion to continue expanding the service's Next Generation Command and Control.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "LaNeve to industry: \u2018We are not walking away from modernization\u2019",
+      "link": "https://www.defensenews.com/news/your-military/2026/10/13/laneve-to-industry-we-are-not-walking-away-from-modernization/",
+      "pubDate": "2026-10-13T20:45:00Z",
+      "snippet": "The U.S. Army's Futures and Concepts Command has been redesignated as U.S. Army Futures and Autonomous Systems, the service's top officer announced.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "BAE Systems unveils new layered air-defense system",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/13/bae-systems-unveils-new-layered-air-defense-system/",
+      "pubDate": "2026-10-13T20:15:00Z",
+      "snippet": "The weapons include the long-awaited Multi-Domain Artillery Cannon System and a High-Power Microwave.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "How autonomous weapons are changing the way brigades fight",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/13/how-autonomous-weapons-are-changing-the-way-brigades-fight/",
+      "pubDate": "2026-10-13T19:15:00Z",
+      "snippet": "At Fort Bragg in August, Army soldiers tested how unmanned systems could help troops breach obstacles while reducing their exposure to battlefield hazards.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Startup wants US soldiers to command AI agents through its smart glasses",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/13/startup-wants-us-soldiers-to-command-ai-agents-through-its-smart-glasses/",
+      "pubDate": "2026-10-13T18:45:00Z",
+      "snippet": "Rivet's CEO envisions a world where a soldier commands an AI agent, and the AI agent commands the robots and drones.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Kongsberg to build new plant in Poland for counter-drone systems",
+      "link": "https://www.defensenews.com/global/europe/2026/10/13/kongsberg-to-build-new-plant-in-poland-for-counter-drone-systems/",
+      "pubDate": "2026-10-13T18:08:19Z",
+      "snippet": "Norway\u2019s Kongsberg has decided to build a new production facility for counter-drone systems in northern Poland.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "US Army targets 2028 for first high-energy laser counter-drone weapons",
       "link": "https://www.defensenews.com/industry/techwatch/2026/10/13/us-army-targets-2028-for-first-high-energy-laser-counter-drone-weapons/",
@@ -34,78 +169,6 @@
       "link": "https://www.defensenews.com/news/your-military/2026/10/13/us-army-to-stand-up-command-for-unmanned-and-autonomous-warfare/",
       "pubDate": "2026-10-13T16:15:00Z",
       "snippet": "An Oct. 1 memo directs the Army vice chief of staff to establish the U.S. Army Futures and Autonomous Systems Command, or FASCOM.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Drone carrying M250 machine gun completes firing test",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/13/drone-carrying-m250-machine-gun-completes-firing-test/",
-      "pubDate": "2026-10-13T11:53:22Z",
-      "snippet": "A heavy-duty quadcopter carrying Sig Sauer\u2019s new M250 light machine gun has completed a test requiring it to identify and engage targets from the air.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Italy eyes MBDA armaments for new Italo-Turkish drone",
-      "link": "https://www.defensenews.com/global/europe/2026/10/12/italy-eyes-mbda-armaments-for-new-italo-turkish-drone/",
-      "pubDate": "2026-10-12T18:48:45Z",
-      "snippet": "The Italian air force is due to acquire six of the drones, which are derived from Baykar\u2019s TB-3 and are being assembled in Italy by LBA Systems.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army creates robotics technician job to focus on drone warfare",
-      "link": "https://www.defensenews.com/news/your-military/2026/10/12/us-army-creates-robotics-technician-job-to-focus-on-drone-warfare/",
-      "pubDate": "2026-10-12T18:30:00Z",
-      "snippet": "As experts in autonomous warfare, U.S. Army robotics technicians will advise commanders on how best to deploy autonomous systems during operations.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Sikorsky packs 4 Nomad drones into a single shipping container",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/12/sikorsky-packs-4-nomad-drones-into-a-single-shipping-container/",
-      "pubDate": "2026-10-12T18:00:00Z",
-      "snippet": "Nomad 100 fast pack fits four aircraft, mission-command software, power, communications and sustainment equipment inside one standard shipping container.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "3 US soldiers awarded Purple Hearts after March missile attack on Saudi Arabia base",
-      "link": "https://www.defensenews.com/news/your-military/2026/10/12/3-us-soldiers-awarded-purple-hearts-after-missile-attack-on-saudi-arabia-base/",
-      "pubDate": "2026-10-12T17:32:12Z",
-      "snippet": "Sgt. Xavier Jones, SSgt. Kalob Mitchell and Spc. Nicholas Cabo were awarded Purple Hearts after a missile attack on Prince Sultan Air Base, Saudi Arabia.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "India sells air defense missiles to Tajikistan, Turkmenistan in Central Asia push",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/10/12/india-sells-air-defense-missiles-to-tajikistan-turkmenistan-in-central-asia-push/",
-      "pubDate": "2026-10-12T16:49:35Z",
-      "snippet": "New Delhi is seeking new customers in a region long supplied by Russia and increasingly by China.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "\u2018We\u2019ve drowned ourselves in buzzwords\u2019: Acting US Army secretary gives sermon-like first speech",
-      "link": "https://www.defensenews.com/pentagon/2026/10/12/weve-drowned-ourselves-in-buzzwords-acting-us-army-secretary-gives-sermon-like-first-speech/",
-      "pubDate": "2026-10-12T15:35:03Z",
-      "snippet": "Adam Telle enlisted the Old Testament to preach a message of simplicity of purpose on Monday in his first public speech to troops since assuming the role.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "FN America unveils M240 upgrade kit for modern optics",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/12/fn-america-unveils-m240-upgrade-kit-for-modern-optics/",
-      "pubDate": "2026-10-12T15:00:00Z",
-      "snippet": "The company said the new kit updates the legacy system to better accommodate night-vision and thermal scopes.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
