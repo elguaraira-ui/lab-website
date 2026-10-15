@@ -1,7 +1,124 @@
 {
-  "updated": "2026-10-14T15:35:34.044808Z",
-  "count": 52,
+  "updated": "2026-10-15T15:22:18.044899Z",
+  "count": 47,
   "items": [
+    {
+      "title": "How NASA is thinking about a moon base",
+      "link": "https://spacenews.com/how-nasa-is-thinking-about-a-moon-base/",
+      "pubDate": "2026-10-15T15:14:24Z",
+      "snippet": "In this episode, SpaceNews\u2019 Mike Gruss talks with NASA\u2019s Shatel Bhakta, the principal systems engineer for Moon Base, about what\u2019s needed between now and 2028 and the incremental steps to [&#8230;]\nTh...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Pentagon seeks expertise to develop brain injury assessment standards",
+      "link": "https://www.defensenews.com/news/your-military/2026/10/15/pentagon-seeks-expertise-to-develop-brain-injury-assessment-standards/",
+      "pubDate": "2026-10-15T14:00:00Z",
+      "snippet": "The Defense Department is seeking a variety of information that can help in formulating standards for assessing mild traumatic brain injuries, or mTBI.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Agile Space Industries Expands to Seattle Area with New Bellevue Office",
+      "link": "https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/",
+      "pubDate": "2026-10-15T12:00:00Z",
+      "snippet": "BELLEVUE, Wash., Oct. 15, 2026 \u2014 Agile Space Industries, a leading provider of in-space chemical propulsion solutions, has expanded into the Seattle metropolitan area with the opening of a new [&#8230...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Honeywell Aerospace\u2019s counter-drone software unites data from multiple sensors into one",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/15/honeywell-aerospaces-counter-drone-software-unites-data-from-multiple-sensors-into-one/",
+      "pubDate": "2026-10-15T09:00:00Z",
+      "snippet": "Honeywell Aerospace\u2019s SAMURAI system is designed to bring information from disparate sources into a single interface.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US soldiers must train on \u2018new basics\u2019 of unmanned systems, officials say",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-soldiers-must-train-on-new-basics-of-unmanned-systems-officials-say/",
+      "pubDate": "2026-10-15T01:00:00Z",
+      "snippet": "As the U.S. Army trains soldiers for multi-domain operations, the service needs to prepare them with \u201cnew basics.\"",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Northrop Grumman breaks out the big guns at AUSA",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/14/northrop-grumman-breaks-out-the-big-guns-at-ausa/",
+      "pubDate": "2026-10-14T23:00:00Z",
+      "snippet": "Amid the cruise missiles and microelectronics, the company also had something a little more familiar: guns. Big guns. Like, really big guns.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon needs $50B for mass drone production, Hegseth says",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/10/14/pentagon-needs-50b-for-mass-drone-production-hegseth-says/",
+      "pubDate": "2026-10-14T22:06:56Z",
+      "snippet": "Defense Secretary Pete Hegseth wants $50 billion in reconciliation funding to support the Pentagon's push to scale autonomous and robotic systems.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "France mulls keeping Charles de Gaulle carrier sailing after 2038",
+      "link": "https://www.defensenews.com/global/europe/2026/10/14/france-mulls-keeping-charles-de-gaulle-carrier-sailing-after-2038/",
+      "pubDate": "2026-10-14T21:19:30Z",
+      "snippet": "France is studying whether the Charles de Gaulle nuclear-powered aircraft carrier can continue to sail beyond its envisaged retirement in 2038.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "European officials weigh mix of high-tech drones and heavy armor",
+      "link": "https://www.defensenews.com/global/europe/2026/10/14/european-officials-weigh-mix-of-high-tech-drones-and-heavy-armor/",
+      "pubDate": "2026-10-14T17:57:33Z",
+      "snippet": "European leaders are figuring out the right mix between unmanned systems and heavy armor to secure NATO's eastern flank.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "\u2018You\u2019re a coward\u2019: Protesters heckle Hegseth during AUSA panel",
+      "link": "https://www.defensenews.com/news/your-military/2026/10/14/youre-a-coward-protesters-heckle-hegseth-during-ausa-panel/",
+      "pubDate": "2026-10-14T17:24:26Z",
+      "snippet": "Protesters derailed a Washington, D.C., panel featuring Defense Secretary Pete Hegseth on Wednesday, calling him a \u201cwar criminal\u201d and \u201cNazi.\u201d",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Forterra partners with Hypercraft on autonomous vehicle for high-risk missions",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/14/forterra-partners-with-hypercraft-on-autonomous-vehicle-for-high-risk-missions/",
+      "pubDate": "2026-10-14T16:30:00Z",
+      "snippet": "Forterra integrates its AutoDrive technology onto Hypercraft's Razorback ground vehicle, debuting at AUSA.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Army taps 9 companies to build next-gen command and control software",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/14/us-army-taps-9-companies-to-build-next-gen-command-and-control-software/",
+      "pubDate": "2026-10-14T16:00:00Z",
+      "snippet": "The service announced contract awards worth $93.6 million across nine companies building applications for its Next Generation Command and Control software.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "\u2018Nobody\u2019s losing pay\u2019: Army Cyber Command head says new tech mastery program won\u2019t affect troop wages",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/14/nobodys-losing-pay-army-cyber-command-head-says-new-tech-mastery-program-wont-affect-troop-wages/",
+      "pubDate": "2026-10-14T15:30:00Z",
+      "snippet": "The head of U.S. Army Cyber Command assured soldiers their pay would be unaffected after a new cyber mastery program reportedly proposed wage cuts.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Estonia weighs buying light jet aircraft to shoot down Russian jet-powered drones",
       "link": "https://www.defensenews.com/global/europe/2026/10/14/estonia-weighs-buying-light-jet-aircraft-to-shoot-down-russian-jet-powered-drones/",
@@ -21,15 +138,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Ukraine races to field faster interceptors as Russia hammers its energy grid",
-      "link": "https://www.defensenews.com/global/2026/10/14/ukraine-races-to-field-faster-interceptors-as-russia-hammers-its-energy-grid/",
-      "pubDate": "2026-10-14T13:51:21Z",
-      "snippet": "With jets being used in more and more Russian attacks, Ukraine is leveraging fighter jets, AI-aimed gun turrets and scarce missiles for air defense.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "How mini-constellations could more quickly bring new tech to Europe, and to orbit",
       "link": "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/",
       "pubDate": "2026-10-14T13:09:21Z",
@@ -37,141 +145,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "US Army transfers 600 enlisted soldiers to Space Operations Branch",
-      "link": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-transfers-600-enlisted-soldiers-to-space-operations-branch/",
-      "pubDate": "2026-10-14T09:30:00Z",
-      "snippet": "The U.S. Army bolstered its Space Operations Branch by 600 soldiers, officially creating the branch\u2019s first permanent enlisted cadre.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army hackathon sets backdrop for an AUSA focused on autonomy",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/14/us-army-hackathon-sets-backdrop-for-an-ausa-focused-on-autonomy/",
-      "pubDate": "2026-10-14T01:30:00Z",
-      "snippet": "The Army's Operation Jailbreak initiative asked defense companies to hack into each other's autonomous systems and machines, enabling them to communicate.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army, Navy research labs team up to combat Arctic cold",
-      "link": "https://www.defensenews.com/news/your-military/2026/10/14/us-army-navy-research-labs-team-up-to-combat-arctic-cold/",
-      "pubDate": "2026-10-14T01:00:00Z",
-      "snippet": "As the Department of Defense eyes greater operability in the Arctic, it needs equipment that can operate in temps as low as -50 degrees Fahrenheit.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army suspends longtime hometown recruiter assistance program, faces cancellation",
-      "link": "https://www.defensenews.com/news/your-military/2026/10/13/us-army-suspends-longtime-hometown-recruiter-assistance-program-faces-cancellation/",
-      "pubDate": "2026-10-13T23:00:00Z",
-      "snippet": "The service\u2019s decades-old Hometown Recruiter Assistance Program has been suspended, Lt. Gen. Johnny Davis confirmed.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Anduril\u2019s Palmer Luckey envisions missiles made in car factories, underground battles",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/13/andurils-palmer-luckey-envisions-missiles-made-in-car-factories-underground-battles/",
-      "pubDate": "2026-10-13T22:30:00Z",
-      "snippet": "Anduril founder and co-leader of the newly formed Project Meridian gave a sneak peek into what he sees as the future of war.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Anduril awarded contract to expand US Army\u2019s next-gen battlefield command system",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/13/anduril-awarded-contract-to-expand-us-armys-next-gen-battlefield-command-system/",
-      "pubDate": "2026-10-13T21:15:00Z",
-      "snippet": "Anduril Industries received an Army contract worth up to $1.8 billion to continue expanding the service's Next Generation Command and Control.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "LaNeve to industry: \u2018We are not walking away from modernization\u2019",
-      "link": "https://www.defensenews.com/news/your-military/2026/10/13/laneve-to-industry-we-are-not-walking-away-from-modernization/",
-      "pubDate": "2026-10-13T20:45:00Z",
-      "snippet": "The U.S. Army's Futures and Concepts Command has been redesignated as U.S. Army Futures and Autonomous Systems, the service's top officer announced.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "BAE Systems unveils new layered air-defense system",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/13/bae-systems-unveils-new-layered-air-defense-system/",
-      "pubDate": "2026-10-13T20:15:00Z",
-      "snippet": "The weapons include the long-awaited Multi-Domain Artillery Cannon System and a High-Power Microwave.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "How autonomous weapons are changing the way brigades fight",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/13/how-autonomous-weapons-are-changing-the-way-brigades-fight/",
-      "pubDate": "2026-10-13T19:15:00Z",
-      "snippet": "At Fort Bragg in August, Army soldiers tested how unmanned systems could help troops breach obstacles while reducing their exposure to battlefield hazards.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Startup wants US soldiers to command AI agents through its smart glasses",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/13/startup-wants-us-soldiers-to-command-ai-agents-through-its-smart-glasses/",
-      "pubDate": "2026-10-13T18:45:00Z",
-      "snippet": "Rivet's CEO envisions a world where a soldier commands an AI agent, and the AI agent commands the robots and drones.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Kongsberg to build new plant in Poland for counter-drone systems",
-      "link": "https://www.defensenews.com/global/europe/2026/10/13/kongsberg-to-build-new-plant-in-poland-for-counter-drone-systems/",
-      "pubDate": "2026-10-13T18:08:19Z",
-      "snippet": "Norway\u2019s Kongsberg has decided to build a new production facility for counter-drone systems in northern Poland.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army targets 2028 for first high-energy laser counter-drone weapons",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/13/us-army-targets-2028-for-first-high-energy-laser-counter-drone-weapons/",
-      "pubDate": "2026-10-13T17:45:00Z",
-      "snippet": "The first directed energy weapon selected by the U.S. Army could be out of testing and ready for counter-drone operations by early 2028.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Anduril reveals family of surface-to-air interceptor missiles",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/13/anduril-reveals-family-of-surface-to-air-interceptor-missiles/",
-      "pubDate": "2026-10-13T17:15:00Z",
-      "snippet": "The interceptor family was built to address threats across the air-and-missile defense spectrum, while aiming to come at a fraction of the cost of others.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "General Dynamics showcases Wolf XM30, new counter-drone systems at AUSA",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/13/general-dynamics-showcases-wolf-xm30-new-counter-drone-systems-at-ausa/",
-      "pubDate": "2026-10-13T16:45:00Z",
-      "snippet": "General Dynamics Land Systems is showcasing a 1/8 model of the Wolf XM30, the company\u2019s candidate to replace the M2 Bradley at AUSA this week.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army to stand up command for unmanned and autonomous warfare",
-      "link": "https://www.defensenews.com/news/your-military/2026/10/13/us-army-to-stand-up-command-for-unmanned-and-autonomous-warfare/",
-      "pubDate": "2026-10-13T16:15:00Z",
-      "snippet": "An Oct. 1 memo directs the Army vice chief of staff to establish the U.S. Army Futures and Autonomous Systems Command, or FASCOM.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
@@ -304,24 +277,6 @@
       "link": "https://spacenews.com/galileo-space-is-building-satellites-that-turn-signals-into-answers-in-orbit/",
       "pubDate": "2026-10-01T00:24:08Z",
       "snippet": "Galileo Space is building satellites designed to turn signals into answers in orbit. Modern defense and commercial operations need fast answers about what is happening and where. Existing systems can ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "NaviGate successfully demonstrates onboard precise orbit determination aboard D-Orbit\u2019s ION Satellite Carrier",
-      "link": "https://spacenews.com/navigate-successfully-demonstrates-onboard-precise-orbit-determination-aboard-d-orbits-ion-satellite-carrier/",
-      "pubDate": "2026-09-30T15:00:00Z",
-      "snippet": "ROME, 30/09/2026 &#8211; NaviGate, an Italian space technology company spun out of Sapienza University of Rome, has successfully completed the in-orbit demonstration (IoD) of NaviCode Caravel, its aut...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Quantum Space Executes Launch Processing Agreement with All Points Logistics for Prime Mission",
-      "link": "https://spacenews.com/quantum-space-executes-launch-processing-agreement-with-all-points-logistics-for-prime-mission/",
-      "pubDate": "2026-09-30T13:00:00Z",
-      "snippet": "ROCKVILLE, Md. and MERRITT ISLAND, Fla. \u2014 September 30, 2026 \u2014 Quantum Space, LLC (the \u201cCompany\u201d or \u201cQuantum Space\u201d), a company developing the next generation of advanced maneuverable spacecraft for [...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
