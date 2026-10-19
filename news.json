@@ -1,7 +1,124 @@
 {
-  "updated": "2026-10-16T15:02:25.018108Z",
-  "count": 46,
+  "updated": "2026-10-19T17:13:11.175894Z",
+  "count": 49,
   "items": [
+    {
+      "title": "UARX Space troubleshoots anomalies on maiden OTV Flight",
+      "link": "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/",
+      "pubDate": "2026-10-19T16:31:12Z",
+      "snippet": "SAN FRANCISCO \u2013Spanish startup UARX Space is remedying anomalies identified during the maiden flight of OSSIE-D, an orbital transfer vehicle (OTV) launched Oct. 1 aboard SpaceX\u2019s Transporter-18 missio...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Shield AI software cuts autonomous flight development to six weeks",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/16/shield-ai-software-cuts-autonomous-flight-development-to-six-weeks/",
+      "pubDate": "2026-10-19T15:00:00Z",
+      "snippet": "Shield AI said this week that its Hivemind software helped Honeywell Aerospace achieve autonomous flight after six weeks, down from 54 weeks.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Groups seek clarity on motive behind Pentagon\u2019s study of women in combat",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/10/19/groups-seek-clarity-on-motive-behind-pentagons-study-of-women-in-combat/",
+      "pubDate": "2026-10-19T14:00:00Z",
+      "snippet": "Citing concerns about Hegseth\u2019s views on the topic, the lawsuit asks for records showing the scope, purpose, methodology and anticipated use of the study.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Army Cyber Command charts course for human-AI equilibrium",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/19/us-army-cyber-command-charts-course-for-human-ai-equilibrium/",
+      "pubDate": "2026-10-19T13:00:00Z",
+      "snippet": "U.S. Army Cyber Command is constantly refining human oversight of artificial intelligence, Lt. Gen. Christopher Eubank said last week.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Army acquisition command awards contracts worth $6.8B in 2026",
+      "link": "https://www.defensenews.com/news/your-military/2026/10/16/us-army-acquisition-command-awards-contracts-worth-68b-in-2026/",
+      "pubDate": "2026-10-19T12:00:00Z",
+      "snippet": "The Mission and Installation Contracting Command awarded 21,450 contracts in fiscal 2026 valued at $6.8 billion in total, a boost from the year prior.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Army showing interest in G/ATOR missile-killing radar, Northrop says",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-showing-interest-in-gator-missile-killing-radar-northrop-says/",
+      "pubDate": "2026-10-19T11:00:00Z",
+      "snippet": "Northrop Grumman\u2019s new multi-mission radar system has earned high marks from Marine Corps leadership. The U.S. Army has taken notice.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Army fields new system for sweeping munitions planning, management",
+      "link": "https://www.defensenews.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management/",
+      "pubDate": "2026-10-19T09:00:00Z",
+      "snippet": "The service expects this first increment of TACTMIS to replace the previously used TAMIS system once it retires on Oct. 30.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US arms firm Anduril could make interceptors in Europe, executive says",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/18/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says/",
+      "pubDate": "2026-10-18T15:40:14Z",
+      "snippet": "U.S. defense firm Anduril could eventually manufacture its newly unveiled Steelfin interceptor missiles in Europe, a company executive said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Special Operations adopts new half-mask and goggles",
+      "link": "https://www.defensenews.com/land/2026/10/15/us-special-operations-adopts-new-half-mask-and-goggles/",
+      "pubDate": "2026-10-16T22:00:00Z",
+      "snippet": "Avon Protection's MITR half-mask and goggle system is designed to protect wearers from dangerous chemicals and toxic substances in the atmosphere.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "What is Starshield, SpaceX\u2019s military version of Starlink?",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/16/what-is-starshield-spacexs-military-version-of-starlink/",
+      "pubDate": "2026-10-16T20:08:08Z",
+      "snippet": "Ukraine said on Wednesday that SpaceX had restricted \u201cmilitary-grade\u201d Starlink services, hampering Ukrainian drone strike missions and air defenses.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Arizona Guard first to field Gray Eagle 25M drone",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/15/arizona-guard-first-to-field-gray-eagle-25m-drone/",
+      "pubDate": "2026-10-16T17:30:00Z",
+      "snippet": "The state will receive 12 of the unmanned aircraft systems by the end of 2029.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Order to limit Starshield for Ukraine came from inside White House, sources say",
+      "link": "https://www.defensenews.com/pentagon/2026/10/16/order-to-limit-starshield-for-ukraine-came-from-inside-white-house-sources-say/",
+      "pubDate": "2026-10-16T16:30:00Z",
+      "snippet": "The order to limit a satellite system used by Ukraine for battlefield communications and drone operations came from inside the White House.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "South Korean lasers down three drones in Army demo, Hanwha says",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/16/south-korean-lasers-down-three-drones-in-army-demo-hanwha-says/",
+      "pubDate": "2026-10-16T15:14:56Z",
+      "snippet": "Hanwha Systems laser weapons shot down target drones during a South Korean Army demonstration, the company said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Bulgaria seeks NATO anti-drone systems, defense minister says",
       "link": "https://www.defensenews.com/global/europe/2026/10/16/bulgaria-seeks-nato-anti-drone-systems-defense-minister-says/",
@@ -75,76 +192,13 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Ukrainian officials blame Pentagon for withholding life-saving intel from Kyiv",
-      "link": "https://www.defensenews.com/global/2026/10/15/ukrainian-officials-blame-pentagon-for-withholding-life-saving-intel-from-kyiv/",
-      "pubDate": "2026-10-15T22:00:48Z",
-      "snippet": "The U.S. appears to have stopped sharing some forms of key intelligence with Kyiv, Ukrainian officials said Wednesday.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Oct. 29: Applying AI to the GEOINT Mission",
-      "link": "https://spacenews.com/applying-ai-to-the-geoint-mission-event/",
+      "title": "Oct. 29: Applying AI/SI to the GEOINT Mission",
+      "link": "https://spacenews.com/applying-ai-si-to-the-geoint-mission-event/",
       "pubDate": "2026-10-15T20:41:50Z",
-      "snippet": "Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets\nThe post Oct. 29: Applying AI to the GEOINT Mission appeared first on SpaceNews.",
+      "snippet": "Join us for a conversation on how machine learning is transforming the GEOINT mission across different markets\nThe post Oct. 29: Applying AI/SI to the GEOINT Mission appeared first on SpaceNews.",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "US Army eyes developing soldier-worn drone detection gear",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-eyes-developing-soldier-worn-drone-detection-gear/",
-      "pubDate": "2026-10-15T20:00:00Z",
-      "snippet": "The Army is in the early stages of developing and testing a wearable or lightweight device that could alert soldiers to the presence of hostile drones.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "\u2018Revolutionary\u2019: Bell touts MV-75 Cheyenne II as combat game changer",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/15/revolutionary-bell-touts-mv-75-cheyenne-ii-as-combat-game-changer/",
-      "pubDate": "2026-10-15T19:00:00Z",
-      "snippet": "The Army's MV-75 Cheyenne II is expected to bring increased capability through its speed, range and modular open systems approach.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Kratos combat drone completes first Euro flight, advances turbojet engine production",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/15/kratos-combat-drone-completes-first-euro-flight-advances-turbojet-engine-production/",
-      "pubDate": "2026-10-15T18:00:00Z",
-      "snippet": "The company said it is positioning itself to support a range of unmanned missions with new aircraft and engine capabilities.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army to stand up second expeditionary cyber battalion in coming months",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/14/us-army-to-stand-up-second-expeditionary-cyber-battalion-in-coming-months/",
-      "pubDate": "2026-10-15T17:00:00Z",
-      "snippet": "The head of U.S. Army Cyber Command said this week that the service would be building an exact replica of the 11th Cyber Battalion in the next few months.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Routine testosterone screening of US troops may require extensive follow-on care, study finds",
-      "link": "https://www.defensenews.com/news/your-military/2026/10/15/routine-testosterone-screening-of-us-troops-may-require-extensive-follow-on-care-study-finds/",
-      "pubDate": "2026-10-15T16:00:00Z",
-      "snippet": "One-time testosterone testing of troops found that 100,691 active-duty soldiers had morning screening levels below the medical threshold.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "France to go it alone on next-gen combat aircraft after FCAS collapse",
-      "link": "https://www.defensenews.com/global/europe/2026/10/15/france-to-go-it-alone-on-next-gen-combat-aircraft-after-fcas-collapse/",
-      "pubDate": "2026-10-15T15:30:54Z",
-      "snippet": "France will develop a next-generation combat aircraft domestically, after a joint project with Germany and Spain collapsed earlier this year.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "How NASA is thinking about a moon base",
@@ -156,15 +210,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Pentagon seeks expertise to develop brain injury assessment standards",
-      "link": "https://www.defensenews.com/news/your-military/2026/10/15/pentagon-seeks-expertise-to-develop-brain-injury-assessment-standards/",
-      "pubDate": "2026-10-15T14:00:00Z",
-      "snippet": "The Defense Department is seeking a variety of information that can help in formulating standards for assessing mild traumatic brain injuries, or mTBI.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Agile Space Industries Expands to Seattle Area with New Bellevue Office",
       "link": "https://spacenews.com/agile-space-industries-expands-to-seattle-area-with-new-bellevue-office/",
       "pubDate": "2026-10-15T12:00:00Z",
@@ -172,15 +217,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "Honeywell Aerospace\u2019s counter-drone software unites data from multiple sensors into one",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/15/honeywell-aerospaces-counter-drone-software-unites-data-from-multiple-sensors-into-one/",
-      "pubDate": "2026-10-15T09:00:00Z",
-      "snippet": "Honeywell Aerospace\u2019s SAMURAI system is designed to bring information from disparate sources into a single interface.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "How mini-constellations could more quickly bring new tech to Europe, and to orbit",
@@ -280,15 +316,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "World Space Week 2026 Celebrates the \u201cRocket Revolution\u201d",
-      "link": "https://spacenews.com/world-space-week-2026-celebrates-the-rocket-revolution/",
-      "pubDate": "2026-10-01T15:06:43Z",
-      "snippet": "HOUSTON, Texas (September 30, 2026)\u2014 World Space Week events, beginning October 4 in 100 nations, will celebrate how launch innovation has stimulated the rapidly-growing space economy and enabled new ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Distant time crystals can somehow fall into the same rhythm",
