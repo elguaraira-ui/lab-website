@@ -1,7 +1,43 @@
 {
-  "updated": "2026-10-19T17:13:11.175894Z",
+  "updated": "2026-10-20T15:24:34.469852Z",
   "count": 49,
   "items": [
+    {
+      "title": "US Navy, Gecko Robotics surge AI maintenance contract to $300M",
+      "link": "https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m/",
+      "pubDate": "2026-10-20T15:15:32Z",
+      "snippet": "Gecko Robotics uses drones, wall-climbing robots and fixed sensors to gather data on components, decks, welds and hulls.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
+      "link": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/",
+      "pubDate": "2026-10-20T13:00:00Z",
+      "snippet": "LOS ANGELES \u2014 October 20, 2026&#160;AnySignal, a leading provider of software-defined radios and space-based networking, today announced an agreement with Reflect Orbital to deliver space-to-earth com...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Scientists reach the ultimate quantum limit on a surface",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm",
+      "pubDate": "2026-10-20T03:02:41Z",
+      "snippet": "Scientists have achieved a quantum breakthrough by creating an ultra-clean surface where individual molecules can maintain their delicate quantum properties at the fundamental limit. The discovery cou...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
+      "link": "https://www.defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year/",
+      "pubDate": "2026-10-19T18:50:11Z",
+      "snippet": "The Pentagon and BAE Systems signed a framework agreement for up to 25,000 Advanced Precision Kill Weapon System, or APKWS, guidance kits a year.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "UARX Space troubleshoots anomalies on maiden OTV Flight",
       "link": "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/",
@@ -156,24 +192,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Blood supplies, autonomous systems shape US Army\u2019s Indo-Pacific combat care plans",
-      "link": "https://www.defensenews.com/news/your-military/2026/10/14/blood-supplies-autonomous-systems-shape-us-armys-indo-pacific-combat-care-plans/",
-      "pubDate": "2026-10-16T12:00:00Z",
-      "snippet": "18th Theater Medical Command leaders are experimenting with ways to prolong care in a theater where the \"Golden Hour\" standard is difficult to maintain.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "New human-machine interface will help Boxer punch above its weight",
-      "link": "https://www.defensenews.com/land/2026/10/14/new-human-machine-interface-will-help-boxer-punch-above-its-weight/",
-      "pubDate": "2026-10-16T09:00:00Z",
-      "snippet": "An Australian startup has teamed with Rheinmetall to enable soldiers to direct nearby drones with voice commands from aboard Boxer vehicles.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "A quantum highway just one atom high could transform superconductors",
       "link": "https://www.sciencedaily.com/releases/2026/10/261014072018.htm",
       "pubDate": "2026-10-16T04:22:01Z",
@@ -181,15 +199,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Lockheed invests $300M in Texas plant to feed missile surge",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/15/lockheed-invests-300m-in-texas-plant-to-feed-missile-surge/",
-      "pubDate": "2026-10-16T00:00:00Z",
-      "snippet": "Lockheed is investing $300 million to expand its Grand Prairie, Texas, plant, which supports all programs within its Missiles and Fire Control business.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Oct. 29: Applying AI/SI to the GEOINT Mission",
@@ -430,15 +439,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/08/260827010457.htm",
       "pubDate": "2026-08-27T10:26:04Z",
       "snippet": "Today\u2019s mysterious gravitational-wave background may preserve clues about how the Universe\u2019s first supermassive black holes formed. Descendants of hypothetical Dark Stars could be responsible for a ma...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Scientists switch on a strange new form of magnetism in an ultrathin material",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260826055454.htm",
-      "pubDate": "2026-08-27T09:23:20Z",
-      "snippet": "Scientists have found a surprising way to potentially switch on an unusual form of magnetism in ruthenium dioxide, a material that normally appears nonmagnetic. When the material was made into an ultr...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
