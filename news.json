@@ -1,7 +1,52 @@
 {
-  "updated": "2026-10-21T15:41:56.268405Z",
-  "count": 50,
+  "updated": "2026-10-22T15:42:20.039725Z",
+  "count": 48,
   "items": [
+    {
+      "title": "US Army long-range fires make a splash\u00a0on the frontline with China",
+      "link": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-long-range-fires-make-a-splash-on-the-frontline-with-china/",
+      "pubDate": "2026-10-22T14:55:35Z",
+      "snippet": "The U.S. Army has been upgrading its missiles and rocket artillery, largely in response to China's missile arsenal.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "The Pentagon wants ketamine wafers as a battlefield medicine option",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/the-pentagon-wants-ketamine-wafers-as-a-battlefield-medicine-option/",
+      "pubDate": "2026-10-22T13:45:04Z",
+      "snippet": "The Pentagon awarded a multi-million-dollar contract to the Singapore-based iX Biopharma to develop a small, ketamine-packed wafer.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon ignored cybersecurity flaws before data breach, Marines\u2019 lawsuit says",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says/",
+      "pubDate": "2026-10-22T13:03:46Z",
+      "snippet": "A pair of Marines filed a class-action lawsuit Tuesday against the Pentagon over a data breach at the Defense Manpower Data Center.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "A revolutionary new microscope could reveal the hidden machinery of life",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261021231230.htm",
+      "pubDate": "2026-10-22T11:30:49Z",
+      "snippet": "Researchers have developed a revolutionary microscope that uses an incredibly powerful laser to make previously invisible cellular structures easier to see. The technology dramatically improves image ...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Pentagon AI oversight office struggles to keep pace with department\u2019s ambitions, GAO finds",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds/",
+      "pubDate": "2026-10-21T15:55:31Z",
+      "snippet": "The Pentagon office tapped in 2022 to oversee the military\u2019s responsible use of AI had filled just three of 10 authorized positions as of February 2026.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
       "link": "https://spacenews.com/technomile-recognized-as-a-2026-inc-power-partner-award-winner/",
@@ -165,51 +210,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "US Army acquisition command awards contracts worth $6.8B in 2026",
-      "link": "https://www.defensenews.com/news/your-military/2026/10/16/us-army-acquisition-command-awards-contracts-worth-68b-in-2026/",
-      "pubDate": "2026-10-19T12:00:00Z",
-      "snippet": "The Mission and Installation Contracting Command awarded 21,450 contracts in fiscal 2026 valued at $6.8 billion in total, a boost from the year prior.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army showing interest in G/ATOR missile-killing radar, Northrop says",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/15/us-army-showing-interest-in-gator-missile-killing-radar-northrop-says/",
-      "pubDate": "2026-10-19T11:00:00Z",
-      "snippet": "Northrop Grumman\u2019s new multi-mission radar system has earned high marks from Marine Corps leadership. The U.S. Army has taken notice.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army fields new system for sweeping munitions planning, management",
-      "link": "https://www.defensenews.com/news/your-military/2026/10/15/us-army-fields-new-system-for-sweeping-munitions-planning-management/",
-      "pubDate": "2026-10-19T09:00:00Z",
-      "snippet": "The service expects this first increment of TACTMIS to replace the previously used TAMIS system once it retires on Oct. 30.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US arms firm Anduril could make interceptors in Europe, executive says",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/18/us-arms-firm-anduril-could-make-interceptors-in-europe-executive-says/",
-      "pubDate": "2026-10-18T15:40:14Z",
-      "snippet": "U.S. defense firm Anduril could eventually manufacture its newly unveiled Steelfin interceptor missiles in Europe, a company executive said.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Special Operations adopts new half-mask and goggles",
-      "link": "https://www.defensenews.com/land/2026/10/15/us-special-operations-adopts-new-half-mask-and-goggles/",
-      "pubDate": "2026-10-16T22:00:00Z",
-      "snippet": "Avon Protection's MITR half-mask and goggle system is designed to protect wearers from dangerous chemicals and toxic substances in the atmosphere.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "The uranium cubes that exposed Nazi Germany\u2019s nuclear failure",
       "link": "https://www.sciencedaily.com/releases/2026/10/261015073218.htm",
       "pubDate": "2026-10-16T12:32:52Z",
@@ -304,15 +304,6 @@
       "link": "https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/",
       "pubDate": "2026-10-07T14:18:18Z",
       "snippet": "Meet the 43 leaders and accomplishments that exemplified excellence across the industry over the last 12 months\nThe post Announcing the finalists for the 2026 SpaceNews Icon Awards appeared first on S...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Deposition Sciences, Inc. Expands Sunshade\u00ae Tape Offering with New 12\u2033 \u00d7 30\u2033 Format",
-      "link": "https://spacenews.com/deposition-sciences-inc-expands-sunshade-tape-offering-with-new-12-x-30-format/",
-      "pubDate": "2026-10-06T19:20:20Z",
-      "snippet": "Santa Rosa, CA \u2014 October 2026 \u2014 Deposition Sciences, Inc. (DSI), a leader in advanced thin film coatings, proudly announces the introduction of a new 12&#8243; \u00d7 30&#8243; format for [&#8230;]\nThe pos...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
@@ -439,15 +430,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
       "pubDate": "2026-08-27T13:08:01Z",
       "snippet": "Researchers used AI to search through more than 100 million possible settings for 3D-printing a high-performance NASA alloy. After only 40 experiments, the system identified six successful configurati...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "A mysterious cosmic hum may come from 13-billion-year-old dark stars",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260827010457.htm",
-      "pubDate": "2026-08-27T10:26:04Z",
-      "snippet": "Today\u2019s mysterious gravitational-wave background may preserve clues about how the Universe\u2019s first supermassive black holes formed. Descendants of hypothetical Dark Stars could be responsible for a ma...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
