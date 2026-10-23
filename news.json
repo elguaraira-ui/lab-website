@@ -1,7 +1,79 @@
 {
-  "updated": "2026-10-22T15:42:20.039725Z",
-  "count": 48,
+  "updated": "2026-10-23T15:29:45.565012Z",
+  "count": 47,
   "items": [
+    {
+      "title": "Leonardo, Rheinmetall secure $4 billion contracts with Italian Army, report says",
+      "link": "https://www.defensenews.com/global/europe/2026/10/23/leonardo-rheinmetall-secure-4-billion-contracts-with-italian-army-report-says/",
+      "pubDate": "2026-10-23T14:10:15Z",
+      "snippet": "The defense companies secured two contracts with the Italian Army for $4.16 billion for armored vehicles, an Italian financial newspaper reported.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Saudi missile plant expansion may produce more powerful missiles, study says",
+      "link": "https://www.defensenews.com/global/mideast-africa/2026/10/23/saudi-missile-plant-expansion-may-produce-more-powerful-missiles-study-says/",
+      "pubDate": "2026-10-23T13:57:29Z",
+      "snippet": "More capable missiles could help Saudi Arabia deter Iranian attacks and make its military more self-reliant, but they risk fueling a regional missile race.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "China\u2019s first aircraft carrier forms \u2018evolving pattern\u2019 of voyages in disputed Asian seas",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/10/23/chinas-first-aircraft-carrier-forms-evolving-pattern-of-voyages-in-disputed-asian-seas/",
+      "pubDate": "2026-10-23T12:35:20Z",
+      "snippet": "The carrier group\u2019s passages not far from Taiwan, Japan and the Philippines have raised alerts.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "A tiny defect in a crystal reveals a big quantum surprise",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261022081302.htm",
+      "pubDate": "2026-10-23T10:22:55Z",
+      "snippet": "Researchers have solved a long-standing challenge in understanding how tiny defects in materials like diamond and silicon carbide behave when exposed to light. Their new computational method revealed ...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
+      "link": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/",
+      "pubDate": "2026-10-22T19:27:22Z",
+      "snippet": "The move comes amid Pentagon concerns that the U.S. government\u2019s only plant for manufacturing howitzer barrels can\u2019t keep up with the recent demand.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Denmark to buy Kongsberg, Covenant missiles for new long-range strike option",
+      "link": "https://www.defensenews.com/global/europe/2026/10/22/denmark-to-buy-kongsberg-covenant-missiles-for-new-long-range-strike-option/",
+      "pubDate": "2026-10-22T19:03:40Z",
+      "snippet": "Copenhagen wants to acquire the capability to strike back at enemies attacking first, hoping for a deterrent effect.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Rethinking networks in space with Aalyria\u2019s Brian Barritt",
+      "link": "https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/",
+      "pubDate": "2026-10-22T18:13:38Z",
+      "snippet": "In this episode, SpaceNews\u2019 Mike Gruss talks with the CEO of Aalyria Brian Barritt about how networks are evolving, what scaling the company means and the role of software interoperability [&#8230;]\nT...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Pentagon, Lockheed agree to 10-year deal for 850 F-35 jets",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/pentagon-lockheed-agree-to-10-year-deal-for-850-f-35-jets/",
+      "pubDate": "2026-10-22T17:15:33Z",
+      "snippet": "The decade-long framework guarantees at least 850 F-35 Lightning II fighters for the U.S. military, pending congressional approval and funding.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "US Army long-range fires make a splash\u00a0on the frontline with China",
       "link": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-long-range-fires-make-a-splash-on-the-frontline-with-china/",
@@ -93,15 +165,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "Solstar provides Wi-Fi connectivity for NASA proximity operations demonstration",
-      "link": "https://spacenews.com/solstar-provides-wi-fi-connectivity-for-nasa-proximity-operations-demonstration/",
-      "pubDate": "2026-10-21T12:00:00Z",
-      "snippet": "SAN FRANCISCO \u2013 Wi-Fi technology from Solstar Space connected NASA\u2019s R5-S10 cubesat with Momentus\u2019 Vigoride-7 orbital service vehicle during proximity operations and relayed data to NASA\u2019s Johnson Spa...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Summer of Quantum: Building momentum for space-based QKD",
       "link": "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/",
       "pubDate": "2026-10-21T11:54:30Z",
@@ -138,15 +201,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "US Navy, Gecko Robotics surge AI maintenance contract to $300M",
-      "link": "https://www.defensenews.com/news/your-navy/2026/10/20/us-navy-gecko-robotics-surge-ai-maintenance-contract-to-300m/",
-      "pubDate": "2026-10-20T15:15:32Z",
-      "snippet": "Gecko Robotics uses drones, wall-climbing robots and fixed sensors to gather data on components, decks, welds and hulls.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
       "link": "https://spacenews.com/anysignal-to-deliver-space-to-earth-communications-for-three-reflect-orbital-missions/",
       "pubDate": "2026-10-20T13:00:00Z",
@@ -163,51 +217,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Pentagon, BAE sign deal for up to 25,000 precision-guided munition kits a year",
-      "link": "https://www.defensenews.com/pentagon/2026/10/19/pentagon-bae-sign-deal-for-up-to-25000-precision-guided-munition-kits-a-year/",
-      "pubDate": "2026-10-19T18:50:11Z",
-      "snippet": "The Pentagon and BAE Systems signed a framework agreement for up to 25,000 Advanced Precision Kill Weapon System, or APKWS, guidance kits a year.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "UARX Space troubleshoots anomalies on maiden OTV Flight",
-      "link": "https://spacenews.com/uarx-space-troubleshoots-anomalies-on-maiden-otv-flight/",
-      "pubDate": "2026-10-19T16:31:12Z",
-      "snippet": "Correction: Dawn&#8217;s Docking and Fluid Transfer Port is not a hosted payload. UARX is testing it for future refueling missions. SAN FRANCISCO \u2013Spanish startup UARX Space is remedying anomalies ide...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Shield AI software cuts autonomous flight development to six weeks",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/16/shield-ai-software-cuts-autonomous-flight-development-to-six-weeks/",
-      "pubDate": "2026-10-19T15:00:00Z",
-      "snippet": "Shield AI said this week that its Hivemind software helped Honeywell Aerospace achieve autonomous flight after six weeks, down from 54 weeks.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Groups seek clarity on motive behind Pentagon\u2019s study of women in combat",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/10/19/groups-seek-clarity-on-motive-behind-pentagons-study-of-women-in-combat/",
-      "pubDate": "2026-10-19T14:00:00Z",
-      "snippet": "Citing concerns about Hegseth\u2019s views on the topic, the lawsuit asks for records showing the scope, purpose, methodology and anticipated use of the study.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army Cyber Command charts course for human-AI equilibrium",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/19/us-army-cyber-command-charts-course-for-human-ai-equilibrium/",
-      "pubDate": "2026-10-19T13:00:00Z",
-      "snippet": "U.S. Army Cyber Command is constantly refining human oversight of artificial intelligence, Lt. Gen. Christopher Eubank said last week.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "The uranium cubes that exposed Nazi Germany\u2019s nuclear failure",
@@ -295,15 +304,6 @@
       "link": "https://spacenews.com/what-will-it-take-to-build-a-moon-base/",
       "pubDate": "2026-10-08T13:57:38Z",
       "snippet": "In this episode, a panel of industry experts discuss what\u2019s needed to build a moon base. During a live event at the Johns Hopkins University Bloomberg Center, leaders Astrolab, Firefly [&#8230;]\nThe p...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Announcing the finalists for the 2026 SpaceNews Icon Awards",
-      "link": "https://spacenews.com/announcing-the-finalists-for-the-2026-spacenews-icon-awards/",
-      "pubDate": "2026-10-07T14:18:18Z",
-      "snippet": "Meet the 43 leaders and accomplishments that exemplified excellence across the industry over the last 12 months\nThe post Announcing the finalists for the 2026 SpaceNews Icon Awards appeared first on S...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
@@ -421,15 +421,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/08/260831015157.htm",
       "pubDate": "2026-09-02T14:51:21Z",
       "snippet": "Solar sails pushed by powerful lasers could reach incredible speeds, but relativity may eventually make the light itself work against them. At around 75% of the speed of light, scattered photons can b...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "AI searched 100 million possibilities and found a cheaper way to 3D-print a NASA rocket alloy",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260827010504.htm",
-      "pubDate": "2026-08-27T13:08:01Z",
-      "snippet": "Researchers used AI to search through more than 100 million possible settings for 3D-printing a high-performance NASA alloy. After only 40 experiments, the system identified six successful configurati...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
