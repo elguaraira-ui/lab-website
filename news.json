@@ -1,30 +1,75 @@
 {
-  "updated": "2026-10-23T15:29:45.565012Z",
-  "count": 47,
+  "updated": "2026-10-26T17:02:12.424507Z",
+  "count": 38,
   "items": [
     {
-      "title": "Leonardo, Rheinmetall secure $4 billion contracts with Italian Army, report says",
-      "link": "https://www.defensenews.com/global/europe/2026/10/23/leonardo-rheinmetall-secure-4-billion-contracts-with-italian-army-report-says/",
-      "pubDate": "2026-10-23T14:10:15Z",
-      "snippet": "The defense companies secured two contracts with the Italian Army for $4.16 billion for armored vehicles, an Italian financial newspaper reported.",
+      "title": "Helsing unveils interceptor missiles designed to chase Russia\u2019s fast-flying Geran drones",
+      "link": "https://www.defensenews.com/global/europe/2026/10/26/helsing-unveils-interceptor-missiles-designed-to-chase-russias-fast-flying-geran-drones/",
+      "pubDate": "2026-10-26T14:53:32Z",
+      "snippet": "Germany\u2019s Helsing is offering a novel pair of air-defense missiles, plus the requisite AI software to organize intercepts, for downing fast attack drones for under $100,000 per shot.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
     },
     {
-      "title": "Saudi missile plant expansion may produce more powerful missiles, study says",
-      "link": "https://www.defensenews.com/global/mideast-africa/2026/10/23/saudi-missile-plant-expansion-may-produce-more-powerful-missiles-study-says/",
-      "pubDate": "2026-10-23T13:57:29Z",
-      "snippet": "More capable missiles could help Saudi Arabia deter Iranian attacks and make its military more self-reliant, but they risk fueling a regional missile race.",
+      "title": "Defense industry leaders weigh in: How to increase production and integrate AI",
+      "link": "https://www.defensenews.com/video/2026/10/26/defense-industry-leaders-weigh-in-how-to-increase-production-and-integrate-ai/",
+      "pubDate": "2026-10-26T13:26:26Z",
+      "snippet": "As military leaders clamor for increased weapons and systems productions, top defense company leaders chart ways they can meet the demand.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
     },
     {
-      "title": "China\u2019s first aircraft carrier forms \u2018evolving pattern\u2019 of voyages in disputed Asian seas",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/10/23/chinas-first-aircraft-carrier-forms-evolving-pattern-of-voyages-in-disputed-asian-seas/",
-      "pubDate": "2026-10-23T12:35:20Z",
-      "snippet": "The carrier group\u2019s passages not far from Taiwan, Japan and the Philippines have raised alerts.",
+      "title": "Semiautomatic grenade launcher and aim-assist for shooting down drones | Highlights from AUSA 2026",
+      "link": "https://www.defensenews.com/video/2026/10/26/semiautomatic-grenade-launcher-and-aim-assist-for-shooting-down-drones-highlights-from-ausa-2026/",
+      "pubDate": "2026-10-26T13:22:47Z",
+      "snippet": "Advances in weapons, new drones and personal drone protection were on display at the Army\u2019s premier annual defense conference in Washington, D.C.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
+      "link": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
+      "pubDate": "2026-10-26T13:00:00Z",
+      "snippet": "SAN FRANCISCO \u2014October 26, 2026\u2014Today, Astranis announced it has upgraded its 4th launch to a dedicated mission aboard a SpaceX Falcon 9 rocket set to launch in 2028, allowing it [&#8230;]\nThe post As...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Scientists discover a hidden flaw that challenges 40 years of superconductor science",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm",
+      "pubDate": "2026-10-25T02:19:07Z",
+      "snippet": "A superconducting material studied for 40 years has turned out to be far more complex than scientists believed. Advanced 3D imaging revealed a hidden patchwork of crystal structures, with unusually wi...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Nov. 5: Satellite Mission Management at the Edge",
+      "link": "https://spacenews.com/satellite-mission-management-at-the-edge-event/",
+      "pubDate": "2026-10-23T19:53:25Z",
+      "snippet": "Join us to explore how emerging technologies and commercial capabilities are transforming satellite operations\nThe post Nov. 5: Satellite Mission Management at the Edge appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US military needs \u2018urgent revolutionary institutional change\u2019 to prepare for modern war, Petraeus says",
+      "link": "https://www.defensenews.com/pentagon/2026/10/23/us-military-needs-urgent-revolutionary-institutional-change-to-prepare-for-modern-war-petraeus-says/",
+      "pubDate": "2026-10-23T19:39:05Z",
+      "snippet": "Ret. Army Gen. David Petraeus praised the Pentagon\u2019s new Autonomous Warfare Command but said the U.S. must rapidly prepare for modern autonomous war.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "\u2018The West can\u2019t stop me\u2019: Space wars heat up as Russia tails a Ukraine-linked US satellite",
+      "link": "https://www.defensenews.com/space/2026/10/23/the-west-cant-stop-me-space-wars-heat-up-as-russia-tails-a-ukraine-linked-us-satellite/",
+      "pubDate": "2026-10-23T15:48:02Z",
+      "snippet": "Washington blamed Moscow for deliberately moving a Russian military satellite with an undisclosed mission close last week to a U.S.-registered satellite.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -39,24 +84,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "US Army seeks manufacturers for 155mm howitzer barrels amid boost in demand",
-      "link": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-seeks-manufacturers-for-155mm-howitzer-barrels-amid-boost-in-demand/",
-      "pubDate": "2026-10-22T19:27:22Z",
-      "snippet": "The move comes amid Pentagon concerns that the U.S. government\u2019s only plant for manufacturing howitzer barrels can\u2019t keep up with the recent demand.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Denmark to buy Kongsberg, Covenant missiles for new long-range strike option",
-      "link": "https://www.defensenews.com/global/europe/2026/10/22/denmark-to-buy-kongsberg-covenant-missiles-for-new-long-range-strike-option/",
-      "pubDate": "2026-10-22T19:03:40Z",
-      "snippet": "Copenhagen wants to acquire the capability to strike back at enemies attacking first, hoping for a deterrent effect.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Rethinking networks in space with Aalyria\u2019s Brian Barritt",
       "link": "https://spacenews.com/rethinking-networks-in-space-with-aalyrias-brian-barritt/",
       "pubDate": "2026-10-22T18:13:38Z",
@@ -66,42 +93,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Pentagon, Lockheed agree to 10-year deal for 850 F-35 jets",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/pentagon-lockheed-agree-to-10-year-deal-for-850-f-35-jets/",
-      "pubDate": "2026-10-22T17:15:33Z",
-      "snippet": "The decade-long framework guarantees at least 850 F-35 Lightning II fighters for the U.S. military, pending congressional approval and funding.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army long-range fires make a splash\u00a0on the frontline with China",
-      "link": "https://www.defensenews.com/news/your-military/2026/10/22/us-army-long-range-fires-make-a-splash-on-the-frontline-with-china/",
-      "pubDate": "2026-10-22T14:55:35Z",
-      "snippet": "The U.S. Army has been upgrading its missiles and rocket artillery, largely in response to China's missile arsenal.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "The Pentagon wants ketamine wafers as a battlefield medicine option",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/the-pentagon-wants-ketamine-wafers-as-a-battlefield-medicine-option/",
-      "pubDate": "2026-10-22T13:45:04Z",
-      "snippet": "The Pentagon awarded a multi-million-dollar contract to the Singapore-based iX Biopharma to develop a small, ketamine-packed wafer.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon ignored cybersecurity flaws before data breach, Marines\u2019 lawsuit says",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/10/22/pentagon-ignored-cybersecurity-flaws-before-data-breach-marines-lawsuit-says/",
-      "pubDate": "2026-10-22T13:03:46Z",
-      "snippet": "A pair of Marines filed a class-action lawsuit Tuesday against the Pentagon over a data breach at the Defense Manpower Data Center.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "A revolutionary new microscope could reveal the hidden machinery of life",
       "link": "https://www.sciencedaily.com/releases/2026/10/261021231230.htm",
       "pubDate": "2026-10-22T11:30:49Z",
@@ -109,15 +100,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Pentagon AI oversight office struggles to keep pace with department\u2019s ambitions, GAO finds",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/10/21/pentagon-ai-oversight-office-struggles-to-keep-pace-with-departments-ambitions-gao-finds/",
-      "pubDate": "2026-10-21T15:55:31Z",
-      "snippet": "The Pentagon office tapped in 2022 to oversee the military\u2019s responsible use of AI had filled just three of 10 authorized positions as of February 2026.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "TechnoMile Recognized as a 2026 Inc. Power Partner Award Winner",
@@ -147,24 +129,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Timing to roll out US Army\u2019s NGC2 depends on funds, commander says",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/21/timing-to-roll-out-us-armys-ngc2-depends-on-funds-commander-says/",
-      "pubDate": "2026-10-21T13:59:36Z",
-      "snippet": "The head of the Army formation responsible for fielding the Next Generation Command and Control system said the timeline depends on resources available.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Marine Corps makes Maven available service-wide",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/21/marine-corps-makes-maven-available-service-wide/",
-      "pubDate": "2026-10-21T12:54:31Z",
-      "snippet": "The service made the AI-enabled battlefield management system available to all commands and organizations within the service.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Summer of Quantum: Building momentum for space-based QKD",
       "link": "https://spacenews.com/summer-of-quantum-building-momentum-for-space-based-qkd/",
       "pubDate": "2026-10-21T11:54:30Z",
@@ -172,33 +136,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "Europe weighs giving utilities, infrastructure companies more powers to bring down drones",
-      "link": "https://www.defensenews.com/global/europe/2026/10/21/europe-weighs-giving-utilities-infrastructure-companies-more-powers-to-bring-down-drones/",
-      "pubDate": "2026-10-21T11:07:00Z",
-      "snippet": "Offials are worried that drone attacks could knock out power to millions of people \u2014 as has happened frequently in Ukraine after Russian strikes.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Army support for Golden Dome missile shield takes shape",
-      "link": "https://www.defensenews.com/air-warfare/2026/10/20/us-army-support-for-golden-dome-missile-shield-takes-shape/",
-      "pubDate": "2026-10-20T17:30:40Z",
-      "snippet": "A U.S. Army air defense unit has been \"earmarked\" for support of the Golden Dome for America project, an Army official confirmed.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US Air Force F-22 pilot controls unmanned FQ-44 in flight",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/10/20/us-air-force-f-22-pilot-controls-unmanned-fq-44-in-flight/",
-      "pubDate": "2026-10-20T17:00:21Z",
-      "snippet": "The fighter jet\u2019s pilot served as an airborne \u201cquarterback\u201d and gave high-level directives to an Anduril-made Collaborative Combat Aircraft.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "AnySignal to Deliver Space-to-Earth Communications for Three Reflect Orbital Missions",
@@ -298,15 +235,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "What will it take to build a moon base?",
-      "link": "https://spacenews.com/what-will-it-take-to-build-a-moon-base/",
-      "pubDate": "2026-10-08T13:57:38Z",
-      "snippet": "In this episode, a panel of industry experts discuss what\u2019s needed to build a moon base. During a live event at the Johns Hopkins University Bloomberg Center, leaders Astrolab, Firefly [&#8230;]\nThe p...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Scientists finally see how nature moves energy so efficiently",
@@ -412,15 +340,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/09/260909005148.htm",
       "pubDate": "2026-09-09T05:33:42Z",
       "snippet": "Scientists found that a tiny atomic structure that forms on nickel oxide during methane conversion is more effective than the metallic nickel long believed to drive the reaction. The discovery allowed...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Interstellar solar sails hit a strange problem at 75% of light speed",
-      "link": "https://www.sciencedaily.com/releases/2026/08/260831015157.htm",
-      "pubDate": "2026-09-02T14:51:21Z",
-      "snippet": "Solar sails pushed by powerful lasers could reach incredible speeds, but relativity may eventually make the light itself work against them. At around 75% of the speed of light, scattered photons can b...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
