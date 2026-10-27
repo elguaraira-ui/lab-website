@@ -1,7 +1,61 @@
 {
-  "updated": "2026-10-26T17:02:12.424507Z",
-  "count": 38,
+  "updated": "2026-10-27T16:04:48.267415Z",
+  "count": 40,
   "items": [
+    {
+      "title": "Building a power layer for the robotic battlefield \u2014 Chariot Defense",
+      "link": "https://www.defensenews.com/news/2026/10/27/building-a-power-layer-for-the-robotic-battlefield-chariot-defense/",
+      "pubDate": "2026-10-27T15:10:49Z",
+      "snippet": "Chariot Defense looks to provide power solutions for a modern, drone-driven military force when traditional methods fail.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
+      "link": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/",
+      "pubDate": "2026-10-27T12:00:00Z",
+      "snippet": "Craft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential of next-generation laser technology for high-perfo...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "A tiny laser beam could make computer memory 1,000 times faster",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261025073046.htm",
+      "pubDate": "2026-10-27T09:22:06Z",
+      "snippet": "Scientists at UC San Diego have developed a surprising new way to store digital information using light instead of magnets, potentially paving the way for smaller, faster, and more energy-efficient me...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
+      "link": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/",
+      "pubDate": "2026-10-26T20:00:00Z",
+      "snippet": "\u2013 Paris-based FLEXELL SPACE FRANCE SAS creates a local business hub in Europe\u2013 New entity to support ongoing contract and volume-production discussions with European customers, from technical reviews ...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Army practices digging temporary battlefield graves",
+      "link": "https://www.defensenews.com/land/2026/10/26/army-practices-digging-temporary-battlefield-graves/",
+      "pubDate": "2026-10-26T18:57:25Z",
+      "snippet": "The Army is preparing for the grim possibility of burying fallen soldiers on the battlefield, testing how fast it can dig temporary graves while preserving remains for eventual identification and retu...",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon announces first US submarine joining Submarine Rotational Force-West",
+      "link": "https://www.defensenews.com/naval/2026/10/26/pentagon-announces-first-us-submarine-joining-submarine-rotational-force-west/",
+      "pubDate": "2026-10-26T18:50:06Z",
+      "snippet": "The Pentagon announced that the USS Colorado will be the first submarine to join Submarine Rotational Force-West in Australia.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Helsing unveils interceptor missiles designed to chase Russia\u2019s fast-flying Geran drones",
       "link": "https://www.defensenews.com/global/europe/2026/10/26/helsing-unveils-interceptor-missiles-designed-to-chase-russias-fast-flying-geran-drones/",
@@ -16,15 +70,6 @@
       "link": "https://www.defensenews.com/video/2026/10/26/defense-industry-leaders-weigh-in-how-to-increase-production-and-integrate-ai/",
       "pubDate": "2026-10-26T13:26:26Z",
       "snippet": "As military leaders clamor for increased weapons and systems productions, top defense company leaders chart ways they can meet the demand.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Semiautomatic grenade launcher and aim-assist for shooting down drones | Highlights from AUSA 2026",
-      "link": "https://www.defensenews.com/video/2026/10/26/semiautomatic-grenade-launcher-and-aim-assist-for-shooting-down-drones-highlights-from-ausa-2026/",
-      "pubDate": "2026-10-26T13:22:47Z",
-      "snippet": "Advances in weapons, new drones and personal drone protection were on display at the Army\u2019s premier annual defense conference in Washington, D.C.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -55,24 +100,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "US military needs \u2018urgent revolutionary institutional change\u2019 to prepare for modern war, Petraeus says",
-      "link": "https://www.defensenews.com/pentagon/2026/10/23/us-military-needs-urgent-revolutionary-institutional-change-to-prepare-for-modern-war-petraeus-says/",
-      "pubDate": "2026-10-23T19:39:05Z",
-      "snippet": "Ret. Army Gen. David Petraeus praised the Pentagon\u2019s new Autonomous Warfare Command but said the U.S. must rapidly prepare for modern autonomous war.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "\u2018The West can\u2019t stop me\u2019: Space wars heat up as Russia tails a Ukraine-linked US satellite",
-      "link": "https://www.defensenews.com/space/2026/10/23/the-west-cant-stop-me-space-wars-heat-up-as-russia-tails-a-ukraine-linked-us-satellite/",
-      "pubDate": "2026-10-23T15:48:02Z",
-      "snippet": "Washington blamed Moscow for deliberately moving a Russian military satellite with an undisclosed mission close last week to a U.S.-registered satellite.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "A tiny defect in a crystal reveals a big quantum surprise",
@@ -331,15 +358,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/09/260910225251.htm",
       "pubDate": "2026-09-11T05:18:44Z",
       "snippet": "Unconventional quantum theories may imply that time itself has a tiny fundamental uncertainty, placing an ultimate limit on how precisely any clock could measure it. The effect is far beyond current d...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Chinese scientists find a hidden atomic structure that unlocks methane",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260909005148.htm",
-      "pubDate": "2026-09-09T05:33:42Z",
-      "snippet": "Scientists found that a tiny atomic structure that forms on nickel oxide during methane conversion is more effective than the metallic nickel long believed to drive the reaction. The discovery allowed...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
