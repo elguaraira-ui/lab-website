@@ -1,12 +1,66 @@
 {
-  "updated": "2026-10-27T16:04:48.267415Z",
-  "count": 40,
+  "updated": "2026-10-28T16:51:44.475398Z",
+  "count": 41,
   "items": [
     {
-      "title": "Building a power layer for the robotic battlefield \u2014 Chariot Defense",
-      "link": "https://www.defensenews.com/news/2026/10/27/building-a-power-layer-for-the-robotic-battlefield-chariot-defense/",
-      "pubDate": "2026-10-27T15:10:49Z",
-      "snippet": "Chariot Defense looks to provide power solutions for a modern, drone-driven military force when traditional methods fail.",
+      "title": "Increasing cyber capability for national defense",
+      "link": "https://www.defensenews.com/news/2026/10/28/increasing-cyber-capability-for-national-defense/",
+      "pubDate": "2026-10-28T15:46:01Z",
+      "snippet": "Leonel Garciga, Sr. Executive Advisor at Booz Allen, provides an overview of his company's priorities in a time of evolving conflict.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
+      "link": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/",
+      "pubDate": "2026-10-28T14:43:08Z",
+      "snippet": "\u2013 Two demonstration missions planned aboard SpaceX Falcon 9, one each in 2027 and 2028 \u2013 Satoro to provide \u201cSatellite-as-a-service\u201d solution; Flexell Space to supply solar cells and test modules [&#82...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "If Canada picks the Gripen fighter, these local firms would help Saab deliver the jets",
+      "link": "https://www.defensenews.com/global/europe/2026/10/28/if-canada-picks-the-gripen-fighter-these-local-firms-would-help-saab-deliver-the-jets/",
+      "pubDate": "2026-10-28T08:43:30Z",
+      "snippet": "Saab will collaborate with several of Canada\u2019s top aerospace firms to build the Gripen fighter jet in Canada if the aircraft is selected by the Prime Minister Mark Carney\u2019s government.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Ukrainian startup, GomSpace test satellite for future communications network",
+      "link": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/",
+      "pubDate": "2026-10-27T20:21:30Z",
+      "snippet": "The companies said the experimental spacecraft, launched Oct. 1, could lead to a Ukrainian-controlled satellite network \nThe post Ukrainian startup, GomSpace test satellite for future communications n...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "US Air Force awards Lockheed Martin $694M hypersonic missile production contract",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/27/us-air-force-awards-lockheed-martin-694m-hypersonic-missile-production-contract/",
+      "pubDate": "2026-10-27T19:53:42Z",
+      "snippet": "The Air Force granted Lockheed Martin a $694 million contract in late September for the production and fielding of the AGM-183A Air-Launched Rapid Response Weapon, or ARRW.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon creates advisory council on human performance, health",
+      "link": "https://www.defensenews.com/pentagon/2026/10/27/pentagon-creates-advisory-council-on-human-performance-health/",
+      "pubDate": "2026-10-27T19:24:01Z",
+      "snippet": "After creating a new directorate on warfighter optimization within the Department of Defense, the Pentagon announced it will form a federal advisory committee to weigh in on issues affecting troop per...",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US taps Poland to host European PAC-3 missile maintenance facility",
+      "link": "https://www.defensenews.com/global/europe/2026/10/27/us-taps-poland-to-host-european-pac-3-missile-maintenance-facility/",
+      "pubDate": "2026-10-27T16:42:28Z",
+      "snippet": "The United States government has selected Poland to host a new European maintenance facility for Patriot Advanced Capability-3 (PAC-3) interceptors.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -37,42 +91,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "US Army practices digging temporary battlefield graves",
-      "link": "https://www.defensenews.com/land/2026/10/26/army-practices-digging-temporary-battlefield-graves/",
-      "pubDate": "2026-10-26T18:57:25Z",
-      "snippet": "The Army is preparing for the grim possibility of burying fallen soldiers on the battlefield, testing how fast it can dig temporary graves while preserving remains for eventual identification and retu...",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon announces first US submarine joining Submarine Rotational Force-West",
-      "link": "https://www.defensenews.com/naval/2026/10/26/pentagon-announces-first-us-submarine-joining-submarine-rotational-force-west/",
-      "pubDate": "2026-10-26T18:50:06Z",
-      "snippet": "The Pentagon announced that the USS Colorado will be the first submarine to join Submarine Rotational Force-West in Australia.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Helsing unveils interceptor missiles designed to chase Russia\u2019s fast-flying Geran drones",
-      "link": "https://www.defensenews.com/global/europe/2026/10/26/helsing-unveils-interceptor-missiles-designed-to-chase-russias-fast-flying-geran-drones/",
-      "pubDate": "2026-10-26T14:53:32Z",
-      "snippet": "Germany\u2019s Helsing is offering a novel pair of air-defense missiles, plus the requisite AI software to organize intercepts, for downing fast attack drones for under $100,000 per shot.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Defense industry leaders weigh in: How to increase production and integrate AI",
-      "link": "https://www.defensenews.com/video/2026/10/26/defense-industry-leaders-weigh-in-how-to-increase-production-and-integrate-ai/",
-      "pubDate": "2026-10-26T13:26:26Z",
-      "snippet": "As military leaders clamor for increased weapons and systems productions, top defense company leaders chart ways they can meet the demand.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
@@ -232,15 +250,6 @@
       "link": "https://spacenews.com/how-mini-constellations-could-more-quickly-bring-new-tech-to-europe-and-to-orbit/",
       "pubDate": "2026-10-14T13:09:21Z",
       "snippet": "When the European thermal-imagery company constellr began working with Space Inventor on its next generation of satellites, some of the most important details of the spacecraft had yet to be [&#8230;]...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Jena-Optronik is proud to partner with MDA Space for its first ASTRO HP mission.",
-      "link": "https://spacenews.com/jena-optronik-is-proud-to-partner-with-mda-space-for-its-first-astro-hp-mission/",
-      "pubDate": "2026-10-12T13:00:00Z",
-      "snippet": "MDA Space, a global leader in communications satellites, Earth and space observation, space exploration and infrastructure, will utilize Jena-Optronik\u2019s ASTRO HP star sensor on a LEO mission. This mil...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
