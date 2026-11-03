@@ -1,7 +1,52 @@
 {
-  "updated": "2026-11-02T20:32:30.590425Z",
-  "count": 43,
+  "updated": "2026-11-03T18:06:45.949654Z",
+  "count": 42,
   "items": [
+    {
+      "title": "Defense contractors to demo cargo drones for US Marine Corps",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/11/03/defense-contractors-to-demo-cargo-drones-for-us-marine-corps/",
+      "pubDate": "2026-11-03T17:56:13Z",
+      "snippet": "An event early next year in Huntsville, Alabama, will allow contractors to display their solutions for a Marine battlefield cargo drone.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
+      "link": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/",
+      "pubDate": "2026-11-03T16:59:43Z",
+      "snippet": "Czech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bigger and heavier satellites. Simera Sense xScape200...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "French defense minister kicks off \u2018pact\u2019 with industry in rush to field naval drones",
+      "link": "https://www.defensenews.com/global/europe/2026/11/03/french-defense-minister-kicks-off-pact-with-industry-in-rush-to-field-naval-drones/",
+      "pubDate": "2026-11-03T15:14:13Z",
+      "snippet": "The French government is kicking off a new \u201cpact\u201d with the defense industry aimed at fostering a national ecosystem of drone makers that can quickly make new equipment tailored to its navy\u2019s requireme...",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "DETUMBLER: Airbus\u2019 Passive Spin Stabilization Solution",
+      "link": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/",
+      "pubDate": "2026-11-03T13:30:00Z",
+      "snippet": "The tumbling crisis: why dead satellites threaten orbit Every year, hundreds of satellites reach end-of-life, most are deorbited, but some fail abruptly. Yet, even when properly decommissioned, some d...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Large Hadron Collider reveals evidence of Big Bang matter in surprisingly small collisions",
+      "link": "https://www.sciencedaily.com/releases/2026/10/261031221211.htm",
+      "pubDate": "2026-11-03T02:39:04Z",
+      "snippet": "Scientists at CERN's Large Hadron Collider have uncovered compelling new evidence that even relatively small atomic collisions can recreate the extraordinary state of matter that filled the universe m...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
     {
       "title": "Russia is giving its drones bigger antennas to beat Ukrainian jamming",
       "link": "https://www.defensenews.com/global/europe/2026/11/02/russia-is-giving-its-drones-bigger-antennas-to-beat-ukrainian-jamming/",
@@ -39,33 +84,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "High-energy lasers, drones and power: Innovations in defense tech | Business of Defense \u2013 Part 1",
-      "link": "https://www.defensenews.com/video/2026/11/02/high-energy-lasers-drones-and-power-innovations-in-defense-tech-business-of-defense-part-1/",
-      "pubDate": "2026-11-02T14:44:00Z",
-      "snippet": "From industry stalwarts to small startups, defense tech creators are looking to provide solutions as conflict morphs on a monthly basis. See some of what they had to offer at AUSA 2026.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
-      "link": "https://www.defensenews.com/video/2026/11/02/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
-      "pubDate": "2026-11-02T14:42:00Z",
-      "snippet": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense conference.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Oshkosh partners with startup to build military drones",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/11/02/oshkosh-partners-with-startup-to-build-military-drones/",
-      "pubDate": "2026-11-02T14:41:39Z",
-      "snippet": "Oshkosh Defense partnered with Grid Aero to scale production of the Lifter aircraft, marking the defense giant's first foray into aircraft manufacturing.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "How to Expand Reliable, Flexible Access to Space",
       "link": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/",
       "pubDate": "2026-11-02T14:00:00Z",
@@ -73,24 +91,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "Big deals in European defense and American fighters | Defense Dollars",
-      "link": "https://www.defensenews.com/video/2026/11/02/big-deals-in-european-defense-and-american-fighters-defense-dollars/",
-      "pubDate": "2026-11-02T14:00:00Z",
-      "snippet": "International weapons makers step forward with new interceptors and deals for armored vehicles, while an American company secures a fighter contract.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Australia unveils secretive Ghost Shark underwater drone payloads",
-      "link": "https://www.defensenews.com/naval/2026/11/02/australia-unveils-secretive-ghost-shark-underwater-drone-payloads/",
-      "pubDate": "2026-11-02T08:00:24Z",
-      "snippet": "The Australian Navy recently lifted the veil on some payloads the service is fielding on its Ghost Shark extra-large autonomous underwater vehicles.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
@@ -376,15 +376,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/09/260912220038.htm",
       "pubDate": "2026-09-13T12:03:59Z",
       "snippet": "Scientists are combining an electron microscope with a quantum computer to squeeze far more information from each electron. The approach could reveal faint details with fewer electrons, helping protec...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "CERN finds gluons behaving strangely deep inside atomic nuclei",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260911214303.htm",
-      "pubDate": "2026-09-12T15:04:06Z",
-      "snippet": "Physicists at CERN have found a new way to peer deep inside atomic nuclei and distinguish between two competing explanations for how gluons behave. Using the ALICE experiment at the Large Hadron Colli...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
