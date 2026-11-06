@@ -1,7 +1,70 @@
 {
-  "updated": "2026-11-05T18:21:39.893108Z",
-  "count": 41,
+  "updated": "2026-11-06T17:43:19.476762Z",
+  "count": 39,
   "items": [
+    {
+      "title": "Russia using own version of Starlink for\u00a0military\u00a0comms over Ukraine, Kyiv says",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/11/06/russia-using-own-version-of-starlink-for-military-comms-over-ukraine-kyiv-says/",
+      "pubDate": "2026-11-06T16:50:49Z",
+      "snippet": "Russia is already using its new Rassvet satellite network \u2014 billed as a homegrown version of Starlink \u2014 for military communications over Ukraine, according to Ukrainian\u00a0military\u00a0intelligence.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US Air Force eyes reviving WWII air bases in the Pacific",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/11/06/us-air-force-eyes-reviving-wwii-air-bases-in-the-pacific/",
+      "pubDate": "2026-11-06T15:28:23Z",
+      "snippet": "The U.S. Air Force hopes to conduct more than 6,000 aircraft operations annually at airfields on three American islands in the northwest Pacific Ocean.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Denmark, Lithuania latest Baltic navies to buy \u2018Blocker\u2019 mines through Finnish scheme",
+      "link": "https://www.defensenews.com/global/europe/2026/11/06/denmark-lithuania-latest-baltic-navies-to-buy-blocker-mines-through-finnish-scheme/",
+      "pubDate": "2026-11-06T13:49:41Z",
+      "snippet": "Denmark is the latest country to buy Finland\u2019s \u201cBlocker\u201d naval mines, a day after Lithuania decided to go ahead with its own contract for the weapon.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Shield AI to acquire radar maker Echodyne to bust drones",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/11/05/shield-ai-to-acquire-radar-maker-echodyne-to-bust-drones/",
+      "pubDate": "2026-11-05T22:55:48Z",
+      "snippet": "Shield AI's CEO said the purchase of Echodyne supports the company\u2019s aim to branch into different areas of unmanned systems.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+      "link": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+      "pubDate": "2026-11-05T21:45:00Z",
+      "snippet": "CesiumAstro Inc., a global leader in space and defense communications systems and satellites, today announced the closing of $730 million in Series D financing, valuing the company at more than [&#823...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Vector introduces ready-to-go one-way attack drone",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/11/05/vector-introduces-ready-to-go-one-way-attack-drone/",
+      "pubDate": "2026-11-05T20:28:53Z",
+      "snippet": "The company said the Warfighter\u2019s Stack consists of the drone, an HV-ESAD to hold an explosive payload, and a remote control.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "How General Dynamics Is Modernizing Military Communications Security",
+      "link": "https://www.defensenews.com/video/2026/11/05/how-general-dynamics-is-modernizing-military-communications-security/",
+      "pubDate": "2026-11-05T20:16:29Z",
+      "snippet": "General Dynamics Mission Systems discusses high-speed encryption and adaptable security technology designed to protect military networks as cyber threats evolve",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Cork Takes the Heat So DRACO\u2019s Data Can Survive",
       "link": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
@@ -21,60 +84,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Israeli defense company says this trigger is programmed to shoot drones",
-      "link": "https://www.defensenews.com/news/2026/11/05/israeli-defense-company-says-this-trigger-is-programmed-to-shoot-drones/",
-      "pubDate": "2026-11-05T14:00:00Z",
-      "snippet": "The company says the Arbel electromechanical device will release a cadence of fire optimized for shooting down drones.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "MBDA plans to fly \u2018fat\u2019 hypersonic interceptor demonstrator before end-2029",
-      "link": "https://www.defensenews.com/global/europe/2026/11/05/mbda-plans-to-fly-fat-hypersonic-interceptor-demonstrator-before-end-2029/",
-      "pubDate": "2026-11-05T08:26:11Z",
-      "snippet": "\u201cSo it\u2019s a bit fat, but it\u2019s a Formula 1. It\u2019s hypersonic, truly hypersonic, not just Mach 5,\" MBDA executive Lionel Mazenq said of the envisioned Hydis interceptor missile for Europe.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Under threat of air strikes, US looks to bolster base infrastructure with 3D printing",
-      "link": "https://www.defensenews.com/global/mideast-africa/2026/11/04/under-threat-of-air-strikes-us-looks-to-bolster-base-infrastructure-with-3d-printing/",
-      "pubDate": "2026-11-04T20:16:46Z",
-      "snippet": "U.S. Air Force officials conceded that troop housing at Middle East bases was \"never designed for the threat environment now arriving overhead.\"",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Rise of the defense industry innovators | Defense News Weekly Full Episode 11.3.26",
-      "link": "https://www.defensenews.com/video/2026/11/04/rise-of-the-defense-industry-innovators-defense-news-weekly-full-episode-11-3-26/",
-      "pubDate": "2026-11-04T18:27:06Z",
-      "snippet": "As the American military seeks new capabilities and advanced systems amid rapid change, defense companies of all sizes showcased their solutions at a major defense conference.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "The Pentagon needs more ammo for the Iran war. Small communities are paying the price.",
-      "link": "https://www.defensenews.com/pentagon/2026/11/04/the-pentagon-needs-more-ammo-for-the-iran-war-small-communities-are-paying-the-price/",
-      "pubDate": "2026-11-04T17:38:06Z",
-      "snippet": "From polluted waterways to repeated safety violations, the Army\u2019s aging ammunition factories have left a troubling legacy, The War Horse reports.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Saildrone expands its European market reach with manufacturing partner in Norway",
-      "link": "https://www.defensenews.com/global/europe/2026/11/04/saildrone-expands-its-european-market-reach-with-manufacturing-partner-in-norway/",
-      "pubDate": "2026-11-04T12:37:22Z",
-      "snippet": "CEO Tom Fidjeland told reporters at the Euronaval trade show here that taking on the work of churning out Surveyors was \u201ctechnically not difficult,\u201d with a first mold already being readied.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
       "link": "https://www.sciencedaily.com/releases/2026/11/261104012248.htm",
       "pubDate": "2026-11-04T12:23:36Z",
@@ -82,24 +91,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "France tasks Naval Group to develop large oceangoing underwater drone",
-      "link": "https://www.defensenews.com/global/europe/2026/11/04/france-tasks-naval-group-to-develop-large-oceangoing-underwater-drone/",
-      "pubDate": "2026-11-04T09:51:15Z",
-      "snippet": "France signed a contract with shipbuilder Naval Group to develop an operational demonstrator of a large-sized oceangoing underwater drone, with sea trials to start in 2028.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "MBDA\u2019s high-speed strike missile to have range \u2018far\u2019 exceeding Exocet",
-      "link": "https://www.defensenews.com/global/europe/2026/11/04/mbda-high-speed-strike-missile-to-have-range-far-exceeding-exocet/",
-      "pubDate": "2026-11-04T06:30:53Z",
-      "snippet": "Stratus RS, for rapid strike, is being developed for France and the United Kingdom, and MBDA is awaiting a development contract from France\u2019s Directorate General for Armament.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
@@ -226,15 +217,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Satellite Mission Management at the Edge",
-      "link": "https://spacenews.com/satellite-mission-management-at-the-edge-event/",
-      "pubDate": "2026-10-23T19:53:25Z",
-      "snippet": "Explore how emerging technologies and commercial capabilities are transforming satellite operations\nThe post Satellite Mission Management at the Edge appeared first on SpaceNews.",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "A tiny defect in a crystal reveals a big quantum surprise",
