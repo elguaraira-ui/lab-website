@@ -1,39 +1,66 @@
 {
-  "updated": "2026-11-06T17:43:19.476762Z",
-  "count": 39,
+  "updated": "2026-11-09T21:09:03.194671Z",
+  "count": 38,
   "items": [
     {
-      "title": "Russia using own version of Starlink for\u00a0military\u00a0comms over Ukraine, Kyiv says",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/11/06/russia-using-own-version-of-starlink-for-military-comms-over-ukraine-kyiv-says/",
-      "pubDate": "2026-11-06T16:50:49Z",
-      "snippet": "Russia is already using its new Rassvet satellite network \u2014 billed as a homegrown version of Starlink \u2014 for military communications over Ukraine, according to Ukrainian\u00a0military\u00a0intelligence.",
+      "title": "Neros to expand domestic drone production with $450M Pentagon loan",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan/",
+      "pubDate": "2026-11-09T15:45:23Z",
+      "snippet": "The company is a frontrunner in a Defense Department competition to find the best quality, most affordable small drone for combat.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
     },
     {
-      "title": "US Air Force eyes reviving WWII air bases in the Pacific",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/11/06/us-air-force-eyes-reviving-wwii-air-bases-in-the-pacific/",
-      "pubDate": "2026-11-06T15:28:23Z",
-      "snippet": "The U.S. Air Force hopes to conduct more than 6,000 aircraft operations annually at airfields on three American islands in the northwest Pacific Ocean.",
+      "title": "Drones incoming! New innovations on offer in UAS tech | Defense News Weekly Full Episode 11.10.26",
+      "link": "https://www.defensenews.com/video/2026/11/09/drones-incoming-new-innovations-on-offer-in-uas-tech-defense-news-weekly-full-episode-11-10-26/",
+      "pubDate": "2026-11-09T14:05:00Z",
+      "snippet": "New drone innovations are highlighted in Part 2 of our Business of Defense series. Plus, a sneak peek into a new Smithsonian military aviation exhibit, and tips to avoid scams.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
     },
     {
-      "title": "Denmark, Lithuania latest Baltic navies to buy \u2018Blocker\u2019 mines through Finnish scheme",
-      "link": "https://www.defensenews.com/global/europe/2026/11/06/denmark-lithuania-latest-baltic-navies-to-buy-blocker-mines-through-finnish-scheme/",
-      "pubDate": "2026-11-06T13:49:41Z",
-      "snippet": "Denmark is the latest country to buy Finland\u2019s \u201cBlocker\u201d naval mines, a day after Lithuania decided to go ahead with its own contract for the weapon.",
+      "title": "Drones that see, sense and hunt | Business of Defense \u2013 Part 2",
+      "link": "https://www.defensenews.com/video/2026/11/09/drones-that-see-sense-and-hunt-business-of-defense-part-2/",
+      "pubDate": "2026-11-09T14:04:00Z",
+      "snippet": "Sig Sauer mounts its pistols to small drones in an effort to counter small unmanned threats, while other drone makers look to innovate battlefield capability.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
     },
     {
-      "title": "Shield AI to acquire radar maker Echodyne to bust drones",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/11/05/shield-ai-to-acquire-radar-maker-echodyne-to-bust-drones/",
-      "pubDate": "2026-11-05T22:55:48Z",
-      "snippet": "Shield AI's CEO said the purchase of Echodyne supports the company\u2019s aim to branch into different areas of unmanned systems.",
+      "title": "CCIA Report Highlights Satellite Connectivity\u2019s Potential to Expand Internet Access and Drive Economic Growth",
+      "link": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/",
+      "pubDate": "2026-11-09T14:00:00Z",
+      "snippet": "Washington \u2014 The Computer &#38; Communications Industry Association today released Connecting the World: Unlocking the Potential of Satellite Connectivity, a new report examining how satellite technol...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Swiss neutrality proponents challenge arms firms in vote on easing of exports",
+      "link": "https://www.defensenews.com/global/europe/2026/11/09/swiss-neutrality-proponents-challenge-arms-firms-in-vote-on-easing-of-exports/",
+      "pubDate": "2026-11-09T12:19:22Z",
+      "snippet": "Swiss voters will decide on Nov. 29 whether to block a bill relaxing curbs on weapons exports, in a referendum that touches on Switzerland's evolving neutral tradition.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
+      "pubDate": "2026-11-07T23:34:19Z",
+      "snippet": "Scientists have discovered a surprising quantum limit that prevents electrons from being tracked with unlimited precision in both space and time. The breakthrough could pave the way for manipulating c...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "European troops set to train in Poland for postwar Ukraine deployment",
+      "link": "https://www.defensenews.com/news/2026/11/07/european-troops-set-to-train-in-poland-for-postwar-ukraine-deployment/",
+      "pubDate": "2026-11-07T15:05:44Z",
+      "snippet": "Britain and France will lead 2,800 troops from 11 nations in a two-week exercise testing how to move, protect and supply a force to rebuild Ukraine\u2019s military after the war ends.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -46,24 +73,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "Vector introduces ready-to-go one-way attack drone",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/11/05/vector-introduces-ready-to-go-one-way-attack-drone/",
-      "pubDate": "2026-11-05T20:28:53Z",
-      "snippet": "The company said the Warfighter\u2019s Stack consists of the drone, an HV-ESAD to hold an explosive payload, and a remote control.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "How General Dynamics Is Modernizing Military Communications Security",
-      "link": "https://www.defensenews.com/video/2026/11/05/how-general-dynamics-is-modernizing-military-communications-security/",
-      "pubDate": "2026-11-05T20:16:29Z",
-      "snippet": "General Dynamics Mission Systems discusses high-speed encryption and adaptable security technology designed to protect military networks as cyber threats evolve",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Cork Takes the Heat So DRACO\u2019s Data Can Survive",
@@ -201,15 +210,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Astranis Upgrades Falcon 9 Launch Contract to Dedicated Mission for Entire Block 4 Production Run of Satellites",
-      "link": "https://spacenews.com/astranis-upgrades-falcon-9-launch-contract-to-dedicated-mission-for-entire-block-4-production-run-of-satellites/",
-      "pubDate": "2026-10-26T13:00:00Z",
-      "snippet": "SAN FRANCISCO \u2014October 26, 2026\u2014Today, Astranis announced it has upgraded its 4th launch to a dedicated mission aboard a SpaceX Falcon 9 rocket set to launch in 2028, allowing it [&#8230;]\nThe post As...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Scientists discover a hidden flaw that challenges 40 years of superconductor science",
       "link": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm",
       "pubDate": "2026-10-25T02:19:07Z",
@@ -340,15 +340,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/09/260919031022.htm",
       "pubDate": "2026-09-19T11:26:53Z",
       "snippet": "Complex systems may work better when their parts are not perfectly alike. Northwestern physicists found that carefully balanced variation, or \u201cdisorder,\u201d can make networks such as power grids, ecosyst...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Billions in rare earth elements may be hiding in America\u2019s coal ash",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260918024759.htm",
-      "pubDate": "2026-09-19T02:08:56Z",
-      "snippet": "Scientists are looking to diatoms, sea sponges, and plants for a cleaner way to recover rare earth elements and other valuable minerals hidden inside coal ash, red mud, and mine tailings. The bio-insp...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
