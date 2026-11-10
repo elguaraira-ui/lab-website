@@ -1,30 +1,66 @@
 {
-  "updated": "2026-11-09T21:09:03.194671Z",
-  "count": 38,
+  "updated": "2026-11-10T18:20:10.419744Z",
+  "count": 37,
   "items": [
+    {
+      "title": "First-ever Collaborative Combat Aircraft fly in formation, demonstrate air combat maneuvers",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/11/10/first-ever-collaborative-combat-aircraft-fly-in-formation-demonstrate-air-combat-maneuvers/",
+      "pubDate": "2026-11-10T18:17:13Z",
+      "snippet": "For the first time, Shield\u2019s Hivemind enabled CCAs to fly in a \u201cmulti-ship\u201d formation and execute beyond-visual-range counter-air tactics.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon can\u2019t track millions of F-35 spare parts, watchdog finds",
+      "link": "https://www.defensenews.com/pentagon/2026/11/10/pentagon-cant-track-millions-of-f-35-spare-parts-watchdog-finds/",
+      "pubDate": "2026-11-10T15:41:12Z",
+      "snippet": "The GAO reported that while the DoD's F-35 program \"is the costliest in its history,\" the department \"struggles to account\" for its parts.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Report: Russian ships are pumping tanks, MRAPs and rocket launchers into Africa",
+      "link": "https://www.defensenews.com/global/mideast-africa/2026/11/10/report-russian-ships-are-pumping-tanks-mraps-and-rocket-launchers-into-africa/",
+      "pubDate": "2026-11-10T15:24:07Z",
+      "snippet": "Russian cargo ships have carried military equipment including tanks, armored vehicles and rocket launchers to African ports serving as gateways to Moscow\u2019s forces on the continent, according to a new ...",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
+      "link": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/",
+      "pubDate": "2026-11-10T14:00:00Z",
+      "snippet": "SAN DIEGO, CA, November 10, 2026 &#8211; Kratos Defense &#38; Security Solutions, Inc., a technology company in defense, national security, and global markets, today announced a long-term agreement wi...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "France orders military Earth-observation satellites for more than \u20ac1.5 billion",
+      "link": "https://www.defensenews.com/global/europe/2026/11/10/france-orders-military-earth-observation-satellites-for-more-than-e1-5-billion/",
+      "pubDate": "2026-11-10T11:13:15Z",
+      "snippet": "France ordered two military Earth-observation satellites from Airbus and Thales Alenia Space for more than \u20ac1.5 billion (US$1.7 billion).",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "ESCAPADE on its way to Mars after Earth flybys",
+      "link": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/",
+      "pubDate": "2026-11-10T08:01:39Z",
+      "snippet": "Two NASA smallsats are headed toward Mars after completing flybys of Earth nearly a year after their launch.\nThe post ESCAPADE on its way to Mars after Earth flybys appeared first on SpaceNews.",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Neros to expand domestic drone production with $450M Pentagon loan",
       "link": "https://www.defensenews.com/industry/techwatch/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan/",
       "pubDate": "2026-11-09T15:45:23Z",
       "snippet": "The company is a frontrunner in a Defense Department competition to find the best quality, most affordable small drone for combat.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Drones incoming! New innovations on offer in UAS tech | Defense News Weekly Full Episode 11.10.26",
-      "link": "https://www.defensenews.com/video/2026/11/09/drones-incoming-new-innovations-on-offer-in-uas-tech-defense-news-weekly-full-episode-11-10-26/",
-      "pubDate": "2026-11-09T14:05:00Z",
-      "snippet": "New drone innovations are highlighted in Part 2 of our Business of Defense series. Plus, a sneak peek into a new Smithsonian military aviation exhibit, and tips to avoid scams.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Drones that see, sense and hunt | Business of Defense \u2013 Part 2",
-      "link": "https://www.defensenews.com/video/2026/11/09/drones-that-see-sense-and-hunt-business-of-defense-part-2/",
-      "pubDate": "2026-11-09T14:04:00Z",
-      "snippet": "Sig Sauer mounts its pistols to small drones in an effort to counter small unmanned threats, while other drone makers look to innovate battlefield capability.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -39,15 +75,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Swiss neutrality proponents challenge arms firms in vote on easing of exports",
-      "link": "https://www.defensenews.com/global/europe/2026/11/09/swiss-neutrality-proponents-challenge-arms-firms-in-vote-on-easing-of-exports/",
-      "pubDate": "2026-11-09T12:19:22Z",
-      "snippet": "Swiss voters will decide on Nov. 29 whether to block a bill relaxing curbs on weapons exports, in a referendum that touches on Switzerland's evolving neutral tradition.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
       "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
       "pubDate": "2026-11-07T23:34:19Z",
@@ -55,15 +82,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "European troops set to train in Poland for postwar Ukraine deployment",
-      "link": "https://www.defensenews.com/news/2026/11/07/european-troops-set-to-train-in-poland-for-postwar-ukraine-deployment/",
-      "pubDate": "2026-11-07T15:05:44Z",
-      "snippet": "Britain and France will lead 2,800 troops from 11 nations in a two-week exercise testing how to move, protect and supply a force to rebuild Ukraine\u2019s military after the war ends.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
@@ -174,24 +192,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Ukrainian startup, GomSpace test satellite for future communications network",
-      "link": "https://spacenews.com/ukrainian-startup-gomspace-test-satellite-for-future-communications-network/",
-      "pubDate": "2026-10-27T20:21:30Z",
-      "snippet": "The companies said the experimental spacecraft, launched Oct. 1, could lead to a Ukrainian-controlled satellite network \nThe post Ukrainian startup, GomSpace test satellite for future communications n...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Craft Prospect kicks off PERSEUS project to advance optical communications for space",
-      "link": "https://spacenews.com/craft-prospect-kicks-off-perseus-project-to-advance-optical-communications-for-space/",
-      "pubDate": "2026-10-27T12:00:00Z",
-      "snippet": "Craft Prospect is working with Fraunhofer Centre for Applied Photonics (Fraunhofer CAP) and Vector Photonics on a new project exploring the potential of next-generation laser technology for high-perfo...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "A tiny laser beam could make computer memory 1,000 times faster",
       "link": "https://www.sciencedaily.com/releases/2026/10/261025073046.htm",
       "pubDate": "2026-10-27T09:22:06Z",
@@ -199,15 +199,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Flexell Space Establishes French Subsidiary to Strengthen European Presence",
-      "link": "https://spacenews.com/flexell-space-establishes-french-subsidiary-to-strengthen-european-presence/",
-      "pubDate": "2026-10-26T20:00:00Z",
-      "snippet": "\u2013 Paris-based FLEXELL SPACE FRANCE SAS creates a local business hub in Europe\u2013 New entity to support ongoing contract and volume-production discussions with European customers, from technical reviews ...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Scientists discover a hidden flaw that challenges 40 years of superconductor science",
