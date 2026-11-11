@@ -1,7 +1,43 @@
 {
-  "updated": "2026-11-10T18:20:10.419744Z",
-  "count": 37,
+  "updated": "2026-11-11T18:09:57.211135Z",
+  "count": 38,
   "items": [
+    {
+      "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
+      "link": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/",
+      "pubDate": "2026-11-11T15:53:57Z",
+      "snippet": "East Aurora, N.Y. &#8212; Moog Inc. (NYSE: MOG.A and MOG.B) marks 25 years since the Evolved Secondary Payload Adapter (ESPA) ring completed its Critical Design Review in 2001. The pioneering [&#8230;...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Inside Warhound\u2019s plan to engineer a better military working dog",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/11/11/inside-warhounds-plan-to-engineer-a-better-military-working-dog/",
+      "pubDate": "2026-11-11T15:00:00Z",
+      "snippet": "The company plans to clone top-performing dogs, edit genes associated with health problems and introduce standardized training to puppies as young as two weeks old.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
+      "link": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/",
+      "pubDate": "2026-11-11T13:00:00Z",
+      "snippet": "(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Romanian servers targeted by Russian hackers to scoop up emails about NATO, EU",
+      "link": "https://www.defensenews.com/global/europe/2026/11/11/romanian-servers-targeted-by-russian-hackers-to-scoop-up-emails-about-nato-eu/",
+      "pubDate": "2026-11-11T12:08:33Z",
+      "snippet": "Hackers linked to Russia's FSB quietly compromised a Romanian government organization\u2019s servers to collect emails related to NATO and the EU in December 2025, a Slovak cybersecurity firm has revealed.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "First-ever Collaborative Combat Aircraft fly in formation, demonstrate air combat maneuvers",
       "link": "https://www.defensenews.com/industry/techwatch/2026/11/10/first-ever-collaborative-combat-aircraft-fly-in-formation-demonstrate-air-combat-maneuvers/",
@@ -39,15 +75,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "France orders military Earth-observation satellites for more than \u20ac1.5 billion",
-      "link": "https://www.defensenews.com/global/europe/2026/11/10/france-orders-military-earth-observation-satellites-for-more-than-e1-5-billion/",
-      "pubDate": "2026-11-10T11:13:15Z",
-      "snippet": "France ordered two military Earth-observation satellites from Airbus and Thales Alenia Space for more than \u20ac1.5 billion (US$1.7 billion).",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "ESCAPADE on its way to Mars after Earth flybys",
       "link": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/",
       "pubDate": "2026-11-10T08:01:39Z",
@@ -57,13 +84,13 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Neros to expand domestic drone production with $450M Pentagon loan",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/11/09/neros-to-expand-domestic-drone-production-with-450m-pentagon-loan/",
-      "pubDate": "2026-11-09T15:45:23Z",
-      "snippet": "The company is a frontrunner in a Defense Department competition to find the best quality, most affordable small drone for combat.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
+      "title": "Global fossil fuel emissions set to fall in 2026, but total CO2 keeps rising",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261109205358.htm",
+      "pubDate": "2026-11-10T06:05:25Z",
+      "snippet": "Global fossil fuel emissions are projected to fall in 2026 as renewable energy and electric vehicles gain ground, but rising emissions from deforestation threaten to push total CO2 emissions to a new ...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
     },
     {
       "title": "CCIA Report Highlights Satellite Connectivity\u2019s Potential to Expand Internet Access and Drive Economic Growth",
@@ -178,15 +205,6 @@
       "link": "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/",
       "pubDate": "2026-10-29T15:01:09Z",
       "snippet": "In this episode, Mike Gruss speaks with Laura Crabtree, the CEO of Epsilon3, who is also a former SpaceX astronaut trainer. They talk about ways that space companies can organize [&#8230;]\nThe post Ad...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Flexell Space and Satoro Agree to Collaborate on In-Orbit Demonstration of Next-Generation Space Solar Cells",
-      "link": "https://spacenews.com/flexell-space-and-satoro-agree-to-collaborate-on-in-orbit-demonstration-of-next-generation-space-solar-cells/",
-      "pubDate": "2026-10-28T14:43:08Z",
-      "snippet": "\u2013 Two demonstration missions planned aboard SpaceX Falcon 9, one each in 2027 and 2028 \u2013 Satoro to provide \u201cSatellite-as-a-service\u201d solution; Flexell Space to supply solar cells and test modules [&#82...",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
@@ -322,15 +340,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/09/260918024810.htm",
       "pubDate": "2026-09-19T11:49:45Z",
       "snippet": "A deep-sea microbe uses an exceptionally heat-resistant enzyme to turn atmospheric nitrogen into ammonia at temperatures that would destroy most proteins. Its unusual structure and a newly observed re...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Scientists find that \u201cperfect\u201d systems may be surprisingly fragile",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260919031022.htm",
-      "pubDate": "2026-09-19T11:26:53Z",
-      "snippet": "Complex systems may work better when their parts are not perfectly alike. Northwestern physicists found that carefully balanced variation, or \u201cdisorder,\u201d can make networks such as power grids, ecosyst...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
