@@ -1,7 +1,34 @@
 {
-  "updated": "2026-11-11T18:09:57.211135Z",
-  "count": 38,
+  "updated": "2026-11-12T18:38:15.850589Z",
+  "count": 36,
   "items": [
+    {
+      "title": "Germany, Poland tap SATIM to analyze military satellite imagery",
+      "link": "https://www.defensenews.com/global/europe/2026/11/12/germany-poland-tap-satim-to-analyze-military-satellite-imagery/",
+      "pubDate": "2026-11-12T16:58:38Z",
+      "snippet": "SATIM, a Polish maker of AI-based analysis tools for synthetic aperture radar (SAR) imagery, has obtained a contract from Poland\u2019s military to supply software for the automated analysis of satellite i...",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "A massive new simulation reveals how the universe emerged from darkness",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
+      "pubDate": "2026-11-12T04:07:24Z",
+      "snippet": "A groundbreaking new supercomputer simulation is revealing how the universe escaped its cosmic dark age and transformed into a cosmos filled with stars and galaxies. Called Lumina, it recreates 2 bill...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
+      "link": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/",
+      "pubDate": "2026-11-12T00:00:18Z",
+      "snippet": "A Senate committee is set to advance nominations for NASA\u2019s chief financial officer and inspector general.\nThe post Senate committee takes up nominees for NASA chief financial officer and inspector ge...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
       "link": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/",
@@ -34,33 +61,6 @@
       "link": "https://www.defensenews.com/global/europe/2026/11/11/romanian-servers-targeted-by-russian-hackers-to-scoop-up-emails-about-nato-eu/",
       "pubDate": "2026-11-11T12:08:33Z",
       "snippet": "Hackers linked to Russia's FSB quietly compromised a Romanian government organization\u2019s servers to collect emails related to NATO and the EU in December 2025, a Slovak cybersecurity firm has revealed.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "First-ever Collaborative Combat Aircraft fly in formation, demonstrate air combat maneuvers",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/11/10/first-ever-collaborative-combat-aircraft-fly-in-formation-demonstrate-air-combat-maneuvers/",
-      "pubDate": "2026-11-10T18:17:13Z",
-      "snippet": "For the first time, Shield\u2019s Hivemind enabled CCAs to fly in a \u201cmulti-ship\u201d formation and execute beyond-visual-range counter-air tactics.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon can\u2019t track millions of F-35 spare parts, watchdog finds",
-      "link": "https://www.defensenews.com/pentagon/2026/11/10/pentagon-cant-track-millions-of-f-35-spare-parts-watchdog-finds/",
-      "pubDate": "2026-11-10T15:41:12Z",
-      "snippet": "The GAO reported that while the DoD's F-35 program \"is the costliest in its history,\" the department \"struggles to account\" for its parts.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Report: Russian ships are pumping tanks, MRAPs and rocket launchers into Africa",
-      "link": "https://www.defensenews.com/global/mideast-africa/2026/11/10/report-russian-ships-are-pumping-tanks-mraps-and-rocket-launchers-into-africa/",
-      "pubDate": "2026-11-10T15:24:07Z",
-      "snippet": "Russian cargo ships have carried military equipment including tanks, armored vehicles and rocket launchers to African ports serving as gateways to Moscow\u2019s forces on the continent, according to a new ...",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -201,15 +201,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Advice for optimizing the space industry with Laura Crabtree",
-      "link": "https://spacenews.com/advice-for-optimizing-the-space-industry-with-laura-crabtree/",
-      "pubDate": "2026-10-29T15:01:09Z",
-      "snippet": "In this episode, Mike Gruss speaks with Laura Crabtree, the CEO of Epsilon3, who is also a former SpaceX astronaut trainer. They talk about ways that space companies can organize [&#8230;]\nThe post Ad...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "A tiny laser beam could make computer memory 1,000 times faster",
       "link": "https://www.sciencedaily.com/releases/2026/10/261025073046.htm",
       "pubDate": "2026-10-27T09:22:06Z",
@@ -331,15 +322,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/09/260919031023.htm",
       "pubDate": "2026-09-20T05:16:00Z",
       "snippet": "Physicists have detected strong evidence that heavy, fleeting Z bosons can become quantum entangled during Higgs boson decays at CERN\u2019s Large Hadron Collider. The result shows that Einstein\u2019s \u201cspooky ...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "This deep-sea enzyme survives heat that destroys most proteins",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260918024810.htm",
-      "pubDate": "2026-09-19T11:49:45Z",
-      "snippet": "A deep-sea microbe uses an exceptionally heat-resistant enzyme to turn atmospheric nitrogen into ammonia at temperatures that would destroy most proteins. Its unusual structure and a newly observed re...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
