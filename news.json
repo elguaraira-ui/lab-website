@@ -1,7 +1,97 @@
 {
-  "updated": "2026-11-12T18:38:15.850589Z",
-  "count": 36,
+  "updated": "2026-11-13T18:13:04.923064Z",
+  "count": 41,
   "items": [
+    {
+      "title": "Inside MSI\u2019s Next Generation of Counter-Drone Defense",
+      "link": "https://www.defensenews.com/video/2026/11/13/inside-msis-next-generation-of-counter-drone-defense/",
+      "pubDate": "2026-11-13T18:00:04Z",
+      "snippet": "MSI discusses its EAGLS air defense platform, development of EAGLS X and new approaches to modular, cost-effective counter-drone capabilities.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
+      "link": "https://spacenews.com/commercial-space-federation-welcomes-cesiumastro-as-a-new-associate-member/",
+      "pubDate": "2026-11-13T18:00:00Z",
+      "snippet": "November 13, 2026\u2014 Washington, D.C.\u2014The Commercial Space Federation (CSF) is pleased to welcome CesiumAstro as its newest Associate Member. A global leader in advanced connectivity solutions for the s...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Italy boosts GCAP fighter spending as Army vehicles take a hit in budget",
+      "link": "https://www.defensenews.com/global/europe/2026/11/13/italy-boosts-gcap-fighter-spending-as-army-vehicles-take-a-hit-in-budget/",
+      "pubDate": "2026-11-13T17:04:55Z",
+      "snippet": "Italy has hiked its spending on the GCAP fighter this year while reducing funding for new army tanks and fighting vehicles, newly released spending documents have revealed.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005855.htm",
+      "pubDate": "2026-11-13T05:26:41Z",
+      "snippet": "Scientists have discovered a faster way to identify diamond-based materials that could power quantum computers and sensors at room temperature. The breakthrough has already revealed promising new quan...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "A breakthrough in magnetism could make AI chips use dramatically less energy",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005853.htm",
+      "pubDate": "2026-11-13T01:40:17Z",
+      "snippet": "Researchers at Brown University have overcome a major obstacle to creating ultra-low-power computer chips that could help slash the energy demands of AI. Their breakthrough eliminates a long-standing ...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "AST SpaceMobile presses case for developing own launch vehicle",
+      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
+      "pubDate": "2026-11-13T01:15:21Z",
+      "snippet": "AST SpaceMobile executives expressed confidence in the company\u2019s ability to field a new reusable launch vehicle in just two years despite widespread industry skepticism.\nThe post AST SpaceMobile press...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Democrats push to remove US-Israel tech measure from defense bill",
+      "link": "https://www.defensenews.com/congress/2026/11/12/democrats-push-to-remove-us-israel-tech-measure-from-defense-bill/",
+      "pubDate": "2026-11-12T22:21:53Z",
+      "snippet": "The measures call for enhanced cooperation between the U.S. and Israel on weapons technology development.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon \u2018greenlit\u2019 permanent presence of US troops in Poland, official says",
+      "link": "https://www.defensenews.com/global/europe/2026/11/12/pentagon-greenlit-permanent-presence-of-us-troops-in-poland-official-says/",
+      "pubDate": "2026-11-12T21:22:17Z",
+      "snippet": "The Pentagon \u201cgreenlit\u201d the permanent presence of U.S. troops in Poland, with the final decision to be made by the White House in early December, Poland's defense minister said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "UARX Space Marks a Milestone for Spain\u2019s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
+      "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
+      "pubDate": "2026-11-12T20:00:00Z",
+      "snippet": "Nigr\u00e1n, Spain &#124; November 12 2026 \u2013 UARX Space has achieved a major milestone for Spain\u2019s space industry with the deployment of OSSIE-D, an Orbital Transfer Vehicle (OTV) designed and [&#8230;]\nTh...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "What role does industry play in Europe\u2019s space sovereignty push?",
+      "link": "https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/",
+      "pubDate": "2026-11-12T19:40:35Z",
+      "snippet": "In this episode, SpaceNews\u2019 Jason Rainbow interviews Atle Woello, the CEO and senior vice president of the space systems and surveillance business unit at Kongsberg NanoAvionics. They discuss the role...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
     {
       "title": "Germany, Poland tap SATIM to analyze military satellite imagery",
       "link": "https://www.defensenews.com/global/europe/2026/11/12/germany-poland-tap-satim-to-analyze-military-satellite-imagery/",
@@ -39,15 +129,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Inside Warhound\u2019s plan to engineer a better military working dog",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/11/11/inside-warhounds-plan-to-engineer-a-better-military-working-dog/",
-      "pubDate": "2026-11-11T15:00:00Z",
-      "snippet": "The company plans to clone top-performing dogs, edit genes associated with health problems and introduce standardized training to puppies as young as two weeks old.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Horizon Microtechnologies Targets Constellation-Scale Production As Esa Phi-Lab Selection Strengthens Industrialisation Push",
       "link": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/",
       "pubDate": "2026-11-11T13:00:00Z",
@@ -55,15 +136,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "Romanian servers targeted by Russian hackers to scoop up emails about NATO, EU",
-      "link": "https://www.defensenews.com/global/europe/2026/11/11/romanian-servers-targeted-by-russian-hackers-to-scoop-up-emails-about-nato-eu/",
-      "pubDate": "2026-11-11T12:08:33Z",
-      "snippet": "Hackers linked to Russia's FSB quietly compromised a Romanian government organization\u2019s servers to collect emails related to NATO and the EU in December 2025, a Slovak cybersecurity firm has revealed.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
@@ -192,15 +264,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "ESI supplying solar array components to missile defense programs",
-      "link": "https://spacenews.com/esi-supplying-solar-array-components-to-missile-defense-programs/",
-      "pubDate": "2026-10-30T18:54:34Z",
-      "snippet": "Oct. 30, 2026 \u2013 ESI Motion Inc. is proud to announce that it is supplying the Solar Array Drive Electronics (SADE) to Lockheed Martin for its work on the Space [&#8230;]\nThe post ESI supplying solar a...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "A tiny laser beam could make computer memory 1,000 times faster",
       "link": "https://www.sciencedaily.com/releases/2026/10/261025073046.htm",
       "pubDate": "2026-10-27T09:22:06Z",
@@ -304,24 +367,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/09/260923035934.htm",
       "pubDate": "2026-09-24T13:16:41Z",
       "snippet": "Researchers have shown that multiple time crystals inside a semiconductor can synchronize their oscillations, much like pendulum clocks gradually falling into the same rhythm. The coupling is carried ...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "New nanoparticles make hidden chemical differences light up",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260919031030.htm",
-      "pubDate": "2026-09-20T11:35:28Z",
-      "snippet": "Scientists have developed ultra-bright nanoparticles that can detect tiny amounts of chemicals and distinguish between molecules that look almost identical. The technology could one day provide a chea...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Einstein\u2019s \u201cspooky action\u201d just survived one of physics\u2019 most extreme tests",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260919031023.htm",
-      "pubDate": "2026-09-20T05:16:00Z",
-      "snippet": "Physicists have detected strong evidence that heavy, fleeting Z bosons can become quantum entangled during Higgs boson decays at CERN\u2019s Large Hadron Collider. The result shows that Einstein\u2019s \u201cspooky ...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
