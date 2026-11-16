@@ -1,15 +1,105 @@
 {
-  "updated": "2026-11-13T18:13:04.923064Z",
-  "count": 41,
+  "updated": "2026-11-16T20:42:36.974458Z",
+  "count": 42,
   "items": [
     {
-      "title": "Inside MSI\u2019s Next Generation of Counter-Drone Defense",
-      "link": "https://www.defensenews.com/video/2026/11/13/inside-msis-next-generation-of-counter-drone-defense/",
-      "pubDate": "2026-11-13T18:00:04Z",
-      "snippet": "MSI discusses its EAGLS air defense platform, development of EAGLS X and new approaches to modular, cost-effective counter-drone capabilities.",
+      "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
+      "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
+      "pubDate": "2026-11-16T20:00:00Z",
+      "snippet": "LOS ALAMOS, N.M., Nov. 16, 2026 \u2014 Space Nuclear Power Corp. (SpaceNukes) opened its Manufacture and Materials Development Facility at 150 Central Park Square in Los Alamos on Nov. 13. [&#8230;]\nThe po...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26",
+      "link": "https://www.defensenews.com/video/2026/11/16/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26/",
+      "pubDate": "2026-11-16T18:03:38Z",
+      "snippet": "The visceral threat of cheap drones delivering pinpoint, guided anti-personnel munitions continues to spawn new protection systems. Plus, an interview with a Medal of Honor recipient.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
+    },
+    {
+      "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
+      "link": "https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/",
+      "pubDate": "2026-11-16T18:00:00Z",
+      "snippet": "Europe's defense ministries are looking to limit dependency on American technology and major software company Palantir Technologies.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US and Russia to oppose talks on limiting autonomous weapons",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/11/16/us-and-russia-to-oppose-talks-on-limiting-autonomous-weapons/",
+      "pubDate": "2026-11-16T16:53:41Z",
+      "snippet": "Major arms producers the U.S. and Russia look set to oppose a push at a global meeting to launch negotiations on legally binding rules for autonomous weapons.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Italy backs rapid German membership path into GCAP fighter program",
+      "link": "https://www.defensenews.com/global/europe/2026/11/16/italy-backs-rapid-german-membership-path-into-gcap-fighter-program/",
+      "pubDate": "2026-11-16T14:37:54Z",
+      "snippet": "Italy has strongly denied a press report suggesting it opposes granting Germany partner status on the GCAP fighter program, claiming instead it fully backs German membership.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Marine Corps doubles, extends contract for M27 rifles",
+      "link": "https://www.defensenews.com/industry/2026/11/16/marine-corps-doubles-extends-contract-for-m27-rifles/",
+      "pubDate": "2026-11-16T14:26:54Z",
+      "snippet": "The service began replacing its infantry\u2019s squad weapons with the M27 IAR in 2028 and will continue through 2028.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Drone, meet bullet \u2014 companies develop new counter UAS capability | Business of Defense \u2013 Part 3",
+      "link": "https://www.defensenews.com/video/2026/11/16/drone-meet-bullet-companies-develop-new-counter-uas-capability-business-of-defense-part-3/",
+      "pubDate": "2026-11-16T14:18:00Z",
+      "snippet": "Developers turn to advancing tech to help troops shoot down incoming small drone threats. Or what about a truck-mounted laser to do the job?",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "The secret to building Moon bases may be hiding in emergency blankets",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261115085549.htm",
+      "pubDate": "2026-11-16T03:51:01Z",
+      "snippet": "Scientists have turned the thin plastic used in emergency blankets into remarkably strong insulation that could help astronauts survive the Moon's extreme temperatures. Built from hundreds of stacked ...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Physicists defy expectations by controlling the magnetic heart of a single atom",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261114202232.htm",
+      "pubDate": "2026-11-16T02:56:02Z",
+      "snippet": "Scientists have unexpectedly discovered how to control the magnetic spin inside a single atom's nucleus using radio waves, overturning previous assumptions about atomic behavior. The breakthrough coul...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Scientists discover a surprisingly simple way to turn coffee waste into fuel",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261112025544.htm",
+      "pubDate": "2026-11-14T11:42:28Z",
+      "snippet": "Scientists have developed an efficient method to transform used coffee grounds into a potential source of biodiesel while preserving the leftover material for other renewable fuels and valuable chemic...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "AI supercharges laser physics with a stunning 250x speed boost",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261111005913.htm",
+      "pubDate": "2026-11-13T23:41:08Z",
+      "snippet": "Researchers at Stanford, UCLA, and SLAC have developed an AI system that simulates complex laser interactions thousands of times faster than conventional methods. The breakthrough allows scientists to...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
     },
     {
       "title": "Commercial Space Federation Welcomes CesiumAstro as a New Associate Member",
@@ -19,15 +109,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "Italy boosts GCAP fighter spending as Army vehicles take a hit in budget",
-      "link": "https://www.defensenews.com/global/europe/2026/11/13/italy-boosts-gcap-fighter-spending-as-army-vehicles-take-a-hit-in-budget/",
-      "pubDate": "2026-11-13T17:04:55Z",
-      "snippet": "Italy has hiked its spending on the GCAP fighter this year while reducing funding for new army tanks and fighting vehicles, newly released spending documents have revealed.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Tiny flaws in diamonds could unlock a quantum computing revolution",
@@ -57,24 +138,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Democrats push to remove US-Israel tech measure from defense bill",
-      "link": "https://www.defensenews.com/congress/2026/11/12/democrats-push-to-remove-us-israel-tech-measure-from-defense-bill/",
-      "pubDate": "2026-11-12T22:21:53Z",
-      "snippet": "The measures call for enhanced cooperation between the U.S. and Israel on weapons technology development.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon \u2018greenlit\u2019 permanent presence of US troops in Poland, official says",
-      "link": "https://www.defensenews.com/global/europe/2026/11/12/pentagon-greenlit-permanent-presence-of-us-troops-in-poland-official-says/",
-      "pubDate": "2026-11-12T21:22:17Z",
-      "snippet": "The Pentagon \u201cgreenlit\u201d the permanent presence of U.S. troops in Poland, with the final decision to be made by the White House in early December, Poland's defense minister said.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "UARX Space Marks a Milestone for Spain\u2019s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
       "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
       "pubDate": "2026-11-12T20:00:00Z",
@@ -91,15 +154,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "Germany, Poland tap SATIM to analyze military satellite imagery",
-      "link": "https://www.defensenews.com/global/europe/2026/11/12/germany-poland-tap-satim-to-analyze-military-satellite-imagery/",
-      "pubDate": "2026-11-12T16:58:38Z",
-      "snippet": "SATIM, a Polish maker of AI-based analysis tools for synthetic aperture radar (SAR) imagery, has obtained a contract from Poland\u2019s military to supply software for the automated analysis of satellite i...",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "A massive new simulation reveals how the universe emerged from darkness",
@@ -246,15 +300,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "How to Expand Reliable, Flexible Access to Space",
-      "link": "https://spacenews.com/how-to-expand-reliable-flexible-access-to-space/",
-      "pubDate": "2026-11-02T14:00:00Z",
-      "snippet": "The space industry launched more rockets into orbit last year than ever before, yet satellite operators are confronting an unexpected problem: There still aren\u2019t enough rides to go around. And [&#8230...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Scientists smash oxygen nuclei to recreate matter from the Big Bang",
       "link": "https://www.sciencedaily.com/releases/2026/10/261030002935.htm",
       "pubDate": "2026-10-31T02:09:38Z",
@@ -331,42 +376,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
       "pubDate": "2026-10-11T03:06:35Z",
       "snippet": "Scientists in Vienna have achieved a major breakthrough in timekeeping by creating the world\u2019s first self-stabilizing nuclear clock, a technology that could eventually surpass even the most precise at...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Scientists may have found a shortcut to fusion energy",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261008005242.htm",
-      "pubDate": "2026-10-10T18:57:27Z",
-      "snippet": "Princeton Plasma Physics Laboratory may have found a dramatically more efficient route to fusion energy by reversing the traditional approach: heating plasma first, then increasing its density. Their ...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Scientists finally see how nature moves energy so efficiently",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261004001841.htm",
-      "pubDate": "2026-10-06T07:49:51Z",
-      "snippet": "Researchers have captured key steps in a chemical reaction that helps nature transfer energy with remarkable efficiency. Ultrafast X-rays revealed how changes involving electrons and protons are close...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Scientists just made a superconductor stronger using \u201cempty space\u201d",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260930225456.htm",
-      "pubDate": "2026-10-03T12:03:23Z",
-      "snippet": "Researchers have demonstrated that quantum fluctuations in supposedly empty space can strengthen superconductivity, raising the transition temperature of an ultrathin material by as much as 5.4%. The ...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Distant time crystals can somehow fall into the same rhythm",
-      "link": "https://www.sciencedaily.com/releases/2026/09/260923035934.htm",
-      "pubDate": "2026-09-24T13:16:41Z",
-      "snippet": "Researchers have shown that multiple time crystals inside a semiconductor can synchronize their oscillations, much like pendulum clocks gradually falling into the same rhythm. The coupling is carried ...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
