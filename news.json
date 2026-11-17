@@ -1,7 +1,88 @@
 {
-  "updated": "2026-11-16T20:42:36.974458Z",
-  "count": 42,
+  "updated": "2026-11-17T19:27:49.158688Z",
+  "count": 45,
   "items": [
+    {
+      "title": "Finland\u2019s Iceye bids \u20ac2 billion for Italian rocket maker Avio",
+      "link": "https://www.defensenews.com/global/europe/2026/11/17/finlands-iceye-bids-e2-billion-for-italian-rocket-maker-avio/",
+      "pubDate": "2026-11-17T19:13:19Z",
+      "snippet": "Finnish satellite operator Iceye made a \u20ac2 billion ($2.2 billion) cash offer for Italian rocket maker Avio on Tuesday, with the goal of creating an integrated European space and defense group.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Lithuanian president\u00a0says US troop rotations will continue beyond latest deployment",
+      "link": "https://www.defensenews.com/global/europe/2026/11/17/lithuanian-president-says-us-troop-rotations-will-continue-beyond-latest-deployment/",
+      "pubDate": "2026-11-17T17:04:13Z",
+      "snippet": "Lithuanian President Gitanas Nauseda said that U.S. troop rotations in the country would continue beyond the current nine-month deployment.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "How AI is pushing satellites to evolve",
+      "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
+      "pubDate": "2026-11-17T17:02:33Z",
+      "snippet": "During the first day of Space Tech Expo Europe, SpaceNews\u2019 Mike Gruss sits down with Pieter van Duijn, the chief technology officer of Loft Orbital. They discuss the growing level [&#8230;]\nThe post H...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Trump seeks nuclear cuts at summit with Putin and Xi, but prospects are low",
+      "link": "https://www.defensenews.com/global/the-americas/2026/11/17/trump-seeks-nuclear-cuts-at-summit-with-putin-and-xi-but-prospects-are-low/",
+      "pubDate": "2026-11-17T16:10:34Z",
+      "snippet": "From the U.S. side, meanwhile, the Trump administration surprised many observers by pushing for discussions about reducing nuclear weapons while in Shenzhen.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
+      "link": "https://www.defensenews.com/pentagon/2026/11/17/pentagon-fails-ninth-straight-audit-despite-progress-in-organizing-finances/",
+      "pubDate": "2026-11-17T14:35:23Z",
+      "snippet": "The Pentagon failed a financial audit for the ninth consecutive year, according to an inspector general report, but an official said a majority of its units passed for the first time.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "New pact positions the Philippines as a defense hub for Australian troops",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/11/17/new-pact-positions-the-philippines-as-a-defense-hub-for-australian-troops/",
+      "pubDate": "2026-11-17T11:29:34Z",
+      "snippet": "Top officials from Australia and the Philippines have inked a defense pact to accelerate military coordination, paving the way for rotational troop deployment and Australian investments in Philippine ...",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "French troops operating in non-combat roles in Ukraine, broadcaster RFI reports",
+      "link": "https://www.defensenews.com/global/europe/2026/11/17/french-troops-operating-in-non-combat-roles-in-ukraine-broadcaster-rfi-reports/",
+      "pubDate": "2026-11-17T08:07:28Z",
+      "snippet": "The troops are part of a structure called Volia, after a Ukrainian word that can be translated as \u201cwill\u201d or \u201cfreedom,\u201d the French state-owned international news radio said on Monday.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
+      "link": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/",
+      "pubDate": "2026-11-17T08:00:00Z",
+      "snippet": "Daejeon, Republic of Korea &#8211; October 14, 2026: South Korean space electric propulsion startup Cosmo Bee plans to conduct an in-orbit flight test of its 10 mN-class Honeybee Hall thruster [&#8230...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "A material just one atom thick reveals a strange quantum secret",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261115085554.htm",
+      "pubDate": "2026-11-17T01:25:39Z",
+      "snippet": "Researchers at the University of Osaka have discovered a remarkable quantum state forming at the boundary between a one-atom-thick material and a metal. They observed electrons behaving as though they...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
     {
       "title": "SpaceNukes Opens Los Alamos Manufacture and Materials Facility to Build Its Next-Generation Space Reactor",
       "link": "https://spacenews.com/spacenukes-opens-los-alamos-manufacture-and-materials-facility-to-build-its-next-generation-space-reactor/",
@@ -25,42 +106,6 @@
       "link": "https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/",
       "pubDate": "2026-11-16T18:00:00Z",
       "snippet": "Europe's defense ministries are looking to limit dependency on American technology and major software company Palantir Technologies.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US and Russia to oppose talks on limiting autonomous weapons",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/11/16/us-and-russia-to-oppose-talks-on-limiting-autonomous-weapons/",
-      "pubDate": "2026-11-16T16:53:41Z",
-      "snippet": "Major arms producers the U.S. and Russia look set to oppose a push at a global meeting to launch negotiations on legally binding rules for autonomous weapons.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Italy backs rapid German membership path into GCAP fighter program",
-      "link": "https://www.defensenews.com/global/europe/2026/11/16/italy-backs-rapid-german-membership-path-into-gcap-fighter-program/",
-      "pubDate": "2026-11-16T14:37:54Z",
-      "snippet": "Italy has strongly denied a press report suggesting it opposes granting Germany partner status on the GCAP fighter program, claiming instead it fully backs German membership.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Marine Corps doubles, extends contract for M27 rifles",
-      "link": "https://www.defensenews.com/industry/2026/11/16/marine-corps-doubles-extends-contract-for-m27-rifles/",
-      "pubDate": "2026-11-16T14:26:54Z",
-      "snippet": "The service began replacing its infantry\u2019s squad weapons with the M27 IAR in 2028 and will continue through 2028.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Drone, meet bullet \u2014 companies develop new counter UAS capability | Business of Defense \u2013 Part 3",
-      "link": "https://www.defensenews.com/video/2026/11/16/drone-meet-bullet-companies-develop-new-counter-uas-capability-business-of-defense-part-3/",
-      "pubDate": "2026-11-16T14:18:00Z",
-      "snippet": "Developers turn to advancing tech to help troops shoot down incoming small drone threats. Or what about a truck-mounted laser to do the job?",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -127,15 +172,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "AST SpaceMobile presses case for developing own launch vehicle",
-      "link": "https://spacenews.com/ast-spacemobile-presses-case-for-developing-own-launch-vehicle/",
-      "pubDate": "2026-11-13T01:15:21Z",
-      "snippet": "AST SpaceMobile executives expressed confidence in the company\u2019s ability to field a new reusable launch vehicle in just two years despite widespread industry skepticism.\nThe post AST SpaceMobile press...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "UARX Space Marks a Milestone for Spain\u2019s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
@@ -367,15 +403,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261014072018.htm",
       "pubDate": "2026-10-16T04:22:01Z",
       "snippet": "Scientists discovered that atomic steps just one atom high can guide quantum vortices through superconductors, making them move more than 1,000 times more easily in one direction than another. This re...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Scientists build a nuclear clock that could make atomic clocks obsolete",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261008102701.htm",
-      "pubDate": "2026-10-11T03:06:35Z",
-      "snippet": "Scientists in Vienna have achieved a major breakthrough in timekeeping by creating the world\u2019s first self-stabilizing nuclear clock, a technology that could eventually surpass even the most precise at...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
