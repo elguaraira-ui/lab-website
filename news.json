@@ -1,7 +1,34 @@
 {
-  "updated": "2026-11-17T19:27:49.158688Z",
-  "count": 45,
+  "updated": "2026-11-18T19:09:35.282420Z",
+  "count": 42,
   "items": [
+    {
+      "title": "Origami and solar arrays",
+      "link": "https://spacenews.com/origami-and-solar-arrays/",
+      "pubDate": "2026-11-18T16:56:05Z",
+      "snippet": "In this episode of SpaceMinds, SpaceNews\u2019 Mike Gruss talks with Thomas Sinn, the CEO of Dcubed, at Space Tech Expo Europe. They discuss the company&#8217;s new $30 million funding round, [&#8230;]\nThe...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Hanwha transforms ship into floating multi-rocket launcher",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/11/17/hanwha-transforms-ship-into-floating-multi-rocket-launcher/",
+      "pubDate": "2026-11-17T22:06:50Z",
+      "snippet": "South Korean defense giant Hanwha said it successfully launched missiles from a palletizable multi-pod launcher system at sea.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Watch a large aerial drone evacuate a wounded Ukrainian soldier from the front line",
+      "link": "https://www.defensenews.com/video/2026/11/17/watch-a-large-aerial-drone-evacuate-a-wounded-ukrainian-soldier-from-the-front-line/",
+      "pubDate": "2026-11-17T20:31:20Z",
+      "snippet": "Ukraine is expanding its use of large drones for battlefield medical evacuations. Watch as a Ukrainian team uses an aerial drone to transport a wounded soldier from a forward position to a field hospi...",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Finland\u2019s Iceye bids \u20ac2 billion for Italian rocket maker Avio",
       "link": "https://www.defensenews.com/global/europe/2026/11/17/finlands-iceye-bids-e2-billion-for-italian-rocket-maker-avio/",
@@ -48,24 +75,6 @@
       "color": "#8b1a1a"
     },
     {
-      "title": "New pact positions the Philippines as a defense hub for Australian troops",
-      "link": "https://www.defensenews.com/global/asia-pacific/2026/11/17/new-pact-positions-the-philippines-as-a-defense-hub-for-australian-troops/",
-      "pubDate": "2026-11-17T11:29:34Z",
-      "snippet": "Top officials from Australia and the Philippines have inked a defense pact to accelerate military coordination, paving the way for rotational troop deployment and Australian investments in Philippine ...",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "French troops operating in non-combat roles in Ukraine, broadcaster RFI reports",
-      "link": "https://www.defensenews.com/global/europe/2026/11/17/french-troops-operating-in-non-combat-roles-in-ukraine-broadcaster-rfi-reports/",
-      "pubDate": "2026-11-17T08:07:28Z",
-      "snippet": "The troops are part of a structure called Volia, after a Ukrainian word that can be translated as \u201cwill\u201d or \u201cfreedom,\u201d the French state-owned international news radio said on Monday.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
       "link": "https://spacenews.com/cosmo-bee-to-flight-test-honeybee-hall-thruster-with-d-orbit-in-2027/",
       "pubDate": "2026-11-17T08:00:00Z",
@@ -91,24 +100,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26",
-      "link": "https://www.defensenews.com/video/2026/11/16/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26/",
-      "pubDate": "2026-11-16T18:03:38Z",
-      "snippet": "The visceral threat of cheap drones delivering pinpoint, guided anti-personnel munitions continues to spawn new protection systems. Plus, an interview with a Medal of Honor recipient.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Europe hunts for Palantir alternatives as militaries seek to limit US dependence",
-      "link": "https://www.defensenews.com/news/2026/11/16/europe-hunts-for-palantir-alternatives-as-militaries-seek-to-limit-us-dependence/",
-      "pubDate": "2026-11-16T18:00:00Z",
-      "snippet": "Europe's defense ministries are looking to limit dependency on American technology and major software company Palantir Technologies.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "The secret to building Moon bases may be hiding in emergency blankets",
@@ -307,24 +298,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Simera Sense and Spacemanic to Collaborate on a New Complete Dual-Use Mission Solution",
-      "link": "https://spacenews.com/simera-sense-and-spacemanic-to-collaborate-on-a-new-complete-dual-use-mission-solution/",
-      "pubDate": "2026-11-03T16:59:43Z",
-      "snippet": "Czech company Spacemanic and Belgian optical leader Simera Sense are teaming up to deliver a new dual-use satellite solution that can compete with bigger and heavier satellites. Simera Sense xScape200...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "DETUMBLER: Airbus\u2019 Passive Spin Stabilization Solution",
-      "link": "https://spacenews.com/detumbler-airbus-passive-spin-stabilization-solution/",
-      "pubDate": "2026-11-03T13:30:00Z",
-      "snippet": "The tumbling crisis: why dead satellites threaten orbit Every year, hundreds of satellites reach end-of-life, most are deorbited, but some fail abruptly. Yet, even when properly decommissioned, some d...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "Large Hadron Collider reveals evidence of Big Bang matter in surprisingly small collisions",
