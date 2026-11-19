@@ -1,7 +1,97 @@
 {
-  "updated": "2026-11-18T19:09:35.282420Z",
+  "updated": "2026-11-19T19:12:49.512275Z",
   "count": 42,
   "items": [
+    {
+      "title": "Pentagon lacks \u2018overarching plan\u2019 for munitions production, watchdog warns",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/11/19/pentagon-lacks-overarching-plan-for-munitions-production-watchdog-warns/",
+      "pubDate": "2026-11-19T18:59:12Z",
+      "snippet": "\u201cDoD does not have an overarching plan that links munitions production and funding to requirements,\u201d warned the Government Accountability Office study.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "France and Sweden hold first joint nuclear-deterrence exercise",
+      "link": "https://www.defensenews.com/global/europe/2026/11/19/france-and-sweden-hold-first-joint-nuclear-deterrence-exercise/",
+      "pubDate": "2026-11-19T18:24:10Z",
+      "snippet": "The exercise didn\u2019t involve actual nuclear weapons and was not directed at any country, the defense ministries said.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "F-35C completes first launch and recovery trials on a Ford-class carrier",
+      "link": "https://www.defensenews.com/air/2026/11/19/f-35c-completes-first-launch-and-recovery-trials-on-a-ford-class-carrier/",
+      "pubDate": "2026-11-19T17:38:00Z",
+      "snippet": "Two Navy F-35C Lightning II fighters have completed the jet\u2019s first round of launch and recovery testing aboard the future USS John F. Kennedy.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "The sweet spot for constellation size",
+      "link": "https://spacenews.com/the-sweet-spot-for-constellation-size/",
+      "pubDate": "2026-11-19T17:25:17Z",
+      "snippet": "In this episode of Space Minds, SpaceNews\u2019 Mike Gruss speaks with Jan Smolders, the chief commercial officer at Space Inventor. During a conversation at Space Tech Expo Europe, they discuss [&#8230;]\n...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Making the case for optical",
+      "link": "https://spacenews.com/making-the-case-for-optical/",
+      "pubDate": "2026-11-19T15:38:18Z",
+      "snippet": "In this episode of Space Minds, SpaceNews\u2019 Mike Gruss speaks with Jean-Fran\u00e7ois Morizur, the co-founder and CEO of Cailabs, at Space Tech Expo Europe. Morizur discusses the misconceptions with laser [...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Ukraine plans to double drone supplies, triple deep strikes",
+      "link": "https://www.defensenews.com/global/europe/2026/11/19/ukraine-plans-to-double-drone-supplies-triple-deep-strikes/",
+      "pubDate": "2026-11-19T13:21:10Z",
+      "snippet": "Ukraine is forging ahead with its long-range strike campaign with support from European partners, despite Washington\u2019s request to prioritize front-line defense and associated midrange strikes instead.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "MBDA and German startup Atmos team up to study space-based strike weapons",
+      "link": "https://www.defensenews.com/global/europe/2026/11/19/mbda-and-german-startup-atmos-team-up-to-study-space-based-strike-weapons/",
+      "pubDate": "2026-11-19T10:36:23Z",
+      "snippet": "Pan-European missile maker MBDA and German startup Atmos Space Cargo are teaming up to study deploying deep-strike weapons from Earth orbit using reentry vehicles.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
+      "link": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/",
+      "pubDate": "2026-11-18T22:02:00Z",
+      "snippet": "\u2013 Collaboration to assess next-generation ultralight solar cells for space-based computing infrastructure \u2013 Partnership brings together Korean space energy technology and French orbital infrastructure...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "All Points Logistics Announces Partnership with Expeditors for Space Prep Logistics Center at Kennedy Space Center",
+      "link": "https://spacenews.com/all-points-logistics-announces-partnership-with-expeditors-for-space-prep-logistics-center-at-kennedy-space-center/",
+      "pubDate": "2026-11-18T20:31:51Z",
+      "snippet": "MERRITT ISLAND, FL, November 18, 2026 \u2014 All Points Logistics has announced a partnership with Expeditors International of Washington, Inc. (NYSE: EXPD) to serve as the exclusive logistics provider for...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Watchdog flags fraud, failed Pentagon audit as defense priorities",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/11/18/watchdog-flags-fraud-failed-pentagon-audit-as-defense-priorities/",
+      "pubDate": "2026-11-18T19:40:43Z",
+      "snippet": "Days after the Pentagon failed its ninth consecutive audit, its oversight office ranked eliminating fraud and achieving a clean financial audit among the Defense Department\u2019s most pressing strategic c...",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Origami and solar arrays",
       "link": "https://spacenews.com/origami-and-solar-arrays/",
@@ -12,42 +102,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Hanwha transforms ship into floating multi-rocket launcher",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/11/17/hanwha-transforms-ship-into-floating-multi-rocket-launcher/",
-      "pubDate": "2026-11-17T22:06:50Z",
-      "snippet": "South Korean defense giant Hanwha said it successfully launched missiles from a palletizable multi-pod launcher system at sea.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Watch a large aerial drone evacuate a wounded Ukrainian soldier from the front line",
-      "link": "https://www.defensenews.com/video/2026/11/17/watch-a-large-aerial-drone-evacuate-a-wounded-ukrainian-soldier-from-the-front-line/",
-      "pubDate": "2026-11-17T20:31:20Z",
-      "snippet": "Ukraine is expanding its use of large drones for battlefield medical evacuations. Watch as a Ukrainian team uses an aerial drone to transport a wounded soldier from a forward position to a field hospi...",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Finland\u2019s Iceye bids \u20ac2 billion for Italian rocket maker Avio",
-      "link": "https://www.defensenews.com/global/europe/2026/11/17/finlands-iceye-bids-e2-billion-for-italian-rocket-maker-avio/",
-      "pubDate": "2026-11-17T19:13:19Z",
-      "snippet": "Finnish satellite operator Iceye made a \u20ac2 billion ($2.2 billion) cash offer for Italian rocket maker Avio on Tuesday, with the goal of creating an integrated European space and defense group.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Lithuanian president\u00a0says US troop rotations will continue beyond latest deployment",
-      "link": "https://www.defensenews.com/global/europe/2026/11/17/lithuanian-president-says-us-troop-rotations-will-continue-beyond-latest-deployment/",
-      "pubDate": "2026-11-17T17:04:13Z",
-      "snippet": "Lithuanian President Gitanas Nauseda said that U.S. troop rotations in the country would continue beyond the current nine-month deployment.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "How AI is pushing satellites to evolve",
       "link": "https://spacenews.com/how-ai-is-pushing-satellites-to-evolve/",
       "pubDate": "2026-11-17T17:02:33Z",
@@ -55,24 +109,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "Trump seeks nuclear cuts at summit with Putin and Xi, but prospects are low",
-      "link": "https://www.defensenews.com/global/the-americas/2026/11/17/trump-seeks-nuclear-cuts-at-summit-with-putin-and-xi-but-prospects-are-low/",
-      "pubDate": "2026-11-17T16:10:34Z",
-      "snippet": "From the U.S. side, meanwhile, the Trump administration surprised many observers by pushing for discussions about reducing nuclear weapons while in Shenzhen.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon fails ninth straight audit despite progress in organizing finances",
-      "link": "https://www.defensenews.com/pentagon/2026/11/17/pentagon-fails-ninth-straight-audit-despite-progress-in-organizing-finances/",
-      "pubDate": "2026-11-17T14:35:23Z",
-      "snippet": "The Pentagon failed a financial audit for the ninth consecutive year, according to an inspector general report, but an official said a majority of its units passed for the first time.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Cosmo Bee to flight-test Honeybee Hall thruster with D-Orbit in 2027",
@@ -192,15 +228,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "Senate committee takes up nominees for NASA chief financial officer and inspector general",
-      "link": "https://spacenews.com/senate-committee-takes-up-nominees-for-nasa-chief-financial-officer-and-inspector-general/",
-      "pubDate": "2026-11-12T00:00:18Z",
-      "snippet": "A Senate committee is set to advance nominations for NASA\u2019s chief financial officer and inspector general.\nThe post Senate committee takes up nominees for NASA chief financial officer and inspector ge...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "Moog Marks 25 Years Since ESPA Design Milestone: Innovating Space Rideshare",
       "link": "https://spacenews.com/moog-marks-25-years-since-espa-design-milestone-innovating-space-rideshare/",
       "pubDate": "2026-11-11T15:53:57Z",
@@ -262,33 +289,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
-      "link": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
-      "pubDate": "2026-11-05T21:45:00Z",
-      "snippet": "CesiumAstro Inc., a global leader in space and defense communications systems and satellites, today announced the closing of $730 million in Series D financing, valuing the company at more than [&#823...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Cork Takes the Heat So DRACO\u2019s Data Can Survive",
-      "link": "https://spacenews.com/cork-takes-the-heat-so-dracos-data-can-survive/",
-      "pubDate": "2026-11-05T17:05:59Z",
-      "snippet": "Mozelos, Portugal, September 2, 2026 &#8211; Amorim Cork Solutions is contributing its P50 cork-based thermal protection material to DRACO, a European Space Agency (ESA) mission designed to capture ra...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Building a \u2018highway to the moon and back\u2019 with Winnie Lai",
-      "link": "https://spacenews.com/building-a-highway-to-the-moon-and-back-with-winnie-lai/",
-      "pubDate": "2026-11-05T14:15:38Z",
-      "snippet": "In this episode, SpaceNews\u2019 Mike Gruss speaks with Winnie Lai, CEO of Auriga Space. They talk about how electromagnetic launch technology that \u201ccatapults\u201d small launch vehicles could cut down on [&#82...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
     },
     {
       "title": "MIT scientists break a 20-year rule and unlock never-before-seen crystal structures",
