@@ -1,7 +1,52 @@
 {
-  "updated": "2026-11-19T19:12:49.512275Z",
-  "count": 42,
+  "updated": "2026-11-20T18:53:21.068985Z",
+  "count": 43,
   "items": [
+    {
+      "title": "German attack drones pass live-fire tests, with first deliveries planned this year",
+      "link": "https://www.defensenews.com/global/europe/2026/11/20/german-attack-drones-pass-live-fire-tests-with-first-deliveries-planned-this-year/",
+      "pubDate": "2026-11-20T16:55:38Z",
+      "snippet": "Two German one-way attack drone variants passed live-fire trials this month, clearing a step toward initial deliveries and troop training before the end of the year, Germany\u2019s military procurement off...",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm",
+      "pubDate": "2026-11-20T12:23:23Z",
+      "snippet": "Scientists at CERN have found the first evidence of an incredibly rare particle decay after more than 40 years of searching, detecting a process expected to occur just once in every 10 billion beauty ...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
+    {
+      "title": "Dutch defense-industry plan targets 40% growth, \u20ac15 billion revenue by 2030",
+      "link": "https://www.defensenews.com/global/europe/2026/11/20/dutch-defense-industry-plan-targets-40-growth-e15-billion-revenue-by-2030/",
+      "pubDate": "2026-11-20T11:56:51Z",
+      "snippet": "The nation of 18 million punches above its weight in several key defense technology areas.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "US missile shortages create a range problem, report shows",
+      "link": "https://www.defensenews.com/air/2026/11/19/us-missile-shortages-create-a-range-problem-report-shows/",
+      "pubDate": "2026-11-19T21:23:13Z",
+      "snippet": "A new CSIS report warns that the Iran war has strained US missile stockpiles, raising concerns about America's readiness for a potential conflict with China.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26",
+      "link": "https://www.defensenews.com/video/2026/11/19/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26/",
+      "pubDate": "2026-11-19T19:57:54Z",
+      "snippet": "The visceral threat of cheap drones delivering pinpoint, guided anti-personnel munitions continues to spawn new protection systems. Plus, an interview with a Medal of Honor recipient.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "Pentagon lacks \u2018overarching plan\u2019 for munitions production, watchdog warns",
       "link": "https://www.defensenews.com/industry/techwatch/2026/11/19/pentagon-lacks-overarching-plan-for-munitions-production-watchdog-warns/",
@@ -48,24 +93,6 @@
       "color": "#1a6da8"
     },
     {
-      "title": "Ukraine plans to double drone supplies, triple deep strikes",
-      "link": "https://www.defensenews.com/global/europe/2026/11/19/ukraine-plans-to-double-drone-supplies-triple-deep-strikes/",
-      "pubDate": "2026-11-19T13:21:10Z",
-      "snippet": "Ukraine is forging ahead with its long-range strike campaign with support from European partners, despite Washington\u2019s request to prioritize front-line defense and associated midrange strikes instead.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "MBDA and German startup Atmos team up to study space-based strike weapons",
-      "link": "https://www.defensenews.com/global/europe/2026/11/19/mbda-and-german-startup-atmos-team-up-to-study-space-based-strike-weapons/",
-      "pubDate": "2026-11-19T10:36:23Z",
-      "snippet": "Pan-European missile maker MBDA and German startup Atmos Space Cargo are teaming up to study deploying deep-strike weapons from Earth orbit using reentry vehicles.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
       "title": "Flexell Space and ALATYR Sign MoU to Explore Solar Power Solutions for Orbital Data Centers",
       "link": "https://spacenews.com/flexell-space-and-alatyr-sign-mou-to-explore-solar-power-solutions-for-orbital-data-centers/",
       "pubDate": "2026-11-18T22:02:00Z",
@@ -82,15 +109,6 @@
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
-    },
-    {
-      "title": "Watchdog flags fraud, failed Pentagon audit as defense priorities",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/11/18/watchdog-flags-fraud-failed-pentagon-audit-as-defense-priorities/",
-      "pubDate": "2026-11-18T19:40:43Z",
-      "snippet": "Days after the Pentagon failed its ninth consecutive audit, its oversight office ranked eliminating fraud and achieving a clean financial audit among the Defense Department\u2019s most pressing strategic c...",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "Origami and solar arrays",
@@ -367,15 +385,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261015073218.htm",
       "pubDate": "2026-10-16T12:32:52Z",
       "snippet": "Scientists investigating Nazi Germany's secret nuclear program have uncovered evidence that its final experimental reactor was nowhere near as close to working as previously claimed. Analysis of survi...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "A quantum highway just one atom high could transform superconductors",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261014072018.htm",
-      "pubDate": "2026-10-16T04:22:01Z",
-      "snippet": "Scientists discovered that atomic steps just one atom high can guide quantum vortices through superconductors, making them move more than 1,000 times more easily in one direction than another. This re...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
