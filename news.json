@@ -1,7 +1,61 @@
 {
-  "updated": "2026-11-20T18:53:21.068985Z",
-  "count": 43,
+  "updated": "2026-11-23T22:16:36.652239Z",
+  "count": 41,
   "items": [
+    {
+      "title": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
+      "link": "https://www.defensenews.com/video/2026/11/23/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26/",
+      "pubDate": "2026-11-23T20:23:07Z",
+      "snippet": "While Ukrainian innovators pioneer frontline aerial drone evacuation, DARPA develops AI-assisted robots to find and assess injured troops and civilians. The race to save lives is on.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Ukraine strikes Russian warship and cargo vessel with naval drones in Libya",
+      "link": "https://www.defensenews.com/video/2026/11/23/ukraine-strikes-russian-warship-and-cargo-vessel-with-naval-drones-in-libya/",
+      "pubDate": "2026-11-23T15:07:10Z",
+      "snippet": "Ukrainian president Volodymyr Zelenskyy said seven naval drones were used in the attack, which sank the Russian corvette Merkury.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "China\u2019s fourth aircraft carrier, bigger than others and nuclear-powered, nears completion",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/11/23/chinas-fourth-aircraft-carrier-bigger-than-others-and-nuclear-powered-nears-completion/",
+      "pubDate": "2026-11-23T14:42:50Z",
+      "snippet": "China\u2019s fourth aircraft carrier, a gigantic vessel known so far as just Type 004, will come out as early as next year bigger than its predecessors and with nuclear power that can launch planes faster ...",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Acting Navy Secretary Hung Cao heads to the Hill and the Pentagon fails an audit | Headlines",
+      "link": "https://www.defensenews.com/video/2026/11/23/acting-navy-secretary-hung-cao-heads-to-the-hill-and-the-pentagon-fails-an-audit-headlines/",
+      "pubDate": "2026-11-23T14:14:00Z",
+      "snippet": "The acting secretary of the Navy faced tough questions from Senators during his confirmation hearing, while the Pentagon must target fraud following an internal report.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "DARPA tests drones to find and assess injured victims at the Triage Challenge",
+      "link": "https://www.defensenews.com/video/2026/11/23/darpa-tests-drones-to-find-and-assess-injured-victims-at-the-triage-challenge/",
+      "pubDate": "2026-11-23T14:13:00Z",
+      "snippet": "In the wake of a mass casualty event, DARPA hopes to send in drones to find, assess and start coordinating care for victims. Who won this year\u2019s Triage Challenge?",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Interstellar solar sails hit a bizarre problem at 75% of light speed",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261120071305.htm",
+      "pubDate": "2026-11-22T11:59:29Z",
+      "snippet": "Scientists have discovered a surprising obstacle to interstellar travel: at extreme speeds, the light propelling futuristic solar sails could actually begin slowing them down. Once a spacecraft reache...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
     {
       "title": "German attack drones pass live-fire tests, with first deliveries planned this year",
       "link": "https://www.defensenews.com/global/europe/2026/11/20/german-attack-drones-pass-live-fire-tests-with-first-deliveries-planned-this-year/",
@@ -19,60 +73,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "Dutch defense-industry plan targets 40% growth, \u20ac15 billion revenue by 2030",
-      "link": "https://www.defensenews.com/global/europe/2026/11/20/dutch-defense-industry-plan-targets-40-growth-e15-billion-revenue-by-2030/",
-      "pubDate": "2026-11-20T11:56:51Z",
-      "snippet": "The nation of 18 million punches above its weight in several key defense technology areas.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "US missile shortages create a range problem, report shows",
-      "link": "https://www.defensenews.com/air/2026/11/19/us-missile-shortages-create-a-range-problem-report-shows/",
-      "pubDate": "2026-11-19T21:23:13Z",
-      "snippet": "A new CSIS report warns that the Iran war has strained US missile stockpiles, raising concerns about America's readiness for a potential conflict with China.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "New tools for troops to gun down drones | Defense News Weekly Full Episode 11.17.26",
-      "link": "https://www.defensenews.com/video/2026/11/19/new-tools-for-troops-to-gun-down-drones-defense-news-weekly-full-episode-11-17-26/",
-      "pubDate": "2026-11-19T19:57:54Z",
-      "snippet": "The visceral threat of cheap drones delivering pinpoint, guided anti-personnel munitions continues to spawn new protection systems. Plus, an interview with a Medal of Honor recipient.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Pentagon lacks \u2018overarching plan\u2019 for munitions production, watchdog warns",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/11/19/pentagon-lacks-overarching-plan-for-munitions-production-watchdog-warns/",
-      "pubDate": "2026-11-19T18:59:12Z",
-      "snippet": "\u201cDoD does not have an overarching plan that links munitions production and funding to requirements,\u201d warned the Government Accountability Office study.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "France and Sweden hold first joint nuclear-deterrence exercise",
-      "link": "https://www.defensenews.com/global/europe/2026/11/19/france-and-sweden-hold-first-joint-nuclear-deterrence-exercise/",
-      "pubDate": "2026-11-19T18:24:10Z",
-      "snippet": "The exercise didn\u2019t involve actual nuclear weapons and was not directed at any country, the defense ministries said.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "F-35C completes first launch and recovery trials on a Ford-class carrier",
-      "link": "https://www.defensenews.com/air/2026/11/19/f-35c-completes-first-launch-and-recovery-trials-on-a-ford-class-carrier/",
-      "pubDate": "2026-11-19T17:38:00Z",
-      "snippet": "Two Navy F-35C Lightning II fighters have completed the jet\u2019s first round of launch and recovery testing aboard the future USS John F. Kennedy.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "The sweet spot for constellation size",
@@ -291,15 +291,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "CCIA Report Highlights Satellite Connectivity\u2019s Potential to Expand Internet Access and Drive Economic Growth",
-      "link": "https://spacenews.com/ccia-report-highlights-satellite-connectivitys-potential-to-expand-internet-access-and-drive-economic-growth/",
-      "pubDate": "2026-11-09T14:00:00Z",
-      "snippet": "Washington \u2014 The Computer &#38; Communications Industry Association today released Connecting the World: Unlocking the Potential of Satellite Connectivity, a new report examining how satellite technol...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "A hidden limit of space and time could unlock electronics 100,000 times faster",
       "link": "https://www.sciencedaily.com/releases/2026/11/261106174537.htm",
       "pubDate": "2026-11-07T23:34:19Z",
@@ -376,15 +367,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm",
       "pubDate": "2026-10-20T03:02:41Z",
       "snippet": "Scientists have achieved a quantum breakthrough by creating an ultra-clean surface where individual molecules can maintain their delicate quantum properties at the fundamental limit. The discovery cou...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "The uranium cubes that exposed Nazi Germany\u2019s nuclear failure",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261015073218.htm",
-      "pubDate": "2026-10-16T12:32:52Z",
-      "snippet": "Scientists investigating Nazi Germany's secret nuclear program have uncovered evidence that its final experimental reactor was nowhere near as close to working as previously claimed. Analysis of survi...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
