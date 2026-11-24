@@ -1,7 +1,52 @@
 {
-  "updated": "2026-11-23T22:16:36.652239Z",
-  "count": 41,
+  "updated": "2026-11-24T20:54:33.808514Z",
+  "count": 43,
   "items": [
+    {
+      "title": "Coast Guard tests capabilities of new icebreaker with 5-month Arctic mission",
+      "link": "https://www.defensenews.com/video/2026/11/24/coast-guard-tests-capabilities-of-new-icebreaker-with-5-month-arctic-mission/",
+      "pubDate": "2026-11-24T19:57:33Z",
+      "snippet": "U.S. Coast Guard Cutter Storis, the first new American icebreaker in decades, returned from its maiden voyage recently with a list of lessons learned for future missions.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "\u2018A new competition space\u2019: US Coast Guard takes icebreaker on maiden voyage to the Arctic",
+      "link": "https://www.defensenews.com/naval/2026/11/24/a-new-competition-space-us-coast-guard-takes-icebreaker-on-maiden-voyage-to-the-arctic/",
+      "pubDate": "2026-11-24T18:44:16Z",
+      "snippet": "Having a more capable icebreaking ship represents a mission paradigm shift for the U.S. Coast Guard, said the captain of the new cutter.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "From horsepower to firepower, Japan draws auto suppliers into major arms buildup",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/11/24/from-horsepower-to-firepower-japan-draws-auto-suppliers-into-major-arms-buildup/",
+      "pubDate": "2026-11-24T16:08:01Z",
+      "snippet": "\"Drones are a much better business,\u201d chief executive Takenobu Hongo said of Aster\u2019s embrace of defense contracting, which has long been viewed warily by citizens of a country shaped by decades of paci...",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Simera Sense, Spacemanic, Zaitra and World from Space Join Forces on an End-to-End Dual-Use Mission Solution",
+      "link": "https://spacenews.com/simera-sense-spacemanic-zaitra-and-world-from-space-join-forces-on-an-end-to-end-dual-use-mission-solution/",
+      "pubDate": "2026-11-24T15:17:50Z",
+      "snippet": "Bremen, 18 November 2026 \u2013 Simera Sense, Spacemanic, Zaitra and World from Space have signed a Memorandum of Understanding in Bremen to cooperate on a complete mission solution built around [&#8230;]\n...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Russia may launch nuke-laden satellite by year\u2019s end, German report warns",
+      "link": "https://www.defensenews.com/global/europe/2026/11/24/russia-may-launch-nuke-laden-satellite-by-years-end-german-report-warns/",
+      "pubDate": "2026-11-24T12:50:13Z",
+      "snippet": "Russia may place a satellite loaded with a nuclear weapon into orbit by the end of the year, German public media reported, citing intelligence sources.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
     {
       "title": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
       "link": "https://www.defensenews.com/video/2026/11/23/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26/",
@@ -55,15 +100,6 @@
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
-    },
-    {
-      "title": "German attack drones pass live-fire tests, with first deliveries planned this year",
-      "link": "https://www.defensenews.com/global/europe/2026/11/20/german-attack-drones-pass-live-fire-tests-with-first-deliveries-planned-this-year/",
-      "pubDate": "2026-11-20T16:55:38Z",
-      "snippet": "Two German one-way attack drone variants passed live-fire trials this month, clearing a step toward initial deliveries and troop training before the end of the year, Germany\u2019s military procurement off...",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
     },
     {
       "title": "CERN scientists finally find evidence of a particle decay so rare it took 40 years to detect",
@@ -259,24 +295,6 @@
       "link": "https://spacenews.com/horizon-microtechnologies-targets-constellation-scale-production-as-esa-phi-lab-selection-strengthens-industrialisation-push/",
       "pubDate": "2026-11-11T13:00:00Z",
       "snippet": "(Karlsruhe, Germany, September 29th 2026) Horizon Microtechnologies is accelerating industrialisation of its metallised polymer micro-additive manufacturing platform through IP-MASS, a two-year scale-...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "Kratos and Seagate Space Partner to Advance Mobile Offshore Launch Capabilities for National Security Missions",
-      "link": "https://spacenews.com/kratos-and-seagate-space-partner-to-advance-mobile-offshore-launch-capabilities-for-national-security-missions/",
-      "pubDate": "2026-11-10T14:00:00Z",
-      "snippet": "SAN DIEGO, CA, November 10, 2026 &#8211; Kratos Defense &#38; Security Solutions, Inc., a technology company in defense, national security, and global markets, today announced a long-term agreement wi...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "ESCAPADE on its way to Mars after Earth flybys",
-      "link": "https://spacenews.com/escapade-on-its-way-to-mars-after-earth-flybys/",
-      "pubDate": "2026-11-10T08:01:39Z",
-      "snippet": "Two NASA smallsats are headed toward Mars after completing flybys of Earth nearly a year after their launch.\nThe post ESCAPADE on its way to Mars after Earth flybys appeared first on SpaceNews.",
       "source": "SpaceNews",
       "category": "aerospace",
       "color": "#1a6da8"
