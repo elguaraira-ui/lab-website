@@ -1,7 +1,52 @@
 {
-  "updated": "2026-11-26T19:53:52.177910Z",
-  "count": 40,
+  "updated": "2026-11-27T19:42:47.718341Z",
+  "count": 38,
   "items": [
+    {
+      "title": "Governments Invest $71.8B in Space Defense as Militarization of Space Accelerates",
+      "link": "https://spacenews.com/governments-invest-71-8b-in-space-defense-as-militarization-of-space-accelerates/",
+      "pubDate": "2026-11-27T15:35:22Z",
+      "snippet": "Paris, France &#124; November 2026 \u2014 Novaspace\u2019s Space Defense &#38; Security, 2nd Edition finds that governments invested approximately $71.8 billion in space defense and security activities globally...",
+      "source": "SpaceNews",
+      "category": "aerospace",
+      "color": "#1a6da8"
+    },
+    {
+      "title": "Hackers breach US Air Force flagship Cloud One computing platform",
+      "link": "https://www.defensenews.com/pentagon/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform/",
+      "pubDate": "2026-11-27T14:23:36Z",
+      "snippet": "Hackers have reportedly breached the service's flagship cloud computing platform, in a development that could jeopardize a vast swathe of tactical, personnel and logistics data.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "A race for lifesaving battlefield drones | Defense News Weekly Full Episode 11.24.26",
+      "link": "https://www.defensenews.com/video/2026/11/27/a-race-for-lifesaving-battlefield-drones-defense-news-weekly-full-episode-11-24-26/",
+      "pubDate": "2026-11-27T14:00:00Z",
+      "snippet": "While Ukrainian innovators pioneer frontline aerial drone evacuation, DARPA develops AI-assisted robots to find and assess injured troops and civilians. The race to save lives is on.",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "France kicks off defense-industry pact to build up counter-drone efforts",
+      "link": "https://www.defensenews.com/global/europe/2026/11/27/france-kicks-off-defense-industry-pact-to-build-up-counter-drone-efforts/",
+      "pubDate": "2026-11-27T11:12:42Z",
+      "snippet": "The wars in Ukraine and the Middle East have been a \u201cquite brutal reality check,\u201d and French forces have an urgent need for counter-drone capabilities, said Alice Rufo, France\u2019s junior minister for th...",
+      "source": "Defense News",
+      "category": "defense",
+      "color": "#8b1a1a"
+    },
+    {
+      "title": "Harvard\u2019s tiny UV light chip could help shrink quantum computers",
+      "link": "https://www.sciencedaily.com/releases/2026/11/261126063333.htm",
+      "pubDate": "2026-11-27T03:22:20Z",
+      "snippet": "Harvard-led researchers have developed a microscopic device that generates 120 times more ultraviolet light than previous comparable approaches by efficiently converting red light into UV. The breakth...",
+      "source": "ScienceDaily",
+      "category": "engineering",
+      "color": "#2a9d8f"
+    },
     {
       "title": "The \u2018bare-knuckled\u2019 future of life in space with Tim Marshall",
       "link": "https://spacenews.com/the-bare-knuckled-future-of-life-in-space-with-tim-marshall/",
@@ -34,42 +79,6 @@
       "link": "https://www.defensenews.com/global/europe/2026/11/25/buried-in-italys-budget-officials-see-rome-meeting-nato-spending-target/",
       "pubDate": "2026-11-25T10:22:51Z",
       "snippet": "The numbers cannot be found in this year\u2019s Italian defense budget, but the country has achieved a promised spending total on defense and domestic security equal to 2.8% of GDP in 2026, officials have ...",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Czech jet engine maker eyes growing role as US supplier in drones, missiles",
-      "link": "https://www.defensenews.com/global/europe/2026/11/25/czech-jet-engine-maker-eyes-growing-role-as-us-supplier-in-drones-missiles/",
-      "pubDate": "2026-11-25T09:33:18Z",
-      "snippet": "Czech jet engine producer PBS Aerospace aims to expand its manufacturing capacity in the United States, targeting at least a twofold increase in its production capacity there.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Ford in talks with the Pentagon to supply military vehicles",
-      "link": "https://www.defensenews.com/pentagon/2026/11/24/ford-in-talks-with-the-pentagon-to-supply-military-vehicles/",
-      "pubDate": "2026-11-24T21:30:00Z",
-      "snippet": "Ford said on Tuesday it has held talks with the Pentagon about supplying military vehicles and other defense products to the U.S. military.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "Coast Guard tests capabilities of new icebreaker with 5-month Arctic mission",
-      "link": "https://www.defensenews.com/video/2026/11/24/coast-guard-tests-capabilities-of-new-icebreaker-with-5-month-arctic-mission/",
-      "pubDate": "2026-11-24T19:57:33Z",
-      "snippet": "U.S. Coast Guard Cutter Storis, the first new American icebreaker in decades, returned from its maiden voyage recently with a list of lessons learned for future missions.",
-      "source": "Defense News",
-      "category": "defense",
-      "color": "#8b1a1a"
-    },
-    {
-      "title": "\u2018A new competition space\u2019: US Coast Guard takes icebreaker on maiden voyage to the Arctic",
-      "link": "https://www.defensenews.com/naval/2026/11/24/a-new-competition-space-us-coast-guard-takes-icebreaker-on-maiden-voyage-to-the-arctic/",
-      "pubDate": "2026-11-24T18:44:16Z",
-      "snippet": "Having a more capable icebreaking ship represents a mission paradigm shift for the U.S. Coast Guard, said the captain of the new cutter.",
       "source": "Defense News",
       "category": "defense",
       "color": "#8b1a1a"
@@ -246,24 +255,6 @@
       "color": "#2a9d8f"
     },
     {
-      "title": "UARX Space Marks a Milestone for Spain\u2019s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
-      "link": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
-      "pubDate": "2026-11-12T20:00:00Z",
-      "snippet": "Nigr\u00e1n, Spain &#124; November 12 2026 \u2013 UARX Space has achieved a major milestone for Spain\u2019s space industry with the deployment of OSSIE-D, an Orbital Transfer Vehicle (OTV) designed and [&#8230;]\nTh...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
-      "title": "What role does industry play in Europe\u2019s space sovereignty push?",
-      "link": "https://spacenews.com/what-role-does-industry-play-in-europes-space-sovereignty-push/",
-      "pubDate": "2026-11-12T19:40:35Z",
-      "snippet": "In this episode, SpaceNews\u2019 Jason Rainbow interviews Atle Woello, the CEO and senior vice president of the space systems and surveillance business unit at Kongsberg NanoAvionics. They discuss the role...",
-      "source": "SpaceNews",
-      "category": "aerospace",
-      "color": "#1a6da8"
-    },
-    {
       "title": "A massive new simulation reveals how the universe emerged from darkness",
       "link": "https://www.sciencedaily.com/releases/2026/11/261110042534.htm",
       "pubDate": "2026-11-12T04:07:24Z",
@@ -349,15 +340,6 @@
       "link": "https://www.sciencedaily.com/releases/2026/10/261021231230.htm",
       "pubDate": "2026-10-22T11:30:49Z",
       "snippet": "Researchers have developed a revolutionary microscope that uses an incredibly powerful laser to make previously invisible cellular structures easier to see. The technology dramatically improves image ...",
-      "source": "ScienceDaily",
-      "category": "engineering",
-      "color": "#2a9d8f"
-    },
-    {
-      "title": "Scientists reach the ultimate quantum limit on a surface",
-      "link": "https://www.sciencedaily.com/releases/2026/10/261018205053.htm",
-      "pubDate": "2026-10-20T03:02:41Z",
-      "snippet": "Scientists have achieved a quantum breakthrough by creating an ultra-clean surface where individual molecules can maintain their delicate quantum properties at the fundamental limit. The discovery cou...",
       "source": "ScienceDaily",
       "category": "engineering",
       "color": "#2a9d8f"
